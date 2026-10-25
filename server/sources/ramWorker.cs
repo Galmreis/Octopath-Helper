@@ -121,18 +121,27 @@ public class RamPoller {
         lock (battleLock) { battleActors = found; }
     }
 
+    static string liveEnemiesJson = "[]";
+
     // OR live battle reveal bits into the EnemyInfoData snapshot (reveals are monotonic).
     static void MergeBattleActors(IntPtr hProc, byte[] enemyBuf) {
         List<long> actors;
         lock (battleLock) { actors = battleActors; }
-        if (actors.Count == 0) return;
+        if (actors.Count == 0) {
+            liveEnemiesJson = "[]";
+            return;
+        }
         IntPtr read;
         int aliveCount = 0;
+        List<int> currentIds = new List<int>();
         foreach (long a in actors) {
             if (!ReadProcessMemory(hProc, new IntPtr(a - ACT_PRE), actorBuf, actorBuf.Length, out read) || (int)read < actorBuf.Length) continue;
             if (!IsActorAt(actorBuf, ACT_PRE)) continue;
             aliveCount++;
             int enemyId = BitConverter.ToInt32(actorBuf, 0);
+            if (!currentIds.Contains(enemyId)) {
+                currentIds.Add(enemyId);
+            }
             int off = enemyId * 8;
             if (off + 6 > enemyBuf.Length) continue;
             enemyBuf[off + 4] |= actorBuf[ACT_PRE + 1684];
@@ -140,6 +149,15 @@ public class RamPoller {
         }
         if (aliveCount == 0) {
             lock (battleLock) { battleActors.Clear(); }
+            liveEnemiesJson = "[]";
+        } else {
+            StringBuilder sb = new StringBuilder("[");
+            for (int k = 0; k < currentIds.Count; k++) {
+                if (k > 0) sb.Append(",");
+                sb.Append(currentIds[k]);
+            }
+            sb.Append("]");
+            liveEnemiesJson = sb.ToString();
         }
     }
 
@@ -272,6 +290,7 @@ public class RamPoller {
         IntPtr read;
         int lastBattle = -1;
         long lastQuickBattleMs = 0;
+        long lastBattleScanMs = 0;
         TriggerBattleScan(hProc); // initial check in case launched mid-battle
 
         while (true) {
@@ -357,9 +376,14 @@ public class RamPoller {
             ReadProcessMemory(hProc, new IntPtr(enemyDataPtr), enemyBuf, enemyBuf.Length, out read);
             if (curBattle != lastBattle) {
                 lastBattle = curBattle;
+                lock (battleLock) { battleActors.Clear(); }
+                liveEnemiesJson = "[]";
+            }
+            if (sw.ElapsedMilliseconds - lastBattleScanMs > 2000) {
+                lastBattleScanMs = sw.ElapsedMilliseconds;
                 TriggerBattleScan(hProc);
             }
-            if (battleActors.Count > 0 && sw.ElapsedMilliseconds - lastQuickBattleMs > 1000) {
+            if (battleActors.Count > 0 && sw.ElapsedMilliseconds - lastQuickBattleMs > 500) {
                 lastQuickBattleMs = sw.ElapsedMilliseconds;
                 QuickBattleScan(hProc);
             }
@@ -429,18 +453,22 @@ public class RamPoller {
             for (int k = 0; k < cachedZonesJson.Length; k += 8) {
                 hash = (hash ^ (ulong)cachedZonesJson[k]) * 1099511628211UL;
             }
+            for (int k = 0; k < liveEnemiesJson.Length; k++) {
+                hash = (hash ^ (ulong)liveEnemiesJson[k]) * 1099511628211UL;
+            }
 
             if (hash != lastChecksum) {
                 lastChecksum = hash;
                 string json = string.Format(
-                    "{{\"type\":\"RAM_SNAPSHOT\",\"levelId\":{0},\"battleCount\":{1},\"escapeCount\":{2},\"totalLeaf\":{3},\"treasureCount\":{4},\"hiddenPointCount\":{5},\"playTime\":{6},\"partyB64\":\"{7}\",\"enemyB64\":\"{8}\",\"visitedB64\":\"{9}\",\"itemFlagB64\":\"{10}\",\"missionB64\":\"{11}\",\"zones\":{{{12}}}}}",
+                    "{{\"type\":\"RAM_SNAPSHOT\",\"levelId\":{0},\"battleCount\":{1},\"escapeCount\":{2},\"totalLeaf\":{3},\"treasureCount\":{4},\"hiddenPointCount\":{5},\"playTime\":{6},\"partyB64\":\"{7}\",\"enemyB64\":\"{8}\",\"visitedB64\":\"{9}\",\"itemFlagB64\":\"{10}\",\"missionB64\":\"{11}\",\"zones\":{{{12}}},\"battleEnemies\":{13}}}",
                     levelId, curBattle, curEscape, curLeaf, curTreasure, curHidden, curPlayTime,
                     Convert.ToBase64String(partyBuf),
                     Convert.ToBase64String(enemyBuf),
                     Convert.ToBase64String(visitedBuf),
                     Convert.ToBase64String(itemFlagBuf),
                     Convert.ToBase64String(missionBuf),
-                    cachedZonesJson
+                    cachedZonesJson,
+                    liveEnemiesJson
                 );
                 Console.WriteLine(json);
                 Console.Out.Flush();
