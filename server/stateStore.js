@@ -37,10 +37,15 @@ class StateStore {
       ];
     }
 
-    // Detect if the user loaded a different save slot (PlayTime jumped by >120s or went backwards)
+    // Detect if the user loaded a different save slot (PlayTime went backwards, BattleCount decreased, or RAM address changed with >120s jump)
     const prevPlay = prev.stats?.playTimeSeconds || 0;
     const nextPlay = next.stats?.playTimeSeconds || 0;
-    if (Math.abs(nextPlay - prevPlay) > 120 || next.stats?.battleCount < prev.stats?.battleCount) {
+    const addressChanged = Boolean(prev.ramAddress && next.ramAddress && prev.ramAddress !== next.ramAddress);
+    if (
+      nextPlay < prevPlay - 5 ||
+      next.stats?.battleCount < prev.stats?.battleCount ||
+      (addressChanged && Math.abs(nextPlay - prevPlay) > 120)
+    ) {
       return [
         {
           id: `${Date.now()}-slot-switch`,
