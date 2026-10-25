@@ -38,14 +38,17 @@ function listAvailableSaveSlots() {
       if (entry.isDirectory() && /^\d+$/.test(entry.name)) {
         const saveDir = path.join(octopathDocs, entry.name, 'SaveGames');
         if (fs.existsSync(saveDir)) {
-          const files = fs.readdirSync(saveDir).filter(f => /^SaveData\d+\.sav$/i.test(f));
+          const files = fs.readdirSync(saveDir).filter(f => /^SaveData(\d+|Auto)\.sav$/i.test(f));
           files.sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
           for (const fileName of files) {
             const fullPath = path.join(saveDir, fileName);
             const stat = fs.statSync(fullPath);
-            const slotNum = Number((fileName.match(/\d+/) || [0])[0]);
-            const label =
-              slotNum === 0 ? 'Slot 0 — Autosave (SaveData0.sav)' : `Slot ${slotNum} — Manual (${fileName})`;
+            const numMatch = fileName.match(/\d+/);
+            const slotNum = numMatch ? Number(numMatch[0]) : 0;
+            const isAuto = /auto/i.test(fileName) || slotNum === 0;
+            const label = isAuto
+              ? `Slot ${slotNum} — Autosave (${fileName})`
+              : `Slot ${slotNum} — Manual (${fileName})`;
             slots.push({
               slotNum,
               fileName,

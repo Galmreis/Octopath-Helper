@@ -206,12 +206,30 @@ function parseSaveBuffer(buf) {
     }
   }
 
+  // Mutually exclusive mask group (Primrose Ch 2): items 325, 326, 327.
+  // Exactly 1 of the 3 can be obtained in a single playthrough.
+  const EXCLUSIVE_GROUP_MASKS = [325, 326, 327];
+  const hasExclusiveMask = EXCLUSIVE_GROUP_MASKS.some(id => itemsObtainedSet.has(id));
+
   let collectorObtainedCount = 0;
   let collectorTotalCount = 0;
   for (const [idStr, itemInfo] of Object.entries(itemsDb)) {
     if (!itemInfo.isCollectorRequired) continue;
+    const id = Number(idStr);
+
+    // Group the 3 masks into a single required achievement slot
+    if (EXCLUSIVE_GROUP_MASKS.includes(id)) {
+      if (id === EXCLUSIVE_GROUP_MASKS[0]) {
+        collectorTotalCount += 1;
+        if (hasExclusiveMask) {
+          collectorObtainedCount += 1;
+        }
+      }
+      continue;
+    }
+
     collectorTotalCount++;
-    if (itemsObtainedSet.has(Number(idStr))) {
+    if (itemsObtainedSet.has(id)) {
       collectorObtainedCount++;
     }
   }

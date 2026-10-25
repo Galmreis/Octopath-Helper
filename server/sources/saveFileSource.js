@@ -46,7 +46,7 @@ class SaveFileSource {
 
     const handleFileEvent = changedPath => {
       const base = path.basename(changedPath);
-      if (/^SaveData\d+\.sav$/i.test(base)) {
+      if (/^SaveData(\d+|Auto)\.sav$/i.test(base)) {
         this.readAndEmit('autosave', changedPath);
       }
     };

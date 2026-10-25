@@ -522,6 +522,14 @@ for (const z of Object.values(zones)) {
   z.quests = matchingQuestIds;
 }
 
+// Starting town paths where Kit waits for the player after completing traveler Chapter 1
+const STARTING_GATE_ZONE_IDS = [20, 36, 58, 79, 98, 116, 141, 160];
+for (const gid of STARTING_GATE_ZONE_IDS) {
+  if (zones[gid] && !zones[gid].quests.includes(1)) {
+    zones[gid].quests.push(1);
+  }
+}
+
 fs.writeFileSync(path.join(DATA_DIR, 'monsters.json'), JSON.stringify(monsters, null, 2));
 fs.writeFileSync(path.join(DATA_DIR, 'zones.json'), JSON.stringify(zones, null, 2));
 fs.writeFileSync(path.join(DATA_DIR, 'items.json'), JSON.stringify(items, null, 2));

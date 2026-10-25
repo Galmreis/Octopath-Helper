@@ -50,6 +50,30 @@ export default function App() {
     }
   }, [followPlayerZone, saveState?.currentZoneId]);
 
+  // Global hotkeys for seamless dual-screen control
+  useEffect(() => {
+    function handleKeyDown(e) {
+      const activeTag = document.activeElement?.tagName;
+      if (e.key === 'Escape') {
+        if (activeTag === 'INPUT' || activeTag === 'SELECT' || activeTag === 'TEXTAREA') {
+          document.activeElement.blur();
+        }
+        return;
+      }
+      if (activeTag === 'INPUT' || activeTag === 'SELECT' || activeTag === 'TEXTAREA') {
+        return;
+      }
+      if (e.key === '1') setActiveTab('radar');
+      else if (e.key === '2') setActiveTab('monsters');
+      else if (e.key === '3') setActiveTab('zones');
+      else if (e.key === '4') setActiveTab('collector');
+      else if (e.key === '5') setActiveTab('quests');
+      else if (e.key === 'f' || e.key === 'F') setFollowPlayerZone(prev => !prev);
+    }
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, []);
+
   if (!staticDb || !saveState) {
     return (
       <div className="app-shell">
@@ -96,10 +120,16 @@ export default function App() {
     return true;
   });
 
+  // Mutually exclusive mask group (Primrose Ch 2): items 325, 326, 327.
+  const EXCLUSIVE_GROUP_MASKS = [325, 326, 327];
+  const hasExclusiveMask = EXCLUSIVE_GROUP_MASKS.some(id => obtainedSet.has(id));
+
   const collectorItems = Object.values(staticDb.items).filter(item => {
     if (!item.isCollectorRequired) return false;
     const isGot = obtainedSet.has(item.id);
-    if (hideObtainedItems && isGot) return false;
+    const isMask = EXCLUSIVE_GROUP_MASKS.includes(item.id);
+    const isSatisfied = isGot || (isMask && hasExclusiveMask);
+    if (hideObtainedItems && isSatisfied) return false;
     if (itemSearch) {
       const q = itemSearch.toLowerCase();
       if (
@@ -264,30 +294,35 @@ export default function App() {
               onClick={() => setActiveTab('radar')}
             >
               1. Current Zone Radar (#{activeZoneId})
+              <span className="kbd-hint">1</span>
             </button>
             <button
               className={`tab-btn ${activeTab === 'monsters' ? 'active' : ''}`}
               onClick={() => setActiveTab('monsters')}
             >
               2. Strategist Monsters ({stats.strategist.current}/{stats.strategist.total})
+              <span className="kbd-hint">2</span>
             </button>
             <button
               className={`tab-btn ${activeTab === 'zones' ? 'active' : ''}`}
               onClick={() => setActiveTab('zones')}
             >
               3. Zones, Chests & Hidden ({stats.treasureHunter.current}/734)
+              <span className="kbd-hint">3</span>
             </button>
             <button
               className={`tab-btn ${activeTab === 'collector' ? 'active' : ''}`}
               onClick={() => setActiveTab('collector')}
             >
               4. Collector Items ({stats.collector.current}/{stats.collector.total})
+              <span className="kbd-hint">4</span>
             </button>
             <button
               className={`tab-btn ${activeTab === 'quests' ? 'active' : ''}`}
               onClick={() => setActiveTab('quests')}
             >
               5. Side Stories ({stats.worthYourSalt.completed}/{stats.worthYourSalt.total})
+              <span className="kbd-hint">5</span>
             </button>
           </div>
 
@@ -302,6 +337,7 @@ export default function App() {
                     onChange={e => setFollowPlayerZone(e.target.checked)}
                   />
                   Auto-follow player location (#{saveState.currentZoneId} {saveState.currentZoneName})
+                  <span className="kbd-hint">F</span>
                 </label>
 
                 <select
@@ -735,17 +771,26 @@ export default function App() {
               <div className="card-grid">
                 {collectorItems.map(item => {
                   const isGot = obtainedSet.has(item.id);
+                  const isMask = EXCLUSIVE_GROUP_MASKS.includes(item.id);
+                  const isAltSatisfied = !isGot && isMask && hasExclusiveMask;
+                  const isCardDone = isGot || isAltSatisfied;
                   return (
-                    <div key={item.id} className={`item-card ${isGot ? 'complete' : ''}`}>
+                    <div key={item.id} className={`item-card ${isCardDone ? 'complete' : ''}`}>
                       <div style={{ display: 'flex', justifyContent: 'space-between' }}>
                         <strong>{item.name}</strong>
                         <span className="badge id">Item #{item.id}</span>
                       </div>
-                      <div style={{ display: 'flex', gap: 6, alignItems: 'center' }}>
+                      <div style={{ display: 'flex', gap: 6, alignItems: 'center', flexWrap: 'wrap' }}>
                         <span className="badge id">{item.category}</span>
-                        <span className={`badge ${isGot ? 'done' : 'pending'}`}>
-                          {isGot ? '✓ OBTAINED' : '○ MISSING'}
-                        </span>
+                        {isGot ? (
+                          <span className="badge done">✓ OBTAINED</span>
+                        ) : isAltSatisfied ? (
+                          <span className="badge alternative">✓ CHOICE SATISFIED (Other Mask Chosen in Ch 2)</span>
+                        ) : (
+                          <span className="badge pending">
+                            {isMask ? '○ MISSING (1 of 3 required)' : '○ MISSING'}
+                          </span>
+                        )}
                       </div>
                     </div>
                   );
