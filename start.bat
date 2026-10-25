@@ -3,7 +3,7 @@ setlocal
 title Octopath Helper — Live Telemetry Tracker
 
 echo ========================================================
-echo   OCTOPATH HELPER — LIVE TELEMETRY & 100%% TRACKER (v0.1)
+echo   OCTOPATH HELPER - LIVE TELEMETRY (v0.1)
 echo ========================================================
 echo.
 
@@ -17,10 +17,10 @@ if %ERRORLEVEL% neq 0 (
     exit /b 1
 )
 
-:: 2. Check for root node_modules
-if not exist "node_modules\" (
+:: 2. Check for server dependencies
+if not exist "server\node_modules\" (
     echo [Setup] First-time launch: installing backend dependencies...
-    call npm install
+    call npm --prefix server install
 )
 
 :: 3. Check for compiled frontend distribution
@@ -41,4 +41,8 @@ start "" http://localhost:3001
 :: Start the unified server
 node server/index.js
 
-pause
+if %ERRORLEVEL% neq 0 (
+    echo.
+    echo [ERROR] Server exited with error code %ERRORLEVEL%.
+    pause
+)
