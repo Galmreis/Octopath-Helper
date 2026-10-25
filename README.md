@@ -98,8 +98,8 @@ Designed for zero-mouse operation while holding a controller:
 
 ## Development & Credits
 
-* **Architecture & Product Direction:** Reis
-* **Implementation:** Developed using an AI-augmented engineering workflow with Google Antigravity (DeepMind).
+* **Architecture & Product Direction:** Galmreis
+* **Implementation:** Developed using an AI-augmented engineering and general performance supervision.
 
 ---
 
