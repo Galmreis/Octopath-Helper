@@ -60,7 +60,10 @@ export function useSaveData() {
                 if (ev.zoneId !== undefined) flashes[`zone-${ev.zoneId}`] = Date.now();
                 if (ev.itemId !== undefined) flashes[`item-${ev.itemId}`] = Date.now();
               }
-              setLastFlashIds(flashes);
+              if (Object.keys(flashes).length > 0) {
+                setLastFlashIds(flashes);
+                setTimeout(() => setLastFlashIds({}), 2200);
+              }
             }
           }
         } catch (err) {

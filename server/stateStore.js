@@ -219,7 +219,7 @@ class StateStore {
     }
 
     // 7. Heartbeat if file saved with no tracked achievement diffs (e.g. saved at journal in same room)
-    if (events.length === 0) {
+    if (events.length === 0 && sourceType !== 'live-ram') {
       events.push({
         id: `${Date.now()}-save`,
         timestamp: ts,

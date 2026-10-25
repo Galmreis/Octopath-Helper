@@ -219,6 +219,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 6px;
+  transition: border-color 0.25s ease, box-shadow 0.25s ease, opacity 0.25s ease;
 }
 
 .item-card.complete {
@@ -281,6 +282,7 @@ body {
   border: 1px solid var(--border);
   font-weight: 600;
   text-transform: capitalize;
+  transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease;
 }
 
 .weak-chip.revealed {

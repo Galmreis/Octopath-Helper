@@ -115,6 +115,10 @@ public class RamPoller {
         lock (battleLock) { battleActors = found; }
     }
 
+    static int[] wByEnemy = new int[901];
+    static int[] mByEnemy = new int[901];
+    static List<int> uniqueBattleIds = new List<int>();
+
     static void CheckBattleActors(IntPtr hProc) {
         List<long> actors;
         lock (battleLock) { actors = battleActors; }
@@ -124,24 +128,35 @@ public class RamPoller {
         }
         IntPtr read;
         int aliveCount = 0;
-        StringBuilder sb = new StringBuilder("[");
-        int count = 0;
+        Array.Clear(wByEnemy, 0, wByEnemy.Length);
+        Array.Clear(mByEnemy, 0, mByEnemy.Length);
+        uniqueBattleIds.Clear();
+
         foreach (long a in actors) {
             if (!ReadProcessMemory(hProc, new IntPtr(a - ACT_PRE), actorBuf, actorBuf.Length, out read) || (int)read < actorBuf.Length) continue;
             if (!IsActorAt(actorBuf, ACT_PRE)) continue;
             aliveCount++;
             int enemyId = BitConverter.ToInt32(actorBuf, 0);
-            byte w = actorBuf[ACT_PRE + 1684];
-            byte m = actorBuf[ACT_PRE + 1685];
-            if (count > 0) sb.Append(",");
-            sb.Append(string.Format("{{\"id\":{0},\"w\":{1},\"m\":{2}}}", enemyId, (int)w, (int)m));
-            count++;
+            if (enemyId >= 1 && enemyId <= 900) {
+                if (wByEnemy[enemyId] == 0 && mByEnemy[enemyId] == 0) {
+                    uniqueBattleIds.Add(enemyId);
+                }
+                wByEnemy[enemyId] |= actorBuf[ACT_PRE + 1684];
+                mByEnemy[enemyId] |= actorBuf[ACT_PRE + 1685];
+            }
         }
-        sb.Append("]");
         if (aliveCount == 0) {
             lock (battleLock) { battleActors.Clear(); }
             liveRevealsJson = "[]";
         } else {
+            uniqueBattleIds.Sort();
+            StringBuilder sb = new StringBuilder("[");
+            for (int k = 0; k < uniqueBattleIds.Count; k++) {
+                int id = uniqueBattleIds[k];
+                if (k > 0) sb.Append(",");
+                sb.Append(string.Format("{{\"id\":{0},\"w\":{1},\"m\":{2}}}", id, wByEnemy[id], mByEnemy[id]));
+            }
+            sb.Append("]");
             liveRevealsJson = sb.ToString();
         }
     }

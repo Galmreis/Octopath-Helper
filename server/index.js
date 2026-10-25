@@ -131,17 +131,25 @@ const saveSource = new SaveFileSource(SAVE_FILE_PATH, (parsedState, sourceType) 
 
 saveSource.start();
 
+let lastRamBroadcastMs = 0;
+
 memorySource = new MemorySource(
   () => store.currentState,
   (parsedState, sourceType) => {
     const { state, newEvents } = store.update(parsedState, sourceType);
-    broadcast({
-      type: 'STATE_UPDATE',
-      state,
-      newEvents,
-      saveFilePath: saveSource.saveFilePath,
-      availableSlots: listAvailableSaveSlots()
-    });
+    const now = Date.now();
+    // If real game events happened (weakness revealed, zone change, etc.), broadcast immediately.
+    // If no events happened (tick heartbeat), throttle broadcast to at most once every 2 seconds.
+    if (newEvents.length > 0 || now - lastRamBroadcastMs > 2000) {
+      lastRamBroadcastMs = now;
+      broadcast({
+        type: 'STATE_UPDATE',
+        state,
+        newEvents,
+        saveFilePath: saveSource.saveFilePath,
+        availableSlots: listAvailableSaveSlots()
+      });
+    }
   }
 );
 
