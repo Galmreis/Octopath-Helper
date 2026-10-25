@@ -34,7 +34,7 @@ We engineered a **Zero-Impact Dual Engine**:
 The static game database is automatically generated from official reference sheets (`info.xlsx` and `Enemies.csv`) by [`server/scripts/buildStaticData.js`](file:///D:/webProjects/OctopathHelper/server/scripts/buildStaticData.js):
 - **Strategist Monsters**: 381 monsters required for the achievement.
 - **Roman Numeral Normalization**: Converted Roman numerals (`I`..`VI`) to Arabic numbers (`1`..`6`) and merged duplicate CSV entries across multiple regional encounter tables. 100% of all 381 Strategist monsters now have validated spawn zones.
-- **Zones & Dungeons**: 177 zones mapped with danger levels, chest offsets, and hidden item flags.
+- **Zones & Dungeons**: 179 zones mapped with danger levels, chest offsets, and hidden item flags (including post-game zones like `#194 Ruins of Hornburg` and `#195 The Gate of Finis`).
 - **Collector Items**: 580 collector-eligible equipment, consumables, and quest items tracked via `ItemFlag` bitmasks.
 
 ---
