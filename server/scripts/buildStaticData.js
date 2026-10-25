@@ -284,7 +284,7 @@ function getRegionByZoneId(id) {
   if (id >= 137 && id <= 157) return 'Frostlands';
   if (id >= 158 && id <= 178) return 'Woodlands';
   if (id >= 179 && id <= 190) return 'Job Shrines';
-  if (id >= 195 && id <= 196) return 'Post-Game (Finis)';
+  if (id >= 193 && id <= 196) return 'Post-Game (Hornburg & Finis)';
   return 'Other';
 }
 
@@ -310,14 +310,22 @@ for (let i = 0; i < excelDb.place.length; i++) {
   const p = excelDb.place[i];
   const t = excelDb.treasure_states[i] || {};
   const id = Number(p.A);
-  const name = p.B || t.B;
-  if (!id || !name || name.includes('ㄒoㄒ')) continue;
+  let name = p.B || t.B;
+  if (!id) continue;
+
+  if (id === 193) name = 'Path to the Ruins of Hornburg';
+  if (id === 194) name = 'Ruins of Hornburg';
+  if (!name || name.includes('ㄒoㄒ')) continue;
 
   const chestCount = Number(t.D || 0);
   const hiddenCount = Number(t.E || 0);
   const summation = Number(t.C || 0);
   const treasureStateId = Number(p.D || t.A || 0);
   const region = getRegionByZoneId(id);
+
+  let tips = t.F || null;
+  if (id === 194) tips = 'Threshold to the Gate of Finis (No random encounters. Boss gauntlet lies beyond the Gate).';
+  if (id === 193) tips = 'Approach to the Ruins of Hornburg.';
 
   zones[id] = {
     id,
@@ -327,8 +335,8 @@ for (let i = 0; i < excelDb.place.length; i++) {
     summation,
     chestCount,
     hiddenCount,
-    tips: t.F || null,
-    isMissable: Boolean(t.F && /missable/i.test(t.F)),
+    tips,
+    isMissable: Boolean(tips && /missable/i.test(tips)),
     chests: [],
     hiddenItems: []
   };

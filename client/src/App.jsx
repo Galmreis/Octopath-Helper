@@ -344,6 +344,21 @@ export default function App() {
                         <code>{activeZoneMeta.treasureStateId}</code> | Visited:{' '}
                         <strong>{activeZoneState?.visited ? 'Yes' : 'No'}</strong>
                       </div>
+                      {activeZoneMeta.tips && (
+                        <div
+                          style={{
+                            marginTop: 8,
+                            padding: '6px 10px',
+                            background: 'rgba(245, 158, 11, 0.1)',
+                            borderLeft: '3px solid var(--accent-amber)',
+                            borderRadius: 4,
+                            fontSize: '0.8rem',
+                            color: 'var(--text-main)'
+                          }}
+                        >
+                          ℹ️ {activeZoneMeta.tips}
+                        </div>
+                      )}
                     </div>
                   </div>
 
