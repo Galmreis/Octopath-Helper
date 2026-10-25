@@ -25,7 +25,8 @@ We engineered a **Zero-Impact Dual Engine**:
    - Attaches to `Octopath_Traveler-Win64-Shipping.exe` with strict **read-only permissions** (`PROCESS_QUERY_INFORMATION | PROCESS_VM_READ`). Zero code injection, zero write access, completely anti-cheat safe.
    - **Performance Profile**: **0.0% CPU**, **18 MB** RAM.
    - **Live Zone Pointer**: Discovered and hooked the live level ID in UE4 UWorld memory (`0x19ACB36B14C`), updating the dashboard instantly on zone transitions.
-   - **Canonical Enemy Discovery Array**: Reads directly from `UKSSaveGameBP_C.EnemyInfoData` at `achAddr + 0x1B0` (stride 8). This avoids stale/ghost actor remnants left in uncompacted UE4 FMallocBinned2 memory pools from past encounters.
+   - **Canonical Enemy Discovery Array**: Reads directly from `UKSSaveGameBP_C.EnemyInfoData` at `achAddr + 0x1B0` (stride 8).
+   - **Mid-Battle Weakness Reveals (Zone-Gated)**: Gathers live `BattleEnemyBP_C` weakness bits during combat and passes them through a strict zone filter (`zonesDb[currentZoneId].monsters`). This provides split-second weakness reveals mid-battle while discarding any stale ghost actors from past encounters.
 
 ---
 
