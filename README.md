@@ -100,7 +100,18 @@ Designed for zero-mouse operation while holding a controller:
 
 * **Architecture & Product Direction:** Reis
 * **Implementation:** Developed using an AI-augmented engineering workflow with Google Antigravity (DeepMind).
-* **Reverse Engineering References:** Built upon community analysis of Unreal Engine 4 GVAS save structures and community data archives (`info.xlsx`).
+
+---
+
+## Acknowledgments & Community Credits
+
+This project stands on the shoulders of years of collaborative data mining, documentation, and reverse engineering conducted by the *Octopath Traveler* community:
+
+* **[Octopath Traveler Resource Spreadsheet](https://docs.google.com/spreadsheets/d/14Kz5mTAYdxqdgjbkbotAMGC2aoiJBbrBUiLeh8Pwu0Q)** by **marcv666** and the community — the foundational dataset for chest checklists, hidden item locations, monster weaknesses, quest solutions, and missable item warnings.
+* **[OctopathTraveler-SaveDataEditor](https://github.com/LoneWindG/OctopathTraveler-SaveDataEditor)** by **LoneWindG** — foundational research on Unreal Engine 4 GVAS save structures, `KSAchievementSaveGameData` bitfields (`ItemFlag`), quest slots (`MissionState`), and data dictionaries (`info.xlsx`).
+* **[OctopathTraveler](https://github.com/turtle-insect/OctopathTraveler)** & **[GvasViewer](https://github.com/turtle-insect/GvasViewer)** by **turtle-insect** — initial format discovery and parsing of Switch and PC save data.
+* **Save Research Pioneers on GBAtemp:** [SleepyPrince](https://gbatemp.net/members/sleepyprince.94652/), [Takumah](https://gbatemp.net/members/takumah.456165/), [gen212](https://github.com/gen212/OctopathTraveler), and [SUDALV92](https://github.com/SUDALV92/OctopathTraveler-TreasureChests-).
+* **[GVAS Converter](https://github.com/januwA/gvas-converter)** by **januwA** — insights into Unreal Engine 4 serialized UObject properties.
 
 ---
 
