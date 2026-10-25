@@ -23,9 +23,9 @@ We engineered a **Zero-Impact Dual Engine**:
 2. **Native C# Memory Reader Worker (`server/sources/ramWorker.cs` -> `ramWorker.exe`)**:
    - Compiled via native `.NET Framework 64-bit csc.exe` into a headless background worker.
    - Attaches to `Octopath_Traveler-Win64-Shipping.exe` with strict **read-only permissions** (`PROCESS_QUERY_INFORMATION | PROCESS_VM_READ`). Zero code injection, zero write access, completely anti-cheat safe.
-   - **Performance Profile**: **0.0% CPU** idle exploration, **18 MB** RAM.
+   - **Performance Profile**: **0.0% CPU**, **18 MB** RAM.
    - **Live Zone Pointer**: Discovered and hooked the live level ID in UE4 UWorld memory (`0x19ACB36B14C`), updating the dashboard instantly on zone transitions.
-   - **Live Battle Actors**: Scans UE4 `FMallocBinned2` UObject pools on battle start (`curBattle != lastBattle`) to locate live `BattleEnemyBP_C` actors, reading real-time weakness reveals (`ACT_PRE + 1684/1685`) the split second Cyrus evaluates or an attack connects.
+   - **Canonical Enemy Discovery Array**: Reads directly from `UKSSaveGameBP_C.EnemyInfoData` at `achAddr + 0x1B0` (stride 8). This avoids stale/ghost actor remnants left in uncompacted UE4 FMallocBinned2 memory pools from past encounters.
 
 ---
 
