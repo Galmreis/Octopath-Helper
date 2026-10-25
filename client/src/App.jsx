@@ -42,6 +42,38 @@ export default function App() {
   const [questSearch, setQuestSearch] = useState('');
   const [questRegionFilter, setQuestRegionFilter] = useState('ALL');
   const [hideCompletedQuests, setHideCompletedQuests] = useState(false);
+  const [repairingId, setRepairingId] = useState(null);
+
+  async function handleMercyRepair(targetType, targetId, name) {
+    const ok = window.confirm(
+      `Point of No Return Mercy Repair:\n\n` +
+      `This will create an automatic timestamped backup (.bak) of your save file and surgically unlock all weaknesses for #${targetId} ${name}.\n\n` +
+      `This enables the legitimate 100% Strategist Steam achievement to unlock when you finish your run.\n\n` +
+      `Do you want to proceed?`
+    );
+    if (!ok) return;
+
+    try {
+      setRepairingId(targetId);
+      const res = await fetch('/api/mercy/repair', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ targetType, targetId })
+      });
+      const data = await res.json();
+      if (!res.ok) throw new Error(data.error || 'Failed to apply repair');
+
+      alert(
+        `✓ Mercy repair applied successfully!\n\n` +
+        `Backup created at:\n${data.repairResult.backupPath}\n\n` +
+        `Your save file has been updated. Weaknesses for ${name} are now complete.`
+      );
+    } catch (err) {
+      alert(`Error applying mercy repair: ${err.message}`);
+    } finally {
+      setRepairingId(null);
+    }
+  }
 
   // Global hotkeys for seamless dual-screen control
   useEffect(() => {
@@ -81,6 +113,11 @@ export default function App() {
   const activeZoneMeta = staticDb.zones[activeZoneId];
   const activeZoneState = saveState.zones?.[activeZoneId];
   const obtainedSet = new Set(saveState.itemsObtained || []);
+  const isPostGame = Boolean(
+    (saveState?.stats?.globetrotter?.current || 0) >= 90 ||
+    saveState?.sideStoriesByRegion?.Highlands?.some(e => e.slotIndex === 18 && e.state >= 1)
+  );
+  const isSeaBirdianExtinct = isPostGame && !saveState?.monsters?.[208]?.isCompleted;
 
   // Filtered lists
   const allMonsters = Object.values(staticDb.monsters).filter(m => {
@@ -629,6 +666,41 @@ export default function App() {
                 </span>
               </div>
 
+              {isSeaBirdianExtinct && (
+                <div
+                  style={{
+                    marginBottom: 16,
+                    padding: '12px 16px',
+                    background: 'rgba(239, 68, 68, 0.12)',
+                    borderLeft: '4px solid var(--accent-red)',
+                    borderRadius: 6,
+                    display: 'flex',
+                    justifyContent: 'space-between',
+                    alignItems: 'center',
+                    gap: 14,
+                    flexWrap: 'wrap'
+                  }}
+                >
+                  <div>
+                    <strong style={{ color: '#fca5a5', fontSize: '0.92rem' }}>
+                      ⚠️ Point of No Return Alert: Sea Birdian IV (#208) is Permanently Extinct
+                    </strong>
+                    <div style={{ fontSize: '0.82rem', color: 'var(--text-muted)', marginTop: 3 }}>
+                      Coastlands danger levels have permanently scaled past 31, preventing Sea Birdian IV from spawning.
+                      You can apply a surgical save file mercy repair (with an automatic .bak backup) to restore 100% Strategist eligibility.
+                    </div>
+                  </div>
+                  <button
+                    className="action-btn"
+                    style={{ borderColor: 'var(--accent-red)', color: '#fca5a5' }}
+                    onClick={() => handleMercyRepair('monster', 208, 'Sea Birdian IV')}
+                    disabled={repairingId === 208}
+                  >
+                    {repairingId === 208 ? 'Repairing...' : '🛡️ Apply Save Mercy Repair'}
+                  </button>
+                </div>
+              )}
+
               <div className="card-grid">
                 {allMonsters.map(m => {
                   const st = saveState.monsters?.[m.id];
@@ -655,6 +727,18 @@ export default function App() {
                           );
                         })}
                       </div>
+                      {m.id === 208 && !st?.isCompleted && isPostGame && (
+                        <div style={{ marginTop: 8 }}>
+                          <button
+                            className="action-btn"
+                            style={{ fontSize: '0.74rem', width: '100%', justifyContent: 'center' }}
+                            onClick={() => handleMercyRepair('monster', 208, 'Sea Birdian IV')}
+                            disabled={repairingId === 208}
+                          >
+                            🛡️ Apply Save Mercy Repair
+                          </button>
+                        </div>
+                      )}
                     </div>
                   );
                 })}

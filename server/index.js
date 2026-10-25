@@ -6,6 +6,7 @@ const { PORT, DATA_DIR, SAVE_FILE_PATH, listAvailableSaveSlots } = require('./co
 const { StateStore } = require('./stateStore');
 const { SaveFileSource } = require('./sources/saveFileSource');
 const { MemorySource } = require('./sources/memorySource');
+const { getMercyStatus, applyMercyRepair } = require('./repair/mercyRepair');
 
 // Preload static databases into memory so HTTP requests are instant
 const staticDatabase = {
@@ -70,6 +71,47 @@ const server = http.createServer((req, res) => {
           })
         );
       } catch (err) {
+        res.writeHead(400, { 'Content-Type': 'application/json' });
+        res.end(JSON.stringify({ error: err.message }));
+      }
+    });
+    return;
+  }
+
+  if (req.url === '/api/mercy/status' && req.method === 'GET') {
+    res.writeHead(200, { 'Content-Type': 'application/json' });
+    res.end(
+      JSON.stringify({
+        eligible: getMercyStatus(store.currentState, staticDatabase)
+      })
+    );
+    return;
+  }
+
+  if (req.url === '/api/mercy/repair' && req.method === 'POST') {
+    let body = '';
+    req.on('data', chunk => {
+      body += chunk.toString();
+    });
+    req.on('end', () => {
+      try {
+        const { targetType, targetId } = JSON.parse(body || '{}');
+        const repairResult = applyMercyRepair(
+          saveSource.saveFilePath,
+          targetType,
+          Number(targetId),
+          staticDatabase
+        );
+        saveSource.readAndEmit('mercy-repair', saveSource.saveFilePath);
+        res.writeHead(200, { 'Content-Type': 'application/json' });
+        res.end(
+          JSON.stringify({
+            ok: true,
+            repairResult
+          })
+        );
+      } catch (err) {
+        console.error('[MercyRepair] Failed to apply repair:', err.message);
         res.writeHead(400, { 'Content-Type': 'application/json' });
         res.end(JSON.stringify({ error: err.message }));
       }
