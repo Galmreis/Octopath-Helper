@@ -1,0 +1,105 @@
+Here are a couple other information I thought was worth sharing.,,
+,,
+,Skill info,
+,Arrowstorm (Hunter),"Hit/miss randomly, but you are garanteed 3 successful hit each time you cast it. Not entirely sure how accuracy works with the skill but raising it doesn't increase the hit rate significantly as one might expect."
+,Thousand Spears (Warrior),"Hit/miss randomly, but you are garanteed 3 successful hit each time you cast it. Not entirely sure how accuracy works with the skill but raising it doesn't increase the hit rate significantly as one might expect."
+,"Heal Wounds (Cleric)
+(and other healing spell)","Uses Elem. Def. to output healing value. The higher the stat is, the better the result will be. However buffing your Elemental Defense doesn't increase your healing in any way."
+,Revive (Cleric),Boost point with this skill will give more HP upon reviving your dead character.
+,Analyse (Scholar),3 boost points on the skill can actually reveal up to 5 weakness (all weakness) even though the tooptips says 4.
+,"Alephan's Enlightenment
+(Scholar Divine)",Renders a multi target spell single target but double the damage (+100%).
+,"Bifelgan's Bounty
+(Merchant Divine)","Damage exceeding the monsters HP won't give you anymore gold. Even though the tooptip explicitly says ""non-elemental attack"" and the icon is a physical attack, this is misleading. The damage is based on your Elem. Atk. and everything that boost you Elem. Atk. will affect this skill and everything related to Phys. Atk. won't do any good with this skill."
+,"Sealticge's Seduction
+(Dancer Divine)","Works on most skills that are single target, including skills that target enemies and also skills that target allies. Won't work on skills that target Self only such as Sidestep/Rest (Merchant) or Abide/Stout Wall (Warrior), doesn't work either with Donate BP. Work especially well with: Reflective Veil (Cleric), but some other buffs provided by the Cleric/Dancer/Starseer or Debuffs from Thief/Sorceror could also be worth considering."
+,Transfer Rune (Runelord),"Outside of the Runelord this skill synergize with only a limited number of ability (mostly skills that didn't worked with Sealticge's Seduction), such as Rest/Sidestep (Merchant) or Abide/Stout Wall (Warrior). Tressa's Sidestep with this skill is one of the best combo in the game."
+,Empoison (Apothecary),"Poison does 1/6 max HP damage to normal monster, against bosses it deals 1% but bosses have high Max HP. NPC will received 5% their Max HP."
+,Persistence,"All buffs you receive last for one additional turn. (Works with all source, including Summon and Summon Beast)"
+,The Show Goes On,All buffs you cast will last 1 additional turn. (Summon and Summon Beast don't work with this passive)
+,,
+,Buffs and Support Info,
+,"Buffs increase a speciffic stat by 50%. Debuffs on the other hand will reduce a stat by 33%.
+
+The math is pretty simple, weather you increase your attack (+50% attack) or decrease enemy's armor (-33% armor), in both cases this will result in 50% more damage. Apply both effects and the damage gets multiplied 2 times by +50% resulting in a 125% increase damage total (example: 100 base damage * 1.5 (attack buff) * 1.5 (defense debuff) = 225 total damage.
+
+Another example this time with buffs and debuffs that will decrease damage instead. So let's say your attack gets debuffed (-33% attack) and the enemy has his armor buffed (+50% armor). In both cases this will reduce damage done by 33%. Again if both effect would be effective this would result in a total damage reduction of 56%. Example: 225 base damage * 0.66 (attack debuff) * 0.66 (defense debuff) = 100 total damage.
+
+As you can see with the 2 example above, even though decreasing by 33% seems a lower than increasing by 50%, in reality it is of equal power when you do the math.
+
+Other ramification to consider...
+Stout Wall (Warrior) gives the same buff as Mole Dance (Dancer). When you cast both skills on the same character you don't get 2 different buffs that will increase twice your defense. Instead you get 1 buffs and the number of turns is what gets added. So in this cases Stout Wall gives 3 turns and Mole Dance give 2 turns, so you would end up with 1 buff lasting for 5 turns. It is also important to understand those buffs can be obtain through various sources (Skills, Support Ability, Summon, Summon Beast) and the same logic always apply. For instance if you would equip the Physical Prowess support skill, which provide Physical Attack/Defense, since that support skill provides thoses buffs for the entire fight it now render useless to try to buff those same attribute with any other skills. Now using a turn to cast your buffs is probably not what you want to do in most situation, so those support skills, Physical Prowess & Elemental Edge, are still very strong and you'll probably want to use them as soon as you can get your hands on it. On the other hand if you are trying to unlock ""The Strongest Sojourner"" achievement (deal 99 999 damage), you might want to use another support skills that will increase your damage and cast your buffs manually.
+
+Another thing you could consider during your playthrough is how buffs/defuffs of the opposite can cancel each others out. For instance if you were to fight Esmeralda, she can debuff your Physical Defense. One way to get rid of it would be to cast Stout Wall (Warrior) which under normal condition would give you a Physical Defense buff but in this case it would only heal the opposite debuff. When buffs/debuffs cancel each others out it doesn't matter how many turns the said buff/debuf last. You could have your Phys. Def. debuffed for 9 turns and Stout Wall unboosted (normally 3 turns) would cancel all the 9 turns. So if your intention is to cancel a buff/debuff, you never have to use boost point.
+
+Now there are many support skills lacking a good description on their tooltip making it difficult to evaluate how good they are if you've never used them before. Since I've tested them, here is how they work and the numbers you want to know.
+
+- Dauntless: Apply Physical & Elemental Attack ""buffs"" during a bad status (buff disapear as soon as you clear the bad status, obviously could override buffs if you manually cast them. This is garbage, I just can't recommand the use of this)
+- Intimidation: 25% chance to apply debuffs: Physical Attack & Elemental Attack (the tooltip said Elemental Defense but it is wrong) for 2 turns on all monsters (like mentionned above debuffs reduce stats by 33%)
+- Stronger Strikes: Instead of hitting a weakness at +30% bonus damage it will increase the bonus to +50%, this represent a +15% increase damage from wearing the support (does not increase damage when enemy is broken)
+- Elemental Aid: +50% (elemental damage, also cost double SP)
+- Augmented Elements: +20% (elemental damage)
+- BP eater: +50% (for boosted ability)
+- Physical Prowess: Apply the Physical Attack and Physical Defense buff for the entire duration of the battle (50% increase damage, 33% reduce damage, but can't manually cast the same buff on top)
+- Elemental Edge: Apply Elemental Attack buff and Elemental Defense buff (+50% damage, 33% reduce damage, can't manually cast the same buff on top)
+- Fortitude: +200% at 1 HP (Works only with physical, doesn't work with any elemental attack)",
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,The Strongest Sojourner (99 999 damage),
+,"If you are looking out to complete The Strongest Sojourner achievement here I'll give you 2 possible setup to unlock it.
+
+#1 Physical Build (1 HP):
+If we could push the damage cap beyond 99 999 damage, this is easily the setup that would perform the highest single hit damage in the game.
+Olberic (Apothecary job):
+Weapon: Battle-tested Blade + Memorial Axe
+Accessories: 2 x Physical Belt
+Support:
+- Surpassing Power
+- BP Eater
+- Fortitude
+- Summon Strength (or Physical Prowess, as it is a better support but since it is giving the same ""Buff"" as the Lion Dance ability from the Dancer, you could bring a support character with dancer job instead and use Summon Strenght for even higher theoritical damage output)
+
+Put yourself at 1 HP. You can easily do that by Challenging a strong NPC and make yourself lose the battle. Once you are at 1 HP, you'll have full benefit from Fortitude and you'll be doing damage with Last Stand ability (Apothecary skill) which has a hidden bonus damage at low HP.
+I recommend you bring with you Primrose or any character with Dancer job to perform Lion Dance on Olberic and bring yourself Therion or someone with Thief job to perform Armor Corrosive on the enemy. Give one of your support character the Cover Support to protect Olberic from any physical attack. You can also break your enemy before using Last Stand but with this setup you it won't even be necessary as you should easily already have enough power to deal max damage. With the testing I did I was able to perform max damage not breaking enemy and also not using 1 or the support character (if you don't break enemy, you'll need at least either the buff or debuff but only one of them should be enough)
+
+#2 Elemetal Build:
+This setup is also good but their won't be as many optional stuff in it as in the 1 HP build you theoriticaly do a lot more damage than the cap but with the Elemental Build your damage is a lot closer to that cap.
+Cyrus (Thief job):
+Weapon:
+- Harald's Sword + Heathcote's Dagger (for Fire damage boost)
+- Battle-tested Staff
+Armor:
+- Adamantine Hat + Sorcerer's Robe
+Accessories:
+- 2 x Elemental Augmentor
+Support:
+- Surpassing Power
+- BP Eater
+- Elemental Aid
+- Augmented Elements (This gives only 20% increase damage and is the only thing optional in the build if your Elemental Attack is capped)
+
+With this one you'll need to bring with you some support character to perform task such as buffing your elemental attack and debuffing the enemy elemental defense as well as someone with the Scholar job to cast Alephan's Enlightenment (Scholar Ultimate). On my side I brought Tressa for her ability to give other party members boost point, brought Therion with the Sorcerer job to debuff enemy using Elemental Break and Primrose with Scholar job to buff both Elemental attack on Cyrus as well as cast Alephan's Enlightenment. Boost-Start on support character is very good on this setup and The Show Goes On is pretty good on your buffing character, in my case Primrose. I like the Northreach area to perform this because in higher level area it's easier to break enemies without one-shotting them, outside of town your first fight will always be against Reptalios which are weak to axes. I used Tressa to give BP and she's good at breaking enemies with Hired Help (Bandit for axe damage) or you could equip her with a job that enable axe damage.",

@@ -1,0 +1,212 @@
+[
+  {
+    "region": "Frostlands",
+    "target": "Thief (NPC)\nValuable:\nBrigand's Garb",
+    "note": "Steal the Brigand's Garb first before going for Brigand Leader's Garb, otherwise you'll miss the opportunity. Once you got it you can go to Lorn Cathedral: Cellars and see an optional cut scene. Do note however this item is not required for the achievement, however you'll also miss \"Robbing a Robber\" & \"Slacker\" in your journal if you don't do this."
+  },
+  {
+    "region": "Flatlands",
+    "target": "Headmaster Yvon (NPC)",
+    "note": "NPC is available only during Cyrus Chapter 1. He doesn't have much interesting on him but he deserves to get stolen (if you have either Tressa or Therion at this point)."
+  },
+  {
+    "region": "Flatlands",
+    "target": "Crest-bearing Drunk (NPC)",
+    "note": "NPC disapear after you Challenge / Provoke him.  He doesn't have much interesting on him but he deserves to get stolen."
+  },
+  {
+    "region": "Flatlands",
+    "target": "Shifty Moneylender (NPC)",
+    "note": "NPC disapear after you complete quest: Theracio's Tutelage (III). He doesn't have much interesting on him but he deserves to get stolen."
+  },
+  {
+    "region": "Flatlands",
+    "target": "Erstwhile Retainer (NPC)\nItem: Feather Duster",
+    "note": "Challenge / Provoke Erstwhile Retainer, it's the only way to get Feather Duster for your Collector achievement."
+  },
+  {
+    "region": "Flatlands",
+    "target": "Awkward Boy (NPC)\nQuest:\nThe Gravekeeper's Grief",
+    "note": "Complete the quest with Challenge / Provoke solution, otherwise if you give to Old Gravekeeper the Codger-friendly Bow, he presumebly kill the NPC and you can't find him anymore. Not a huge deal but if you still want to interract with the NPC after completing the quest, you'll have to give him a beating instead."
+  },
+  {
+    "region": "Flatlands",
+    "target": "Zealot I&II\nSteal/Drop:\nMonster Perfume",
+    "note": "If you still don't have any Monster Perfume, Zealot I&II is one of only a few source for your Collector achievement."
+  },
+  {
+    "region": "Coastlands",
+    "target": "Merchant (NPC) x 3\nItems:\nTree Nut, Hip Flask",
+    "note": "NPC available only during Tressa's chapter 1 tale. Don't skip \"Hear the begining of the tale\". Purchase those guys before they leave. Tree Nut is a limited item. Hip Flask is not Missable nor Limited but it's the easiest way to get one, other way involves Challenge / Provoke which can be a pain sometimes."
+  },
+  {
+    "region": "Coastlands",
+    "target": "Crest-bearing Ruffian (NPC)",
+    "note": "NPC disapear after you Challenge / Provoke him.  He doesn't have much interesting on him but he deserves to get stolen."
+  },
+  {
+    "region": "Coastlands",
+    "target": "Mattias\nJournal Entry: True Belief",
+    "note": "Just talk to Mattias before heading your way to the Seaside Grotto, this will add \"True Belief\" in your journal."
+  },
+  {
+    "region": "Coastlands",
+    "target": "Believer I&II\nSteal/Drop:\nMonster Perfume",
+    "note": "If you don't have any Monster Perfume, Believer I&2 is one of only a few source for your Collector achievement."
+  },
+  {
+    "region": "Coastlands",
+    "target": "Le Mann (NPC)\nItems:\nIntroduction to Adventuring\nOld Coin",
+    "note": "Purchase / Steal before completing the quest: Le Mann, Explorer Extraordinaire (III). Introduction to Adventuring & Old Coin are Limited items. Both items were available when NPC was in Rippletide and Goldshore but here is your last chance to get them."
+  },
+  {
+    "region": "Coastlands",
+    "target": "Brigand (NPC)",
+    "note": "NPC is available only during quest: Keeping Up with the Wyndhams. He doesn't have much interesting on him but he deserves to get stolen."
+  },
+  {
+    "region": "Coastlands",
+    "target": "Diarist /\nIng the Diarist",
+    "note": "During Tressa chapter 4 you'll be able to talk to Diarist in Grandport Markets, however if you go left upon entering the area you'll trigger a scene where you get your diary stolen and at this point the NPC disapear until the end of the chapter. So you need to go right instead, this will trigger another scene with that NPC and you'll be able to interract with him and steal his thing. He doesn't have much on him, but if you want to strip every NPC of all their items, this is your only chance here cause at the end of the chapter his inventory changes."
+  },
+  {
+    "region": "Highlands",
+    "target": "Researcher I&II&III (enemy)",
+    "note": "Your only source of Bottled Breath, Pseudo Cider and Poysenberry for your Collector achievement.\n(Steal / Drop)"
+  },
+  {
+    "region": "Highlands",
+    "target": "Father Marionette &\nDancer Marionette\nItems:\nPhysical Belt, Mental Belt",
+    "note": "During the 1st phase of the boss battle against Simeon steal both Physical Belt & Mental Belt, those items are not limited in quantity but they are rare and somewhat time consuming to farm so take advantage of this opportunity to steal those (even better with Snatch support)."
+  },
+  {
+    "region": "Sunlands",
+    "target": "Wayfaring Girl /\nRia /\nGloria (NPC)\nItem:\nInferno Amulet",
+    "note": "Purchase / Steal before completing quest: Ria, Born to Roam (I). The Inferno Amulet is a Limited item. Her inventory gets reset in Wellspring for no reason but this allow us to steal her 2 times the same items."
+  },
+  {
+    "region": "Sunlands",
+    "target": "Sand Man (NPC)\nItem:\nAli's Bread",
+    "note": "NPC available upon starting quest: The Adventures of Ali. This is your only source of Ali's Bread through Challenge / Provoke. It is required to obtain your Collector achievement."
+  },
+  {
+    "region": "Sunlands",
+    "target": "Employee (NPC)\nitems:\nSilver-filled Pouch",
+    "note": "Purchase / Steal his normal items before getting any Attendant's Mask, Aristocrat's Mask or Black Market Inventory. The Silver-filled Pouch is a limited item."
+  },
+  {
+    "region": "Sunlands",
+    "target": "2x Aristocrat (NPC)",
+    "note": "They don't have missable nor limited items but you could Purchase/Steal them before getting any Mask or Black Market Inventory."
+  },
+  {
+    "region": "Sunlands",
+    "target": "Chieftain (NPC)",
+    "note": "NPC is available only during quest: Ria, Born to Roam (III). He doesn't have much interesting on him but he deserves to get stolen."
+  },
+  {
+    "region": "Sunlands",
+    "target": "Young Soldier (NPC)",
+    "note": "NPC disapear if you complete quest: In Search of the Unknown with Challenge / Provoke. He doesn't have much interesting on him but he deserves to get stolen"
+  },
+  {
+    "region": "Sunlands",
+    "target": "Eliza (NPC)\nItem:\nDragon Saber",
+    "note": "Purchase / Steal: Dragon Saber will be available only for a short while, as soon as you start a cutscene in the middle of Marsalim it's no longer available. This is not a Missable nor a Limited item but it's worth taking."
+  },
+  {
+    "region": "Riverlands",
+    "target": "Fishmonger (NPC)\nItem:\nHip Flask",
+    "note": "If you missed the Hip Flask during Tressa Chapter 1 then Challenge / Provoke Fishmonger is your only other way to get this item."
+  },
+  {
+    "region": "Riverlands",
+    "target": "Derryl (NPC)\nItem:\nIce Amulet",
+    "note": "Purchase / Steal before completing Ophilia chapter 4. Ice Amulet is a Limited item. His inventory changes after that."
+  },
+  {
+    "region": "Riverlands",
+    "target": "Emil & Nate (NPC)",
+    "note": "Purchase / Steal both of them. Like Derryl their inventory changes after Ophilia chapter 4. They don't have Missable/Limited though."
+  },
+  {
+    "region": "Riverlands",
+    "target": "Alphas (NPC)\nItem:\nEnchanted Sword",
+    "note": "* This is not required for your collector achievement, the following is useful only if you want to increase your maximum count before this method is not available anymore otherwise you'll get only 1 in a chest.\n\nThere are multiple location where Alphas can be, I find the one when he is on the bridge near Rivira Woods entrance to be the best for farming Enchanted Sword. Even though he is 8* compared to only 5* when he was in Bolderfall, there are still ways to setup Olberic to be able to one-shot him, so being near a town's exit to raise him back up is more significant in saving time when grinding him, unfortunatly when he is in Bolderfall zoning in/out of the Ravus Manor is glitched with this NPC. Be sure you don't complete quest: Daughter of the Dark God (II) until you have enough Enchanted Sword to your liking otherwise you can still do it but it will be a longer process if you want multiple copies of that item. Do note also the drop rate is quite low for this one."
+  },
+  {
+    "region": "Riverlands",
+    "target": "Townsperson (NPC)\nKnowledge:\nTidings of Elderly Friends",
+    "note": "Just make sure you inquire Townsperson before meeting with Demure Grandma in order to get Tidings of Elderly Friends (Knowledge). It's hard to miss but some people did. (Not required for your Collector achievement)"
+  },
+  {
+    "region": "Cliftlands",
+    "target": "Egg-seeking Girl's /\nKaia (NPC)\nItems:\nTree Nut,\nDubious Gold Ore",
+    "note": "Purchase / Steal before completing quest: Kaia, Mother of Dragon (III). Tree Nut & Dubious Gold Ore are Limited items."
+  },
+  {
+    "region": "Cliftlands",
+    "target": "Curious Cleric (NPC)",
+    "note": "NPC is available only during quest: Kaia, Mother of Dragon (III). He doesn't have much interesting on him but he deserves to get stolen."
+  },
+  {
+    "region": "Woodlands",
+    "target": "Nomadic Hunter (NPC)\nValuables:\nGiant Tusk",
+    "note": "NPC appears after H'aanit chapter 1, some people didn't go back where the NPC appear, if you want your Collector achievement, you need to get the Giant Tusk (Valuables)"
+  },
+  {
+    "region": "Woodlands",
+    "target": "Roving Naturalist (NPC)\nKnowledge:\nWhere the Giant Boar Roams\nItem:\nMace",
+    "note": "NPC appears after completing H'aanit chapter 1. Scrutinize / Inquire him to get Where the Giant Boar Roams and Challenge / Provoke him to get a Mace."
+  },
+  {
+    "region": "Woodlands",
+    "target": "Alphas (NPC)\nItem:\nEnchanted Sword",
+    "note": "NPC at this location during quest: Alphas and the Impresario. Last chance to get Enchanted Sword through Challenge / Provoke."
+  },
+  {
+    "region": "Woodlands",
+    "target": "Bandit Leader (NPC)\nItem:\nViper Dagger",
+    "note": "NPC available only during quest: Again with Alaic. Purchase / Steal the Viper Dagger. It's not a Missable or Limited item as it can drop from a NPC in Duskbarrow through Challenge / Provoke, but the drop rate is low so might want to get this one."
+  },
+  {
+    "region": "Woodlands",
+    "target": "Prideful Warrior (NPC)\nItem:\nExotic Garb",
+    "note": "During Olberic chapter 2 you'll have to Challenge 2 guys. One of them is named Prideful Warrior and can drop an Exotic Garb which is a Limited Item. Reset your game if he doesn't drop it. I don't have the exact drop rate but I estimate it to be somewhere around 10% drop chance."
+  },
+  {
+    "region": "Woodlands",
+    "target": "Joshua Frostblade (NPC)\nArchibold the Crusher (NPC)\nGustav, the Black Knight (NPC)\nWeak Points x 3",
+    "note": "Scrutinize / Inquire: Joshua's Weak Points & Archibold's Weak Points & Gustav's Weak Points right before you fight each one of them. Those 3 weak points are missable. (Not required for your Collector achievement)"
+  },
+  {
+    "region": "Woodlands",
+    "target": "Gustav, the Black Knight (NPC)\nItem:\nSprightly Bracelet",
+    "note": "Purchase / Steal him, the Sprightly Bracelet will be missing later on when you see him in The Whistlewood. This is not a missable or limited item because you can still buy it in Riverford but it's worth a mention."
+  },
+  {
+    "region": "Woodlands",
+    "target": "Captain Leon (NPC)\nItem:\nImperial Lance,\nElemental Glaive",
+    "note": "Purchase / Steal his inventory. The Imperial Lance & Elemental Glaive are Limited items and next time you see him in Rippletide, his inventory won't be the same."
+  },
+  {
+    "region": "Woodlands",
+    "target": "Merchant (NPC)",
+    "note": "This NPC having the Edbart's Shield appears only during Tressa chapter 3, none of the items are missable or limited but might want to Purchase / Steal all his inventory anyway."
+  },
+  {
+    "region": "Woodlands",
+    "target": "Crest-bearing Swindler (NPC)\nHidden Item (same highlight as in the previous column):\nOld Coin\nItem:\nGlass Marble",
+    "note": "NPC disapear after you Challenge / Provoke him, so get his Hidden Item and Purchase / Steal at least to get the Glass Marble which is a Limited Item."
+  },
+  {
+    "region": "Woodlands",
+    "target": "Grave Robber (NPC)\nItems:\nSharp Nut (L)\nSprightly Necklace",
+    "note": "NPC disapear after you Challenge / Provoke him. Make sure you Purchase / Steal his inventory. Both items are Limited items.\""
+  },
+  {
+    "region": "Woodlands",
+    "target": "Book where you fought Lucia\nValuable:\nOriginal Tome",
+    "note": "After killing Lucia, you'll have to Scrutinize 3 pieces of Knowledge:\n- Trial of the Twelve, Volume VII\n- Forbidden Gold\n- From the Far Reaches of Hell\nTo get the Original Tome you need to Scrutinize From the Far Reaches of Hell last else you'll miss on the Collector achievement. From the Far Reaches of Hell is the one you'll find where you fought Lucia. Most people would get it last but some screwed it up..."
+  }
+]

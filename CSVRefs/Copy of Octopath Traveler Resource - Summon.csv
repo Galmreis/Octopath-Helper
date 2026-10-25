@@ -1,0 +1,217 @@
+Using boost point increase damage on all abilities and also increase every Status Efffects and Debuffs chance to hit. Only a few Buffs gets their number of turn increased upon boosting the skills.,,,,,,,"To find out which NPC have the ability down below, search for it in the NPC tab. (Ctrl + F) Same thing with Summon Beast but search in the Enemies tab intead.",,,,
+,,,,,,,,,,,
+,Summon Beast,,Target,Hit,Additional Effect,,Summon skills,,Target,Hit,Additional Effect / Note
+,,Slash,Single,1-Hit,---,,,Attack,Single,1 Hit,Basic attack (reference for all weapon type)
+,,Triple Attack,Single,3-Hit,---,,,,,,
+,,Blinding Claw,Single,1-Hit,Status Effect: Blind (2 turns),,,Slice,Single,1 Hit,---
+,,Soporific Claw,Single,1-Hit,Status Effect: Sleep (2 turns),,,Slice and Dice,Single,1 Hit,---
+,,Double Soporific Claw,Single,2-Hit,Status Effect: Sleep (2 turns),,,Pummel,Single,1 Hit,---
+,,Befuddling Claw,Single,1-Hit,Status Effect: Confuse (2 turns),,,High Thrust,Single,1 Hit,---
+,,Offensive Claw,Single,1-Hit,"Debuff: Physical Attack, Elemental Attack (2 turns)",,,Mighty Blow,Single,1 Hit,---
+,,Striking Sword Dance,Single,2-Hit,Buff: Physical Attack (2 turns),,,Cross Strike,Single,1 Hit,High damage attack
+,,Swordwall Dance,Single,2-Hit,Buff: Physical Defense (2 turns),,,Demon Blade,Single,1 Hit,High damage attack
+,,Invincible Cleave,Single,1-Hit,Buff: Invincibility (2 turns),,,Pirates' Bane,Single,1 Hit,High damage attack
+,,Mighty Slash,All,1-Hit,---,,,Manure Toss,Single,1 Hit,Status Effect: Poison (2-5 turns)
+,,Triple Attack All,All,3-Hit,---,,,Poison Slash,Single,1 Hit,Status Effect: Poison (2-5 turns)
+,,Venomous Claw (All),All,1-Hit,Status Effect: Poison (2 turns),,,Rhapsody of Love,Single,1 Hit,Status Effect: Confuse (2-5 turns)
+,,Armor Break (All),All,1-Hit,Debuff: Physical Defense (2 turns),,,Repeated Strike,Single,2 Hit,---
+,,Enfettering Slash (All),All,1-Hit,Debuff: Speed (2 turns),,,Prelude to Romance,Single,2 Hit,---
+,,Great Sweep (All),All,1-Hit,Debuff: Critical (2 turns),,,Triple Strike,Single,3 Hit,---
+,,Sharp Scratch (All),All,1-Hit,Debuff: Critical (2 turns),,,Sweep,All,1 Hit,---
+,,Wild Scratch (All),All,3-Hit,+1 Hit * BP,,,Sweeping Slash,All,1 Hit,---
+,,,,,,,,Unrequited Etude,All,1 Hit,---
+,,Attack,Single,1-Hit,---,,,Stunning Strike,All,1 Hit,---
+,,Lunge,Single,1-Hit,---,,,Drunken Blade,All,1 Hit,---
+,,Double Strike,Single,2-Hit,---,,,Guillotine,All,1 Hit,High damage attack
+,,Repeated Thrust,Single,2-Hit,---,,,Baleful Blade,All,1 Hit,High damage attack
+,,Triple Attack,Single,3-Hit,---,,,Double Spear,All,2 Hit,---
+,,Poison Strike,Single,1-Hit,Status Effect: Poison (2 turns),,,,,,
+,,Blinding Charge,Single,2-Hit,Status Effect: Blind (2 turns),,,Hya!,Single,1 Hit,---
+,,Double Blessed Spear,Single,2-Hit,Buff: Elemental Defense (2 turns),,,Stab,Single,1 Hit,---
+,,Attack All,All,1-Hit,---,,,Exploit Weakness,Single,1 Hit,---
+,,Mighty Lunge,All,1-Hit,---,,,High Thrust,Single,1 Hit,---
+,,Mighty Charge (All),All,1-Hit,---,,,Mighty Blow,Single,1 Hit,---
+,,Double Attack All,All,2-Hit,---,,,Peerless Strike,Single,1 Hit,High damage attack
+,,Triple Attack All,All,3-Hit,---,,,Hya! Hya!,Single,2 Hit,---
+,,Double-blind Attack (All),All,2-Hit,Status Effect: Blind (2 turns),,,Repeated Strike,Single,2 Hit,---
+,,Soporific Strike (All),All,1-Hit,Status Effect: Sleep (2 turns),,,Lightning Strike,Single,2 Hit,Buff (all): Speed (3 turns)
+,,Fell Swoop (All),All,1-Hit,"Buff: Physical Attack, Elemental Attack (2 turns)",,,Hya! Hya! Hya!,Single,3 Hit,---
+,,Hurricane Lunge (All),All,1-Hit,Buff: Speed (2 turns),,,Whirlwind Strike,Single,5 Hit,---
+,,,,,,,,Thrash,All,1 Hit,---
+,,Attack,Single,1-Hit,---,,,,,,
+,,Stab,Single,1-Hit,---,,,Slash,Single,1 Hit,---
+,,Bite,Single,1-Hit,---,,,Exploit Weakness,Single,1 Hit,---
+,,Double Strike,Single,2-Hit,---,,,Poison Slash,Single,1 Hit,Status Effect: Poison (2-5 turns)
+,,Double Stab,Single,2-Hit,---,,,Blinding Slash,Single,1 Hit,Status Effect: Blind (2-5 turns)
+,,Triple Attack,Single,3-Hit,---,,,Slumber Slash,Single,1 Hit,Status Effect: Sleep (2-5 turns)
+,,Venomous Fang,Single,1-Hit,Status Effect: Poison (2 turns),,,Panic Slash,Single,1 Hit,Status Effect: Confuse (2-5 turns)
+,,Soporific Fang,Single,1-Hit,Status Effect: Sleep (2 turns),,,Dagger Storm,Multi,2-4 Hit,---
+,,Attack All,All,1-Hit,---,,,Brush Toss,Multi,2-4 Hit,---
+,,Mighty Stab,All,1-Hit,---,,,Sculpture Toss,Multi,2-4 Hit,---
+,,Double Attack All,All,2-Hit,---,,,,,,
+,,Mighty Double Stab,All,2-Hit,---,,,Head Bash,Single,1 Hit,---
+,,Soporific Fang (All),All,1-Hit,Status Effect: Sleep (2 turns),,,Brain Bash,Single,1 Hit,---
+,,Befuddling Fang (All),All,1-Hit,Status Effect: Confuse (2 turns),,,Mighty Blow,Single,1 Hit,---
+,,Wreak Havoc (All),All,1-Hit,Buff: Physical Attack (2 turns),,,Overhead Swing,Single,1 Hit,High damage attack
+,,,,,,,,Cleave in Two,Single,1 Hit,High damage attack
+,,Chop,Single,1-Hit,---,,,Crush and Grind,Single,1 Hit,High damage attack
+,,Triple Attack,Single,3-Hit,---,,,Shatter and Smash,Single,1 Hit,High damage attack
+,,Double Armor Crush,Single,2-Hit,Debuff: Physical Defense (2 turns),,,Manure Toss,Single,1 Hit,Status Effect: Poison (2-5 turns)
+,,Double Guard Break,Single,2-Hit,Debuff: Elemental Defense (2 turns),,,Thrash,All,1 Hit,---
+,,Bulwark Axe,Single,1-Hit,Buff: Physical Defense (2 turns),,,Full Swing,All,1 Hit,---
+,,Guardian Axe,Single,1-Hit,Buff: Elemental Defense (2 turns),,,Champion's Cleave,All,1 Hit,Debuff: Physical Attack (2 turns)
+,,Retaliative Axe,Single,1-Hit,Buff: Counter Physical Damage (2 stack),,,,,,
+,,Mighty Chop,All,1-Hit,---,,,Pointed Shot,Single,1 Hit,---
+,,Triple Attack All,All,3-Hit,---,,,Poison Arrow,Single,1 Hit,Status Effect: Poison (2-5 turns)
+,,,,,,,,Blinding Arrow,Single,1 Hit,Status Effect: Blind (2-5 turns)
+,,Attack,Single,1-Hit,---,,,Slumber Arrow,Single,1 Hit,Status Effect: Sleep (2-5 turns)
+,,Shoot,Single,1-Hit,---,,,Panic Arrow,Single,1 Hit,Status Effect: Confuse (2-5 turns)
+,,Double Strike,Single,2-Hit,---,,,Arrowstorm,Multi,1-3 Hit,---
+,,Triple Attack,Single,3-Hit,---,,,Flurry,All,2-4 Hit,---
+,,Poison Shot,Single,1-Hit,Status Effect: Poison (2 turns),,,,,,
+,,Blinding Shot,Single,1-Hit,Status Effect: Blind (2 turns),,,Pummel,Single,1 Hit,---
+,,Double Elemental Arrow Dance,Single,2-Hit,Buff: Elemental Attack (2 turns),,,Clenched Fist,Single,1 Hit,---
+,,Attack All,All,1-Hit,---,,,Punch,Single,1 Hit,---
+,,Double Attack All,All,2-Hit,---,,,Kick,Single,1 Hit,---
+,,Triple Attack All,All,3-Hit,---,,,Mighty Blow,Single,1 Hit,---
+,,Blinding Shot (All),All,1-Hit,Status Effect: Blind (2 turns),,,,,,
+,,Soporific Shot (All),All,1-Hit,Status Effect: Sleep (2 turns),,,Fireball,All,1 Hit,---
+,,Befuddling Shot (All),All,1-Hit,Status Effect: Confusion (2 turns),,,Rare,All,1 Hit,---
+,,Endanger Life (All),All,1-Hit,"Debuff: Physical Attack, Speed (2 turns)",,,Fire Storm,All,2 Hit,---
+,,,,,,,,Flambé,All,2 Hit,---
+,,Attack,Single,1-Hit,---,,,Well Done,All,2 Hit,---
+,,Double Strike,Single,2-Hit,---,,,Ignis Ardere,All,3 Hit,---
+,,Triple Attack,Single,3-Hit,---,,,,,,
+,,Double Body Press,Single,2-Hit,Status Effect: Confuse (2 turns),,,Concoct: Freezing Agent,Single,1 Hit,---
+,,Double Rapid Staff Dance,Single,2-Hit,Buff: Speed (2 turns),,,Icewind,All,1 Hit,---
+,,Convincing Blow,Single,1-Hit,Buff: Critical (2 turns),,,Ice Storm,All,2 Hit,---
+,,Attack All,All,1-Hit,---,,,Glacies Claudere,All,3 Hit,---
+,,Double Attack All,All,2-Hit,---,,,,,,
+,,Enraged Bash (All),All,2-Hit,---,,,Lightning Bolt,All,1 Hit,---
+,,Triple Attack All,All,3-Hit,---,,,Lightning Storm,All,2 Hit,---
+,,Sand Strike (All),All,1-Hit,Status Effect: Blind (2 turns),,,Tonitrus Canere,All,3 Hit,---
+,,Sandstorm Slash (All),All,1-Hit,"Debuff: Physical Attack, Elemental Attack (2 turns)",,,,,,
+,,,,,,,,Wind Blast,All,1 Hit,---
+,,Incinerate,Single,1-Hit,---,,,Ventus Saltare,All,3 Hit,---
+,,Incinerate (All),All,1-Hit,---,,,Summon Winds,All,3 Hit,---
+,,Crimson Flame (All),All,1-Hit,"Debuff: Physical Attack, Physical Defense (2 turns)",,,,,,
+,,Inferno Clock (All),All,2-Hit,"Buff: Physical Defense, Elemental Defense (2 turns)",,,Luminescence,All,1 Hit,---
+,,,,,,,,Lux Congerere,All,3 Hit,---
+,,Freeze,Single,1-Hit,---,,,,,,
+,,Ice Floe,Single,2-Hit,---,,,Black Magic,All,1 Hit,---
+,,Toxic Ice,Single,1-Hit,Status Effect: Poison (2 turns),,,Tenebrae Operire,All,3 Hit,---
+,,Freeze (All),All,1-Hit,---,,,,,,
+,,Ice Floe (All),All,2-Hit,---,,,Bottle Toss,Single,1 Hit,---
+,,Blizzard Breath (All),All,1-Hit,Debuff: Elemental Attack (2 turns),,,Bouquet Toss,Single,1 Hit,---
+,,Icy Breath (All),All,1-Hit,Debuff: Elemental Defense (2 turns),,,Palette Toss,Single,1 Hit,---
+,,Diamond Clock (All),All,1-Hit,"Buff: Physical Defense, Elemental Defense (2 turns)",,,Textbook Toss,Single,1 Hit,---
+,,,,,,,,Tome Toss,Single,1 Hit,---
+,,Electrocute,Single,1-Hit,---,,,Toss Diary,Single,1 Hit,---
+,,Shock Stream,Single,2-Hit,---,,,Rag Toss,Single,1 Hit,Status Effect: Poison (2-5 turns)
+,,Warding Thunder,Single,1-Hit,Buff: Physical Attack (2 turns),,,Sand Toss,Single,1 Hit,Status Effect: Blind (2-5 turns)
+,,Electrocute (All),All,1-Hit,---,,,Grog Spit,Single,2-4 Hit,Status Effect: Confuse (2-5 turns)
+,,Befuddling Spark (All),All,1-Hit,Status Effect: Confuse (2 turns),,,Hurl Diary,All,1 Hit,---
+,,Vortex Clock (All),All,1-Hit,"Buff: Physical Defense, Elemental Defense (2 turns)",,,Tome Tempest,All,1 Hit,---
+,,,,,,,,Concoct Explosive,All,1 Hit,---
+,,Wind Slash,Single,1-Hit,---,,,,,,
+,,Thousand Scythes,Single,1-Hit,---,,,Prayer,Single,---,Restore 300 HP
+,,Toxic Wind,Single,1-Hit,Status Effect: Poison (2 turns),,,Healing Grape,Single,---,Restore 500 HP
+,,Soporific Wind,Single,1-Hit,Status Effect: Sleep (2 turns),,,Ali's Baked Goods,Single,---,Restore 500 HP
+,,Wind Slash (All),All,1-Hit,---,,,Fresh from the Oven,Single,---,Restore 500 HP
+,,Butterfly Effect (All),All,1-Hit,Status Effect: Sleep (2 turns),,,Restore Health,Single,---,Restore 500 HP
+,,Crushing Wing (All),All,1-Hit,Debuff: Physical Defense (2 turns),,,Healing Grape (M),Single,---,Restore 1750 HP
+,,Tempest Clock (All),All,1-Hit,"Buff: Physical Defense, Elemental Defense (2 turns)",,,Health for All,All,---,Restore 500 HP
+,,,,,,,,More Health for All,All,---,Restore 1000 HP
+,,Luminescence,Single,1-Hit,---,,,Full Recover,All,---,Restore 1500 HP
+,,Light Stream,Single,2-Hit,---,,,Gentle Cradle,All,---,Restore 1500 HP
+,,Luminescence (All),All,1-Hit,---,,,Concoct Panacea,All,---,Restore 9999 HP
+,,Solar Clock (All),All,1-Hit,"Buff: Physical Defense, Elemental Defense (2 turns)",,,,,,
+,,,,,,,,Inspiriting Plum,Single,---,Restore 40 SP
+,,Enshadow,Single,1-Hit,---,,,Deep Breath,All,---,Restore 25 SP
+,,Shadow Stream,Single,2-Hit,---,,,Exotic Spices,All,---,Restore 40 SP
+,,Enshadow (All),All,1-Hit,---,,,Focus Spirit,All,---,Restore 50 SP
+,,Eclipse Clock (All),All,1-Hit,"Buff: Physical Defense, Elemental Defense (2 turns)",,,,,,
+,,,,,,,,Awaken,Single,---,Heal Status Effect: Sleep
+,,Restore Health,Single,---,Restore 500 HP (+500 HP * BP),,,Cure Blindness,Single,---,Heal Status Effect: Blind
+,,Restore Great Health,Single,---,Restore 1000 HP (+1000 HP * BP),,,Cure Poison,Single,---,Heal Status Effect: Poison
+,,Continual Light (HP),Single,---,"Restore 1000 HP (+1000 HP * BP), Buff: HP Regen (2 turns)",,,Cure Silence,Single,---,Heal Status Effect: Silence
+,,Millennial Frond,Single,---,"Restore 1000 HP (+1000 * BP), 
+Buff: Physical Attack, Elemental Attack (2 turns)",,,Panacea,Single,---,Heal All bad Status Effects
+,,,,,,,,,,,
+,,Grooming (All),All,---,Restore 500 HP (+500 HP * BP),,,Poison,Single,---,Status Effect: Poison (2-5 turns)
+,,Great Healing Mist,All,---,Restore 1000 HP (+1000 HP * BP),,,Concoct Poison (Zeph),Single,---,Status Effect: Poison (3 turns)
+,,Incredible Heal (All),All,---,"Restore 2000 HP (+2000 HP * BP), Buff: HP Regen (2 turns)",,,Concoct Poison (Vanessa Hysel),Single,---,Status Effect: Poison (4-6 turns)
+,,Continual Light (SP) (All),All,---,"Restore 25 SP (+25 SP * BP), Buff: SP Regen (2 turns)",,,Blinding Dust,Single,---,Status Effect: Blind (2-5 turns)
+,,,,,,,,Sleepweed,Single,---,Status Effect: Sleep (2-5 turns)
+,,Toxic Mist (All),All,---,Status Effect: Poison (4 turns),,,Shady Substance,Single,---,Status Effect: Sleep (2-5 turns)
+,,Blinding Mist (All),All,---,Status Effect: Blind (4 turns),,,Concoct Sedative,Single,---,Status Effect: Sleep (4-6 turns)
+,,Rainbow Flash (All),All,---,Status Effect: Blind (6 turns),,,Befuddling Balm,Single,---,Status Effect: Confuse (2-5 turns)
+,,Slumber Wave (All),All,---,Status Effect: Sleep (4 turns),,,Poison Dust,All,---,Status Effect: Poison (3 turns)
+,,Soporific Mist (All),All,---,Status Effect: Sleep (6 turns),,,Dump Flour,All,---,Status Effect: Blind (2-5 turns)
+,,Crimson Powder (All),All,---,"Status Effect: Poison, Sleep (6 turns)",,,Blinding Dust (AOE),All,---,Status Effect: Blind (3-5 turns)
+,,Vorpal Claw (All),All,---,Status Effects: Instant kill (doesn't work on Bosses and NPC),,,Befuddling Dust,All,---,Status Effect: Confuse (2-5 turns)
+,,,,,,,,Noisome Breath,All,---,"Status Effect: Poison, Dark, Confuse (2-5 turns)"
+,,Acid Blue,Single,---,"Debuff: Physical Attack, Elemental Attack (2 turns)",,,,,,
+,,Black Bile,Single,---,"Debuff: Physical Attack, Physical Defense (4 turns)",,,Offense Down,Single,---,"Debuff: Physical Attack, Elemental Attack (3 turns)"
+,,Red Bile,Single,---,"Debuff: Elemental Attack, Elemental Defense (4 turns)",,,Boorish Behavior,Single,---,Debuff: Physical Defense (3 turns)
+,,Viscous Bile,Single,---,"Debuff: Elemetal Attack, Elemental Defense, Speed (6 turns)",,,Defense Down,Single,---,"Debuff: Physical Defense, Elemental Defense (3 turns)"
+,,Horrible Breath (All),All,---,"Debuff: Physical Defense, Elemental Defense, Speed
+Status Effect: Poison, Sleep
+(9 turns for all effect)",,,Extort,Single,---,"Debuff: Physical Defense, Elemental Defense (3 turns)"
+,,,,,,,,Inhibit Offense,All,---,"Debuff: Physical Attack, Elemental Attack (3 turns)"
+,,,,,,,,Inhibit Defense,All,---,"Debuff: Physical Defense, Elemental Defense (3 turns)"
+,,,,,,,,Physical Degradation,All,---,"Debuff: Physical Attack, Physical Defense (3 turns)"
+,,Steel Defenses,Single,---,"Buff: Physical Defense, Elemental Defense (2 turns + 1*BP)",,,Mental Degradation,All,---,"Debuff: Elemental Attack, Elemental Defense (3 turns)"
+,,Physical Boost,Single,---,"Buff: Physical Attack, Physical Defense (2 turns + 1*BP)",,,Full Enfeeblement,All,---,"Debuff: Physical Attack, Physical Defense, Elemental Attack, Elemental Defense (3 turns)"
+,,Mental Boost,Single,---,"Buff: Elemental Attack, Elemental Defense (2 turns + 1*BP)",,,Slow Motion,All,---,Debuff: Slow (3 turns)
+,,Impact Clock,Single,1-Hit,"Buff: Physical Attack, Physical Defense,
+Elemental Attack, Elemental Defense, Speed
+(2 turns + 1*BP)",,,,,,
+,,,,,,,,Cheer On,Single,---,Buff: Physical Attack (3 turns)
+,,,,,,,,Sharpen,Single,---,Buff: Physical Attack (3 turns)
+,,Retaliative Posture,Single,---,"Buff: Physical Defense (2 turns),
+Counter Physical (1 stack + 1*BP)",,,Questionable Substance,Single,---,Buff: Physical Attack (3 turns)
+,,,,,,,,Encourage,Single,---,Buff: Physical Defense (3 turns)
+,,Mental Boost (All),All,---,"Buff: Elemental Attack, Elemental Defense (2 turns + 1*BP)",,,Attacking Posture,Single,---,"Buff: Physical Attack, Elemental Attack (3 turns)"
+,,,,,,,,Spirited Dance,Single,---,"Buff: Physical Attack, Elemental Attack (3 turns)"
+,,Luck of the Cait,"Apply 1 of the effect below, each boost point adds 1 additional effect",,,,,Defensive Posture,Single,---,"Buff: Physical Defense, Elemental Defense (3 turns)"
+,,,Offense/Defense Cross,,,,,Wisdom of the Church,Single,---,"Buff: Physical Attack, Physical Defense, Elemental Attack, Elemental Defense (3 turns)"
+,,,All,"Buff: Physical Attack, Physical Defense,
+Elemental Attack, Elemental Defense (2 turns + 1*BP)",,,,Concoct Stimulant,All,---,Buff: Physical Attack (4 turns)
+,,,,,,,,Improved Offense,All,---,"Buff: Physical Attack, Elemental Attack (3 turns)"
+,,,Heterogeneous Cross,,,,,Steel Defenses,All,---,"Buff: Physical Defense, Elemental Defense (3 turns)"
+,,,All,"Buff: Accuracy, Evasion, Speed, Critical
+(2 turns + 1*BP)",,,,Physical Boost,All,---,"Buff: Physical Attack, Physical Defense (3 turns)"
+,,,,,,,,Mental Augmentation,All,---,"Buff: Elemental Attack, Elemental Defense (3 turns)"
+,,,Offense/Defense Break,,,,,Focus,All,---,"Buff: Physical Attack, Physical Defense, Elemental Defense (2 turns)"
+,,,All,"Debuff: Physical Attack, Physical Defense,
+Elemental Attack, Elemental Defense (2 turns + 1*BP)",,,,Hearty Encouragement,All,---,"Buff: Physical Attack, Physical Defense, Elemental Attack, Elemental Defense (3 turns)"
+,,,,,,,,Speed Enhancement,All,---,Buff: Speed (3 turns)
+,,,Heterogeneous Break,,,,,Critical Eye,All,---,Buff: Critical (3 turns)
+,,,All,"Debuff: Accuracy, Evasion, Speed, Critical
+(2 turns + 1*BP)",,,,,,,
+,,,,,,,,Too wounded to move...,---,---,Skip turn
+,,,,,,,,,,,
+,,Deluxe Luck of the Cait,"Apply 1 of the effect below, each boost point adds 1 additional effect",,,,,,,,
+,,,Grape Harvest,,,,,,,,
+,,,All,Restore 1111 / 3333 (1 BP) / 5555 (2 BP) / 7777 (3 BP) HP,,,,,,,
+,,,Plum Harvest,,,,,,,,
+,,,All,Restore 7 / 77 (1 BP) / 177 (2 BP) / 777 (3 BP) SP,,,,,,,
+,,,Pomegranate Harvest,,,,,,,,
+,,,All,Restore 1 BP (+1*BP),,,,,,,
+,,,Jam Factory,,,,,,,,
+,,,All,"Buff: HP Regen, SP Regen, BP Regen (2 turns + 1*BP)",,,,,,,
+,,,,,,,,,,,
+,,Supreme Luck of the Cait,"Apply 1 of the effect below, each boost point adds 1 additional effect",,,,,,,,
+,,,Opulent Olive,,,,,,,,
+,,,All,Revive and Restore 1111 / 3332 (1 BP) / 5554 (2 BP) / 7776 (3 BP) HP,,,,,,,
+,,,Lap of Luxury,,,,,,,,
+,,,All,Buff: Invincibity (2 turns + 1*BP),,,,,,,
+,,,Opulent Trio,,,,,,,,
+,,,All,"Buff: Counter Physical, Reflect Magic (2 stack + 1*BP)
+Buff: Auto Revive (25% HP)",,,,,,,
+,,,,,,,,,,,
+,,,Opulent Restorative,,,,,,,,
+,,,All,"Cancel all negative Status Effect and Debuff on your party
+Cancel all positive Buff on enemies
+Buff: Celestial Intervention (2 turns + 1*BP)",,,,,,,

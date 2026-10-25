@@ -1,0 +1,9068 @@
+{
+  "lastUpdated": "2026-10-24T15:03:11.771Z",
+  "currentZoneId": 90,
+  "currentZoneName": "Western Wispermill Flats",
+  "currentLevelName": "F_Plain_3_1",
+  "party": [
+    {
+      "id": 7,
+      "name": "Alfyn"
+    },
+    {
+      "id": 5,
+      "name": "Therion"
+    },
+    {
+      "id": 6,
+      "name": "Ophilia"
+    },
+    {
+      "id": 0,
+      "name": "Olberic"
+    }
+  ],
+  "stats": {
+    "playTimeSeconds": 247514,
+    "playTimeFormatted": "68h 45m",
+    "battleCount": 976,
+    "totalLeaf": 3508175,
+    "strategist": {
+      "current": 137,
+      "total": 381
+    },
+    "treasureHunter": {
+      "current": 516,
+      "total": 734
+    },
+    "eagleEyed": {
+      "current": 137,
+      "total": 152
+    },
+    "globetrotter": {
+      "current": 169,
+      "total": 177
+    },
+    "collector": {
+      "current": 506,
+      "total": 580
+    },
+    "worthYourSalt": {
+      "completed": 100,
+      "inProgress": 1,
+      "total": 101
+    }
+  },
+  "monsters": {
+    "1": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "dagger": false,
+        "bow": false,
+        "light": false
+      }
+    },
+    "2": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "dagger": false,
+        "bow": false,
+        "light": true
+      }
+    },
+    "3": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "bow": false,
+        "dark": false
+      }
+    },
+    "4": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "wind": true,
+        "bow": true,
+        "light": true
+      }
+    },
+    "5": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "wind": true,
+        "bow": true,
+        "light": true
+      }
+    },
+    "6": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "axe": false,
+        "dark": false
+      }
+    },
+    "7": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "lightning": true,
+        "light": true,
+        "staff": false
+      }
+    },
+    "8": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "revealedByKey": {
+        "polearm": true,
+        "lightning": true,
+        "light": false,
+        "staff": false
+      }
+    },
+    "9": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "dagger": false,
+        "dark": false
+      }
+    },
+    "10": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "axe": false,
+        "dark": false
+      }
+    },
+    "11": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "dagger": false,
+        "wind": false,
+        "bow": false,
+        "dark": false
+      }
+    },
+    "12": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "polearm": false,
+        "light": false
+      }
+    },
+    "13": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "dagger": false,
+        "axe": false
+      }
+    },
+    "14": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "fire": true,
+        "polearm": false,
+        "axe": true
+      }
+    },
+    "15": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "ice": false,
+        "lightning": false,
+        "axe": false
+      }
+    },
+    "17": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "fire": false,
+        "wind": true
+      }
+    },
+    "18": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "fire": true,
+        "polearm": true,
+        "wind": true,
+        "bow": true
+      }
+    },
+    "19": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "light": false
+      }
+    },
+    "20": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": true,
+        "dagger": true,
+        "wind": true,
+        "bow": true,
+        "dark": true
+      }
+    },
+    "21": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "axe": true,
+        "dark": true
+      }
+    },
+    "22": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "polearm": false,
+        "light": true
+      }
+    },
+    "24": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "polearm": true,
+        "ice": true,
+        "axe": false
+      }
+    },
+    "25": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "polearm": false,
+        "axe": false,
+        "light": false
+      }
+    },
+    "26": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": true,
+        "dagger": true,
+        "wind": true,
+        "bow": true
+      }
+    },
+    "27": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "polearm": true,
+        "light": true
+      }
+    },
+    "28": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "dagger": false,
+        "axe": true
+      }
+    },
+    "29": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "dagger": false,
+        "wind": false,
+        "dark": false
+      }
+    },
+    "30": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "dagger": false,
+        "wind": false,
+        "dark": false
+      }
+    },
+    "31": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "dagger": false,
+        "lightning": false,
+        "dark": false
+      }
+    },
+    "32": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "dagger": true,
+        "lightning": true,
+        "axe": true,
+        "light": true
+      }
+    },
+    "33": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        true,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "dagger": true,
+        "lightning": false,
+        "axe": true,
+        "light": false
+      }
+    },
+    "34": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "fire": true,
+        "polearm": true,
+        "axe": false
+      }
+    },
+    "35": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "axe": false,
+        "wind": false,
+        "light": false
+      }
+    },
+    "36": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "axe": false,
+        "wind": false,
+        "light": false
+      }
+    },
+    "37": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "fire": true,
+        "polearm": false,
+        "axe": false
+      }
+    },
+    "38": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "ice": true,
+        "dagger": true,
+        "wind": true,
+        "staff": true
+      }
+    },
+    "39": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "ice": false,
+        "dagger": false,
+        "wind": false,
+        "staff": false
+      }
+    },
+    "40": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "lightning": true,
+        "axe": true
+      }
+    },
+    "41": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "fire": true,
+        "bow": false,
+        "staff": false
+      }
+    },
+    "42": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "fire": true,
+        "axe": true
+      }
+    },
+    "43": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "bow": false,
+        "dark": false
+      }
+    },
+    "44": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": true,
+        "lightning": true,
+        "bow": true
+      }
+    },
+    "45": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "fire": true,
+        "dagger": true
+      }
+    },
+    "46": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "lightning": false,
+        "axe": false,
+        "dark": false
+      }
+    },
+    "48": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "lightning": true,
+        "axe": false
+      }
+    },
+    "50": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "fire": false,
+        "dagger": false,
+        "staff": false
+      }
+    },
+    "51": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "fire": false,
+        "bow": false,
+        "staff": false
+      }
+    },
+    "52": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        true,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "axe": true,
+        "staff": false
+      }
+    },
+    "53": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "axe": false,
+        "light": true
+      }
+    },
+    "54": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "dagger": false,
+        "bow": false,
+        "staff": true
+      }
+    },
+    "55": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "fire": true,
+        "axe": false
+      }
+    },
+    "56": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": true,
+        "lightning": true,
+        "bow": true
+      }
+    },
+    "57": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "bow": true,
+        "dark": true
+      }
+    },
+    "58": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        true,
+        false
+      ],
+      "revealedByKey": {
+        "dagger": true,
+        "lightning": false,
+        "axe": true
+      }
+    },
+    "59": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "ice": true,
+        "wind": true
+      }
+    },
+    "60": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "fire": false,
+        "dagger": false,
+        "axe": false
+      }
+    },
+    "61": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "dagger": false,
+        "lightning": false,
+        "light": false,
+        "staff": false
+      }
+    },
+    "62": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "axe": false,
+        "wind": false,
+        "light": false,
+        "staff": false
+      }
+    },
+    "63": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": true,
+        "lightning": true,
+        "bow": true
+      }
+    },
+    "64": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "fire": true,
+        "axe": true
+      }
+    },
+    "65": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "ice": true,
+        "dagger": true,
+        "dark": true
+      }
+    },
+    "66": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "ice": false,
+        "dagger": true,
+        "dark": true
+      }
+    },
+    "67": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "dagger": false,
+        "lightning": true,
+        "dark": true
+      }
+    },
+    "68": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "ice": true,
+        "dagger": false,
+        "axe": true,
+        "wind": true
+      }
+    },
+    "69": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "ice": false,
+        "dagger": false,
+        "axe": false,
+        "wind": false
+      }
+    },
+    "70": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "dagger": false,
+        "lightning": false
+      }
+    },
+    "71": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "ice": false,
+        "bow": false,
+        "dark": false
+      }
+    },
+    "72": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "ice": true,
+        "bow": true,
+        "dark": true
+      }
+    },
+    "73": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "dagger": true,
+        "lightning": true,
+        "staff": true
+      }
+    },
+    "74": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "ice": false,
+        "dark": false
+      }
+    },
+    "75": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        false
+      ],
+      "revealedByKey": {
+        "ice": true,
+        "dark": false
+      }
+    },
+    "76": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": true,
+        "axe": true,
+        "wind": true,
+        "light": true
+      }
+    },
+    "77": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": true,
+        "ice": true,
+        "wind": true
+      }
+    },
+    "78": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "fire": true
+      }
+    },
+    "79": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": true,
+        "staff": true,
+        "dark": true
+      }
+    },
+    "81": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "bow": true
+      }
+    },
+    "83": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": true,
+        "bow": true
+      }
+    },
+    "84": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "axe": true,
+        "dark": true
+      }
+    },
+    "85": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": true,
+        "ice": true,
+        "dark": true
+      }
+    },
+    "86": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "dagger": true,
+        "lightning": true
+      }
+    },
+    "87": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": true,
+        "ice": true,
+        "wind": true
+      }
+    },
+    "88": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": true,
+        "axe": true,
+        "wind": true,
+        "light": true
+      }
+    },
+    "89": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "fire": true,
+        "axe": true
+      }
+    },
+    "90": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "ice": false,
+        "wind": false
+      }
+    },
+    "91": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "ice": false,
+        "wind": false
+      }
+    },
+    "92": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "ice": false,
+        "wind": false
+      }
+    },
+    "93": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "ice": false,
+        "staff": false
+      }
+    },
+    "94": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "ice": false,
+        "staff": false
+      }
+    },
+    "96": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "polearm": true,
+        "ice": true,
+        "bow": true
+      }
+    },
+    "97": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "axe": true
+      }
+    },
+    "98": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": true,
+        "wind": true,
+        "bow": false
+      }
+    },
+    "99": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "fire": true,
+        "axe": true,
+        "light": true,
+        "staff": true
+      }
+    },
+    "100": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "revealedByKey": {
+        "fire": true,
+        "axe": true,
+        "light": false,
+        "staff": true
+      }
+    },
+    "101": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "ice": true,
+        "wind": true
+      }
+    },
+    "102": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "fire": false,
+        "axe": false,
+        "light": true,
+        "staff": false
+      }
+    },
+    "103": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "ice": false,
+        "lightning": false,
+        "axe": false
+      }
+    },
+    "104": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "ice": false,
+        "dagger": false,
+        "axe": false,
+        "dark": true
+      }
+    },
+    "105": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "ice": false,
+        "lightning": false,
+        "staff": false,
+        "dark": false
+      }
+    },
+    "106": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "dagger": false,
+        "lightning": false
+      }
+    },
+    "107": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "fire": true,
+        "lightning": true,
+        "axe": true,
+        "staff": true
+      }
+    },
+    "108": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "fire": true,
+        "lightning": true,
+        "axe": true,
+        "staff": true
+      }
+    },
+    "109": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "lightning": true,
+        "staff": true,
+        "dark": true
+      }
+    },
+    "110": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "fire": true,
+        "dagger": true,
+        "axe": true,
+        "staff": true
+      }
+    },
+    "111": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "fire": true,
+        "dagger": false,
+        "axe": true,
+        "staff": false
+      }
+    },
+    "112": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "bow": true,
+        "staff": true,
+        "dark": true
+      }
+    },
+    "113": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "fire": true,
+        "polearm": true,
+        "dagger": true
+      }
+    },
+    "114": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "fire": true,
+        "polearm": true,
+        "dagger": true
+      }
+    },
+    "115": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "bow": true,
+        "staff": true,
+        "dark": true
+      }
+    },
+    "116": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "fire": true,
+        "lightning": true,
+        "axe": false,
+        "staff": true
+      }
+    },
+    "117": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "fire": false,
+        "light": false
+      }
+    },
+    "118": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": true,
+        "axe": true,
+        "wind": true
+      }
+    },
+    "119": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "dagger": false,
+        "bow": false,
+        "staff": false
+      }
+    },
+    "120": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "lightning": false,
+        "axe": false,
+        "bow": false,
+        "light": false,
+        "dark": false
+      }
+    },
+    "121": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "fire": true,
+        "bow": true,
+        "dark": true
+      }
+    },
+    "123": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "ice": true,
+        "axe": true,
+        "light": true,
+        "staff": true
+      }
+    },
+    "124": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": true,
+        "bow": true
+      }
+    },
+    "125": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": true,
+        "axe": true,
+        "wind": true
+      }
+    },
+    "126": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "lightning": false,
+        "bow": false,
+        "staff": false,
+        "dark": false
+      }
+    },
+    "127": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "fire": true,
+        "axe": true,
+        "staff": true
+      }
+    },
+    "128": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "fire": true,
+        "bow": false,
+        "light": true
+      }
+    },
+    "129": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "fire": true,
+        "bow": true,
+        "light": true
+      }
+    },
+    "130": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "bow": false,
+        "staff": false,
+        "dark": false
+      }
+    },
+    "131": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "bow": false,
+        "staff": false,
+        "dark": false
+      }
+    },
+    "132": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "polearm": true,
+        "wind": true,
+        "bow": false
+      }
+    },
+    "133": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "polearm": false,
+        "wind": false,
+        "bow": false
+      }
+    },
+    "134": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "dagger": true,
+        "lightning": true,
+        "dark": true
+      }
+    },
+    "135": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "axe": false,
+        "wind": false
+      }
+    },
+    "136": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": true,
+        "lightning": true,
+        "staff": true
+      }
+    },
+    "137": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "dagger": false,
+        "wind": false,
+        "bow": false
+      }
+    },
+    "138": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "fire": false,
+        "polearm": false,
+        "wind": false,
+        "bow": false
+      }
+    },
+    "139": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "fire": false,
+        "dagger": false,
+        "lightning": false
+      }
+    },
+    "140": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "wind": false
+      }
+    },
+    "141": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "lightning": false,
+        "bow": false,
+        "dark": false
+      }
+    },
+    "142": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "wind": true,
+        "bow": true
+      }
+    },
+    "143": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "revealedByKey": {
+        "fire": true,
+        "axe": true,
+        "light": false,
+        "staff": true
+      }
+    },
+    "144": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true
+      ],
+      "revealedByKey": {
+        "axe": true
+      }
+    },
+    "145": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "polearm": true,
+        "ice": true,
+        "bow": true
+      }
+    },
+    "146": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "lightning": false,
+        "axe": true,
+        "light": true,
+        "staff": true
+      }
+    },
+    "147": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "ice": true,
+        "bow": true,
+        "light": true
+      }
+    },
+    "148": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        true,
+        false
+      ],
+      "revealedByKey": {
+        "ice": true,
+        "bow": true,
+        "light": false
+      }
+    },
+    "149": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "ice": true,
+        "axe": true,
+        "staff": true
+      }
+    },
+    "150": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "ice": true,
+        "dagger": true,
+        "light": true
+      }
+    },
+    "151": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "ice": false,
+        "dagger": true,
+        "light": true
+      }
+    },
+    "152": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "ice": false,
+        "axe": false,
+        "bow": false
+      }
+    },
+    "153": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "ice": true,
+        "dagger": true,
+        "staff": true,
+        "dark": true
+      }
+    },
+    "154": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "ice": true,
+        "dagger": true,
+        "staff": true,
+        "dark": true
+      }
+    },
+    "155": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "dagger": true,
+        "lightning": true,
+        "bow": true
+      }
+    },
+    "156": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        true,
+        false
+      ],
+      "revealedByKey": {
+        "bow": false,
+        "staff": true,
+        "dark": false
+      }
+    },
+    "157": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "lightning": false,
+        "light": false
+      }
+    },
+    "158": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "bow": true,
+        "dark": true
+      }
+    },
+    "159": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": true,
+        "dagger": true,
+        "wind": true,
+        "bow": false
+      }
+    },
+    "160": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "light": false
+      }
+    },
+    "161": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "ice": false
+      }
+    },
+    "163": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "lightning": true,
+        "axe": true,
+        "dark": true
+      }
+    },
+    "164": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": true,
+        "bow": true
+      }
+    },
+    "165": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "dagger": true,
+        "light": true,
+        "staff": true
+      }
+    },
+    "166": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": true,
+        "lightning": true,
+        "staff": true
+      }
+    },
+    "167": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "bow": false,
+        "staff": false,
+        "dark": true
+      }
+    },
+    "168": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "dagger": false,
+        "wind": false,
+        "bow": false
+      }
+    },
+    "169": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "dagger": false,
+        "staff": false
+      }
+    },
+    "170": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "bow": true,
+        "dark": true
+      }
+    },
+    "171": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "dagger": false,
+        "wind": true,
+        "bow": true
+      }
+    },
+    "172": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "dagger": true,
+        "light": true
+      }
+    },
+    "173": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "dagger": true,
+        "lightning": true,
+        "axe": true,
+        "light": true,
+        "staff": true
+      }
+    },
+    "174": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "lightning": true,
+        "axe": true,
+        "light": true
+      }
+    },
+    "175": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        false,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "dagger": true,
+        "lightning": false,
+        "staff": false,
+        "dark": true
+      }
+    },
+    "176": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "ice": true,
+        "axe": true,
+        "dark": true
+      }
+    },
+    "177": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "ice": true,
+        "bow": true,
+        "dark": true
+      }
+    },
+    "178": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "ice": true,
+        "bow": true
+      }
+    },
+    "179": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        true,
+        false
+      ],
+      "revealedByKey": {
+        "ice": true,
+        "staff": false,
+        "dark": false
+      }
+    },
+    "180": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        true,
+        false
+      ],
+      "revealedByKey": {
+        "ice": true,
+        "staff": true,
+        "dark": false
+      }
+    },
+    "181": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "ice": false,
+        "axe": false
+      }
+    },
+    "182": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "wind": true,
+        "staff": true,
+        "dark": true
+      }
+    },
+    "183": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "wind": true,
+        "staff": true,
+        "dark": true
+      }
+    },
+    "184": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "ice": true,
+        "dagger": true,
+        "bow": true
+      }
+    },
+    "185": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "polearm": false,
+        "axe": true
+      }
+    },
+    "186": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "ice": true,
+        "dagger": true,
+        "dark": true
+      }
+    },
+    "187": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "ice": true,
+        "dagger": true,
+        "light": true
+      }
+    },
+    "188": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": true,
+        "ice": true,
+        "wind": true,
+        "bow": false
+      }
+    },
+    "189": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true
+      ],
+      "revealedByKey": {
+        "axe": true
+      }
+    },
+    "190": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "ice": false,
+        "wind": true,
+        "bow": false
+      }
+    },
+    "192": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": true,
+        "lightning": true,
+        "bow": true,
+        "light": true
+      }
+    },
+    "193": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": true,
+        "lightning": true,
+        "axe": true
+      }
+    },
+    "194": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "revealedByKey": {
+        "ice": true,
+        "dagger": true,
+        "wind": false,
+        "bow": true
+      }
+    },
+    "195": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "polearm": true,
+        "axe": true
+      }
+    },
+    "196": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        true,
+        false
+      ],
+      "revealedByKey": {
+        "fire": false,
+        "ice": true,
+        "dark": false
+      }
+    },
+    "197": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "polearm": false,
+        "axe": true,
+        "dark": false
+      }
+    },
+    "198": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "polearm": false,
+        "axe": false,
+        "dark": true
+      }
+    },
+    "199": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "ice": false,
+        "wind": false,
+        "bow": false
+      }
+    },
+    "200": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "axe": true,
+        "staff": true,
+        "dark": true
+      }
+    },
+    "201": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        true,
+        false
+      ],
+      "revealedByKey": {
+        "ice": true,
+        "dagger": false,
+        "light": false
+      }
+    },
+    "202": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "ice": true,
+        "wind": true,
+        "bow": false
+      }
+    },
+    "203": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "lightning": false,
+        "light": false
+      }
+    },
+    "204": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "light": false
+      }
+    },
+    "205": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "fire": true,
+        "polearm": true,
+        "lightning": true
+      }
+    },
+    "206": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "fire": true,
+        "polearm": true,
+        "lightning": true
+      }
+    },
+    "207": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "fire": true,
+        "wind": true
+      }
+    },
+    "208": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "fire": false,
+        "polearm": false,
+        "lightning": false,
+        "staff": false
+      }
+    },
+    "209": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "fire": false,
+        "polearm": false,
+        "lightning": false,
+        "staff": false
+      }
+    },
+    "210": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "fire": true,
+        "wind": true
+      }
+    },
+    "211": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "lightning": false,
+        "axe": false,
+        "bow": false
+      }
+    },
+    "212": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "lightning": true,
+        "axe": false,
+        "bow": true
+      }
+    },
+    "213": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "fire": false,
+        "polearm": false,
+        "lightning": true
+      }
+    },
+    "214": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "polearm": true,
+        "ice": true
+      }
+    },
+    "215": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "lightning": true,
+        "bow": true,
+        "dark": true
+      }
+    },
+    "216": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "wind": true
+      }
+    },
+    "217": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "dagger": true,
+        "axe": true,
+        "wind": true
+      }
+    },
+    "218": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "wind": false,
+        "bow": false
+      }
+    },
+    "219": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "lightning": false,
+        "axe": false,
+        "dark": false
+      }
+    },
+    "221": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "lightning": false,
+        "staff": false,
+        "dark": false
+      }
+    },
+    "222": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "dagger": false,
+        "lightning": false,
+        "axe": false
+      }
+    },
+    "223": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "axe": false,
+        "light": false
+      }
+    },
+    "224": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "fire": true,
+        "bow": true
+      }
+    },
+    "225": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "fire": true,
+        "bow": true
+      }
+    },
+    "226": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "bow": true
+      }
+    },
+    "227": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "fire": true,
+        "lightning": true,
+        "bow": true
+      }
+    },
+    "228": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "fire": true,
+        "polearm": true
+      }
+    },
+    "229": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "fire": true,
+        "polearm": true
+      }
+    },
+    "230": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "fire": true,
+        "polearm": true
+      }
+    },
+    "231": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "dagger": true,
+        "axe": false,
+        "wind": true
+      }
+    },
+    "232": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "wind": false
+      }
+    },
+    "233": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        false,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "polearm": false,
+        "lightning": true,
+        "bow": false
+      }
+    },
+    "234": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "fire": false,
+        "wind": false,
+        "dark": false
+      }
+    },
+    "235": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "dagger": true,
+        "axe": false,
+        "wind": true
+      }
+    },
+    "236": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "axe": false,
+        "wind": false
+      }
+    },
+    "237": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "lightning": true,
+        "bow": false,
+        "light": false
+      }
+    },
+    "238": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "revealedByKey": {
+        "polearm": true,
+        "lightning": true,
+        "bow": false,
+        "light": false
+      }
+    },
+    "239": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": true,
+        "lightning": false,
+        "light": true
+      }
+    },
+    "240": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "dagger": false,
+        "axe": false,
+        "wind": true
+      }
+    },
+    "241": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "wind": true,
+        "bow": true
+      }
+    },
+    "242": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "polearm": false,
+        "axe": true,
+        "light": false
+      }
+    },
+    "243": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "polearm": false,
+        "axe": false,
+        "light": false
+      }
+    },
+    "244": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "fire": false,
+        "polearm": false,
+        "dagger": true,
+        "dark": false
+      }
+    },
+    "245": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "polearm": true,
+        "lightning": true,
+        "axe": true
+      }
+    },
+    "246": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "polearm": false,
+        "lightning": true,
+        "axe": true
+      }
+    },
+    "247": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "axe": false,
+        "dark": false
+      }
+    },
+    "248": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "polearm": true,
+        "lightning": true,
+        "staff": true
+      }
+    },
+    "249": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "polearm": false,
+        "lightning": false,
+        "staff": false
+      }
+    },
+    "250": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": true,
+        "dagger": true,
+        "axe": true
+      }
+    },
+    "251": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "polearm": false,
+        "axe": true
+      }
+    },
+    "252": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "fire": true,
+        "axe": true,
+        "bow": false
+      }
+    },
+    "253": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": true,
+        "bow": true
+      }
+    },
+    "254": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "fire": true,
+        "dagger": true,
+        "wind": true
+      }
+    },
+    "255": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "fire": true,
+        "axe": true
+      }
+    },
+    "256": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "axe": true,
+        "wind": true
+      }
+    },
+    "258": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "lightning": true,
+        "axe": true,
+        "staff": true
+      }
+    },
+    "259": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true
+      ],
+      "revealedByKey": {
+        "polearm": true
+      }
+    },
+    "260": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "bow": false,
+        "dark": false
+      }
+    },
+    "261": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "polearm": false,
+        "axe": true
+      }
+    },
+    "262": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "fire": false,
+        "dagger": false,
+        "wind": false
+      }
+    },
+    "263": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "polearm": false,
+        "axe": true
+      }
+    },
+    "264": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "bow": false
+      }
+    },
+    "265": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "lightning": true,
+        "axe": true
+      }
+    },
+    "266": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "fire": false,
+        "dagger": false,
+        "lightning": false,
+        "axe": false
+      }
+    },
+    "267": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "fire": false,
+        "lightning": false,
+        "axe": false,
+        "bow": false
+      }
+    },
+    "268": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": true,
+        "dagger": true,
+        "wind": true,
+        "bow": true
+      }
+    },
+    "269": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "wind": false,
+        "light": false,
+        "staff": true
+      }
+    },
+    "270": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        true,
+        false
+      ],
+      "revealedByKey": {
+        "fire": true,
+        "light": false,
+        "staff": true
+      }
+    },
+    "271": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "ice": false,
+        "axe": false,
+        "staff": false
+      }
+    },
+    "272": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "lightning": true,
+        "axe": true,
+        "wind": true,
+        "staff": true,
+        "dark": true
+      }
+    },
+    "273": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "ice": true,
+        "dagger": true,
+        "axe": true
+      }
+    },
+    "274": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "ice": true,
+        "axe": true
+      }
+    },
+    "275": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "axe": false,
+        "dark": false
+      }
+    },
+    "278": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": true,
+        "ice": true,
+        "dagger": true,
+        "bow": true
+      }
+    },
+    "282": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "fire": true,
+        "dagger": true,
+        "axe": true
+      }
+    },
+    "283": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "dagger": true,
+        "axe": true,
+        "wind": true,
+        "dark": true
+      }
+    },
+    "286": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "ice": true,
+        "wind": true
+      }
+    },
+    "287": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "ice": true,
+        "dark": true
+      }
+    },
+    "288": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "fire": true,
+        "light": true
+      }
+    },
+    "289": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "ice": false,
+        "axe": true,
+        "wind": true,
+        "staff": true
+      }
+    },
+    "290": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "polearm": false,
+        "ice": true,
+        "bow": true
+      }
+    },
+    "291": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "fire": true,
+        "lightning": true
+      }
+    },
+    "292": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "ice": true,
+        "lightning": true
+      }
+    },
+    "293": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "axe": false,
+        "dark": true
+      }
+    },
+    "297": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "wind": true,
+        "light": true,
+        "staff": true
+      }
+    },
+    "301": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        true,
+        true,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "dagger": true,
+        "bow": true,
+        "staff": false
+      }
+    },
+    "302": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "ice": false,
+        "bow": false,
+        "staff": false
+      }
+    },
+    "303": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "bow": false,
+        "light": false,
+        "staff": false
+      }
+    },
+    "304": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "dagger": true,
+        "light": true
+      }
+    },
+    "305": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        false
+      ],
+      "revealedByKey": {
+        "dagger": true,
+        "light": false
+      }
+    },
+    "307": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "ice": false,
+        "bow": false,
+        "staff": false
+      }
+    },
+    "308": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "bow": false,
+        "light": false,
+        "staff": false
+      }
+    },
+    "309": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "wind": false,
+        "bow": false,
+        "staff": false
+      }
+    },
+    "310": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "polearm": true,
+        "ice": true,
+        "axe": true
+      }
+    },
+    "311": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "polearm": false,
+        "axe": false,
+        "light": false
+      }
+    },
+    "312": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        false,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "polearm": false,
+        "axe": false,
+        "wind": true
+      }
+    },
+    "313": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "fire": false,
+        "bow": false,
+        "staff": false
+      }
+    },
+    "314": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "bow": true,
+        "staff": true,
+        "dark": true
+      }
+    },
+    "315": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "lightning": false,
+        "bow": false,
+        "staff": false
+      }
+    },
+    "316": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "polearm": true,
+        "dagger": true,
+        "axe": true
+      }
+    },
+    "317": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "fire": true,
+        "polearm": true,
+        "axe": true
+      }
+    },
+    "318": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "polearm": false,
+        "axe": false,
+        "dark": false
+      }
+    },
+    "319": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "polearm": true,
+        "lightning": true,
+        "axe": true
+      }
+    },
+    "320": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "polearm": false,
+        "dagger": false,
+        "axe": false
+      }
+    },
+    "322": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "fire": false,
+        "polearm": false,
+        "axe": false
+      }
+    },
+    "323": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "polearm": false,
+        "lightning": true,
+        "axe": true
+      }
+    },
+    "324": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "polearm": false,
+        "axe": false,
+        "wind": false
+      }
+    },
+    "325": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "polearm": false,
+        "axe": true,
+        "dark": false
+      }
+    },
+    "330": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "fire": true,
+        "dagger": true,
+        "axe": true,
+        "light": true
+      }
+    },
+    "331": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "fire": true,
+        "dagger": true,
+        "axe": true,
+        "light": true
+      }
+    },
+    "332": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "fire": false,
+        "axe": true,
+        "light": false
+      }
+    },
+    "333": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "wind": false,
+        "bow": false
+      }
+    },
+    "334": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "wind": true,
+        "bow": true,
+        "staff": true
+      }
+    },
+    "337": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "fire": true,
+        "dagger": false,
+        "light": true
+      }
+    },
+    "341": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "fire": false,
+        "axe": false
+      }
+    },
+    "344": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "bow": false,
+        "dark": false
+      }
+    },
+    "345": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "lightning": false,
+        "axe": false
+      }
+    },
+    "346": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "dagger": true,
+        "wind": true,
+        "bow": true
+      }
+    },
+    "347": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "dagger": true,
+        "wind": true,
+        "bow": false
+      }
+    },
+    "350": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "dagger": true,
+        "axe": true,
+        "light": true
+      }
+    },
+    "351": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "dagger": true,
+        "axe": true,
+        "light": true
+      }
+    },
+    "352": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "dagger": false,
+        "axe": false,
+        "light": false
+      }
+    },
+    "353": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "dagger": false,
+        "axe": false,
+        "light": false
+      }
+    },
+    "354": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "axe": false,
+        "bow": true,
+        "dark": true
+      }
+    },
+    "355": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "ice": false,
+        "wind": true,
+        "light": true
+      }
+    },
+    "356": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "axe": true,
+        "bow": true,
+        "dark": true
+      }
+    },
+    "357": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "ice": false,
+        "wind": true,
+        "light": true
+      }
+    },
+    "358": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "ice": true,
+        "axe": true
+      }
+    },
+    "359": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "ice": true,
+        "axe": true
+      }
+    },
+    "360": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "dagger": true,
+        "axe": true
+      }
+    },
+    "361": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        false
+      ],
+      "revealedByKey": {
+        "fire": true,
+        "ice": false
+      }
+    },
+    "362": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "fire": true,
+        "dagger": false
+      }
+    },
+    "363": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "fire": true,
+        "dagger": false
+      }
+    },
+    "364": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "ice": false,
+        "dagger": false,
+        "dark": false
+      }
+    },
+    "365": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "ice": false,
+        "dagger": false
+      }
+    },
+    "366": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "fire": false,
+        "dagger": false
+      }
+    },
+    "367": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        true,
+        false
+      ],
+      "revealedByKey": {
+        "dagger": true,
+        "lightning": false,
+        "bow": true
+      }
+    },
+    "368": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        true,
+        true,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "polearm": true,
+        "axe": true,
+        "bow": false,
+        "staff": false
+      }
+    },
+    "369": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        false,
+        true,
+        true,
+        false
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "polearm": false,
+        "axe": true,
+        "staff": true,
+        "dark": false
+      }
+    },
+    "370": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        false,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "polearm": false,
+        "axe": true,
+        "light": true,
+        "staff": true
+      }
+    },
+    "372": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "polearm": true,
+        "dagger": true,
+        "bow": true
+      }
+    },
+    "373": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "ice": false,
+        "dagger": false,
+        "bow": false
+      }
+    },
+    "374": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "fire": true,
+        "dagger": false,
+        "bow": false
+      }
+    },
+    "375": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "dagger": true,
+        "lightning": true,
+        "bow": true
+      }
+    },
+    "376": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "dagger": true,
+        "wind": true,
+        "bow": true
+      }
+    },
+    "377": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "dagger": true,
+        "bow": true,
+        "dark": true
+      }
+    },
+    "378": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "dagger": true,
+        "bow": true,
+        "light": true
+      }
+    },
+    "379": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "polearm": true,
+        "ice": true,
+        "axe": true,
+        "staff": true
+      }
+    },
+    "380": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "fire": true,
+        "polearm": true,
+        "axe": true,
+        "staff": true
+      }
+    },
+    "381": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "dagger": false,
+        "lightning": false,
+        "bow": false
+      }
+    },
+    "382": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "ice": true,
+        "dagger": false,
+        "bow": false
+      }
+    },
+    "383": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "dagger": false,
+        "bow": false,
+        "light": false
+      }
+    },
+    "384": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "ice": true,
+        "bow": false
+      }
+    },
+    "385": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "bow": false,
+        "light": false
+      }
+    },
+    "386": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "polearm": false,
+        "lightning": true,
+        "axe": false,
+        "staff": true
+      }
+    },
+    "387": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "polearm": true,
+        "axe": true,
+        "wind": true,
+        "staff": false
+      }
+    },
+    "388": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "polearm": false,
+        "axe": false,
+        "bow": false,
+        "staff": true
+      }
+    },
+    "389": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "polearm": false,
+        "ice": true,
+        "axe": true,
+        "staff": false
+      }
+    },
+    "390": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "fire": true,
+        "polearm": false,
+        "axe": false,
+        "staff": false
+      }
+    },
+    "391": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "polearm": true,
+        "lightning": false,
+        "axe": false,
+        "staff": false
+      }
+    },
+    "392": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "polearm": false,
+        "axe": false,
+        "wind": false,
+        "staff": false
+      }
+    },
+    "393": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "polearm": false,
+        "axe": false,
+        "staff": false,
+        "dark": true
+      }
+    },
+    "394": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "polearm": true,
+        "axe": true,
+        "light": true,
+        "staff": true
+      }
+    },
+    "395": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": true,
+        "dagger": true,
+        "bow": true,
+        "staff": true
+      }
+    },
+    "396": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "ice": true,
+        "bow": false,
+        "staff": false
+      }
+    },
+    "397": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "fire": false,
+        "polearm": false,
+        "bow": false,
+        "staff": false
+      }
+    },
+    "398": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "lightning": true,
+        "bow": false,
+        "staff": false
+      }
+    },
+    "399": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "wind": true,
+        "bow": false,
+        "staff": false
+      }
+    },
+    "400": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "bow": false,
+        "staff": false,
+        "dark": true
+      }
+    },
+    "401": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "bow": false,
+        "light": false,
+        "staff": false
+      }
+    },
+    "402": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "polearm": true,
+        "dagger": true,
+        "bow": true
+      }
+    },
+    "403": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "fire": true,
+        "dagger": false,
+        "bow": false
+      }
+    },
+    "404": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        true,
+        true,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "dagger": true,
+        "lightning": false,
+        "bow": true
+      }
+    },
+    "405": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "dagger": false,
+        "wind": true,
+        "bow": false
+      }
+    },
+    "406": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "dagger": false,
+        "bow": false,
+        "dark": false
+      }
+    },
+    "407": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": true,
+        "dagger": false,
+        "bow": true
+      }
+    },
+    "408": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "fire": true,
+        "polearm": false,
+        "bow": false
+      }
+    },
+    "409": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "lightning": true,
+        "bow": true
+      }
+    },
+    "410": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "wind": true,
+        "bow": false
+      }
+    },
+    "411": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "polearm": false,
+        "bow": true,
+        "dark": true
+      }
+    },
+    "412": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "polearm": false,
+        "lightning": false,
+        "light": false
+      }
+    },
+    "413": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        true,
+        true,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "ice": false,
+        "bow": true,
+        "light": false
+      }
+    },
+    "414": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "polearm": false,
+        "lightning": false,
+        "light": true
+      }
+    },
+    "415": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "ice": false,
+        "bow": false,
+        "light": true
+      }
+    },
+    "416": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "dagger": true,
+        "axe": true,
+        "staff": true
+      }
+    },
+    "417": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "dagger": true,
+        "axe": true,
+        "staff": true
+      }
+    },
+    "418": {
+      "isAnalysed": false,
+      "isCompleted": true,
+      "revealedWeaknesses": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "revealedByKey": {
+        "sword": true,
+        "dagger": true,
+        "axe": true,
+        "staff": true
+      }
+    },
+    "419": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "ice": false,
+        "dark": false
+      }
+    },
+    "420": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "fire": false,
+        "light": false
+      }
+    },
+    "421": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "wind": false,
+        "dark": false
+      }
+    },
+    "878": {
+      "isAnalysed": false,
+      "isCompleted": false,
+      "revealedWeaknesses": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "revealedByKey": {
+        "sword": false,
+        "ice": false,
+        "dagger": false,
+        "wind": false,
+        "staff": false
+      }
+    }
+  },
+  "zones": {
+    "12": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true
+      ],
+      "hiddenItemsFound": [
+        false,
+        true,
+        true,
+        true,
+        true
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": false
+    },
+    "13": {
+      "visited": true,
+      "chestsOpened": [
+        true
+      ],
+      "hiddenItemsFound": [
+        true,
+        true
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "14": {
+      "visited": true,
+      "chestsOpened": [
+        true
+      ],
+      "hiddenItemsFound": [
+        false,
+        true,
+        false
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": false
+    },
+    "15": {
+      "visited": true,
+      "chestsOpened": [
+        true
+      ],
+      "hiddenItemsFound": [
+        true,
+        true,
+        true
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "16": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true
+      ],
+      "hiddenItemsFound": [
+        true,
+        true,
+        false
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": false
+    },
+    "17": {
+      "visited": true,
+      "chestsOpened": [
+        true
+      ],
+      "hiddenItemsFound": [
+        true,
+        true
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "18": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "19": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        false,
+        true,
+        false,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "20": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        false,
+        false,
+        true,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "21": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        false,
+        true,
+        true,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "22": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "23": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "24": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "25": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "26": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        false,
+        false,
+        true,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "27": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "28": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        false,
+        false,
+        true,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "29": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        true,
+        true,
+        false,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "30": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "31": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "32": {
+      "visited": true,
+      "chestsOpened": [],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "33": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        false,
+        false,
+        true,
+        true,
+        true,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "34": {
+      "visited": true,
+      "chestsOpened": [
+        true
+      ],
+      "hiddenItemsFound": [
+        true,
+        true
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "35": {
+      "visited": true,
+      "chestsOpened": [
+        true
+      ],
+      "hiddenItemsFound": [
+        true,
+        true,
+        true
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "36": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "37": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "38": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "39": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "40": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "42": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "43": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        false,
+        false,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "44": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "45": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "46": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        true,
+        true,
+        false,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "47": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        true,
+        false,
+        false,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "48": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "49": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [
+        false,
+        true,
+        true
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": false
+    },
+    "50": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [
+        true,
+        true,
+        true
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "51": {
+      "visited": false,
+      "chestsOpened": [
+        false,
+        false,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "52": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "53": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "54": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "55": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "56": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "57": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        false,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "58": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "59": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [
+        true
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "60": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        true,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "61": {
+      "visited": false,
+      "chestsOpened": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "62": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        true
+      ],
+      "hiddenItemsFound": [
+        true,
+        true
+      ],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "63": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        true
+      ],
+      "hiddenItemsFound": [
+        true,
+        true
+      ],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "64": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true
+      ],
+      "hiddenItemsFound": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "65": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "66": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "67": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        true,
+        true,
+        false,
+        false,
+        false,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "68": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "69": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "70": {
+      "visited": true,
+      "chestsOpened": [
+        true
+      ],
+      "hiddenItemsFound": [
+        true,
+        true,
+        true
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "71": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true
+      ],
+      "hiddenItemsFound": [
+        true,
+        true
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "72": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "73": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "74": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "75": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "76": {
+      "visited": true,
+      "chestsOpened": [],
+      "hiddenItemsFound": [
+        true,
+        true,
+        true
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "77": {
+      "visited": true,
+      "chestsOpened": [],
+      "hiddenItemsFound": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "78": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "79": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "80": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "81": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "82": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "83": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true
+      ],
+      "hiddenItemsFound": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "84": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true
+      ],
+      "hiddenItemsFound": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "85": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        false,
+        true,
+        true,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "86": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "87": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        true,
+        false,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "88": {
+      "visited": false,
+      "chestsOpened": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "89": {
+      "visited": true,
+      "chestsOpened": [
+        true
+      ],
+      "hiddenItemsFound": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": false
+    },
+    "90": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "91": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "92": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        false,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "93": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        true,
+        false,
+        false,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "94": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true
+      ],
+      "hiddenItemsFound": [
+        true
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "95": {
+      "visited": true,
+      "chestsOpened": [],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "96": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true
+      ],
+      "hiddenItemsFound": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "97": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "98": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "99": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "100": {
+      "visited": false,
+      "chestsOpened": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "101": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [
+        true,
+        false
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": false
+    },
+    "102": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [
+        true,
+        true,
+        true
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "103": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        true,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "104": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "105": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        true,
+        true,
+        false,
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "106": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "107": {
+      "visited": false,
+      "chestsOpened": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "108": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [
+        true,
+        false,
+        true,
+        true,
+        false
+      ],
+      "isChestsComplete": false,
+      "isHiddenComplete": false
+    },
+    "109": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "110": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "111": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "112": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "113": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "114": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "hiddenItemsFound": [
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "isChestsComplete": false,
+      "isHiddenComplete": false
+    },
+    "115": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "116": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        false,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "117": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "118": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "119": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "120": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "121": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [
+        true,
+        false,
+        true
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": false
+    },
+    "122": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        false,
+        true
+      ],
+      "hiddenItemsFound": [
+        true
+      ],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "123": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        true,
+        false,
+        false,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "124": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "125": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "126": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "127": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        false,
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "128": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "129": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        false,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "130": {
+      "visited": true,
+      "chestsOpened": [
+        false
+      ],
+      "hiddenItemsFound": [
+        true,
+        true,
+        true
+      ],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "131": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "132": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true
+      ],
+      "hiddenItemsFound": [
+        true
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "133": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "134": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "135": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        false,
+        false,
+        true,
+        true,
+        true,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "136": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "137": {
+      "visited": true,
+      "chestsOpened": [],
+      "hiddenItemsFound": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "138": {
+      "visited": true,
+      "chestsOpened": [],
+      "hiddenItemsFound": [
+        true,
+        true
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "139": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        false,
+        false
+      ],
+      "hiddenItemsFound": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "140": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "141": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "142": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        false,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "143": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "144": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        false,
+        false,
+        false,
+        true,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "145": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "146": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        true
+      ],
+      "hiddenItemsFound": [
+        false
+      ],
+      "isChestsComplete": false,
+      "isHiddenComplete": false
+    },
+    "147": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "148": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "149": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        true,
+        false,
+        true,
+        true,
+        true,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "150": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        false,
+        false,
+        false,
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "151": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "152": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "153": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "154": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "155": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        false,
+        true,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "156": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "157": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "158": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": false
+    },
+    "159": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        false,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "160": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        false,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "161": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "162": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        false,
+        true,
+        true,
+        false,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "163": {
+      "visited": false,
+      "chestsOpened": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "164": {
+      "visited": true,
+      "chestsOpened": [
+        true
+      ],
+      "hiddenItemsFound": [
+        true,
+        true,
+        true
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "165": {
+      "visited": true,
+      "chestsOpened": [
+        true
+      ],
+      "hiddenItemsFound": [
+        true,
+        false
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": false
+    },
+    "166": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true
+      ],
+      "hiddenItemsFound": [
+        true
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "167": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        false,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "168": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        false,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "169": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "170": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "171": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [
+        false,
+        true,
+        true,
+        true
+      ],
+      "isChestsComplete": true,
+      "isHiddenComplete": false
+    },
+    "172": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "173": {
+      "visited": true,
+      "chestsOpened": [
+        false,
+        true,
+        true,
+        false,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "174": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "175": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "179": {
+      "visited": true,
+      "chestsOpened": [],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "180": {
+      "visited": true,
+      "chestsOpened": [],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "181": {
+      "visited": true,
+      "chestsOpened": [],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "182": {
+      "visited": true,
+      "chestsOpened": [],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "183": {
+      "visited": true,
+      "chestsOpened": [],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "184": {
+      "visited": true,
+      "chestsOpened": [],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "185": {
+      "visited": true,
+      "chestsOpened": [],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "186": {
+      "visited": true,
+      "chestsOpened": [
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "187": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "188": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        false,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "189": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        false,
+        true,
+        true,
+        false
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": false,
+      "isHiddenComplete": true
+    },
+    "190": {
+      "visited": true,
+      "chestsOpened": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "195": {
+      "visited": false,
+      "chestsOpened": [],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    },
+    "196": {
+      "visited": false,
+      "chestsOpened": [],
+      "hiddenItemsFound": [],
+      "isChestsComplete": true,
+      "isHiddenComplete": true
+    }
+  },
+  "itemsObtained": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    30,
+    31,
+    32,
+    33,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    113,
+    116,
+    117,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    141,
+    302,
+    303,
+    304,
+    305,
+    307,
+    308,
+    309,
+    310,
+    311,
+    312,
+    313,
+    314,
+    315,
+    316,
+    317,
+    318,
+    320,
+    321,
+    322,
+    323,
+    326,
+    328,
+    329,
+    332,
+    334,
+    337,
+    338,
+    339,
+    340,
+    344,
+    345,
+    346,
+    348,
+    349,
+    350,
+    351,
+    352,
+    354,
+    355,
+    356,
+    357,
+    358,
+    359,
+    360,
+    361,
+    363,
+    365,
+    369,
+    370,
+    375,
+    379,
+    380,
+    381,
+    384,
+    385,
+    386,
+    387,
+    388,
+    389,
+    390,
+    391,
+    392,
+    394,
+    395,
+    396,
+    397,
+    399,
+    400,
+    401,
+    402,
+    403,
+    404,
+    405,
+    406,
+    407,
+    408,
+    1001,
+    1002,
+    1004,
+    1005,
+    1006,
+    1007,
+    1008,
+    1009,
+    1010,
+    1012,
+    1013,
+    1014,
+    1015,
+    1016,
+    1017,
+    1018,
+    1019,
+    1020,
+    1023,
+    1024,
+    1025,
+    1027,
+    1028,
+    1029,
+    1031,
+    1032,
+    1033,
+    1101,
+    1102,
+    1103,
+    1104,
+    1105,
+    1107,
+    1110,
+    1112,
+    1113,
+    1115,
+    1116,
+    1117,
+    1118,
+    1119,
+    1120,
+    1121,
+    1124,
+    1125,
+    1126,
+    1127,
+    1128,
+    1129,
+    1201,
+    1202,
+    1203,
+    1204,
+    1205,
+    1206,
+    1207,
+    1208,
+    1209,
+    1210,
+    1211,
+    1212,
+    1213,
+    1215,
+    1216,
+    1217,
+    1219,
+    1221,
+    1222,
+    1224,
+    1225,
+    1226,
+    1227,
+    1228,
+    1229,
+    1302,
+    1303,
+    1304,
+    1307,
+    1309,
+    1310,
+    1311,
+    1312,
+    1314,
+    1315,
+    1316,
+    1317,
+    1318,
+    1319,
+    1321,
+    1323,
+    1324,
+    1325,
+    1326,
+    1327,
+    1328,
+    1329,
+    1330,
+    1331,
+    1332,
+    1333,
+    1401,
+    1402,
+    1403,
+    1404,
+    1407,
+    1408,
+    1411,
+    1412,
+    1413,
+    1415,
+    1418,
+    1419,
+    1420,
+    1421,
+    1423,
+    1426,
+    1428,
+    1429,
+    1430,
+    1502,
+    1503,
+    1504,
+    1505,
+    1507,
+    1509,
+    1510,
+    1512,
+    1513,
+    1514,
+    1515,
+    1517,
+    1518,
+    1519,
+    1520,
+    1521,
+    1522,
+    1525,
+    1527,
+    1529,
+    1532,
+    1601,
+    1602,
+    1603,
+    1604,
+    1605,
+    1606,
+    1607,
+    1608,
+    1609,
+    1610,
+    1611,
+    1612,
+    1613,
+    1614,
+    1615,
+    1616,
+    1617,
+    1618,
+    1701,
+    1702,
+    1703,
+    1705,
+    1706,
+    1707,
+    1709,
+    1710,
+    1711,
+    1712,
+    1713,
+    1714,
+    1715,
+    1716,
+    1717,
+    1718,
+    1719,
+    1720,
+    1721,
+    1722,
+    1723,
+    1724,
+    1725,
+    1726,
+    1727,
+    1728,
+    1729,
+    1730,
+    1731,
+    1733,
+    1734,
+    1735,
+    1736,
+    1738,
+    1739,
+    1740,
+    1741,
+    1742,
+    1801,
+    1802,
+    1803,
+    1804,
+    1806,
+    1807,
+    1808,
+    1809,
+    1810,
+    1811,
+    1812,
+    1814,
+    1815,
+    1816,
+    1817,
+    1818,
+    1819,
+    1820,
+    1821,
+    1822,
+    1823,
+    1824,
+    1828,
+    1829,
+    1830,
+    1831,
+    1832,
+    1834,
+    1835,
+    1836,
+    1838,
+    1842,
+    1843,
+    1844,
+    1845,
+    1846,
+    1847,
+    1848,
+    1849,
+    1850,
+    1903,
+    1904,
+    1905,
+    1906,
+    1907,
+    1908,
+    1909,
+    1911,
+    1912,
+    1913,
+    1914,
+    1915,
+    1916,
+    1917,
+    1918,
+    1919,
+    1920,
+    1921,
+    1922,
+    1923,
+    1924,
+    1925,
+    1926,
+    1927,
+    1928,
+    1929,
+    1930,
+    1931,
+    1932,
+    1933,
+    1934,
+    1936,
+    1937,
+    1938,
+    1939,
+    1940,
+    1941,
+    1942,
+    1943,
+    1944,
+    1945,
+    1946,
+    1947,
+    1948,
+    1949,
+    1950,
+    1951,
+    1952,
+    1953,
+    1954,
+    1955,
+    1956,
+    1957,
+    1959,
+    1960,
+    1961,
+    1962,
+    1963,
+    1964,
+    1965,
+    1966,
+    1967,
+    1968,
+    2500,
+    2501,
+    2502,
+    2503,
+    2504,
+    2505,
+    2506,
+    2507,
+    2516,
+    2517,
+    2518,
+    2519,
+    2520,
+    2521,
+    2522,
+    2523
+  ],
+  "sideStoriesByRegion": {
+    "Frostlands": [
+      {
+        "slotIndex": 1,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 2,
+        "state": 2,
+        "clearMethod": 2
+      },
+      {
+        "slotIndex": 5,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 6,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 7,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 8,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 9,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 10,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 12,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 13,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 14,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 15,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 16,
+        "state": 2,
+        "clearMethod": 1
+      }
+    ],
+    "Flatlands": [
+      {
+        "slotIndex": 0,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 4,
+        "state": 2,
+        "clearMethod": 2
+      },
+      {
+        "slotIndex": 5,
+        "state": 2,
+        "clearMethod": 2
+      },
+      {
+        "slotIndex": 6,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 7,
+        "state": 2,
+        "clearMethod": 2
+      },
+      {
+        "slotIndex": 9,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 10,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 11,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 13,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 14,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 15,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 17,
+        "state": 2,
+        "clearMethod": 1
+      }
+    ],
+    "Coastlands": [
+      {
+        "slotIndex": 1,
+        "state": 2,
+        "clearMethod": 2
+      },
+      {
+        "slotIndex": 2,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 4,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 5,
+        "state": 2,
+        "clearMethod": 2
+      },
+      {
+        "slotIndex": 6,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 8,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 9,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 12,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 13,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 14,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 15,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 17,
+        "state": 2,
+        "clearMethod": 1
+      }
+    ],
+    "Highlands": [
+      {
+        "slotIndex": 0,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 1,
+        "state": 2,
+        "clearMethod": 2
+      },
+      {
+        "slotIndex": 3,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 5,
+        "state": 2,
+        "clearMethod": 2
+      },
+      {
+        "slotIndex": 6,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 7,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 10,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 11,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 12,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 13,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 14,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 18,
+        "state": 1,
+        "clearMethod": 0
+      }
+    ],
+    "Sunlands": [
+      {
+        "slotIndex": 0,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 2,
+        "state": 2,
+        "clearMethod": 2
+      },
+      {
+        "slotIndex": 3,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 5,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 6,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 7,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 9,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 10,
+        "state": 2,
+        "clearMethod": 2
+      },
+      {
+        "slotIndex": 11,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 12,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 13,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 14,
+        "state": 2,
+        "clearMethod": 1
+      }
+    ],
+    "Riverlands": [
+      {
+        "slotIndex": 0,
+        "state": 2,
+        "clearMethod": 0
+      },
+      {
+        "slotIndex": 1,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 2,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 3,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 4,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 5,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 8,
+        "state": 2,
+        "clearMethod": 2
+      },
+      {
+        "slotIndex": 9,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 11,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 12,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 13,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 14,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 15,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 16,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 17,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 18,
+        "state": 2,
+        "clearMethod": 1
+      }
+    ],
+    "Cliftlands": [
+      {
+        "slotIndex": 3,
+        "state": 2,
+        "clearMethod": 2
+      },
+      {
+        "slotIndex": 4,
+        "state": 2,
+        "clearMethod": 2
+      },
+      {
+        "slotIndex": 5,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 6,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 8,
+        "state": 2,
+        "clearMethod": 2
+      },
+      {
+        "slotIndex": 9,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 10,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 11,
+        "state": 2,
+        "clearMethod": 2
+      },
+      {
+        "slotIndex": 12,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 13,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 14,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 16,
+        "state": 2,
+        "clearMethod": 1
+      }
+    ],
+    "Woodlands": [
+      {
+        "slotIndex": 0,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 1,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 3,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 4,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 6,
+        "state": 2,
+        "clearMethod": 2
+      },
+      {
+        "slotIndex": 7,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 9,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 10,
+        "state": 2,
+        "clearMethod": 2
+      },
+      {
+        "slotIndex": 12,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 13,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 14,
+        "state": 2,
+        "clearMethod": 1
+      },
+      {
+        "slotIndex": 16,
+        "state": 2,
+        "clearMethod": 1
+      }
+    ]
+  }
+}

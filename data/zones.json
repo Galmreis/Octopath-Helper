@@ -1,0 +1,8683 @@
+{
+  "12": {
+    "id": 12,
+    "name": "Cobbleston",
+    "region": "Highlands",
+    "treasureStateId": 1257303,
+    "summation": 7,
+    "chestCount": 2,
+    "hiddenCount": 5,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Healing Grape",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Captain's Sword",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Olive of Life",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Candy",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 2,
+        "contents": "War Lance",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 3,
+        "contents": "Arcane Bow",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 4,
+        "contents": "Purifying Seed",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      39,
+      40,
+      41
+    ]
+  },
+  "13": {
+    "id": 13,
+    "name": "Stonegard",
+    "region": "Highlands",
+    "treasureStateId": 1257438,
+    "summation": 3,
+    "chestCount": 1,
+    "hiddenCount": 2,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Inspiriting Plum",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Silver-filled Pouch",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Graviton Axe",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      42,
+      43,
+      44,
+      45,
+      46
+    ]
+  },
+  "14": {
+    "id": 14,
+    "name": "Stonegard Heights",
+    "region": "Highlands",
+    "treasureStateId": 1257573,
+    "summation": 4,
+    "chestCount": 1,
+    "hiddenCount": 3,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Healing Grape (M)",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Bastard Sword",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Inspiriting Plum (M)",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 2,
+        "contents": "Soldier's Longbow",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      42,
+      43,
+      44,
+      45,
+      46
+    ]
+  },
+  "15": {
+    "id": 15,
+    "name": "Stonegard Valleys",
+    "region": "Highlands",
+    "treasureStateId": 1257708,
+    "summation": 4,
+    "chestCount": 1,
+    "hiddenCount": 3,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Spiked Armor",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Empty Coin Pouch",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Fire Soulstone (L)",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 2,
+        "contents": "Large Feather",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      42,
+      43,
+      44,
+      45,
+      46
+    ]
+  },
+  "16": {
+    "id": 16,
+    "name": "Everhold",
+    "region": "Highlands",
+    "treasureStateId": 1257843,
+    "summation": 5,
+    "chestCount": 2,
+    "hiddenCount": 3,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Healing Grape (M)",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Rare Stone",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Curious Antique",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Rare Stone",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 2,
+        "contents": "Olive of Life (M)",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      47,
+      48,
+      49
+    ]
+  },
+  "17": {
+    "id": 17,
+    "name": "Everhold Amphitheatre",
+    "region": "Highlands",
+    "treasureStateId": 1257978,
+    "summation": 3,
+    "chestCount": 1,
+    "hiddenCount": 2,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Inspiriting Plum Basket",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Bottle of Blinding Dust",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Healing Grape Bunch",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      47,
+      48,
+      49
+    ]
+  },
+  "18": {
+    "id": 18,
+    "name": "Mountain Pass",
+    "region": "Highlands",
+    "treasureStateId": 1258113,
+    "summation": 4,
+    "chestCount": 4,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Healing Grape",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Inspiriting Plum",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Light Soulstone",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Old Coin",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      1,
+      2,
+      3,
+      10,
+      11,
+      12,
+      20
+    ],
+    "quests": []
+  },
+  "19": {
+    "id": 19,
+    "name": "North Cobbleston Gap",
+    "region": "Highlands",
+    "treasureStateId": 1258248,
+    "summation": 5,
+    "chestCount": 5,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Healing Grape",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Magic Nut",
+        "isLocked": true
+      },
+      {
+        "index": 2,
+        "contents": "Inspiriting Plum",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "1 200$",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Light Soulstone",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      1,
+      2,
+      3,
+      10,
+      11,
+      12,
+      20
+    ],
+    "quests": []
+  },
+  "20": {
+    "id": 20,
+    "name": "South Cobbleston Gap",
+    "region": "Highlands",
+    "treasureStateId": 1258383,
+    "summation": 5,
+    "chestCount": 5,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Herb of Awakening",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Healing Grape",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "1 000$",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Herb of Clamor",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Olive of Life",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      1,
+      2,
+      3,
+      10,
+      11,
+      12,
+      20
+    ],
+    "quests": []
+  },
+  "21": {
+    "id": 21,
+    "name": "Brigands' Den",
+    "region": "Highlands",
+    "treasureStateId": 1258518,
+    "summation": 5,
+    "chestCount": 5,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Healing Grape",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Black Cap",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Fire Soulstone",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Copper Lantern",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Inspiriting Plum",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      1,
+      2,
+      3,
+      21,
+      29,
+      30,
+      31,
+      275,
+      278,
+      290
+    ],
+    "quests": []
+  },
+  "22": {
+    "id": 22,
+    "name": "Untouched Sanctum",
+    "region": "Highlands",
+    "treasureStateId": 1258653,
+    "summation": 6,
+    "chestCount": 6,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Inspiriting Plum",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Pole Mace",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Healing Grape (M)",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Sharp Nut",
+        "isLocked": true
+      },
+      {
+        "index": 4,
+        "contents": "Inspiriting Plum (M)",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Olive of Life (M)",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      12,
+      21,
+      75,
+      117,
+      157,
+      269,
+      270,
+      290,
+      419,
+      420,
+      421
+    ],
+    "quests": []
+  },
+  "23": {
+    "id": 23,
+    "name": "Spectrewood Path",
+    "region": "Highlands",
+    "treasureStateId": 1258788,
+    "summation": 3,
+    "chestCount": 3,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "5 000$",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Fool's Gold Ore",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Herb of Clamor",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      4,
+      5,
+      6,
+      7,
+      12,
+      14,
+      15,
+      20,
+      22
+    ],
+    "quests": []
+  },
+  "24": {
+    "id": 24,
+    "name": "North Stonegard Pass",
+    "region": "Highlands",
+    "treasureStateId": 1258923,
+    "summation": 3,
+    "chestCount": 3,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Energizing Pomegranate",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Light Soulstone (M)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Healing Grape (M)",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      4,
+      5,
+      6,
+      7,
+      12,
+      14,
+      15,
+      20,
+      22
+    ],
+    "quests": []
+  },
+  "25": {
+    "id": 25,
+    "name": "West Stonegard Pass",
+    "region": "Highlands",
+    "treasureStateId": 1259058,
+    "summation": 3,
+    "chestCount": 3,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Copper-filled Pouch",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Inspiriting Plum (M)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Energizing Pomegranate",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      4,
+      5,
+      6,
+      7,
+      12,
+      14,
+      15,
+      20,
+      22
+    ],
+    "quests": []
+  },
+  "26": {
+    "id": 26,
+    "name": "The Spectrewood",
+    "region": "Highlands",
+    "treasureStateId": 1259193,
+    "summation": 5,
+    "chestCount": 5,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Refreshing Jam",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "6 000$",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Copper-filled Pouch",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Fire Soulstone (M)",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Fire Amulet",
+        "isLocked": true
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      42,
+      45,
+      46,
+      55,
+      161,
+      255
+    ],
+    "quests": []
+  },
+  "27": {
+    "id": 27,
+    "name": "Yvon's Birthplace & Cellar",
+    "region": "Highlands",
+    "treasureStateId": 1259328,
+    "summation": 9,
+    "chestCount": 9,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Bone",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Inspiriting Plum",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Light Soulstone (L)",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "12 000$",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Bright Stone",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Energizing Pomegranate (M)",
+        "isLocked": false
+      },
+      {
+        "index": 6,
+        "contents": "Fire Soulstone (M)",
+        "isLocked": false
+      },
+      {
+        "index": 7,
+        "contents": "Sturdy Quartz Rod",
+        "isLocked": true
+      },
+      {
+        "index": 8,
+        "contents": "Inspiriting Plum Basket",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      24,
+      25,
+      96,
+      346,
+      347,
+      367,
+      373,
+      376
+    ],
+    "quests": []
+  },
+  "28": {
+    "id": 28,
+    "name": "Tomb of Kings",
+    "region": "Highlands",
+    "treasureStateId": 1259463,
+    "summation": 7,
+    "chestCount": 7,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Healing Grape Bunch",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Bottle of Blinding Dust",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Hasty Helm",
+        "isLocked": true
+      },
+      {
+        "index": 3,
+        "contents": "Fire Soulstone (L)",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "9 400$",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Bright Stone",
+        "isLocked": false
+      },
+      {
+        "index": 6,
+        "contents": "Curious Antique",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      323,
+      325,
+      375,
+      377,
+      391,
+      393
+    ],
+    "quests": []
+  },
+  "29": {
+    "id": 29,
+    "name": "West Everhold Pass",
+    "region": "Highlands",
+    "treasureStateId": 1259598,
+    "summation": 5,
+    "chestCount": 5,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Light Soulstone (L)",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Silver-filled Pouch",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Energizing Pomegranate (M)",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Fire Soulstone (M)",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Inspiriting Plum (M)",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      7,
+      8,
+      9,
+      18,
+      26,
+      27,
+      123
+    ],
+    "quests": []
+  },
+  "30": {
+    "id": 30,
+    "name": "Amphitheater: Arena",
+    "region": "Highlands",
+    "treasureStateId": 1259733,
+    "summation": 8,
+    "chestCount": 8,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Unseen Saber",
+        "isLocked": true
+      },
+      {
+        "index": 1,
+        "contents": "Fire Soulstone (L)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "30 000$",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Ethereal Dancer Garb",
+        "isLocked": true
+      },
+      {
+        "index": 4,
+        "contents": "20 000$",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Refreshing Jam",
+        "isLocked": false
+      },
+      {
+        "index": 6,
+        "contents": "Inspiriting Plum (M)",
+        "isLocked": false
+      },
+      {
+        "index": 7,
+        "contents": "Inferno Amulet",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      354,
+      355,
+      369,
+      380,
+      408,
+      411
+    ],
+    "quests": []
+  },
+  "31": {
+    "id": 31,
+    "name": "Amphitheater: Balcony",
+    "region": "Highlands",
+    "treasureStateId": 1259868,
+    "summation": 6,
+    "chestCount": 6,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Enchanted Rod",
+        "isLocked": true
+      },
+      {
+        "index": 1,
+        "contents": "Silver-filled Pouch",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Light Soulstone (L)",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Bright Stone",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Revitalizing Jam",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Energizing Pomegranate (L)",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      369,
+      380,
+      403,
+      406,
+      408,
+      411
+    ],
+    "quests": []
+  },
+  "32": {
+    "id": 32,
+    "name": "Amphitheater",
+    "region": "Highlands",
+    "treasureStateId": 1260003,
+    "summation": 0,
+    "chestCount": 0,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [],
+    "hiddenItems": [],
+    "monsters": [],
+    "quests": []
+  },
+  "33": {
+    "id": 33,
+    "name": "Everhold Tunnels",
+    "region": "Highlands",
+    "treasureStateId": 1260138,
+    "summation": 8,
+    "chestCount": 8,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Energizing Pomegranate (L)",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Inspiriting Plum (M)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Death Cleaver",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Olive of Life (M)",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Knowledge Staff",
+        "isLocked": true
+      },
+      {
+        "index": 5,
+        "contents": "35 000$",
+        "isLocked": false
+      },
+      {
+        "index": 6,
+        "contents": "Healing Grape Bunch",
+        "isLocked": false
+      },
+      {
+        "index": 7,
+        "contents": "Bright Stone",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      8,
+      9,
+      19,
+      27,
+      102,
+      123,
+      146,
+      288
+    ],
+    "quests": [
+      47,
+      48,
+      49
+    ]
+  },
+  "34": {
+    "id": 34,
+    "name": "Sunshade",
+    "region": "Sunlands",
+    "treasureStateId": 1260273,
+    "summation": 3,
+    "chestCount": 1,
+    "hiddenCount": 2,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Healing Grape",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Silver-filled Pouch",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Olive of Life (M)",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      51,
+      52,
+      53,
+      54
+    ]
+  },
+  "35": {
+    "id": 35,
+    "name": "Sunshade Tavern",
+    "region": "Sunlands",
+    "treasureStateId": 1260408,
+    "summation": 4,
+    "chestCount": 1,
+    "hiddenCount": 3,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Traditional Dancer Garb",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Healing Grape (M)",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Nourishing Nut",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 2,
+        "contents": "Arcane Glaive",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      51,
+      52,
+      53,
+      54
+    ]
+  },
+  "36": {
+    "id": 36,
+    "name": "Southern Sunshade Sands",
+    "region": "Sunlands",
+    "treasureStateId": 1260543,
+    "summation": 3,
+    "chestCount": 3,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Inspiriting Plum",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Herb of Clarity",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Old Coin",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      13,
+      28,
+      74,
+      76,
+      85
+    ],
+    "quests": []
+  },
+  "37": {
+    "id": 37,
+    "name": "Eastern Sunshade Sands",
+    "region": "Sunlands",
+    "treasureStateId": 1260678,
+    "summation": 3,
+    "chestCount": 3,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Healing Grape",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Thunder Soulstone",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Olive of Life",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      13,
+      28,
+      74,
+      76,
+      85
+    ],
+    "quests": []
+  },
+  "38": {
+    "id": 38,
+    "name": "Sunshade Catacombs",
+    "region": "Sunlands",
+    "treasureStateId": 1260813,
+    "summation": 4,
+    "chestCount": 4,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Healing Grape",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Shadow Soulstone",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Inspiriting Plum",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Empowering Earring",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      75,
+      84,
+      278,
+      290,
+      293
+    ],
+    "quests": [
+      51,
+      52,
+      53,
+      54
+    ]
+  },
+  "39": {
+    "id": 39,
+    "name": "Whistling Cavern",
+    "region": "Sunlands",
+    "treasureStateId": 1260948,
+    "summation": 5,
+    "chestCount": 5,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "6 000$",
+        "isLocked": true
+      },
+      {
+        "index": 1,
+        "contents": "Fire Soulstone (M)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Inspiriting Plum (M)",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Heavy Bow",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Olive of Life (M)",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      28,
+      77,
+      84,
+      85,
+      86,
+      97,
+      169,
+      188,
+      199
+    ],
+    "quests": []
+  },
+  "40": {
+    "id": 40,
+    "name": "Wellspring",
+    "region": "Sunlands",
+    "treasureStateId": 1261083,
+    "summation": 10,
+    "chestCount": 4,
+    "hiddenCount": 6,
+    "tips": "A missable hidden item here",
+    "isMissable": true,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Healing Grape (M)",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Inspiriting Plum (M)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "14 000$",
+        "isLocked": true
+      },
+      {
+        "index": 3,
+        "contents": "9 000$",
+        "isLocked": true
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Thunder Soulstone (M)",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Healing Grape Bunch",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 2,
+        "contents": "Copper-filled Pouch",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 3,
+        "contents": "Inspiriting Plum (M)",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 4,
+        "contents": "Heavy Coin Pouch",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 5,
+        "contents": "Heavy Coin Pouch",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      55,
+      56,
+      57,
+      58
+    ]
+  },
+  "42": {
+    "id": 42,
+    "name": "Western Wellspring Sands",
+    "region": "Sunlands",
+    "treasureStateId": 1261353,
+    "summation": 2,
+    "chestCount": 2,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "6 000$",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Olive of Life (M)",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      65,
+      66,
+      67,
+      86,
+      88,
+      90,
+      91,
+      92
+    ],
+    "quests": []
+  },
+  "43": {
+    "id": 43,
+    "name": "Southern Wellspring Sands",
+    "region": "Sunlands",
+    "treasureStateId": 1261488,
+    "summation": 4,
+    "chestCount": 4,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Energizing Pomegranate",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Fire Soulstone (L)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Unerring Bracelet",
+        "isLocked": true
+      },
+      {
+        "index": 3,
+        "contents": "Copper-filled Pouch",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      79,
+      86,
+      87,
+      89
+    ],
+    "quests": []
+  },
+  "44": {
+    "id": 44,
+    "name": "Northern Wellspring Sands",
+    "region": "Sunlands",
+    "treasureStateId": 1261623,
+    "summation": 4,
+    "chestCount": 4,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Energizing Pomegranate (M)",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Imperial Lance",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Inspiriting Plum",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Olive of Life",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      68,
+      69,
+      70,
+      76,
+      77,
+      79,
+      86,
+      87,
+      88,
+      89
+    ],
+    "quests": []
+  },
+  "45": {
+    "id": 45,
+    "name": "Eastern Wellspring Sands",
+    "region": "Sunlands",
+    "treasureStateId": 1261758,
+    "summation": 5,
+    "chestCount": 5,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Copper-filled Pouch",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Fool's Gold Ore",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Thunder Soulstone (L)",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Healing Grape (M)",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Enlightening Bracelet",
+        "isLocked": true
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      68,
+      69,
+      70,
+      76,
+      77,
+      79,
+      86,
+      87,
+      88,
+      89
+    ],
+    "quests": []
+  },
+  "46": {
+    "id": 46,
+    "name": "Lizardmen's Den",
+    "region": "Sunlands",
+    "treasureStateId": 1261893,
+    "summation": 10,
+    "chestCount": 10,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "400$",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "2 000$",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Silver-filled Pouch",
+        "isLocked": true
+      },
+      {
+        "index": 3,
+        "contents": "200$",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "800$",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "4 000$",
+        "isLocked": false
+      },
+      {
+        "index": 6,
+        "contents": "Copper-filled Pouch",
+        "isLocked": false
+      },
+      {
+        "index": 7,
+        "contents": "1 000$",
+        "isLocked": false
+      },
+      {
+        "index": 8,
+        "contents": "1 400$",
+        "isLocked": false
+      },
+      {
+        "index": 9,
+        "contents": "Copper-filled Pouch",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      65,
+      66,
+      67,
+      90,
+      91,
+      92,
+      96,
+      97
+    ],
+    "quests": []
+  },
+  "47": {
+    "id": 47,
+    "name": "Black Market",
+    "region": "Sunlands",
+    "treasureStateId": 1262028,
+    "summation": 9,
+    "chestCount": 9,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Fire Soulstone (L)",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Healing Grape (M)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Inspiriting Plum Basket",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Energizing Pomegranate (L)",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "10 000$",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Light Amulet",
+        "isLocked": false
+      },
+      {
+        "index": 6,
+        "contents": "Healing Grape Bunch",
+        "isLocked": false
+      },
+      {
+        "index": 7,
+        "contents": "Calming Stone",
+        "isLocked": true
+      },
+      {
+        "index": 8,
+        "contents": "Huntress's Longbow",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      86,
+      87,
+      88,
+      98,
+      99,
+      100
+    ],
+    "quests": []
+  },
+  "48": {
+    "id": 48,
+    "name": "Quicksand Caves",
+    "region": "Sunlands",
+    "treasureStateId": 1262163,
+    "summation": 6,
+    "chestCount": 6,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Inferno Axe",
+        "isLocked": true
+      },
+      {
+        "index": 1,
+        "contents": "Refreshing Jam",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Fire Soulstone (L)",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Calming Stone",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Inspiriting Plum Basket",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Protective Bracelet",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      21,
+      60,
+      97,
+      173,
+      198,
+      230,
+      273,
+      282
+    ],
+    "quests": []
+  },
+  "49": {
+    "id": 49,
+    "name": "Marsalim",
+    "region": "Sunlands",
+    "treasureStateId": 1262298,
+    "summation": 6,
+    "chestCount": 3,
+    "hiddenCount": 3,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Herb of Light",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Bottle of Sleeping Dust",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "High House's Armor",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Inspiriting Plum Basket",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Copper-filled Pouch",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 2,
+        "contents": "Fire Soulstone (L)",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      59,
+      60,
+      61,
+      62
+    ]
+  },
+  "50": {
+    "id": 50,
+    "name": "Marsalim Palace",
+    "region": "Sunlands",
+    "treasureStateId": 1262433,
+    "summation": 7,
+    "chestCount": 4,
+    "hiddenCount": 3,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "25 000$",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Enchanted Circlet",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Tempest Amulet",
+        "isLocked": true
+      },
+      {
+        "index": 3,
+        "contents": "Spirit Bow",
+        "isLocked": true
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Inspiriting Plum (M)",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Odds and Ends",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 2,
+        "contents": "Fire Soulstone (L)",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      59,
+      60,
+      61,
+      62
+    ]
+  },
+  "51": {
+    "id": 51,
+    "name": "Grimsand Road",
+    "region": "Sunlands",
+    "treasureStateId": 1262568,
+    "summation": 3,
+    "chestCount": 3,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Silver-filled Pouch",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Energizing Pomegranate (L)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Fire Soulstone (L)",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      101,
+      286,
+      301,
+      316
+    ],
+    "quests": []
+  },
+  "52": {
+    "id": 52,
+    "name": "Eastern Marsalim Sand",
+    "region": "Sunlands",
+    "treasureStateId": 1262703,
+    "summation": 3,
+    "chestCount": 3,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "20 000$",
+        "isLocked": true
+      },
+      {
+        "index": 1,
+        "contents": "Thunder Soulstone (L)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Inspiriting Plum Basket",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      73,
+      81,
+      101,
+      286,
+      316
+    ],
+    "quests": []
+  },
+  "53": {
+    "id": 53,
+    "name": "Grimsand Ruins①",
+    "region": "Sunlands",
+    "treasureStateId": 1262838,
+    "summation": 5,
+    "chestCount": 5,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "30 000$",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Healing Grape (M)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Energizing Pomegranate (M)",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Calming Stone",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Unseen Saber",
+        "isLocked": true
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      101,
+      102,
+      103,
+      104,
+      105,
+      301,
+      316
+    ],
+    "quests": []
+  },
+  "54": {
+    "id": 54,
+    "name": "Grimsand Ruins②",
+    "region": "Sunlands",
+    "treasureStateId": 1262973,
+    "summation": 11,
+    "chestCount": 11,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "50 000$",
+        "isLocked": true
+      },
+      {
+        "index": 1,
+        "contents": "Gleaming Amulet",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Healing Grape (M)",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Inspiriting Plum (M)",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Enlightening Necklace",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Force Shield",
+        "isLocked": false
+      },
+      {
+        "index": 6,
+        "contents": "Energizing Pomegranate (M)",
+        "isLocked": false
+      },
+      {
+        "index": 7,
+        "contents": "Inspiriting Plum (M)",
+        "isLocked": false
+      },
+      {
+        "index": 8,
+        "contents": "Healing Grape Bunch",
+        "isLocked": false
+      },
+      {
+        "index": 9,
+        "contents": "Inspiriting Plum Basket",
+        "isLocked": false
+      },
+      {
+        "index": 10,
+        "contents": "Refreshing Jam",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      101,
+      102,
+      103,
+      104,
+      105,
+      301,
+      316
+    ],
+    "quests": []
+  },
+  "55": {
+    "id": 55,
+    "name": "Marsalim Catacombs",
+    "region": "Sunlands",
+    "treasureStateId": 1263108,
+    "summation": 8,
+    "chestCount": 8,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Viper Dagger",
+        "isLocked": true
+      },
+      {
+        "index": 1,
+        "contents": "Revitalizing Jam",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Calming Stone",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Healing Grape Bunch",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Angel Saber",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Refreshing Jam",
+        "isLocked": false
+      },
+      {
+        "index": 6,
+        "contents": "Energizing Pomegranate (L)",
+        "isLocked": false
+      },
+      {
+        "index": 7,
+        "contents": "Master's Spear",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      73,
+      83,
+      88,
+      99,
+      100,
+      106,
+      287
+    ],
+    "quests": [
+      59,
+      60,
+      61,
+      62
+    ]
+  },
+  "56": {
+    "id": 56,
+    "name": "Clearbrook",
+    "region": "Riverlands",
+    "treasureStateId": 1263243,
+    "summation": 10,
+    "chestCount": 3,
+    "hiddenCount": 7,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Healing Grape",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Iron Axe",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Dubious Gold Ore",
+        "isLocked": true
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Essence of Pomegranate",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Silver Axe",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 2,
+        "contents": "Resistant Nut",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 3,
+        "contents": "Sleepweed",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 4,
+        "contents": "Addlewort",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 5,
+        "contents": "Essence of Plum",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 6,
+        "contents": "Olive Bloom",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      63,
+      64,
+      65,
+      66,
+      67
+    ]
+  },
+  "57": {
+    "id": 57,
+    "name": "Path of Rhiyo",
+    "region": "Riverlands",
+    "treasureStateId": 1263378,
+    "summation": 3,
+    "chestCount": 3,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Healing Grape",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Soothing Dust",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Essence of Plum",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      176,
+      177,
+      178,
+      185,
+      186,
+      187,
+      195
+    ],
+    "quests": []
+  },
+  "58": {
+    "id": 58,
+    "name": "South Clearbrook Traverse",
+    "region": "Riverlands",
+    "treasureStateId": 1263513,
+    "summation": 4,
+    "chestCount": 4,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Olive of Life",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "500$",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Healing Grape",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Soothing Seed",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      176,
+      177,
+      178,
+      185,
+      186,
+      187,
+      195
+    ],
+    "quests": []
+  },
+  "59": {
+    "id": 59,
+    "name": "West Clearbrook Traverse",
+    "region": "Riverlands",
+    "treasureStateId": 1263648,
+    "summation": 4,
+    "chestCount": 3,
+    "hiddenCount": 1,
+    "tips": "The last is missable (?)",
+    "isMissable": true,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Odds and Ends",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Olive of Life",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Healing Grape",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Giant Egg",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [
+      176,
+      177,
+      178,
+      185,
+      186,
+      187,
+      195
+    ],
+    "quests": []
+  },
+  "60": {
+    "id": 60,
+    "name": "Cave of Rhiyo",
+    "region": "Riverlands",
+    "treasureStateId": 1263783,
+    "summation": 8,
+    "chestCount": 8,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Ruinous Seed",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "500$",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Injurious Dust",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Soothing Dust",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Inspiriting Plum",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Invigorating Nut",
+        "isLocked": false
+      },
+      {
+        "index": 6,
+        "contents": "Bronze Vest",
+        "isLocked": false
+      },
+      {
+        "index": 7,
+        "contents": "Purifying Dust",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      187,
+      196,
+      197,
+      198,
+      278,
+      290
+    ],
+    "quests": []
+  },
+  "61": {
+    "id": 61,
+    "name": "Twin Falls",
+    "region": "Riverlands",
+    "treasureStateId": 1263918,
+    "summation": 8,
+    "chestCount": 8,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Psychic Staff",
+        "isLocked": true
+      },
+      {
+        "index": 1,
+        "contents": "Energizing Pomegranate (M)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Inspiriting Plum",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Olive of Life (M)",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Healing Grape (M)",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Inspiriting Plum (M)",
+        "isLocked": false
+      },
+      {
+        "index": 6,
+        "contents": "Refreshing Jam",
+        "isLocked": false
+      },
+      {
+        "index": 7,
+        "contents": "5 000$",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      179,
+      180,
+      187,
+      188,
+      195,
+      198,
+      290,
+      344
+    ],
+    "quests": []
+  },
+  "62": {
+    "id": 62,
+    "name": "Saintsbridge",
+    "region": "Riverlands",
+    "treasureStateId": 1264053,
+    "summation": 4,
+    "chestCount": 2,
+    "hiddenCount": 2,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Inspiriting Plum (M)",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Energizing Pomegranate (M)",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Inspiriting Plum",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Refreshing Jam",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      68,
+      69,
+      70,
+      71,
+      72,
+      73
+    ]
+  },
+  "63": {
+    "id": 63,
+    "name": "Saintsbridge: Upstream",
+    "region": "Riverlands",
+    "treasureStateId": 1264188,
+    "summation": 4,
+    "chestCount": 2,
+    "hiddenCount": 2,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Bottle of Sleeping Dust",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Heavy Coin Pouch",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Odds and Ends",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Healing Grape (M)",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      68,
+      69,
+      70,
+      71,
+      72,
+      73
+    ]
+  },
+  "64": {
+    "id": 64,
+    "name": "Saintsbridge Cathedral",
+    "region": "Riverlands",
+    "treasureStateId": 1264323,
+    "summation": 6,
+    "chestCount": 2,
+    "hiddenCount": 4,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Olive of Life",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Herb of Valor",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "3 000$",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Inspiriting Plum (M)",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 2,
+        "contents": "Copper-filled Pouch",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 3,
+        "contents": "Ice Soulstone (M)",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      68,
+      69,
+      70,
+      71,
+      72,
+      73
+    ]
+  },
+  "65": {
+    "id": 65,
+    "name": "Murkwood Trail",
+    "region": "Riverlands",
+    "treasureStateId": 1264458,
+    "summation": 3,
+    "chestCount": 3,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Herb of Awakening",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Inspiriting Plum Basket",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "3 500$",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      187,
+      188,
+      200
+    ],
+    "quests": []
+  },
+  "66": {
+    "id": 66,
+    "name": "East Saintsbridge Traverse",
+    "region": "Riverlands",
+    "treasureStateId": 1264593,
+    "summation": 3,
+    "chestCount": 3,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Herb of Healing",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Healing Grape (M)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Rare Stone",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      179,
+      180,
+      181,
+      182,
+      187,
+      188,
+      189,
+      199,
+      200,
+      201
+    ],
+    "quests": []
+  },
+  "67": {
+    "id": 67,
+    "name": "The Murkwood",
+    "region": "Riverlands",
+    "treasureStateId": 1264728,
+    "summation": 9,
+    "chestCount": 9,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Olive of Life (M)",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Inspiriting Plum",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Energizing Pomegranate (M)",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Kite Shield",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Healing Grape (M)",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Clarity Stone",
+        "isLocked": true
+      },
+      {
+        "index": 6,
+        "contents": "Healing Grape Bunch",
+        "isLocked": false
+      },
+      {
+        "index": 7,
+        "contents": "5 000$",
+        "isLocked": false
+      },
+      {
+        "index": 8,
+        "contents": "Psychic Staff",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      42,
+      44,
+      78,
+      189,
+      255
+    ],
+    "quests": []
+  },
+  "68": {
+    "id": 68,
+    "name": "Rivira Woods",
+    "region": "Riverlands",
+    "treasureStateId": 1264863,
+    "summation": 8,
+    "chestCount": 8,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Injurious Dust",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Silver-filled Pouch",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Purifying Seed",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Purifying Dust",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Gaolbreaker",
+        "isLocked": true
+      },
+      {
+        "index": 5,
+        "contents": "Refreshing Jam",
+        "isLocked": false
+      },
+      {
+        "index": 6,
+        "contents": "Ice Amulet",
+        "isLocked": true
+      },
+      {
+        "index": 7,
+        "contents": "Energizing Pomegranate (L)",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      56,
+      57,
+      170,
+      189,
+      292
+    ],
+    "quests": []
+  },
+  "69": {
+    "id": 69,
+    "name": "Farshore",
+    "region": "Riverlands",
+    "treasureStateId": 1264998,
+    "summation": 7,
+    "chestCount": 7,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Inspiriting Plum Basket",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Olive of Life (M)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Energizing Pomegranate (M)",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Healing Grape Bunch",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Ice Soulstone (L)",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "30 000$",
+        "isLocked": true
+      },
+      {
+        "index": 6,
+        "contents": "Clarity Stone",
+        "isLocked": true
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      61,
+      62,
+      99,
+      102,
+      146,
+      269,
+      270,
+      287,
+      292
+    ],
+    "quests": []
+  },
+  "70": {
+    "id": 70,
+    "name": "Riverford",
+    "region": "Riverlands",
+    "treasureStateId": 1265133,
+    "summation": 4,
+    "chestCount": 1,
+    "hiddenCount": 3,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Herb of Valor",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Fire Soulstone (L)",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Silver-filled Pouch",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 2,
+        "contents": "Healing Grape (M)",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      74,
+      75,
+      76,
+      77
+    ]
+  },
+  "71": {
+    "id": 71,
+    "name": "Lower Riverford",
+    "region": "Riverlands",
+    "treasureStateId": 1265268,
+    "summation": 4,
+    "chestCount": 2,
+    "hiddenCount": 2,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Revitalizing Jam",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Adamantine Shield",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Silver Clock",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Energizing Pomegranate (M)",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      74,
+      75,
+      76,
+      77
+    ]
+  },
+  "72": {
+    "id": 72,
+    "name": "North Riverford Traverse",
+    "region": "Riverlands",
+    "treasureStateId": 1265403,
+    "summation": 3,
+    "chestCount": 3,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Herb of Revival",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Silver-filled Pouch",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Wind Soulstone (L)",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      182,
+      183,
+      184,
+      190,
+      202,
+      204,
+      282
+    ],
+    "quests": []
+  },
+  "73": {
+    "id": 73,
+    "name": "Hidden Path",
+    "region": "Riverlands",
+    "treasureStateId": 1265538,
+    "summation": 7,
+    "chestCount": 7,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Herb of Valor",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Imperial Helm",
+        "isLocked": true
+      },
+      {
+        "index": 2,
+        "contents": "Olive of Life (M)",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Ice Soulstone (L)",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Silver-filled Pouch",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Inspiriting Plum Basket",
+        "isLocked": false
+      },
+      {
+        "index": 6,
+        "contents": "Healing Grape (M)",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      96,
+      190,
+      193,
+      202,
+      203,
+      305
+    ],
+    "quests": []
+  },
+  "74": {
+    "id": 74,
+    "name": "Lord's Manse",
+    "region": "Riverlands",
+    "treasureStateId": 1265673,
+    "summation": 10,
+    "chestCount": 10,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Healing Grape (M)",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Energizing Pomegranate (L)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Silver-filled Pouch",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Blizzard Amulet",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Clarity Stone",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Rune Hatchet",
+        "isLocked": true
+      },
+      {
+        "index": 6,
+        "contents": "Inspiriting Plum (M)",
+        "isLocked": false
+      },
+      {
+        "index": 7,
+        "contents": "Healing Grape Bunch",
+        "isLocked": false
+      },
+      {
+        "index": 8,
+        "contents": "Refreshing Jam",
+        "isLocked": false
+      },
+      {
+        "index": 9,
+        "contents": "Inspiriting Plum Basket",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      96,
+      362,
+      363,
+      366,
+      382,
+      383,
+      384,
+      385
+    ],
+    "quests": []
+  },
+  "75": {
+    "id": 75,
+    "name": "Refuge Ruins",
+    "region": "Riverlands",
+    "treasureStateId": 1265808,
+    "summation": 14,
+    "chestCount": 14,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Healing Grape (M)",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Refreshing Jam",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Forbidden Blade",
+        "isLocked": true
+      },
+      {
+        "index": 3,
+        "contents": "Enchanted Rod",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Energizing Pomegranate (M)",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Energizing Pomegranate (L)",
+        "isLocked": false
+      },
+      {
+        "index": 6,
+        "contents": "Olive of Life (M)",
+        "isLocked": false
+      },
+      {
+        "index": 7,
+        "contents": "Clarity Stone",
+        "isLocked": false
+      },
+      {
+        "index": 8,
+        "contents": "Cloth Map",
+        "isLocked": false
+      },
+      {
+        "index": 9,
+        "contents": "Weathered Boots",
+        "isLocked": false
+      },
+      {
+        "index": 10,
+        "contents": "Rusty Cup",
+        "isLocked": false
+      },
+      {
+        "index": 11,
+        "contents": "Force Shield",
+        "isLocked": false
+      },
+      {
+        "index": 12,
+        "contents": "Scrap of Rope",
+        "isLocked": false
+      },
+      {
+        "index": 13,
+        "contents": "Glossy Gold Coin",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      182,
+      183,
+      184,
+      193,
+      194,
+      201
+    ],
+    "quests": []
+  },
+  "76": {
+    "id": 76,
+    "name": "Atlasdam",
+    "region": "Flatlands",
+    "treasureStateId": 1265943,
+    "summation": 3,
+    "chestCount": 0,
+    "hiddenCount": 3,
+    "tips": null,
+    "isMissable": false,
+    "chests": [],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Light Soulstone (M)",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Nourishing Nut",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 2,
+        "contents": "Empty Coin Pouch",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      15,
+      16,
+      17,
+      18
+    ]
+  },
+  "77": {
+    "id": 77,
+    "name": "Atlasdam Palace Gate",
+    "region": "Flatlands",
+    "treasureStateId": 1266078,
+    "summation": 4,
+    "chestCount": 0,
+    "hiddenCount": 4,
+    "tips": null,
+    "isMissable": false,
+    "chests": [],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Light Soulstone",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Large Feather",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 2,
+        "contents": "Inspiriting Plum (M)",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 3,
+        "contents": "Odds and Ends",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      15,
+      16,
+      17,
+      18
+    ]
+  },
+  "78": {
+    "id": 78,
+    "name": "Atlasdam Palace",
+    "region": "Flatlands",
+    "treasureStateId": 1266213,
+    "summation": 8,
+    "chestCount": 4,
+    "hiddenCount": 4,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Thunder Soulstone",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Herb of Awakening",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Inspiriting Plum",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Healing Grape",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Healing Grape",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Buckler",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 2,
+        "contents": "Small Cup",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 3,
+        "contents": "Olive of Life",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      15,
+      16,
+      17,
+      18
+    ]
+  },
+  "79": {
+    "id": 79,
+    "name": "East Atlasdam Flats",
+    "region": "Flatlands",
+    "treasureStateId": 1266348,
+    "summation": 2,
+    "chestCount": 2,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Inspiriting Plum",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "500$",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      147,
+      148,
+      149,
+      156,
+      158,
+      166,
+      167
+    ],
+    "quests": []
+  },
+  "80": {
+    "id": 80,
+    "name": "North Atlasdam Flats",
+    "region": "Flatlands",
+    "treasureStateId": 1266483,
+    "summation": 2,
+    "chestCount": 2,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Thunder Soulstone",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Olive of Life (M)",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      147,
+      148,
+      149,
+      156,
+      158,
+      166,
+      167
+    ],
+    "quests": []
+  },
+  "81": {
+    "id": 81,
+    "name": "Subterranean Study",
+    "region": "Flatlands",
+    "treasureStateId": 1266618,
+    "summation": 7,
+    "chestCount": 7,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Healing Grape",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Herb of Clamor",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Wind Attire",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Inspiriting Plum",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Herb of Light",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Old Coin",
+        "isLocked": false
+      },
+      {
+        "index": 6,
+        "contents": "Light Soulstone",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      278,
+      290,
+      297,
+      388,
+      389,
+      390,
+      419,
+      420
+    ],
+    "quests": []
+  },
+  "82": {
+    "id": 82,
+    "name": "The Whistlewood",
+    "region": "Flatlands",
+    "treasureStateId": 1266753,
+    "summation": 5,
+    "chestCount": 5,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "1 500$",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Silver Sword",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Energizing Pomegranate",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Resistant Nut",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Healing Grape Bunch",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      44,
+      149,
+      150,
+      151,
+      152,
+      337
+    ],
+    "quests": []
+  },
+  "83": {
+    "id": 83,
+    "name": "Noblecourt",
+    "region": "Flatlands",
+    "treasureStateId": 1266888,
+    "summation": 6,
+    "chestCount": 2,
+    "hiddenCount": 4,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Olive of Life",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Herb of Light",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Thunder Soulstone (L)",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Curious Antique",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 2,
+        "contents": "Heavy Coin Pouch",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 3,
+        "contents": "Energizing Pomegranate (M)",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      19,
+      20,
+      21,
+      22,
+      23
+    ]
+  },
+  "84": {
+    "id": 84,
+    "name": "East Noblecourt",
+    "region": "Flatlands",
+    "treasureStateId": 1267023,
+    "summation": 7,
+    "chestCount": 2,
+    "hiddenCount": 5,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Herb of Clamor",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "10 000$",
+        "isLocked": true
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Steel Axe",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Inspiriting Plum (M)",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 2,
+        "contents": "Copper-filled Pouch",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 3,
+        "contents": "Introduction to Adventuring",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 4,
+        "contents": "Rare Stone",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      19,
+      20,
+      21,
+      22,
+      23
+    ]
+  },
+  "85": {
+    "id": 85,
+    "name": "Western Noblecourt Flats",
+    "region": "Flatlands",
+    "treasureStateId": 1267158,
+    "summation": 5,
+    "chestCount": 5,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Wind Amulet",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Healing Grape (M)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Light Soulstone (M)",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "5 000$",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Energizing Pomegranate",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      78,
+      150,
+      151,
+      152,
+      153,
+      158,
+      159,
+      160,
+      168,
+      169,
+      170
+    ],
+    "quests": []
+  },
+  "86": {
+    "id": 86,
+    "name": "Orlick's Manse",
+    "region": "Flatlands",
+    "treasureStateId": 1267293,
+    "summation": 7,
+    "chestCount": 7,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Healing Grape Bunch",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Light Soulstone (M)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "3 000$",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Olive of Life",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Inspiriting Plum",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Lightning Amulet",
+        "isLocked": true
+      },
+      {
+        "index": 6,
+        "contents": "Refreshing Jam",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      358,
+      359,
+      372,
+      374,
+      378,
+      394,
+      395
+    ],
+    "quests": []
+  },
+  "87": {
+    "id": 87,
+    "name": "Obsidian Manse",
+    "region": "Flatlands",
+    "treasureStateId": 1267428,
+    "summation": 9,
+    "chestCount": 9,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Healing Grape Bunch",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Elemental Hat",
+        "isLocked": true
+      },
+      {
+        "index": 2,
+        "contents": "5 000$",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Inspiriting Plum Basket",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Antidote Stone",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Energizing Pomegranate (M)",
+        "isLocked": false
+      },
+      {
+        "index": 6,
+        "contents": "Olive of Life (L)",
+        "isLocked": false
+      },
+      {
+        "index": 7,
+        "contents": "Silver-filled Pouch",
+        "isLocked": false
+      },
+      {
+        "index": 8,
+        "contents": "Inspiriting Plum (M)",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      171,
+      172,
+      173,
+      356,
+      357,
+      369,
+      399
+    ],
+    "quests": []
+  },
+  "88": {
+    "id": 88,
+    "name": "The Hollow Throne",
+    "region": "Flatlands",
+    "treasureStateId": 1267563,
+    "summation": 8,
+    "chestCount": 8,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Antidote Stone",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Energizing Pomegranate (L)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Revitalizing Jam",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "4 000$",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Argent Axe",
+        "isLocked": true
+      },
+      {
+        "index": 5,
+        "contents": "Olive of Life (M)",
+        "isLocked": false
+      },
+      {
+        "index": 6,
+        "contents": "Healing Grape (M)",
+        "isLocked": false
+      },
+      {
+        "index": 7,
+        "contents": "Moonblade",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      17,
+      146,
+      269,
+      270,
+      309,
+      320,
+      324,
+      878
+    ],
+    "quests": []
+  },
+  "89": {
+    "id": 89,
+    "name": "Wispermill",
+    "region": "Flatlands",
+    "treasureStateId": 1267698,
+    "summation": 5,
+    "chestCount": 1,
+    "hiddenCount": 4,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Thunder Soulstone (M)",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Inspiriting Plum Basket",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Old Coin",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 2,
+        "contents": "Commemorative Coin",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 3,
+        "contents": "Refreshing Jam",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      24,
+      25,
+      26
+    ]
+  },
+  "90": {
+    "id": 90,
+    "name": "Western Wispermill Flats",
+    "region": "Flatlands",
+    "treasureStateId": 1267833,
+    "summation": 3,
+    "chestCount": 3,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Energizing Pomegranate (M)",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Cat's Eye",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Olive of Life (M)",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      124,
+      153,
+      154,
+      155,
+      163,
+      174,
+      175
+    ],
+    "quests": []
+  },
+  "91": {
+    "id": 91,
+    "name": "Ebony Grotto①",
+    "region": "Flatlands",
+    "treasureStateId": 1267968,
+    "summation": 4,
+    "chestCount": 4,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Olive of Life (M)",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Giant's Club",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Energizing Pomegranate (M)",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Refreshing Jam",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      96,
+      174,
+      288,
+      303,
+      311,
+      352,
+      353
+    ],
+    "quests": []
+  },
+  "92": {
+    "id": 92,
+    "name": "Ebony Grotto②",
+    "region": "Flatlands",
+    "treasureStateId": 1268103,
+    "summation": 8,
+    "chestCount": 8,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Healing Grape Bunch",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Energizing Pomegranate (M)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Inspiriting Plum (M)",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Thunderstorm Amulet",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Antidote Stone",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Olive of Life (M)",
+        "isLocked": false
+      },
+      {
+        "index": 6,
+        "contents": "Adamantine Hat",
+        "isLocked": true
+      },
+      {
+        "index": 7,
+        "contents": "30 000$",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      96,
+      174,
+      288,
+      303,
+      311,
+      352,
+      353
+    ],
+    "quests": []
+  },
+  "93": {
+    "id": 93,
+    "name": "Forest of Purgation",
+    "region": "Flatlands",
+    "treasureStateId": 1268238,
+    "summation": 6,
+    "chestCount": 6,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Light Soulstone (L)",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Tempest Amulet",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Forbidden Dagger",
+        "isLocked": true
+      },
+      {
+        "index": 3,
+        "contents": "20 000$",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Thunder Soulstone (L)",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Olive of Life (L)",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      48,
+      64,
+      174,
+      175,
+      272,
+      283,
+      301,
+      316,
+      334
+    ],
+    "quests": []
+  },
+  "94": {
+    "id": 94,
+    "name": "Bolderfall",
+    "region": "Cliftlands",
+    "treasureStateId": 1268373,
+    "summation": 3,
+    "chestCount": 2,
+    "hiddenCount": 1,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "1,000$",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Stinging Dagger",
+        "isLocked": true
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Falcon Dagger",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      78,
+      79,
+      80,
+      81,
+      82
+    ]
+  },
+  "95": {
+    "id": 95,
+    "name": "Lower Bolderfall",
+    "region": "Cliftlands",
+    "treasureStateId": 1268508,
+    "summation": 0,
+    "chestCount": 0,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [],
+    "hiddenItems": [],
+    "monsters": [],
+    "quests": [
+      78,
+      79,
+      80,
+      81,
+      82
+    ]
+  },
+  "96": {
+    "id": 96,
+    "name": "Ravus Manor Gate",
+    "region": "Cliftlands",
+    "treasureStateId": 1268643,
+    "summation": 6,
+    "chestCount": 2,
+    "hiddenCount": 4,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Iron Helm",
+        "isLocked": true
+      },
+      {
+        "index": 1,
+        "contents": "Broadsword",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "War Spear",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Dirty Ball of Cloth",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 2,
+        "contents": "Weathered Boots",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 3,
+        "contents": "Elusive Shield",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [
+      266,
+      360,
+      361,
+      381,
+      388,
+      390
+    ],
+    "quests": []
+  },
+  "97": {
+    "id": 97,
+    "name": "North Bolderfall Pass",
+    "region": "Cliftlands",
+    "treasureStateId": 1268778,
+    "summation": 3,
+    "chestCount": 3,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Healing Grape",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "1,000$",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Olive of Life",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      242,
+      243,
+      244,
+      251,
+      252,
+      253,
+      261
+    ],
+    "quests": []
+  },
+  "98": {
+    "id": 98,
+    "name": "South Bolderfall Pass",
+    "region": "Cliftlands",
+    "treasureStateId": 1268913,
+    "summation": 4,
+    "chestCount": 4,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Herb of Awakening",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Wind Soulstone",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Inspiriting Plum (M)",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Healing Grape",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      242,
+      243,
+      244,
+      251,
+      252,
+      253,
+      261
+    ],
+    "quests": []
+  },
+  "99": {
+    "id": 99,
+    "name": "Ravus Manor",
+    "region": "Cliftlands",
+    "treasureStateId": 1269048,
+    "summation": 7,
+    "chestCount": 7,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Healing Grape",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Inspiriting Plum",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "800$",
+        "isLocked": true
+      },
+      {
+        "index": 3,
+        "contents": "Wind Attire",
+        "isLocked": true
+      },
+      {
+        "index": 4,
+        "contents": "Healing Grape",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Invigorating Nut",
+        "isLocked": true
+      },
+      {
+        "index": 6,
+        "contents": "Bottle of Befuddling Dust",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      266,
+      360,
+      361,
+      381,
+      388,
+      390
+    ],
+    "quests": []
+  },
+  "100": {
+    "id": 100,
+    "name": "Carrion Caves",
+    "region": "Cliftlands",
+    "treasureStateId": 1269183,
+    "summation": 5,
+    "chestCount": 5,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Tough Nut",
+        "isLocked": true
+      },
+      {
+        "index": 1,
+        "contents": "Inspiriting Plum (M)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Olive of Life (M)",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "6 000$",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Enchanted Axe",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      20,
+      137,
+      159,
+      168,
+      171,
+      253,
+      260,
+      264,
+      268,
+      345
+    ],
+    "quests": []
+  },
+  "101": {
+    "id": 101,
+    "name": "Quarrycrest",
+    "region": "Cliftlands",
+    "treasureStateId": 1269318,
+    "summation": 5,
+    "chestCount": 3,
+    "hiddenCount": 2,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Pseudo Gold Ore",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Dubious Gold Ore",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Wind Soulstone (M)",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Fire Soulstone (L)",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Pseudo Gold Ore",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      83,
+      84,
+      85,
+      86
+    ]
+  },
+  "102": {
+    "id": 102,
+    "name": "Quarrycrest Mines",
+    "region": "Cliftlands",
+    "treasureStateId": 1269453,
+    "summation": 6,
+    "chestCount": 3,
+    "hiddenCount": 3,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Healing Grape Bunch",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Herb of Valor",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Fool's Gold Ore",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Refreshing Jam",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Olive of Life (M)",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 2,
+        "contents": "Fool's Gold Ore",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      83,
+      84,
+      85,
+      86
+    ]
+  },
+  "103": {
+    "id": 103,
+    "name": "Road to Morlock's Manse",
+    "region": "Cliftlands",
+    "treasureStateId": 1269588,
+    "summation": 3,
+    "chestCount": 3,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Healing Grape (M)",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Inspiriting Plum",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "5 000$",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      253,
+      254,
+      256,
+      263
+    ],
+    "quests": []
+  },
+  "104": {
+    "id": 104,
+    "name": "South Quarrycrest Pass",
+    "region": "Cliftlands",
+    "treasureStateId": 1269723,
+    "summation": 3,
+    "chestCount": 3,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Herb of Valor",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Fire Amulet",
+        "isLocked": true
+      },
+      {
+        "index": 2,
+        "contents": "Energizing Pomegranate",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      245,
+      246,
+      247,
+      248,
+      253,
+      254,
+      256,
+      262,
+      263,
+      264
+    ],
+    "quests": []
+  },
+  "105": {
+    "id": 105,
+    "name": "Morlock's Manse",
+    "region": "Cliftlands",
+    "treasureStateId": 1269858,
+    "summation": 8,
+    "chestCount": 8,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Healing Grape (M)",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Energizing Pomegranate (M)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Conscious Stone",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "6 000$ (hidden room)",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Wind Soulstone (M)",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Refreshing Jam",
+        "isLocked": false
+      },
+      {
+        "index": 6,
+        "contents": "Hasty Helm",
+        "isLocked": true
+      },
+      {
+        "index": 7,
+        "contents": "Olive of Life (M)",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      267,
+      268,
+      364,
+      365,
+      388,
+      392
+    ],
+    "quests": []
+  },
+  "106": {
+    "id": 106,
+    "name": "The Sewers",
+    "region": "Cliftlands",
+    "treasureStateId": 1269993,
+    "summation": 7,
+    "chestCount": 7,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Inspiriting Plum Basket",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Snipe Saber",
+        "isLocked": true
+      },
+      {
+        "index": 2,
+        "contents": "Fire Soulstone (M)",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Energizing Pomegranate (L)",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Healing Grape Bunch",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Sprightly Ring",
+        "isLocked": false
+      },
+      {
+        "index": 6,
+        "contents": "Bottle of Befuddling Dust",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      157,
+      187,
+      269,
+      270,
+      290,
+      304,
+      421
+    ],
+    "quests": []
+  },
+  "107": {
+    "id": 107,
+    "name": "Derelict Mine",
+    "region": "Cliftlands",
+    "treasureStateId": 1270128,
+    "summation": 6,
+    "chestCount": 6,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Wind Soulstone (L)",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Conscious Stone",
+        "isLocked": true
+      },
+      {
+        "index": 2,
+        "contents": "10 000$",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Inspiriting Plum (M)",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Olive of Life (L)",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Carnage Blade",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      45,
+      85,
+      100,
+      161,
+      269,
+      270,
+      286,
+      288,
+      341,
+      396,
+      401
+    ],
+    "quests": []
+  },
+  "108": {
+    "id": 108,
+    "name": "Orewell",
+    "region": "Cliftlands",
+    "treasureStateId": 1270263,
+    "summation": 9,
+    "chestCount": 4,
+    "hiddenCount": 5,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Soothing Dust",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "68$",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Scrap of Rope",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Weathered Boots",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Inspiriting Plum (M)",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Hill Cleaver",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 2,
+        "contents": "Inspiriting Plum Basket",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 3,
+        "contents": "Revitalizing Jam",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 4,
+        "contents": "Empty Coin Pouch",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      87,
+      88,
+      89
+    ]
+  },
+  "109": {
+    "id": 109,
+    "name": "Trail to the Forest of Rubeh",
+    "region": "Cliftlands",
+    "treasureStateId": 1270398,
+    "summation": 3,
+    "chestCount": 3,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Purifying Dust",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "20 000$",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Energizing Pomegranate (M)",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      265,
+      271
+    ],
+    "quests": []
+  },
+  "110": {
+    "id": 110,
+    "name": "South Orewell Pass",
+    "region": "Cliftlands",
+    "treasureStateId": 1270533,
+    "summation": 4,
+    "chestCount": 4,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Olive of Life (M)",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Fire Soulstone (M)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Energizing Pomegranate (L)",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Healing Grape (M)",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      248,
+      249,
+      250,
+      258,
+      259,
+      265,
+      271
+    ],
+    "quests": []
+  },
+  "111": {
+    "id": 111,
+    "name": "Forest of Rubeh①",
+    "region": "Cliftlands",
+    "treasureStateId": 1270668,
+    "summation": 10,
+    "chestCount": 10,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Inferno Amulet",
+        "isLocked": true
+      },
+      {
+        "index": 1,
+        "contents": "Wind Soulstone (M)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Energizing Pomegranate (M)",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Herb of Clarity",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Purifying Seed",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Inspiriting Plum (M)",
+        "isLocked": false
+      },
+      {
+        "index": 6,
+        "contents": "Ruinous Seed",
+        "isLocked": false
+      },
+      {
+        "index": 7,
+        "contents": "Silver-filled Pouch",
+        "isLocked": false
+      },
+      {
+        "index": 8,
+        "contents": "Ruinous Dust",
+        "isLocked": false
+      },
+      {
+        "index": 9,
+        "contents": "Energizing Pomegranate (M)",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      192,
+      259,
+      272,
+      273,
+      274,
+      292,
+      334
+    ],
+    "quests": []
+  },
+  "112": {
+    "id": 112,
+    "name": "Forest of Rubeh②",
+    "region": "Cliftlands",
+    "treasureStateId": 1270803,
+    "summation": 8,
+    "chestCount": 8,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Conscious Stone",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Augmented Bow of the Falcon",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "30 000$",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Healing Grape Bunch",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Revitalizing Jam",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Healing Grape (M)",
+        "isLocked": false
+      },
+      {
+        "index": 6,
+        "contents": "Imperial Armor",
+        "isLocked": false
+      },
+      {
+        "index": 7,
+        "contents": "Herb of Healing",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      192,
+      259,
+      272,
+      273,
+      274,
+      292,
+      334
+    ],
+    "quests": []
+  },
+  "113": {
+    "id": 113,
+    "name": "Dragonsong Fane",
+    "region": "Cliftlands",
+    "treasureStateId": 1270938,
+    "summation": 6,
+    "chestCount": 6,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Energizing Pomegranate (L)",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Crystal Helm",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Holy Longbow",
+        "isLocked": true
+      },
+      {
+        "index": 3,
+        "contents": "Healing Grape Bunch",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Olive of Life (L)",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Conscious Stone",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      301,
+      303,
+      314,
+      317,
+      319,
+      382,
+      402,
+      405,
+      412,
+      413,
+      414,
+      415
+    ],
+    "quests": []
+  },
+  "114": {
+    "id": 114,
+    "name": "Rippletide",
+    "region": "Coastlands",
+    "treasureStateId": 1271073,
+    "summation": 9,
+    "chestCount": 4,
+    "hiddenCount": 5,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Bottle of Poison Dust",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Inspiriting Plum",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Healing Grape",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "500$",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Healing Grape (M)",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Articulate Stone",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 2,
+        "contents": "Essence of Grape",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 3,
+        "contents": "Thunder Soulstone (L)",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 4,
+        "contents": "Sleepweed",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      27,
+      28,
+      29
+    ]
+  },
+  "115": {
+    "id": 115,
+    "name": "Path to the Caves of Maiya",
+    "region": "Coastlands",
+    "treasureStateId": 1271208,
+    "summation": 4,
+    "chestCount": 4,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Healing Grape",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Inspiriting Plum",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Herb of Clarity",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Healing Grape",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      214,
+      215,
+      216,
+      227
+    ],
+    "quests": []
+  },
+  "116": {
+    "id": 116,
+    "name": "North Rippletide Coast",
+    "region": "Coastlands",
+    "treasureStateId": 1271343,
+    "summation": 3,
+    "chestCount": 3,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Fortifying Nut",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Healing Grape",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Olive of Life",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      214,
+      215,
+      216,
+      227
+    ],
+    "quests": []
+  },
+  "117": {
+    "id": 117,
+    "name": "East Rippletide Coast",
+    "region": "Coastlands",
+    "treasureStateId": 1271478,
+    "summation": 3,
+    "chestCount": 3,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Magic Nut",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Inspiriting Plum",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Wind Soulstone",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      214,
+      215,
+      216,
+      227
+    ],
+    "quests": []
+  },
+  "118": {
+    "id": 118,
+    "name": "Caves of Maiya",
+    "region": "Coastlands",
+    "treasureStateId": 1271613,
+    "summation": 5,
+    "chestCount": 5,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "1,000$",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Healing Grape",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Inspiriting Plum",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Thunder Soulstone",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Refreshing Jam",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      214,
+      224,
+      225,
+      226,
+      230,
+      275,
+      278,
+      290
+    ],
+    "quests": []
+  },
+  "119": {
+    "id": 119,
+    "name": "Undertow Cove",
+    "region": "Coastlands",
+    "treasureStateId": 1271748,
+    "summation": 7,
+    "chestCount": 7,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Healing Grape Bunch",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Inspiriting Plum (M)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "20 000$",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Inspiriting Plum Basket",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Olive of Life (M)",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Justice Breaker",
+        "isLocked": true
+      },
+      {
+        "index": 6,
+        "contents": "Refreshing Jam",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      61,
+      62,
+      221,
+      222,
+      240,
+      292
+    ],
+    "quests": []
+  },
+  "120": {
+    "id": 120,
+    "name": "Goldshore",
+    "region": "Coastlands",
+    "treasureStateId": 1271883,
+    "summation": 7,
+    "chestCount": 3,
+    "hiddenCount": 4,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Inspiriting Plum",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Thunder Soulstone (M)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Olive of Life",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Thunder Soulstone (L)",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Copper-filled Pouch",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 2,
+        "contents": "Healing Grape Bunch",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 3,
+        "contents": "Odds and Ends",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      30,
+      31,
+      32,
+      33,
+      34
+    ]
+  },
+  "121": {
+    "id": 121,
+    "name": "Goldshore Manor District",
+    "region": "Coastlands",
+    "treasureStateId": 1272018,
+    "summation": 6,
+    "chestCount": 3,
+    "hiddenCount": 3,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "4 500$",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Herb of Clamor",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Energizing Pomegranate (M)",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Healing Grape (M)",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Silver Axe",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 2,
+        "contents": "Wind Soulstone (L)",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      30,
+      31,
+      32,
+      33,
+      34
+    ]
+  },
+  "122": {
+    "id": 122,
+    "name": "Goldshore Cathedral",
+    "region": "Coastlands",
+    "treasureStateId": 1272153,
+    "summation": 4,
+    "chestCount": 3,
+    "hiddenCount": 1,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Olive of Life",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Herb of Light",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Inspiriting Plum Basket",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Energizing Pomegranate (M)",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      30,
+      31,
+      32,
+      33,
+      34
+    ]
+  },
+  "123": {
+    "id": 123,
+    "name": "Road to the Seaside Grotto",
+    "region": "Coastlands",
+    "treasureStateId": 1272288,
+    "summation": 5,
+    "chestCount": 5,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Thunder Soulstone (M)",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Ice Amulet",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Bottle of Poison Dust",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Healing Grape Bunch",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Herb of Awakening",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      231,
+      232,
+      239,
+      396,
+      401
+    ],
+    "quests": []
+  },
+  "124": {
+    "id": 124,
+    "name": "Road to the Caves of Azure",
+    "region": "Coastlands",
+    "treasureStateId": 1272423,
+    "summation": 3,
+    "chestCount": 3,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Heavy Coin Pouch",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Energizing Pomegranate",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Purifying Seed",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      216,
+      217
+    ],
+    "quests": []
+  },
+  "125": {
+    "id": 125,
+    "name": "West Goldshore Coast",
+    "region": "Coastlands",
+    "treasureStateId": 1272558,
+    "summation": 4,
+    "chestCount": 4,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Energizing Pomegranate",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Bottle of Blinding Dust",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Herb of Valor",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Thunder Soulstone (M)",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      216,
+      217,
+      218,
+      228,
+      229,
+      231,
+      232
+    ],
+    "quests": []
+  },
+  "126": {
+    "id": 126,
+    "name": "Moonstruck Coast",
+    "region": "Coastlands",
+    "treasureStateId": 1272693,
+    "summation": 4,
+    "chestCount": 4,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Healing Grape (M)",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Copper-filled Pouch",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Articulate Stone",
+        "isLocked": true
+      },
+      {
+        "index": 3,
+        "contents": "Inspiriting Plum",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      216,
+      217,
+      218,
+      228,
+      229,
+      231,
+      232
+    ],
+    "quests": []
+  },
+  "127": {
+    "id": 127,
+    "name": "Seaside Grotto",
+    "region": "Coastlands",
+    "treasureStateId": 1272828,
+    "summation": 7,
+    "chestCount": 7,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Inspiriting Plum Basket",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Refreshing Jam",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Grand Helm",
+        "isLocked": true
+      },
+      {
+        "index": 3,
+        "contents": "Energizing Pomegranate (M)",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Olive of Life",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Inspiriting Plum (M)",
+        "isLocked": false
+      },
+      {
+        "index": 6,
+        "contents": "Silver-filled Pouch",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      96,
+      173,
+      286,
+      288,
+      350,
+      351,
+      370,
+      379
+    ],
+    "quests": []
+  },
+  "128": {
+    "id": 128,
+    "name": "Caves of Azure",
+    "region": "Coastlands",
+    "treasureStateId": 1272963,
+    "summation": 4,
+    "chestCount": 4,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Falcon Garb",
+        "isLocked": true
+      },
+      {
+        "index": 1,
+        "contents": "Spiked Armor",
+        "isLocked": true
+      },
+      {
+        "index": 2,
+        "contents": "Purifying Dust",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Ruinous Dust",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      233,
+      234,
+      235,
+      236,
+      237,
+      238
+    ],
+    "quests": []
+  },
+  "129": {
+    "id": 129,
+    "name": "Captains' Bane",
+    "region": "Coastlands",
+    "treasureStateId": 1273098,
+    "summation": 6,
+    "chestCount": 6,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Olive of Life (M)",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Healing Grape Bunch",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Energizing Pomegranate (L)",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Refreshing Jam",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Articulate Stone",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Hedgehog Spear",
+        "isLocked": true
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      61,
+      62,
+      222,
+      223,
+      231,
+      232,
+      239,
+      240,
+      292
+    ],
+    "quests": []
+  },
+  "130": {
+    "id": 130,
+    "name": "Grandport",
+    "region": "Coastlands",
+    "treasureStateId": 1273233,
+    "summation": 4,
+    "chestCount": 1,
+    "hiddenCount": 3,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Inspiriting Plum Basket",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Revitalizing Jam",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Injurious Dust",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 2,
+        "contents": "Coin Pouch",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      35,
+      36,
+      37,
+      38
+    ]
+  },
+  "131": {
+    "id": 131,
+    "name": "Grandport Markets",
+    "region": "Coastlands",
+    "treasureStateId": 1273368,
+    "summation": 8,
+    "chestCount": 3,
+    "hiddenCount": 5,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Empty Coin Pouch",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Silver-filled Pouch",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Bottle of Sleeping Dust",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Silver Hairpiece",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Heavy Coin Pouch",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 2,
+        "contents": "Refreshing Jam",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 3,
+        "contents": "Inspiriting Plum (M)",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 4,
+        "contents": "Rusty Cup",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      35,
+      36,
+      37,
+      38
+    ]
+  },
+  "132": {
+    "id": 132,
+    "name": "Grandport Bazaar",
+    "region": "Coastlands",
+    "treasureStateId": 1273503,
+    "summation": 3,
+    "chestCount": 2,
+    "hiddenCount": 1,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "25 000$",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Dazzling Artwork",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Articulate Stone",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      35,
+      36,
+      37,
+      38
+    ]
+  },
+  "133": {
+    "id": 133,
+    "name": "West Grandport Coast",
+    "region": "Coastlands",
+    "treasureStateId": 1273638,
+    "summation": 4,
+    "chestCount": 4,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Wind Soulstone (L)",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "20 000$",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Thunder Soulstone (L)",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Healing Grape Bunch",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      221,
+      222,
+      240,
+      241
+    ],
+    "quests": []
+  },
+  "134": {
+    "id": 134,
+    "name": "Grandport Sewers①",
+    "region": "Coastlands",
+    "treasureStateId": 1273773,
+    "summation": 5,
+    "chestCount": 5,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Energizing Pomegranate (L)",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Thunder Soulstone (L)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Imperial Helm",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Legion Dagger",
+        "isLocked": true
+      },
+      {
+        "index": 4,
+        "contents": "Wind Soulstone (L)",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      96,
+      219,
+      240,
+      305,
+      354,
+      355,
+      387,
+      405,
+      410
+    ],
+    "quests": [
+      35,
+      36,
+      37,
+      38
+    ]
+  },
+  "135": {
+    "id": 135,
+    "name": "Grandport Sewers②",
+    "region": "Coastlands",
+    "treasureStateId": 1273908,
+    "summation": 7,
+    "chestCount": 7,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Force Shield",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Thunder Soulstone (L)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Refreshing Jam",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Scourge Lance",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Robe of the Dragon Princess",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Healing Grape (M)",
+        "isLocked": false
+      },
+      {
+        "index": 6,
+        "contents": "Olive of Life (L)",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      96,
+      219,
+      240,
+      305,
+      354,
+      355,
+      387,
+      405,
+      410
+    ],
+    "quests": [
+      35,
+      36,
+      37,
+      38
+    ]
+  },
+  "136": {
+    "id": 136,
+    "name": "Loch of the Lost King",
+    "region": "Coastlands",
+    "treasureStateId": 1274043,
+    "summation": 8,
+    "chestCount": 8,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Wind Soulstone (L)",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "30 000$",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Articulate Stone",
+        "isLocked": true
+      },
+      {
+        "index": 3,
+        "contents": "Inspiriting Plum Basket",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Energizing Pomegranate (L)",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Olive of Life (L)",
+        "isLocked": false
+      },
+      {
+        "index": 6,
+        "contents": "Sturdy Sapphire Rod",
+        "isLocked": true
+      },
+      {
+        "index": 7,
+        "contents": "Improved Bow of the Eagle",
+        "isLocked": true
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      17,
+      146,
+      175,
+      289,
+      291,
+      305
+    ],
+    "quests": []
+  },
+  "137": {
+    "id": 137,
+    "name": "Flamesgrace",
+    "region": "Frostlands",
+    "treasureStateId": 1274178,
+    "summation": 4,
+    "chestCount": 0,
+    "hiddenCount": 4,
+    "tips": null,
+    "isMissable": false,
+    "chests": [],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Inspiriting Plum (M)",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Addlewort",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 2,
+        "contents": "Shadow Soulstone",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 3,
+        "contents": "Injurious Seed",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "138": {
+    "id": 138,
+    "name": "Flamesgrace Cathedral Entrance",
+    "region": "Frostlands",
+    "treasureStateId": 1274313,
+    "summation": 2,
+    "chestCount": 0,
+    "hiddenCount": 2,
+    "tips": null,
+    "isMissable": false,
+    "chests": [],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Ice Soulstone",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Empowering Earring",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "139": {
+    "id": 139,
+    "name": "Flamesgrace Cathedral",
+    "region": "Frostlands",
+    "treasureStateId": 1274448,
+    "summation": 7,
+    "chestCount": 3,
+    "hiddenCount": 4,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Inspiriting Plum",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Healing Grape",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Herb of Valor",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Heavy Blade",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Copper-filled Pouch",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 2,
+        "contents": "Fortifying Nut",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 3,
+        "contents": "Olive of Life",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "140": {
+    "id": 140,
+    "name": "Path to Cave of Origin",
+    "region": "Frostlands",
+    "treasureStateId": 1274583,
+    "summation": 3,
+    "chestCount": 3,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Healing Grape",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "600$",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Herb of Clarity",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      107,
+      108,
+      109,
+      116,
+      118,
+      126,
+      127,
+      128,
+      129
+    ],
+    "quests": []
+  },
+  "141": {
+    "id": 141,
+    "name": "Western Flamesgrace Wilds",
+    "region": "Frostlands",
+    "treasureStateId": 1274718,
+    "summation": 4,
+    "chestCount": 4,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Healing Grape",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Shadow Soulstone",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "800$",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Critical Nut",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      107,
+      108,
+      109,
+      116,
+      118,
+      126,
+      127,
+      128,
+      129
+    ],
+    "quests": []
+  },
+  "142": {
+    "id": 142,
+    "name": "Northern Flamesgrace Wilds",
+    "region": "Frostlands",
+    "treasureStateId": 1274853,
+    "summation": 3,
+    "chestCount": 3,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Olive of Life",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Herb of Clamor",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Inspiriting Plum",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      107,
+      108,
+      109,
+      118,
+      126,
+      127,
+      128,
+      129
+    ],
+    "quests": []
+  },
+  "143": {
+    "id": 143,
+    "name": "Cave of Origin",
+    "region": "Frostlands",
+    "treasureStateId": 1274988,
+    "summation": 5,
+    "chestCount": 5,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Healing Grape",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Inspiriting Plum",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Shadow Soulstone",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Silver Hairpiece",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Refreshing Jam",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      116,
+      117,
+      127,
+      130,
+      131
+    ],
+    "quests": []
+  },
+  "144": {
+    "id": 144,
+    "name": "Hoarfrost Grotto",
+    "region": "Frostlands",
+    "treasureStateId": 1275123,
+    "summation": 6,
+    "chestCount": 6,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Healing Grape (M)",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Light Nut",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Olive of Life (M)",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "10 000$",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Soul Hatchet",
+        "isLocked": true
+      },
+      {
+        "index": 5,
+        "contents": "Inspiriting Plum (M)",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      131,
+      287,
+      291,
+      322,
+      374,
+      397
+    ],
+    "quests": []
+  },
+  "145": {
+    "id": 145,
+    "name": "Stillsnow",
+    "region": "Frostlands",
+    "treasureStateId": 1275258,
+    "summation": 10,
+    "chestCount": 5,
+    "hiddenCount": 5,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Olive of Life",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Shadow Soulstone (M)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Inspiriting Plum",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Healing Grape (M)",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Swordbreaker",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Refreshing Jam",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Ice Soulstone (M)",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 2,
+        "contents": "Silver-filled Pouch",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 3,
+        "contents": "Soul Bow",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 4,
+        "contents": "Olive Bloom",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ]
+  },
+  "146": {
+    "id": 146,
+    "name": "Trail to the Whitewood",
+    "region": "Frostlands",
+    "treasureStateId": 1275393,
+    "summation": 3,
+    "chestCount": 2,
+    "hiddenCount": 1,
+    "tips": "The last is a missable item",
+    "isMissable": true,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Olive of Life (M)",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Inspiriting Plum Basket",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Inspiriting Plum (M)",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [
+      121,
+      134,
+      135,
+      291
+    ],
+    "quests": []
+  },
+  "147": {
+    "id": 147,
+    "name": "Road to the Obsidian Parlor",
+    "region": "Frostlands",
+    "treasureStateId": 1275528,
+    "summation": 3,
+    "chestCount": 3,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Herb of Revival",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Dark Amulet",
+        "isLocked": true
+      },
+      {
+        "index": 2,
+        "contents": "Ice Soulstone (M)",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      118,
+      132,
+      134
+    ],
+    "quests": []
+  },
+  "148": {
+    "id": 148,
+    "name": "Western Stillsnow Wilds",
+    "region": "Frostlands",
+    "treasureStateId": 1275663,
+    "summation": 4,
+    "chestCount": 4,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Herb of Revival",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Ice Soulstone (M)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Healing Grape (M)",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Energizing Pomegranate (M)",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      110,
+      111,
+      112,
+      113,
+      118,
+      120,
+      132,
+      133,
+      134,
+      135,
+      136
+    ],
+    "quests": []
+  },
+  "149": {
+    "id": 149,
+    "name": "The Whitewood",
+    "region": "Frostlands",
+    "treasureStateId": 1275798,
+    "summation": 7,
+    "chestCount": 7,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "15 000$",
+        "isLocked": true
+      },
+      {
+        "index": 1,
+        "contents": "Olive of Life (L)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Healing Grape Bunch",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Shadow Soulstone (M)",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Inspiriting Plum Basket",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Rock Cleaver",
+        "isLocked": false
+      },
+      {
+        "index": 6,
+        "contents": "Light Amulet",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      133,
+      138,
+      139,
+      140,
+      141
+    ],
+    "quests": []
+  },
+  "150": {
+    "id": 150,
+    "name": "Secret Path",
+    "region": "Frostlands",
+    "treasureStateId": 1275933,
+    "summation": 8,
+    "chestCount": 8,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Herb of Revival",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Shadow Soulstone (M)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Inspiriting Plum (M)",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "5 500$",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Energizing Pomegranate (M)",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Spiked Vest",
+        "isLocked": true
+      },
+      {
+        "index": 6,
+        "contents": "Healing Grape Bunch",
+        "isLocked": false
+      },
+      {
+        "index": 7,
+        "contents": "Wakeful Stone",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      137,
+      375,
+      377,
+      391,
+      393,
+      398,
+      400
+    ],
+    "quests": []
+  },
+  "151": {
+    "id": 151,
+    "name": "Tomb of the Imperator",
+    "region": "Frostlands",
+    "treasureStateId": 1276068,
+    "summation": 7,
+    "chestCount": 7,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Wakeful Stone",
+        "isLocked": true
+      },
+      {
+        "index": 1,
+        "contents": "Olive of Life (M)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Healing Grape Bunch",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Inspiriting Plum (M)",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Refreshing Jam",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Silver-filled Pouch",
+        "isLocked": false
+      },
+      {
+        "index": 6,
+        "contents": "Gaolbreaker",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      110,
+      111,
+      112,
+      113,
+      143,
+      145,
+      165,
+      291
+    ],
+    "quests": []
+  },
+  "152": {
+    "id": 152,
+    "name": "Northreach",
+    "region": "Frostlands",
+    "treasureStateId": 1276203,
+    "summation": 8,
+    "chestCount": 3,
+    "hiddenCount": 5,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Master's Longbow",
+        "isLocked": true
+      },
+      {
+        "index": 1,
+        "contents": "Refreshing Jam",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Inspiriting Plum (M)",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Copper-filled Pouch",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Silver-filled Pouch",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 2,
+        "contents": "Olive of Life (M)",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 3,
+        "contents": "Refreshing Jam",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 4,
+        "contents": "Knight's Shield",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      11,
+      12,
+      13,
+      14
+    ]
+  },
+  "153": {
+    "id": 153,
+    "name": "Northreach: Lorn Cathedral",
+    "region": "Frostlands",
+    "treasureStateId": 1276338,
+    "summation": 2,
+    "chestCount": 2,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "20 000$",
+        "isLocked": true
+      },
+      {
+        "index": 1,
+        "contents": "Ice Soulstone (M)",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [],
+    "quests": [
+      11,
+      12,
+      13,
+      14
+    ]
+  },
+  "154": {
+    "id": 154,
+    "name": "Southern Northreach Wilds",
+    "region": "Frostlands",
+    "treasureStateId": 1276473,
+    "summation": 4,
+    "chestCount": 4,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Energizing Pomegranate (M)",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Shadow Soulstone (M)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Inspiriting Plum Basket",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Herb of Revival",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      113,
+      114,
+      115,
+      142,
+      143,
+      144,
+      164,
+      291
+    ],
+    "quests": []
+  },
+  "155": {
+    "id": 155,
+    "name": "Lorn Cathedral: Cellars①",
+    "region": "Frostlands",
+    "treasureStateId": 1276608,
+    "summation": 5,
+    "chestCount": 5,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Herb of Revival",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Refreshing Jam",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Ice Soulstone (L)",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Gleaming Amulet",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Enchanted Sword",
+        "isLocked": true
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      143,
+      145,
+      146,
+      291,
+      330,
+      331,
+      332
+    ],
+    "quests": []
+  },
+  "156": {
+    "id": 156,
+    "name": "Lorn Cathedral: Cellars②",
+    "region": "Frostlands",
+    "treasureStateId": 1276743,
+    "summation": 6,
+    "chestCount": 6,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Wakeful Stone",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Energizing Pomegranate (L)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Inspiriting Plum Basket",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Refreshing Jam",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Curious Antique",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Void Amulet",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      143,
+      145,
+      146,
+      291,
+      330,
+      331,
+      332
+    ],
+    "quests": []
+  },
+  "157": {
+    "id": 157,
+    "name": "Maw of the Ice Dragon",
+    "region": "Frostlands",
+    "treasureStateId": 1276878,
+    "summation": 7,
+    "chestCount": 7,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "30 000$",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Adamantine Hat",
+        "isLocked": true
+      },
+      {
+        "index": 2,
+        "contents": "Inspiriting Plum (M)",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Wakeful Stone",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Shadow Soulstone (L)",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Refreshing Jam",
+        "isLocked": false
+      },
+      {
+        "index": 6,
+        "contents": "Forbidden Dagger",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      121,
+      125,
+      142,
+      143,
+      164,
+      291
+    ],
+    "quests": []
+  },
+  "158": {
+    "id": 158,
+    "name": "S'warkii",
+    "region": "Woodlands",
+    "treasureStateId": 1277013,
+    "summation": 7,
+    "chestCount": 3,
+    "hiddenCount": 4,
+    "tips": "The second to last is missable",
+    "isMissable": true,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Healing Grape",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Inspiriting Plum",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Stone Bow",
+        "isLocked": true
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "1 000$",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Ice Soulstone",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 2,
+        "contents": "Olive of Life",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 3,
+        "contents": "Inspiriting Plum (M)",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      90,
+      91,
+      92
+    ]
+  },
+  "159": {
+    "id": 159,
+    "name": "Path to the Wisperwood",
+    "region": "Woodlands",
+    "treasureStateId": 1277148,
+    "summation": 4,
+    "chestCount": 4,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Shadow Soulstone",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Healing Grape",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "500$",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Inspiriting Plum",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      32,
+      33,
+      34,
+      41,
+      43,
+      51,
+      52
+    ],
+    "quests": []
+  },
+  "160": {
+    "id": 160,
+    "name": "West S'warkii Trail",
+    "region": "Woodlands",
+    "treasureStateId": 1277283,
+    "summation": 3,
+    "chestCount": 3,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Inspiriting Plum",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Olive of Life",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Herb of Light",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      32,
+      33,
+      34,
+      41,
+      43,
+      51,
+      52
+    ],
+    "quests": [
+      50,
+      93
+    ]
+  },
+  "161": {
+    "id": 161,
+    "name": "North S'warkii Trail",
+    "region": "Woodlands",
+    "treasureStateId": 1277418,
+    "summation": 4,
+    "chestCount": 4,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Olive of Life",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Herb of Awakening",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Healing Grape",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Slippery Nut",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      32,
+      33,
+      34,
+      41,
+      43,
+      51,
+      52
+    ],
+    "quests": []
+  },
+  "162": {
+    "id": 162,
+    "name": "The Wisperwood",
+    "region": "Woodlands",
+    "treasureStateId": 1277553,
+    "summation": 6,
+    "chestCount": 6,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Healing Grape",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Shadow Soulstone",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Inspiriting Plum",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "600$",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Bronze Vest",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Energizing Pomegranate",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      32,
+      33,
+      34,
+      53,
+      54,
+      119,
+      333
+    ],
+    "quests": []
+  },
+  "163": {
+    "id": 163,
+    "name": "Path of Beasts",
+    "region": "Woodlands",
+    "treasureStateId": 1277688,
+    "summation": 4,
+    "chestCount": 4,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Inspiriting Plum (M)",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "4 000$",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Tough Nut",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "War Lance",
+        "isLocked": true
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      43,
+      44,
+      51,
+      54,
+      78,
+      337
+    ],
+    "quests": []
+  },
+  "164": {
+    "id": 164,
+    "name": "Victors Hollow",
+    "region": "Woodlands",
+    "treasureStateId": 1277823,
+    "summation": 4,
+    "chestCount": 1,
+    "hiddenCount": 3,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Inspiriting Plum",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Refreshing Jam",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Inspiriting Plum (M)",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 2,
+        "contents": "Energizing Pomegranate (M)",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      94,
+      95,
+      96,
+      97,
+      98
+    ]
+  },
+  "165": {
+    "id": 165,
+    "name": "Victors Hollow: Arena Gate",
+    "region": "Woodlands",
+    "treasureStateId": 1277958,
+    "summation": 3,
+    "chestCount": 1,
+    "hiddenCount": 2,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Dark Amulet",
+        "isLocked": true
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Olive of Life (M)",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Lightning Amulet",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      94,
+      95,
+      96,
+      97,
+      98
+    ]
+  },
+  "166": {
+    "id": 166,
+    "name": "Victors Hollow: The Arena",
+    "region": "Woodlands",
+    "treasureStateId": 1278093,
+    "summation": 3,
+    "chestCount": 2,
+    "hiddenCount": 1,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Heavy Coin Pouch",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Silver-filled Pouch",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Ice Soulstone (L)",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      94,
+      95,
+      96,
+      97,
+      98
+    ]
+  },
+  "167": {
+    "id": 167,
+    "name": "Path to the Forgotten Grotto",
+    "region": "Woodlands",
+    "treasureStateId": 1278228,
+    "summation": 3,
+    "chestCount": 3,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Olive of Life",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Shadow Soulstone (M)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Healing Grape (M)",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      45,
+      55,
+      57,
+      58,
+      218
+    ],
+    "quests": []
+  },
+  "168": {
+    "id": 168,
+    "name": "East Victors Hollow Trail",
+    "region": "Woodlands",
+    "treasureStateId": 1278363,
+    "summation": 3,
+    "chestCount": 3,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Inspiriting Plum",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Healing Grape (M)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "5 000$",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      35,
+      36,
+      37,
+      38,
+      43,
+      44,
+      45,
+      55,
+      56,
+      57,
+      255
+    ],
+    "quests": []
+  },
+  "169": {
+    "id": 169,
+    "name": "The Forgotten Grotto",
+    "region": "Woodlands",
+    "treasureStateId": 1278498,
+    "summation": 8,
+    "chestCount": 8,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Herb of Light",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Healing Grape Bunch",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Inspiriting Plum Basket",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Energizing Pomegranate (L)",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Sledgehammer",
+        "isLocked": true
+      },
+      {
+        "index": 5,
+        "contents": "15 000$",
+        "isLocked": false
+      },
+      {
+        "index": 6,
+        "contents": "Olive of Life (M)",
+        "isLocked": false
+      },
+      {
+        "index": 7,
+        "contents": "Vivifying Stone",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      17,
+      59,
+      60,
+      61,
+      62,
+      96
+    ],
+    "quests": []
+  },
+  "170": {
+    "id": 170,
+    "name": "Forest of No Return",
+    "region": "Woodlands",
+    "treasureStateId": 1278633,
+    "summation": 6,
+    "chestCount": 6,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Healing Grape Bunch",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Inspiriting Plum Basket",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Elemental Glaive",
+        "isLocked": true
+      },
+      {
+        "index": 3,
+        "contents": "Silent Bandana",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Shadow Soulstone (L)",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Vivifying Stone",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      26,
+      48,
+      50,
+      63,
+      64,
+      174,
+      175,
+      192
+    ],
+    "quests": []
+  },
+  "171": {
+    "id": 171,
+    "name": "Duskbarrow",
+    "region": "Woodlands",
+    "treasureStateId": 1278768,
+    "summation": 7,
+    "chestCount": 3,
+    "hiddenCount": 4,
+    "tips": "A missable hidden item here",
+    "isMissable": true,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "30 000$",
+        "isLocked": true
+      },
+      {
+        "index": 1,
+        "contents": "Bottle of Poison Dust",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Curious Antique",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [
+      {
+        "index": 0,
+        "contents": "Old Coin",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 1,
+        "contents": "Odds and Ends",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 2,
+        "contents": "Ice Soulstone (M)",
+        "note": null,
+        "isMissable": false
+      },
+      {
+        "index": 3,
+        "contents": "Improved Bow of the Eagle",
+        "note": null,
+        "isMissable": false
+      }
+    ],
+    "monsters": [],
+    "quests": [
+      99,
+      100,
+      101
+    ]
+  },
+  "172": {
+    "id": 172,
+    "name": "East Duskbarrow Trail",
+    "region": "Woodlands",
+    "treasureStateId": 1278903,
+    "summation": 4,
+    "chestCount": 4,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Herb of Revival",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Herb of Clamor",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Olive of Life (M)",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Copper-filled Pouch",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      38,
+      39,
+      40,
+      48,
+      63,
+      64,
+      283
+    ],
+    "quests": []
+  },
+  "173": {
+    "id": 173,
+    "name": "Ruin of Eld①",
+    "region": "Woodlands",
+    "treasureStateId": 1279038,
+    "summation": 5,
+    "chestCount": 5,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Rune Bow",
+        "isLocked": true
+      },
+      {
+        "index": 1,
+        "contents": "Refreshing Jam",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Shadow Soulstone (L)",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "20 000$",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Vivifying Stone",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      96,
+      302,
+      308,
+      368,
+      386,
+      402,
+      404,
+      407,
+      409
+    ],
+    "quests": []
+  },
+  "174": {
+    "id": 174,
+    "name": "Ruin of Eld②",
+    "region": "Woodlands",
+    "treasureStateId": 1279173,
+    "summation": 6,
+    "chestCount": 6,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "50 000$",
+        "isLocked": true
+      },
+      {
+        "index": 1,
+        "contents": "Void Amulet",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Healing Grape Bunch",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Energizing Pomegranate (L)",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Ice Soulstone (L)",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Knight's Shield",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      96,
+      302,
+      308,
+      368,
+      386,
+      402,
+      404,
+      407,
+      409
+    ],
+    "quests": []
+  },
+  "175": {
+    "id": 175,
+    "name": "Moldering Ruins",
+    "region": "Woodlands",
+    "treasureStateId": 1279308,
+    "summation": 7,
+    "chestCount": 7,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Inspiriting Plum (M)",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Shadow Soulstone (L)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Healing Grape Bunch",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Energizing Pomegranate (L)",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Thunderstorm Amulet",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Vivifying Stone",
+        "isLocked": false
+      },
+      {
+        "index": 6,
+        "contents": "Hypnos Crown",
+        "isLocked": true
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      146,
+      382,
+      384,
+      403,
+      408,
+      412,
+      413,
+      414,
+      415
+    ],
+    "quests": []
+  },
+  "179": {
+    "id": 179,
+    "name": "Shrine of the Flamebearer",
+    "region": "Job Shrines",
+    "treasureStateId": 1280793,
+    "summation": 0,
+    "chestCount": 0,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [],
+    "hiddenItems": [],
+    "monsters": [],
+    "quests": []
+  },
+  "180": {
+    "id": 180,
+    "name": "Shrine of the Sage",
+    "region": "Job Shrines",
+    "treasureStateId": 1280793,
+    "summation": 0,
+    "chestCount": 0,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [],
+    "hiddenItems": [],
+    "monsters": [],
+    "quests": []
+  },
+  "181": {
+    "id": 181,
+    "name": "Shrine of the Trader",
+    "region": "Job Shrines",
+    "treasureStateId": 1280793,
+    "summation": 0,
+    "chestCount": 0,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [],
+    "hiddenItems": [],
+    "monsters": [],
+    "quests": []
+  },
+  "182": {
+    "id": 182,
+    "name": "Shrine of the Thunderblade",
+    "region": "Job Shrines",
+    "treasureStateId": 1280793,
+    "summation": 0,
+    "chestCount": 0,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [],
+    "hiddenItems": [],
+    "monsters": [],
+    "quests": []
+  },
+  "183": {
+    "id": 183,
+    "name": "Shrine of the Lady of Grace",
+    "region": "Job Shrines",
+    "treasureStateId": 1280793,
+    "summation": 0,
+    "chestCount": 0,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [],
+    "hiddenItems": [],
+    "monsters": [],
+    "quests": []
+  },
+  "184": {
+    "id": 184,
+    "name": "Shrine of the Healer",
+    "region": "Job Shrines",
+    "treasureStateId": 1280793,
+    "summation": 0,
+    "chestCount": 0,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [],
+    "hiddenItems": [],
+    "monsters": [],
+    "quests": []
+  },
+  "185": {
+    "id": 185,
+    "name": "Shrine of the Prince of Thieves",
+    "region": "Job Shrines",
+    "treasureStateId": 1280793,
+    "summation": 0,
+    "chestCount": 0,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [],
+    "hiddenItems": [],
+    "monsters": [],
+    "quests": []
+  },
+  "186": {
+    "id": 186,
+    "name": "Shrine of the Huntress",
+    "region": "Job Shrines",
+    "treasureStateId": 1280793,
+    "summation": 1,
+    "chestCount": 1,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Olive of Life (L)",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [],
+    "quests": []
+  },
+  "187": {
+    "id": 187,
+    "name": "Shrine of the Starseer",
+    "region": "Job Shrines",
+    "treasureStateId": 1280928,
+    "summation": 4,
+    "chestCount": 4,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Inspiriting Plum (M)",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Light Soulstone (L)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Refreshing Jam",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Antidote Stone",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      123,
+      303,
+      311,
+      314,
+      315,
+      318,
+      319
+    ],
+    "quests": []
+  },
+  "188": {
+    "id": 188,
+    "name": "Shrine of the Runeblade",
+    "region": "Job Shrines",
+    "treasureStateId": 1281063,
+    "summation": 4,
+    "chestCount": 4,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Inspiriting Plum Basket",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Healing Grape Bunch",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "50 000$",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Revitalizing Jam",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      123,
+      313,
+      314,
+      315,
+      317,
+      318,
+      319
+    ],
+    "quests": []
+  },
+  "189": {
+    "id": 189,
+    "name": "Shrine of the Warbringer",
+    "region": "Job Shrines",
+    "treasureStateId": 1281198,
+    "summation": 5,
+    "chestCount": 5,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Inspiriting Plum Basket",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Herb of Revival",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "Refreshing Jam",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "30 000$",
+        "isLocked": true
+      },
+      {
+        "index": 4,
+        "contents": "Revitalizing Jam",
+        "isLocked": false
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      123,
+      303,
+      307,
+      309,
+      310,
+      311,
+      312
+    ],
+    "quests": []
+  },
+  "190": {
+    "id": 190,
+    "name": "Shrine of the Archmagus",
+    "region": "Job Shrines",
+    "treasureStateId": 1281333,
+    "summation": 6,
+    "chestCount": 6,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [
+      {
+        "index": 0,
+        "contents": "Energizing Pomegranate (L)",
+        "isLocked": false
+      },
+      {
+        "index": 1,
+        "contents": "Shadow Soulstone (M)",
+        "isLocked": false
+      },
+      {
+        "index": 2,
+        "contents": "20 000$",
+        "isLocked": false
+      },
+      {
+        "index": 3,
+        "contents": "Revitalizing Jam",
+        "isLocked": false
+      },
+      {
+        "index": 4,
+        "contents": "Inspiriting Plum (M)",
+        "isLocked": false
+      },
+      {
+        "index": 5,
+        "contents": "Wizard's Rod",
+        "isLocked": true
+      }
+    ],
+    "hiddenItems": [],
+    "monsters": [
+      123,
+      307,
+      309,
+      310,
+      312,
+      313,
+      317
+    ],
+    "quests": []
+  },
+  "195": {
+    "id": 195,
+    "name": "The Gate of Finis",
+    "region": "Post-Game (Finis)",
+    "treasureStateId": 1282008,
+    "summation": 0,
+    "chestCount": 0,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [],
+    "hiddenItems": [],
+    "monsters": [],
+    "quests": []
+  },
+  "196": {
+    "id": 196,
+    "name": "Journey's End",
+    "region": "Post-Game (Finis)",
+    "treasureStateId": 1282143,
+    "summation": 0,
+    "chestCount": 0,
+    "hiddenCount": 0,
+    "tips": null,
+    "isMissable": false,
+    "chests": [],
+    "hiddenItems": [],
+    "monsters": [],
+    "quests": []
+  }
+}

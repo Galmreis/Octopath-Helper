@@ -1,0 +1,210 @@
+,,Phys.,Elem.,+Stat,Attack/Equip effects,,,Phys.,Elem.,+Stat,Attack/Equip effects
+,Equipment info,,,,,,,,,,
+,"- When using a physical attack, it uses the Phys. property of the weapon you are using during this attack. Elemental attacks (spells) however uses your weapon with the highest Elem. Atk. to calculate damage, you don't have to select your best elemental weapon before casting your spells.
+- Battle-tested Blade: Even though the tooltip says ""Attack: Augments physical abilites"", we should have read ""Equip"" instead of ""Attack"" because the bonus damage will apply with any weapon as long as Battle-tested Blade is equiped.
+- All weapon with an increase damage to a specific element boost the damage by +30% for the said element. With Fire, Ice and Wind damage it's even possible to combine 2 weapon with those elemental boost, for instance Tressa could equip Tradewinds Spear + Primeval Bow of Storms and the bonus damage to Wind would now be +60%.
+- Forbidden Dagger reduce Fire & Dark element by -50%.
+- As for equipment that reduces elemental damage taken, Slightly = 25% resist, Greatly = 99% resist, otherwise it's 50% resist.
+- The HP/SP regen from items is a fixed amount. Equiping multiple of those items adds up the amount received, could even be paired with support skill Vim and Vigor and Second Wind for added benefit, although Vim and Vigor don't add up with Ethereal Healing (Starseer) because it's the same buff.",,,,,,,,,,
+,,,,,,,,,,,
+,Swords,,,,,,Axes,,,,
+,Battle-tested Blade,400,,Critical +150,"Attack: Augments physical abilities
+(+30%, buff to all weapon type, not just this sword)",,Battle-tested Axe,350,250,,Equip: Increases lightning and ice damage (+30%)
+,Harald's Sword,380,120,,Equip: Increases fire damage dealt (+30%),,Memorial Axe,400,,Speed +150,Attack: Occasionally decreases target's Elem. Def.
+,Enchanted Sword,240,220,Critical +40,,,Death Cleaver,380,,Critical +140,Attack: Occasionally poisons target
+,Forbidden Blade,310,,Speed +120,Attack: Occasionally increases target's Phys. Atk.,,Double Tomahawk,95,,Accuracy +198,Attack: Regular attacks strike twice
+,Werner's Sword,299,120,,"Attack: All successful attacks become Critical hits
+(Miss often, raising Accuracy or Critical doesn't help, this is garbage)",,Forbidden Axe,391,,"Accuracy -50
+Speed +80",
+,Dragon Saber,273,,Critical +120,,,Ogre Cleaver,286,,Critical +110,
+,Emperor's Blade,251,,Accuracy +100,,,Rune Hatchet,100,278,,
+,Unseen Saber,235,,Evasion +100,Attack: Occasionally confuses target,,Golden Axe,265,,Critical +100,
+,Deathly Blade,219,,Accuracy +98,Attack: Occasionally kills target instantly,,Gargantuan Axe,248,,Accuracy +98,Attack: Occasionally decreases target's Phys. Def.
+,Trinity Sword,222,,Speed +100,,,Adamantine Hatchet,112,230,,
+,Great Blade,212,,Critical +80,,,Hill Cleaver,221,,Critical +86,
+,Blade of Bravery,198,,Critical +90,,,Spirit Hatchet,102,211,,
+,Angel Saber,185,,Accuracy +80,Attack: Occasionally puts target to sleep,,Elemental Hatchet,98,206,,
+,Platinum Sword,166,,Speed +92,,,Inferno Axe,199,,Accuracy +82,Attack: Occasionally decreases target's Elem. Def.
+,Divine Blade,152,,Critical +84,,,Lizardking's Axe,192,88,,Equip: Increases lightning damage dealt (+30%)
+,Carnage Blade,200,,,Attack: Occasionally decreases target's Phys. Atk.,,Graviton Axe,186,,Accuracy +74,
+,Knight's Sword,140,,Speed +88,,,Bear Cleaver,181,,Critical +72,Attack: Occasionally decreases target's Phys. Atk.
+,Refined Sword,132,,Speed +80,,,Rock Cleaver,156,,Critical +64,
+,Snipe Saber,120,,Accuracy +78,,,Soul Hatchet,78,147,,
+,Moonblade,115,,Critical +70,,,Horn Cleaver,134,,Critical +52,
+,Mirage Blade,108,,Critical +50,Attack: Occasionally confuses target,,Argent Axe,122,,Critical +48,
+,Eagle Saber,102,,Accuracy +70,,,Magus Hatchet,62,120,,
+,Bastard Sword,92,,Speed +60,,,Viking Axe,113,,Accuracy +38,
+,Heavy Blade,85,,Critical +30,,,Omar's Axe,102,,Accuracy +44,
+,Falcon Saber,80,,Accuracy +60,,,Steel Axe,96,-20,,Attack: Occasionally decreases target's Elem. Atk.
+,Spirit Sword,60,60,,,,Cleaver,70,,Critical +14,
+,Captain's Sword,60,,Speed +40,,,Enchanted Axe,40,98,,Attack: Occasionally puts target to sleep
+,Greatsword,65,,Speed +4,,,Heavy Axe,76,,Accuracy +24,
+,Silver Sword,52,,Speed +30,,,Silver Axe,43,,Accuracy +12,
+,Feather Saber,34,,Accuracy +40,Attack: Occasionally puts target to sleep,,Battle Axe,40,,Accuracy +6,
+,Broadsword,28,,Speed +22,,,Arcane Hatchet,36,36,,
+,Iron Sword,22,,Speed +18,,,Iron Axe,24,,Accuracy +12,
+,Long Sword,8,,Speed +2,,,Handaxe,8,,Accuracy +4,
+,,,,,,,,,,,
+,Polearms,,,,,,Bows,,,,
+,Battle-tested Spear,390,,Critical +148,Attack: Occasionally blinds target,,Battle-tested Bow,384,,Critical +186,Attack: Occasionally decreases target's Phys. Def.
+,Tradewinds Spear,150,380,,Equip: Increases wind damage dealt (+30%),,Primeval Bow of Storms,241,342,,Equip: Increases wind damage dealt (+30%)
+,Master's Spear,355,,Critical +151,,,Transcendent Bow of Shadows,306,245,,Attack: Occasionally confuses target
+,Rune Glaive,120,363,Evasion +48,,,Improved Bow of the Eagle,276,204,Critical +70,
+,Forbidden Spear,320,303,Speed -98,,,Forbidden Bow,282,,Critical +121,Equip: Increases the chance of encountering enemies
+,Seraphim Spear,275,,Speed +126,Attack: Occasionally confuses target,,Hyperion Bow,219,261,Accuracy +115,
+,Scourge Lance,262,,Critical +122,,,Holy Longbow,246,,Critical +103,
+,Soul Glaive,121,252,,,,Rune Bow,198,202,Accuracy +96,
+,Jade Lance,228,,Critical +115,,,Yeti's Longbow,229,,Critical +95,Attack: Occasionally blinds target
+,Victor's Spear,212,,Speed +99,,,Adamantine Bow,178,209,,
+,Platinum Spear,196,,Speed +92,,,Augmented Bow of the Falcon,182,182,Critical +62,
+,Miguel's Spear,200,,Accuracy +88,Attack: Occasionally reduces target's Evasion,,Master's Longbow,192,,Critical +85,Attack: Occasionally poisons target
+,Imperial Lance,180,,Critical +88,,,Brilliant Bow,152,176,Accuracy +88,
+,Magus Glaive,96,162,,,,Pirate's Longbow,181,,Critical +77,
+,Hedgehog Spear,142,,Speed +84,,,Spirit Bow,101,142,,Attack: Occasionally puts target to sleep
+,Bridge Lance,128,,Critical +71,Attack: Occasionally blinds target,,Huntress's Longbow,128,,Critical +43,
+,Elemental Glaive,104,173,,,,Elemental Bow,108,98,Accuracy +74,
+,Jaguar Lance,112,,Critical +66,,,Shadow Bow,103,,Accuracy +82,Attack: Occasionally blinds target
+,Heavy Lance,96,,Critical +53,,,Tomahawk Bow,96,84,Accuracy +61,
+,Calamity Spear,111,,Accuracy -30,,,Marksman's Longbow,105,,Critical +22,
+,Bandit's Spear,81,,Speed +31,,,Soul Bow,82,72,Accuracy +52,
+,Sunlands Spear,72,,Speed +6,Attack: Occasionally reduces targert's Evasion,,Soldier's Longbow,98,,Critical +14,Attack: Occasionally decreases target's Phys. Def.
+,War Lance,71,,Critical +41,,,Heavy Bow,69,66,Accuracy +44,
+,Silver Spear,56,,Speed +24,,,Magus's Bow,58,62,,
+,Arcane Glaive,36,38,,,,Killer Bow,60,30,Accuracy +30,
+,War Spear,34,,Speed +10,,,Arcane Bow,38,52,,Attack: Occasionally decreases target's Elem. Atk.
+,Memorial Harpoon,38,,,Attack: Occasionally slows target,,Wolf's Bow,42,34,Accuracy +22,
+,Iron Spear,23,,Speed +6,,,Stone Bow,29,,Accuracy +33,Attack: Occasionally blinds target
+,Spear,8,,Speed +2,,,Composite Bow,18,16,Accuracy +20,
+,,,,,,,Longbow,8,1,Accuracy +2,
+,,,,,,,,,,,
+,Daggers,,,,,,Staves,,,,
+,Battle-tested Dagger,380,,Evasion +140,Attack: Occasionally decreases target's Accuracy,,Battle-tested Staff,212,399,,Attack: Occasionally slows target
+,Heathcote's Dagger,199,346,,Equip: Increases fire damage dealt (+30%),,Bishop's Staff,187,352,,Equip: Increases light damage dealt (+30%)
+,Viper Dagger,332,,Speed +132,Attack: Occasionally poisons target,,Knowledge Staff,111,333,Speed +99,
+,Adamantine Dagger,167,299,,Equip: Increases dark damage dealt (+30%),,Wizard's Rod,113,300,,Attack: Occasionally poisons target
+,Forbidden Dagger,285,155,,Equip: Reduces fire and dark damage dealt (-50%),,Absolute Zero Staff,132,293,,Equip: Increases ice damage dealt (+30%)
+,Legion Dagger,263,,Evasion +129,,,Yggdrasil Staff,121,289,,
+,Rune Knife,128,242,,,,Mattias's Scepter,116,268,,Attack: Occasionally decreases target's Elem. Atk.
+,Ultimate Breaker,242,,Speed +128,Attack: Occasionally confuses target,,Forbidden Staff,-100,285,Critical -50,
+,Doombreaker,202,,Critical +123,,,Enchanted Rod,91,242,,Attack: Occasionally decreases target's Elem. Def.
+,Assassin's Dagger,196,,Evasion +119,,,Giant's Club,229,112,Critical +86,
+,Soul Knife,98,188,,,,Meteorite Rod,98,216,Evasion +77,
+,Crimson Dagger,172,,Evasion +101,Attack: Occasionally decreases target's Phys. Atk.,,Morning Star,196,102,Critical +72,
+,Justice Breaker,166,,Speed +98,,,Wisdom Staff,98,188,,Attack: Occasionally confuses target
+,Skybreaker,162,,Critical +73,,,Sturdy Sapphire Rod,89,176,Evasion +62,
+,Magus Knife,75,144,,Attack: Occasionally puts target to sleep,,Sledgehammer,171,98,Critical +60,
+,Gaolbreaker,132,,Critical +65,,,Sapphire Rod,82,158,Evasion +49,
+,Gideon's Dagger,118,,Speed +61,Attack: Occasionally decreases target's Phys. Atk.,,War Hammer,152,66,Critical +42,
+,Trickster's Dagger,98,,Evasion +68,,,Black Staff,71,112,,Attack: Occasionally blinds target
+,Crescent Dagger,88,,Evasion +57,Attack: Occasionally poisons target,,Mage's Staff,62,98,,
+,Chainbreaker,82,,Speed +58,,,Sturdy Quartz Rod,42,89,Evasion +26,
+,Swordbreaker,76,,Critical +46,,,Staff of Wonders,56,92,,Attack: Occasionally decreases target's Elem. Atk.
+,Silver Dagger,69,,Evasion +42,,,Pole Mace,76,51,Critical +23,
+,Piercing Dagger,59,,Evasion +27,,,Oak Staff,16,68,,
+,Falcon Dagger,52,,Evasion +22,,,Flail,68,42,Critical +14,
+,Befuddling Dagger,48,,Speed +20,Attack: Occasionally dereases target's Accuracy,,Psychic Staff,78,,,Attack: Occasionally decreases target's Elem. Def.
+,Arcane Knife,32,42,,,,Mace,62,33,Critical +8,
+,Stinging Dagger,26,,Evasion +18,Attack: Occasionally poisons target,,Laurel Staff,24,52,,
+,Iron Dagger,20,,Evasion +16,,,Composite Staff,18,44,,Attack: Occasionally puts target to sleep
+,Dagger,7,,Evasion +6,,,Quartz Rod,12,38,Evasion +10,
+,,,,,,,Light Staff,8,24,,
+,,,,,,,Stone Rod,4,22,Evasion +16,
+,,,,,,,Staff,1,8,Critical +2,
+,,,,,,,,,,,
+,Head,,,,,,Shields,,,,
+,Crystal Helm,180,,,,,Battle-tested Shield,132,,Evasion -88,Equip: Restores HP and SP after every action (+200 HP / +8 SP)
+,Hypnos Crown,98,162,Max. SP +72,,,Mikk and Makk's Shield,80,80,Evasion +178,
+,Adamantine Hat,104,180,Elem. Atk. +88,,,Forbidden Shield,116,133,Evasion -171,
+,Dragon's Helm,152,,,,,Force Shield,102,102,Evasion -69,
+,Monster Trainer's Hat,115,115,,Equip: Slightly reduces wind damage taken (25%),,Gargantuan Shield,121,,Evasion -101,
+,Teacher's Hat,96,133,,Equip: Slightly reduces lightning damage taken (25%),,Leviathan Shield,110,,Evasion -79,Equip: Reduces ice damage taken (-50%)
+,Adventurer's Hat,133,,,Equip: Slightly reduces light damage taken (25%),,Knight's Shield,92,95,Evasion  -95,
+,Platinum Helm,137,,,,,Gustav's Shield,52,58,Evasion +64,
+,Historian's Hat,82,134,,Equip: Restores SP after every action (+3 SP),,Adamantine Shield,76,131,Evasion -81,
+,Oasis Hat,103,112,,,,Tower Shield,68,,Evasion -25,
+,Revello's Helm,108,78,,Equip: Slightly reduces dark damage taken (-25%),,Spiked Shield,44,53,Evasion -20,
+,Imperial Helm,124,,,,,Elemental Shield,36,74,Evasion -20,
+,Silent Bandana,82,78,Evasion +111,,,Elusive Shield,21,24,Evasion +56,
+,Fur Cap,91,96,,,,Plate Shield,45,,Evasion -4,
+,Enchanted Circlet,79,104,Max. SP +53,,,Kite Shield,26,31,,
+,Elemental Hat,68,112,Elem. Atk. +61,,,Sturdy Shield,20,,,
+,Veteran's Helm,82,58,,Equip: Restores HP after every action,,Round Shield,13,15,,
+,Gareth's Helm,78,73,Critical +53,,,Buckler,3,3,,
+,Grand Helm,89,,,,,,,,,
+,Horned Helm,71,,,,,Accessories,,,,
+,Starlight Hat,61,79,,,,Spurning Ribbon,,,,
+,Hasty Helm,50,58,Speed +78,,,Alluring Ribbon,,,,Increases the chance of encountering enemies
+,Falcon Hat,48,54,Evasion +79,,,Captain's Badge,,,,Grants additional EXP (+50%)
+,Bishop's Hat,54,96,Elem. Atk. +56,,,Badge of Friendship,,,,Grants additional JP (+50%)
+,Golden Hairpiece,52,88,Max SP +36,,,Dragon's Scarf,,,,Restores SP after every action (+6 SP)
+,Silver Helm,55,,,,,Beastly Scarf,,,,Restores HP after every action (100 HP)
+,Snowy Hood,38,42,Evasion +47,,,Royal Crest,,,Max. HP +600,
+,Saintly Tiara,36,48,Max. SP +21,,,Gravekeeper's Mark,,,Max. SP +50,
+,Chakra Band,40,52,Elem. Atk. +38,,,Physical Belt,"Atk. +65
+Def. +50",,,
+,Sturdy Helm,35,,,,,Mental Belt,,"Atk. +65
+Def. +50",,
+,Flying Helm,26,30,Critical +21,,,Blessed Blazon,Def. +100,Def. +100,,
+,Black Cap,15,20,Evasion +31,,,Blazon of Protection,Def. +30,Def. +30,,
+,Headgear,25,28,,,,Mighty Belt,Atk. +50,,,
+,Circlet,15,25,Max. SP +15,,,Elemental Augmentor,,Atk. +100,,
+,Iron Helm,29,,,,,Guardian Amulet,Def. +65,,,
+,Silver Hairpiece,10,18,Max. SP +10,,,Elemental Ward,,Def. +65,,
+,Bronze Helm,20,,,,,Empowering Necklace,,,Max. HP +1000,
+,Feathered Hat,15,15,,,,Stimulating Necklace,,,Max. SP +80,
+,Pointed Hat,9,21,Elem. Atk. +8,,,Protective Necklace,Def. +80,Def. +80,,
+,Leather Helm,4,,,,,Unerring Necklace,,,Accuracy +80,
+,Leather Hat,3,3,,,,Enlightening Necklace,,,Evasion +80,
+,Ordinary Hat,2,5,Elem. Atk. 3,,,Sprightly Necklace,,,Speed +80,
+,,,,,,,Critical Necklace,,,Critical +80,
+,Body,,,,,,Empowering Bracelet,,,Max. HP +500,
+,Crystal Armor,300,,,,,Stimulating Bracelet,,,Max. SP +50,
+,Crystal Vest,205,205,,,,Protective Bracelet,Def. +50,Def. +50,,
+,Robe of the Flame,126,317,Max. SP +56,,,Unerring Bracelet,,,Accuracy +50,
+,Dragonscale Armor,235,,Critical +108,,,Enlightening Bracelet,,,Evasion +50,
+,Dragon's Vest,183,185,,,,Sprightly Bracelet,,,Speed +50,
+,Ethereal Dancer Garb,122,134,Evasion +166,,,Critical Bracelet,,,Critical +50,
+,Sorcerer's Robe,107,282,Elem. Atk. +50,,,Empowering Ring,,,Max. HP +200,
+,Confessional Armor,212,,,Equip: Slightly reduces ice damage taken (-25%),,Stimulating Ring,,,Max. SP +30,
+,High House's Armor,158,78,,Equip: Slightly reduces fire damage taken (-25%),,Protective Ring,Def. +20,Def. +20,,
+,Princess's Coat,136,155,,Equip: restores HP after every action (+100 HP),,Unerring Ring,,,Accuracy +20,
+,Ardante Attire,108,186,Max. SP +42,,,Enlightening Ring,,,Evasion +20,
+,Robe of the Dragon Princess,121,136,Critical +129,,,Sprightly Ring,,,Speed +20,
+,Platinum Armor,202,,,,,Critical Ring,,,Critical +20,
+,Vendetta Coat,116,128,Max. HP +617,,,Empowering Earring,,,Max. HP +50,
+,Imperial Armor,173,,,,,Stimulating Earring,,,Max. SP +10,
+,Platinum Vest,140,154,,,,Protective Earring,Def. +10,Def. +10,,
+,Imperial Vest,120,132,,,,Unerring Earring,,,Accuracy +10,
+,Elemental Heavy Armor,90,116,Elem. Atk. +42,,,Enlightening Earring,,,Evasion +10,
+,Silent Cape,102,114,Evasion +147,,,Sprightly Earring,,,Speed +10,
+,Primeval Robe,99,198,Max. SP +35,,,Critical Earring,,,Critical +10,
+,Rainbow Robe,82,167,,,,Weaver's Charm,,,,Slightly reduces fire and light damage taken (25% resist)
+,Elemental Light Armor,88,108,Speed +72,,,Gentleman's Charm,,,,Slightly reduces lightning and dark damage taken (25% resist)
+,Fur Coat,112,112,,,,Gourmet's Charm,,,,Slightly reduces ice and wind damage taken (25% resist)
+,Exotic Garb,102,121,,Equip: Restores SP after every action (+3 SP),,Inferno Amulet,,,,Greatly reduces fire damage taken (99% resist)
+,Grand Armor,122,,,,,Blizzard Amulet,,,,Greatly reduces ice damage taken (99% resist)
+,Obsidian Garb,98,112,Critical +96,,,Tempest Amulet,,,,Greatly reduces wind damage taken (99% resist)
+,Grand Vest,90,102,,,,Thunderstorm Amulet,,,,Greatly reduces lightning damage taken (99% resist)
+,Falcon Garb,78,84,Evasion +82,,,Void Amulet,,,,Greatly reduces dark damage taken (99% resist)
+,Elemental Robe,72,124,Elem. Atk. +36,,,Gleaming Amulet,,,,Greatly reduces light damage taken (99% resist)
+,Spiked Armor,92,,,,,Fire Amulet,,,,Reduces fire damage taken (50% resist)
+,Silver Armor,86,,,,,Ice Amulet,,,,Reduces ice damage taken (50% resist)
+,Spiked Vest,80,100,,,,Wind Amulet,,,,Reduces wind damage taken (50% resist)
+,Silver Vest,60,68,,,,Lightning Amulet,,,,Reduces lightning damage taken (50% resist)
+,Charm Robe,43,82,Max. SP +21,,,Dark Amulet,,,,Reduces dark damage taken (50% resist)
+,Snowy Cape,39,43,Evasion +51,,,Light Amulet,,,,Reduces light damage taken (50% resist)
+,Iron Armor,50,,,,,Antidote Stone,,,,Prevents poison
+,Sturdy Armor,42,,,,,Wakeful Stone,,,,Prevents sleep
+,Iron Vest,36,49,,,,Articulate Stone,,,,Prevents silence
+,Peacebringer's Garb,30,39,Max. HP +98,,,Bright Stone,,,,Prevents blindness
+,Sturdy Vest,32,42,,,,Calming Stone,,,,Prevents terror
+,Fur Robe,24,64,Elem. Atk. +14,,,Clarity Stone,,,,Prevents confusion
+,Black Attire,20,28,Evasion +42,,,Conscious Stone,,,,Prevents unconsciousness
+,Wind Attire,24,26,Speed +22,,,Vivifying Stone,,,,Prevents instant death
+,Traditional Dancer Garb,20,22,Max. SP +12,,,,,,,
+,Bronze Armor,28,,,,,,,,,
+,Bronze Vest,19,24,,,,,,,,
+,Linen Robe,13,33,Elem. Atk. +8,,,,,,,
+,Leather Armor,7,,,,,,,,,
+,Leather Vest,4,5,,,,,,,,
+,Robe,3,7,,,,,,,,

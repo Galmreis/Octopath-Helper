@@ -1,0 +1,5130 @@
+{
+  "0": {
+    "id": 0,
+    "name": "Vanessa's Destination (Unknown ID)",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1": {
+    "id": 1,
+    "name": "Healing Grape",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "2": {
+    "id": 2,
+    "name": "Healing Grape M",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "3": {
+    "id": 3,
+    "name": "Healing Grape Bunch",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "4": {
+    "id": 4,
+    "name": "Inspiriting Plum",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "5": {
+    "id": 5,
+    "name": "Inspiriting Plum M",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "6": {
+    "id": 6,
+    "name": "Inspiriting Plum Basket",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "7": {
+    "id": 7,
+    "name": "Energizing Pomegrante",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "8": {
+    "id": 8,
+    "name": "Energizing Pomegrante M",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "9": {
+    "id": 9,
+    "name": "Energizing Pomegrante L",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "10": {
+    "id": 10,
+    "name": "Refreshing Jam",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "11": {
+    "id": 11,
+    "name": "Revitalizing Jam",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "12": {
+    "id": 12,
+    "name": "Olive of Life",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "13": {
+    "id": 13,
+    "name": "Olive of Life M",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "14": {
+    "id": 14,
+    "name": "Olive of Life L",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "20": {
+    "id": 20,
+    "name": "Herb of Healing",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "21": {
+    "id": 21,
+    "name": "Herb of Clamor",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "22": {
+    "id": 22,
+    "name": "Herb of Light",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "23": {
+    "id": 23,
+    "name": "Herb of Clarity",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "24": {
+    "id": 24,
+    "name": "Herb of Awakening",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "25": {
+    "id": 25,
+    "name": "Herb of Valor",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "26": {
+    "id": 26,
+    "name": "Herb of Revival",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "30": {
+    "id": 30,
+    "name": "Bottle of Poison Dust",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "31": {
+    "id": 31,
+    "name": "Bottle of Blinding Dust",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "32": {
+    "id": 32,
+    "name": "Bottle of Befuddling Dust",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "33": {
+    "id": 33,
+    "name": "Bottle of Sleeping Dust",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "40": {
+    "id": 40,
+    "name": "Fire Soulstone",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "41": {
+    "id": 41,
+    "name": "Fire Soulstone M",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "42": {
+    "id": 42,
+    "name": "Fire Soulstone L",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "43": {
+    "id": 43,
+    "name": "Ice Soulstone",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "44": {
+    "id": 44,
+    "name": "Ice Soulstone M",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "45": {
+    "id": 45,
+    "name": "Ice Soulstone L",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "46": {
+    "id": 46,
+    "name": "Thunder Soulstone",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "47": {
+    "id": 47,
+    "name": "Thunder Soulstone M",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "48": {
+    "id": 48,
+    "name": "Thunder Soulstone L",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "49": {
+    "id": 49,
+    "name": "Wind Soulstone",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "50": {
+    "id": 50,
+    "name": "Wind Soulstone M",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "51": {
+    "id": 51,
+    "name": "Wind Soulstone L",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "52": {
+    "id": 52,
+    "name": "Light Soulstone",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "53": {
+    "id": 53,
+    "name": "Light Soulstone M",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "54": {
+    "id": 54,
+    "name": "Light Soulstone L",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "55": {
+    "id": 55,
+    "name": "Shadow Soulstone",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "56": {
+    "id": 56,
+    "name": "Shadow Soulstone M",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "57": {
+    "id": 57,
+    "name": "Shadow Soulstone L",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "60": {
+    "id": 60,
+    "name": "Nourshing Nut",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "61": {
+    "id": 61,
+    "name": "Nourshing Nut M",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "62": {
+    "id": 62,
+    "name": "Nourshing Nut L",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "63": {
+    "id": 63,
+    "name": "Invigorating Nut",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "64": {
+    "id": 64,
+    "name": "Invigorating Nut M",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "65": {
+    "id": 65,
+    "name": "Invigorating Nut L",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "66": {
+    "id": 66,
+    "name": "Fortifying Nut",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "67": {
+    "id": 67,
+    "name": "Fortifying Nut M",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "68": {
+    "id": 68,
+    "name": "Fortifying Nut L",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "69": {
+    "id": 69,
+    "name": "Tough Nut",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "70": {
+    "id": 70,
+    "name": "Tough Nut M",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "71": {
+    "id": 71,
+    "name": "Tough Nut L",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "72": {
+    "id": 72,
+    "name": "Magic Nut",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "73": {
+    "id": 73,
+    "name": "Magic Nut M",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "74": {
+    "id": 74,
+    "name": "Magic Nut L",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "75": {
+    "id": 75,
+    "name": "Resistant Nut",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "76": {
+    "id": 76,
+    "name": "Resistant Nut M",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "77": {
+    "id": 77,
+    "name": "Resistant Nut L",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "78": {
+    "id": 78,
+    "name": "Sharp Nut",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "79": {
+    "id": 79,
+    "name": "Sharp Nut M",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "80": {
+    "id": 80,
+    "name": "Sharp Nut L",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "81": {
+    "id": 81,
+    "name": "Slippery Nut",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "82": {
+    "id": 82,
+    "name": "Slippery Nut M",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "83": {
+    "id": 83,
+    "name": "Slippery Nut L",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "84": {
+    "id": 84,
+    "name": "Critical Nut",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "85": {
+    "id": 85,
+    "name": "Critical Nut M",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "86": {
+    "id": 86,
+    "name": "Critical Nut L",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "87": {
+    "id": 87,
+    "name": "Light Nut",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "88": {
+    "id": 88,
+    "name": "Light Nut M",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "89": {
+    "id": 89,
+    "name": "Light Nut L",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "90": {
+    "id": 90,
+    "name": "Scrap of Rope",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "91": {
+    "id": 91,
+    "name": "Stuffed Toy",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "92": {
+    "id": 92,
+    "name": "Candy",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "93": {
+    "id": 93,
+    "name": "Glass Marble",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "94": {
+    "id": 94,
+    "name": "Handkerchief",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "95": {
+    "id": 95,
+    "name": "Hip Flask",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "96": {
+    "id": 96,
+    "name": "Myterious Seed",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "97": {
+    "id": 97,
+    "name": "Fish Tooth",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "98": {
+    "id": 98,
+    "name": "Mysterious Ore",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "99": {
+    "id": 99,
+    "name": "Tree Nut",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "100": {
+    "id": 100,
+    "name": "Hairbrush",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "101": {
+    "id": 101,
+    "name": "Empty Coin Pouch",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "102": {
+    "id": 102,
+    "name": "Coin Pouch",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "103": {
+    "id": 103,
+    "name": "Odds and Ends",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "104": {
+    "id": 104,
+    "name": "Large Feather",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "105": {
+    "id": 105,
+    "name": "Dubious Gold Ore",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "106": {
+    "id": 106,
+    "name": "Pseudo Gold Ore",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "107": {
+    "id": 107,
+    "name": "Fools Gold Ore",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "108": {
+    "id": 108,
+    "name": "Copper Lantern",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "109": {
+    "id": 109,
+    "name": "Bone",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "110": {
+    "id": 110,
+    "name": "Weathered Boots",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "111": {
+    "id": 111,
+    "name": "Dirty Ball of cloth",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "113": {
+    "id": 113,
+    "name": "Necklace",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "114": {
+    "id": 114,
+    "name": "Poysenberry",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "115": {
+    "id": 115,
+    "name": "Pseudo Cider",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "116": {
+    "id": 116,
+    "name": "Red Apple",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "117": {
+    "id": 117,
+    "name": "Bottle Breath",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "119": {
+    "id": 119,
+    "name": "Monster Perfume",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "121": {
+    "id": 121,
+    "name": "Small Cup",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "122": {
+    "id": 122,
+    "name": "Silver Clock",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "123": {
+    "id": 123,
+    "name": "Portrait with a Kiss",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "124": {
+    "id": 124,
+    "name": "Introduction to Adventuring",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "125": {
+    "id": 125,
+    "name": "Rare Stone",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "126": {
+    "id": 126,
+    "name": "Heavy Coin Pouch",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "127": {
+    "id": 127,
+    "name": "Commemorative Coin",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "128": {
+    "id": 128,
+    "name": "Silver filled Pouch",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "130": {
+    "id": 130,
+    "name": "Feather Duster",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "131": {
+    "id": 131,
+    "name": "Alis Bread",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "132": {
+    "id": 132,
+    "name": "Joshuas Poem",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "133": {
+    "id": 133,
+    "name": "Cats Eye",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "134": {
+    "id": 134,
+    "name": "Tagged Collar",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "135": {
+    "id": 135,
+    "name": "Old Coin",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "136": {
+    "id": 136,
+    "name": "Copper-filled Pouch",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "137": {
+    "id": 137,
+    "name": "Herb-of-grace Potion",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "138": {
+    "id": 138,
+    "name": "Curious Antique",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "139": {
+    "id": 139,
+    "name": "Dazzling Artwork",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "141": {
+    "id": 141,
+    "name": "Rusty Cup",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "142": {
+    "id": 142,
+    "name": "Glossy Gold Coin",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "143": {
+    "id": 143,
+    "name": "Cloth Map",
+    "categoryId": 1,
+    "category": "Item",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "302": {
+    "id": 302,
+    "name": "Translated Tome",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "303": {
+    "id": 303,
+    "name": "Original Tome",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "304": {
+    "id": 304,
+    "name": "Letter from Master",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "305": {
+    "id": 305,
+    "name": "Herb of grace",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "307": {
+    "id": 307,
+    "name": "Blue swordfish",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "308": {
+    "id": 308,
+    "name": "Bottle of Wine",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "309": {
+    "id": 309,
+    "name": "Sleepweed 2",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "310": {
+    "id": 310,
+    "name": "Anonymous Diary",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "311": {
+    "id": 311,
+    "name": "Nondescript Stone(311=312)",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "312": {
+    "id": 312,
+    "name": "Skystone(311=312)",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "313": {
+    "id": 313,
+    "name": "Edbarts Shield",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "314": {
+    "id": 314,
+    "name": "Ancient Map",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "315": {
+    "id": 315,
+    "name": "Eldrite",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "316": {
+    "id": 316,
+    "name": "Letter from Baltazar",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "317": {
+    "id": 317,
+    "name": "Aelfrics Lanthorn",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "318": {
+    "id": 318,
+    "name": "Letter of Introduction",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "320": {
+    "id": 320,
+    "name": "Oasis Water",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "321": {
+    "id": 321,
+    "name": "Wyvern Scale",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "322": {
+    "id": 322,
+    "name": "Crystal Ore",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "323": {
+    "id": 323,
+    "name": "Crystal Key",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "325": {
+    "id": 325,
+    "name": "Aristrocrats Mask(325=326=327)",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": true
+  },
+  "326": {
+    "id": 326,
+    "name": "Attendants Mask(325=326=327)",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": true
+  },
+  "327": {
+    "id": 327,
+    "name": "Black Market Inventory(325=326=327)",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": true
+  },
+  "328": {
+    "id": 328,
+    "name": "Brigand Leaders Garb",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "329": {
+    "id": 329,
+    "name": "Brigands Garb",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "332": {
+    "id": 332,
+    "name": "Alfyns Satchel",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "334": {
+    "id": 334,
+    "name": "Zephs Satchel",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "337": {
+    "id": 337,
+    "name": "House Azelhart Dagger",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "338": {
+    "id": 338,
+    "name": "Yusufas Handkerchief",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "339": {
+    "id": 339,
+    "name": "Left hand Mans Map",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "340": {
+    "id": 340,
+    "name": "Dungeon Key",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "344": {
+    "id": 344,
+    "name": "Ambrosial Milk",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "345": {
+    "id": 345,
+    "name": "Emperor Crab",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "346": {
+    "id": 346,
+    "name": "Roc Egg",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "348": {
+    "id": 348,
+    "name": "Final Masterpiece",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "349": {
+    "id": 349,
+    "name": "Cow Droppings",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "350": {
+    "id": 350,
+    "name": "Lories Diary",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "351": {
+    "id": 351,
+    "name": "Diva Dress",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "352": {
+    "id": 352,
+    "name": "Saucy Prawns",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "354": {
+    "id": 354,
+    "name": "Rebels Axe",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "355": {
+    "id": 355,
+    "name": "Revolutionary Sword",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "356": {
+    "id": 356,
+    "name": "Spear of Justice",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "357": {
+    "id": 357,
+    "name": "Giant Tusk",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "358": {
+    "id": 358,
+    "name": "Satisfactory Coal",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "359": {
+    "id": 359,
+    "name": "Adequate Flax",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "360": {
+    "id": 360,
+    "name": "Portable Pot",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "361": {
+    "id": 361,
+    "name": "Codger-friendly Bow",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "363": {
+    "id": 363,
+    "name": "Leviathan Egg",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "365": {
+    "id": 365,
+    "name": "Beetroot",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "369": {
+    "id": 369,
+    "name": "Orewell Whetstone",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "370": {
+    "id": 370,
+    "name": "Gendys Footcloth",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "375": {
+    "id": 375,
+    "name": "Byrons Ring",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "379": {
+    "id": 379,
+    "name": "Sword of Sokrath",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "380": {
+    "id": 380,
+    "name": "Tales from a Faraway Land",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "381": {
+    "id": 381,
+    "name": "House Landar Records",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "384": {
+    "id": 384,
+    "name": "Memorial Sword",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "385": {
+    "id": 385,
+    "name": "Tools of Learning",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "386": {
+    "id": 386,
+    "name": "Adventurers Attire",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "387": {
+    "id": 387,
+    "name": "Timeworn Tapestry",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "388": {
+    "id": 388,
+    "name": "Tightly Sealed Envelope",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "389": {
+    "id": 389,
+    "name": "Snakesbane",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "390": {
+    "id": 390,
+    "name": "Letter from Zeph",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "391": {
+    "id": 391,
+    "name": "Letter from Mercedes",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "392": {
+    "id": 392,
+    "name": "River Blossom",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "394": {
+    "id": 394,
+    "name": "Memorial Necklace",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "395": {
+    "id": 395,
+    "name": "Jotunn Horn",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "396": {
+    "id": 396,
+    "name": "Giant Egg",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "397": {
+    "id": 397,
+    "name": "Mercenary Crest",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "398": {
+    "id": 398,
+    "name": "Hugos Journal",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "399": {
+    "id": 399,
+    "name": "Mind me always",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "400": {
+    "id": 400,
+    "name": "Astonishing Object",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "401": {
+    "id": 401,
+    "name": "Incredible Item",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "402": {
+    "id": 402,
+    "name": "Marvelous Memento",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "403": {
+    "id": 403,
+    "name": "Quatrait Bloom",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "404": {
+    "id": 404,
+    "name": "Dragon Egg",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "405": {
+    "id": 405,
+    "name": "Direwolf Fang",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "406": {
+    "id": 406,
+    "name": "Letter from Noa",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "407": {
+    "id": 407,
+    "name": "Lapis Lazuli",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "408": {
+    "id": 408,
+    "name": "High Hornburgian Dictionary",
+    "categoryId": 13,
+    "category": "Valuable",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "506": {
+    "id": 506,
+    "name": "An Eyewitness Account",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "507": {
+    "id": 507,
+    "name": "Where the Ice Giant Sleeps",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "518": {
+    "id": 518,
+    "name": "Rumors of Knight Ardante",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "524": {
+    "id": 524,
+    "name": "History of the Frostlands",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "525": {
+    "id": 525,
+    "name": "Dragon of the Frostlands",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "549": {
+    "id": 549,
+    "name": "Where the Giant Boar Roams",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "563": {
+    "id": 563,
+    "name": "Librarians Testimony",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "564": {
+    "id": 564,
+    "name": "The Guard's Situation",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "565": {
+    "id": 565,
+    "name": "Russells Situation",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "569": {
+    "id": 569,
+    "name": "The Song of Sokrath",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "570": {
+    "id": 570,
+    "name": "The Jellypeno",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "573": {
+    "id": 573,
+    "name": "The Headmasters Situation",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "586": {
+    "id": 586,
+    "name": "A Use for Textiles",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "603": {
+    "id": 603,
+    "name": "Where the Direwolf Prowls",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "624": {
+    "id": 624,
+    "name": "Gossip of Glowworm Moss",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "634": {
+    "id": 634,
+    "name": "Donovans Condition",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "655": {
+    "id": 655,
+    "name": "Laras New Life",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "658": {
+    "id": 658,
+    "name": "A Safe Route",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "671": {
+    "id": 671,
+    "name": "Dragon of the highlands",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "675": {
+    "id": 675,
+    "name": "The Books Whereabouts",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "676": {
+    "id": 676,
+    "name": "Dominics Seclusion",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "677": {
+    "id": 677,
+    "name": "Dominics Remorse",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "681": {
+    "id": 681,
+    "name": "The Fortress of Everhold",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "695": {
+    "id": 695,
+    "name": "Dominics Troubles",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "696": {
+    "id": 696,
+    "name": "The Fall of House Landar",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "718": {
+    "id": 718,
+    "name": "Gravekeepers Information",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "743": {
+    "id": 743,
+    "name": "The Giant Serpents",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "752": {
+    "id": 752,
+    "name": "City of Gold",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "758": {
+    "id": 758,
+    "name": "Chieftains Schedule",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "760": {
+    "id": 760,
+    "name": "Ninas Secret",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "761": {
+    "id": 761,
+    "name": "Elixir Recipe",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "773": {
+    "id": 773,
+    "name": "Meryls Past",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "776": {
+    "id": 776,
+    "name": "Old Woman to the Southeast",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "780": {
+    "id": 780,
+    "name": "Tidings of Elderly Friends",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "781": {
+    "id": 781,
+    "name": "Old Woman to the Northwest",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "799": {
+    "id": 799,
+    "name": "Early Ice Thawing",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "808": {
+    "id": 808,
+    "name": "History of the Cliftlands",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "809": {
+    "id": 809,
+    "name": "Project Plans",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "823": {
+    "id": 823,
+    "name": "Where the Incidents Happened",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "824": {
+    "id": 824,
+    "name": "Witness Testimony",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "825": {
+    "id": 825,
+    "name": "The Sewers",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "826": {
+    "id": 826,
+    "name": "Why She Doesnt Visit Geoffrey",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "843": {
+    "id": 843,
+    "name": "Ogens Mutterings",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "844": {
+    "id": 844,
+    "name": "Dragon of the Clifflands",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "852": {
+    "id": 852,
+    "name": "How to Train a Tiger",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "853": {
+    "id": 853,
+    "name": "Tale of the Beast Tamers",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "860": {
+    "id": 860,
+    "name": "Martas Gang",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "864": {
+    "id": 864,
+    "name": "Father and Fighter",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "865": {
+    "id": 865,
+    "name": "Estadass Condition",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "866": {
+    "id": 866,
+    "name": "Mont DOrs Condition",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "867": {
+    "id": 867,
+    "name": "Joshuas Weak Points",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "868": {
+    "id": 868,
+    "name": "Archibolds Weak Points",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "869": {
+    "id": 869,
+    "name": "Gustavs Weak Points",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "878": {
+    "id": 878,
+    "name": "Byron Family Lineage",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "879": {
+    "id": 879,
+    "name": "History of the Woodlands",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "882": {
+    "id": 882,
+    "name": "The Murals Meaning",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "883": {
+    "id": 883,
+    "name": "Trial of the Twelve",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "884": {
+    "id": 884,
+    "name": "Forbidden Gold",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "885": {
+    "id": 885,
+    "name": "From the Far Reaches of Hell",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "886": {
+    "id": 886,
+    "name": "Alphass Poem",
+    "categoryId": 14,
+    "category": "Knowledge",
+    "isCollectorRequired": false,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1001": {
+    "id": 1001,
+    "name": "Battle tested Blade",
+    "categoryId": 2,
+    "category": "Sword",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1002": {
+    "id": 1002,
+    "name": "Haralds Sword",
+    "categoryId": 2,
+    "category": "Sword",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1003": {
+    "id": 1003,
+    "name": "Enchanted Sword",
+    "categoryId": 2,
+    "category": "Sword",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1004": {
+    "id": 1004,
+    "name": "Forbidden Blade",
+    "categoryId": 2,
+    "category": "Sword",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1005": {
+    "id": 1005,
+    "name": "Werners Sword",
+    "categoryId": 2,
+    "category": "Sword",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1006": {
+    "id": 1006,
+    "name": "Dragon Saber",
+    "categoryId": 2,
+    "category": "Sword",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1007": {
+    "id": 1007,
+    "name": "Emperors Blade",
+    "categoryId": 2,
+    "category": "Sword",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1008": {
+    "id": 1008,
+    "name": "Unseen Saber",
+    "categoryId": 2,
+    "category": "Sword",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1009": {
+    "id": 1009,
+    "name": "Deathly Blade",
+    "categoryId": 2,
+    "category": "Sword",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1010": {
+    "id": 1010,
+    "name": "Trinity Sword",
+    "categoryId": 2,
+    "category": "Sword",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1011": {
+    "id": 1011,
+    "name": "Great Blade",
+    "categoryId": 2,
+    "category": "Sword",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1012": {
+    "id": 1012,
+    "name": "Blade of Bravery",
+    "categoryId": 2,
+    "category": "Sword",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1013": {
+    "id": 1013,
+    "name": "Angel Saber",
+    "categoryId": 2,
+    "category": "Sword",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1014": {
+    "id": 1014,
+    "name": "Platinum Sword",
+    "categoryId": 2,
+    "category": "Sword",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1015": {
+    "id": 1015,
+    "name": "Divine Blade",
+    "categoryId": 2,
+    "category": "Sword",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1016": {
+    "id": 1016,
+    "name": "Carnage Blade",
+    "categoryId": 2,
+    "category": "Sword",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1017": {
+    "id": 1017,
+    "name": "Knights Sword",
+    "categoryId": 2,
+    "category": "Sword",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1018": {
+    "id": 1018,
+    "name": "Refined Sword",
+    "categoryId": 2,
+    "category": "Sword",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1019": {
+    "id": 1019,
+    "name": "Snipe Saber",
+    "categoryId": 2,
+    "category": "Sword",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1020": {
+    "id": 1020,
+    "name": "Moonblade",
+    "categoryId": 2,
+    "category": "Sword",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1021": {
+    "id": 1021,
+    "name": "Mirage Blade",
+    "categoryId": 2,
+    "category": "Sword",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1022": {
+    "id": 1022,
+    "name": "Eagle Saber",
+    "categoryId": 2,
+    "category": "Sword",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1023": {
+    "id": 1023,
+    "name": "Bastard Sword",
+    "categoryId": 2,
+    "category": "Sword",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1024": {
+    "id": 1024,
+    "name": "Heavy Blade",
+    "categoryId": 2,
+    "category": "Sword",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1025": {
+    "id": 1025,
+    "name": "Falcon Saber",
+    "categoryId": 2,
+    "category": "Sword",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1026": {
+    "id": 1026,
+    "name": "Spirit Sword",
+    "categoryId": 2,
+    "category": "Sword",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1027": {
+    "id": 1027,
+    "name": "Captain Sword",
+    "categoryId": 2,
+    "category": "Sword",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1028": {
+    "id": 1028,
+    "name": "Greatsword",
+    "categoryId": 2,
+    "category": "Sword",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1029": {
+    "id": 1029,
+    "name": "Silver Sword",
+    "categoryId": 2,
+    "category": "Sword",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1030": {
+    "id": 1030,
+    "name": "Feather Saber",
+    "categoryId": 2,
+    "category": "Sword",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1031": {
+    "id": 1031,
+    "name": "Broadsword",
+    "categoryId": 2,
+    "category": "Sword",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1032": {
+    "id": 1032,
+    "name": "Iron Sword",
+    "categoryId": 2,
+    "category": "Sword",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1033": {
+    "id": 1033,
+    "name": "Long Sword",
+    "categoryId": 2,
+    "category": "Sword",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1101": {
+    "id": 1101,
+    "name": "Battle tested Spear",
+    "categoryId": 3,
+    "category": "Lance",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1102": {
+    "id": 1102,
+    "name": "Tradewinds Spear",
+    "categoryId": 3,
+    "category": "Lance",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1103": {
+    "id": 1103,
+    "name": "Masters Spear",
+    "categoryId": 3,
+    "category": "Lance",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1104": {
+    "id": 1104,
+    "name": "Rune Glaive",
+    "categoryId": 3,
+    "category": "Lance",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1105": {
+    "id": 1105,
+    "name": "Forbidden Spear",
+    "categoryId": 3,
+    "category": "Lance",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1106": {
+    "id": 1106,
+    "name": "Seraphim Spear",
+    "categoryId": 3,
+    "category": "Lance",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1107": {
+    "id": 1107,
+    "name": "Scourge Lance",
+    "categoryId": 3,
+    "category": "Lance",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1108": {
+    "id": 1108,
+    "name": "Soul Glaive",
+    "categoryId": 3,
+    "category": "Lance",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1109": {
+    "id": 1109,
+    "name": "Jade Lance",
+    "categoryId": 3,
+    "category": "Lance",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1110": {
+    "id": 1110,
+    "name": "Victors Spear",
+    "categoryId": 3,
+    "category": "Lance",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1111": {
+    "id": 1111,
+    "name": "Platinum Spear",
+    "categoryId": 3,
+    "category": "Lance",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1112": {
+    "id": 1112,
+    "name": "Miguels Spear",
+    "categoryId": 3,
+    "category": "Lance",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1113": {
+    "id": 1113,
+    "name": "Imperial Lance",
+    "categoryId": 3,
+    "category": "Lance",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1114": {
+    "id": 1114,
+    "name": "Magus Glaive",
+    "categoryId": 3,
+    "category": "Lance",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1115": {
+    "id": 1115,
+    "name": "Hedgehog Spear",
+    "categoryId": 3,
+    "category": "Lance",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1116": {
+    "id": 1116,
+    "name": "Bridge Lance",
+    "categoryId": 3,
+    "category": "Lance",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1117": {
+    "id": 1117,
+    "name": "Elemental Glaive",
+    "categoryId": 3,
+    "category": "Lance",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1118": {
+    "id": 1118,
+    "name": "Jaguar Lance",
+    "categoryId": 3,
+    "category": "Lance",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1119": {
+    "id": 1119,
+    "name": "Heavy Lance",
+    "categoryId": 3,
+    "category": "Lance",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1120": {
+    "id": 1120,
+    "name": "Calamity Spear",
+    "categoryId": 3,
+    "category": "Lance",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1121": {
+    "id": 1121,
+    "name": "Bandits Spear",
+    "categoryId": 3,
+    "category": "Lance",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1122": {
+    "id": 1122,
+    "name": "Sunlands Spear",
+    "categoryId": 3,
+    "category": "Lance",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1123": {
+    "id": 1123,
+    "name": "War Lance",
+    "categoryId": 3,
+    "category": "Lance",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1124": {
+    "id": 1124,
+    "name": "Silver Spear",
+    "categoryId": 3,
+    "category": "Lance",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1125": {
+    "id": 1125,
+    "name": "Arcane Glaive",
+    "categoryId": 3,
+    "category": "Lance",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1126": {
+    "id": 1126,
+    "name": "War Spear",
+    "categoryId": 3,
+    "category": "Lance",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1127": {
+    "id": 1127,
+    "name": "Memorial Harpoon",
+    "categoryId": 3,
+    "category": "Lance",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1128": {
+    "id": 1128,
+    "name": "Iron Spear",
+    "categoryId": 3,
+    "category": "Lance",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1129": {
+    "id": 1129,
+    "name": "Spear",
+    "categoryId": 3,
+    "category": "Lance",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1201": {
+    "id": 1201,
+    "name": "Battle tested Dagger",
+    "categoryId": 4,
+    "category": "Dagger",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1202": {
+    "id": 1202,
+    "name": "Heathcotes Dagger",
+    "categoryId": 4,
+    "category": "Dagger",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1203": {
+    "id": 1203,
+    "name": "Viper Dagger",
+    "categoryId": 4,
+    "category": "Dagger",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1204": {
+    "id": 1204,
+    "name": "Adamatine Dagger",
+    "categoryId": 4,
+    "category": "Dagger",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1205": {
+    "id": 1205,
+    "name": "Forbidden Dagger",
+    "categoryId": 4,
+    "category": "Dagger",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1206": {
+    "id": 1206,
+    "name": "Legion Dagger",
+    "categoryId": 4,
+    "category": "Dagger",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1207": {
+    "id": 1207,
+    "name": "Rune Knife",
+    "categoryId": 4,
+    "category": "Dagger",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1208": {
+    "id": 1208,
+    "name": "Ultimate Breaker",
+    "categoryId": 4,
+    "category": "Dagger",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1209": {
+    "id": 1209,
+    "name": "Doombreaker",
+    "categoryId": 4,
+    "category": "Dagger",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1210": {
+    "id": 1210,
+    "name": "Assassins Dagger",
+    "categoryId": 4,
+    "category": "Dagger",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1211": {
+    "id": 1211,
+    "name": "Soul Knife",
+    "categoryId": 4,
+    "category": "Dagger",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1212": {
+    "id": 1212,
+    "name": "Crimson Dagger",
+    "categoryId": 4,
+    "category": "Dagger",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1213": {
+    "id": 1213,
+    "name": "Justice Breaker",
+    "categoryId": 4,
+    "category": "Dagger",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1214": {
+    "id": 1214,
+    "name": "Skybreaker",
+    "categoryId": 4,
+    "category": "Dagger",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1215": {
+    "id": 1215,
+    "name": "Magus Knife",
+    "categoryId": 4,
+    "category": "Dagger",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1216": {
+    "id": 1216,
+    "name": "Gaolbreaker",
+    "categoryId": 4,
+    "category": "Dagger",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1217": {
+    "id": 1217,
+    "name": "Gideons Dagger",
+    "categoryId": 4,
+    "category": "Dagger",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1218": {
+    "id": 1218,
+    "name": "Tricksters Dagger",
+    "categoryId": 4,
+    "category": "Dagger",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1219": {
+    "id": 1219,
+    "name": "Crescent Dagger",
+    "categoryId": 4,
+    "category": "Dagger",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1220": {
+    "id": 1220,
+    "name": "Chainbreaker",
+    "categoryId": 4,
+    "category": "Dagger",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1221": {
+    "id": 1221,
+    "name": "Swordbreaker",
+    "categoryId": 4,
+    "category": "Dagger",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1222": {
+    "id": 1222,
+    "name": "Silver Dagger",
+    "categoryId": 4,
+    "category": "Dagger",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1223": {
+    "id": 1223,
+    "name": "Piercing Dagger",
+    "categoryId": 4,
+    "category": "Dagger",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1224": {
+    "id": 1224,
+    "name": "Falcon Dagger",
+    "categoryId": 4,
+    "category": "Dagger",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1225": {
+    "id": 1225,
+    "name": "Befuddling Dagger",
+    "categoryId": 4,
+    "category": "Dagger",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1226": {
+    "id": 1226,
+    "name": "Arcane Knife",
+    "categoryId": 4,
+    "category": "Dagger",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1227": {
+    "id": 1227,
+    "name": "Stinging Dagger",
+    "categoryId": 4,
+    "category": "Dagger",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1228": {
+    "id": 1228,
+    "name": "Iron Dagger",
+    "categoryId": 4,
+    "category": "Dagger",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1229": {
+    "id": 1229,
+    "name": "Dagger",
+    "categoryId": 4,
+    "category": "Dagger",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1301": {
+    "id": 1301,
+    "name": "Battle tested Axe",
+    "categoryId": 5,
+    "category": "Axe",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1302": {
+    "id": 1302,
+    "name": "Memorial Axe",
+    "categoryId": 5,
+    "category": "Axe",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1303": {
+    "id": 1303,
+    "name": "Death Cleaver",
+    "categoryId": 5,
+    "category": "Axe",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1304": {
+    "id": 1304,
+    "name": "Double Tomahawk",
+    "categoryId": 5,
+    "category": "Axe",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1305": {
+    "id": 1305,
+    "name": "Forbidden Axe",
+    "categoryId": 5,
+    "category": "Axe",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1306": {
+    "id": 1306,
+    "name": "Ogre Cleaver",
+    "categoryId": 5,
+    "category": "Axe",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1307": {
+    "id": 1307,
+    "name": "Rune Hatchet",
+    "categoryId": 5,
+    "category": "Axe",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1308": {
+    "id": 1308,
+    "name": "Golden Axe",
+    "categoryId": 5,
+    "category": "Axe",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1309": {
+    "id": 1309,
+    "name": "Gargantuan Axe",
+    "categoryId": 5,
+    "category": "Axe",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1310": {
+    "id": 1310,
+    "name": "Adamatine Hatchet",
+    "categoryId": 5,
+    "category": "Axe",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1311": {
+    "id": 1311,
+    "name": "Hill Cleaver",
+    "categoryId": 5,
+    "category": "Axe",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1312": {
+    "id": 1312,
+    "name": "Spirit Hatchet",
+    "categoryId": 5,
+    "category": "Axe",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1313": {
+    "id": 1313,
+    "name": "Elemental Hatchet",
+    "categoryId": 5,
+    "category": "Axe",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1314": {
+    "id": 1314,
+    "name": "Inferno Axe",
+    "categoryId": 5,
+    "category": "Axe",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1315": {
+    "id": 1315,
+    "name": "Lizardkings Axe",
+    "categoryId": 5,
+    "category": "Axe",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1316": {
+    "id": 1316,
+    "name": "Graviton Axe",
+    "categoryId": 5,
+    "category": "Axe",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1317": {
+    "id": 1317,
+    "name": "Bear Cleaver",
+    "categoryId": 5,
+    "category": "Axe",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1318": {
+    "id": 1318,
+    "name": "Rock Cleaver",
+    "categoryId": 5,
+    "category": "Axe",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1319": {
+    "id": 1319,
+    "name": "Soul Hatchet",
+    "categoryId": 5,
+    "category": "Axe",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1320": {
+    "id": 1320,
+    "name": "Horn Cleaver",
+    "categoryId": 5,
+    "category": "Axe",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1321": {
+    "id": 1321,
+    "name": "Argent Axe",
+    "categoryId": 5,
+    "category": "Axe",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1322": {
+    "id": 1322,
+    "name": "Magus Hatchet",
+    "categoryId": 5,
+    "category": "Axe",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1323": {
+    "id": 1323,
+    "name": "Viking Axe",
+    "categoryId": 5,
+    "category": "Axe",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1324": {
+    "id": 1324,
+    "name": "Omars Axe",
+    "categoryId": 5,
+    "category": "Axe",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1325": {
+    "id": 1325,
+    "name": "Steel Axe",
+    "categoryId": 5,
+    "category": "Axe",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1326": {
+    "id": 1326,
+    "name": "Cleaver",
+    "categoryId": 5,
+    "category": "Axe",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1327": {
+    "id": 1327,
+    "name": "Enchanted Axe",
+    "categoryId": 5,
+    "category": "Axe",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1328": {
+    "id": 1328,
+    "name": "Heavy Axe",
+    "categoryId": 5,
+    "category": "Axe",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1329": {
+    "id": 1329,
+    "name": "Silver Axe",
+    "categoryId": 5,
+    "category": "Axe",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1330": {
+    "id": 1330,
+    "name": "Battle Axe",
+    "categoryId": 5,
+    "category": "Axe",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1331": {
+    "id": 1331,
+    "name": "Arcane Hatchet",
+    "categoryId": 5,
+    "category": "Axe",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1332": {
+    "id": 1332,
+    "name": "Iron Axe",
+    "categoryId": 5,
+    "category": "Axe",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1333": {
+    "id": 1333,
+    "name": "Handaxe",
+    "categoryId": 5,
+    "category": "Axe",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1401": {
+    "id": 1401,
+    "name": "Battle tested Bow",
+    "categoryId": 6,
+    "category": "Bow",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1402": {
+    "id": 1402,
+    "name": "Primeval Bow of Storms",
+    "categoryId": 6,
+    "category": "Bow",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1403": {
+    "id": 1403,
+    "name": "Transcendent Bow of Shadows",
+    "categoryId": 6,
+    "category": "Bow",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1404": {
+    "id": 1404,
+    "name": "Improved bow of the Eagle",
+    "categoryId": 6,
+    "category": "Bow",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1405": {
+    "id": 1405,
+    "name": "Forbidden Bow",
+    "categoryId": 6,
+    "category": "Bow",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1406": {
+    "id": 1406,
+    "name": "Hyperion Bow",
+    "categoryId": 6,
+    "category": "Bow",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1407": {
+    "id": 1407,
+    "name": "Holy Longbow",
+    "categoryId": 6,
+    "category": "Bow",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1408": {
+    "id": 1408,
+    "name": "Rune Bow",
+    "categoryId": 6,
+    "category": "Bow",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1409": {
+    "id": 1409,
+    "name": "Yetis Long Bow",
+    "categoryId": 6,
+    "category": "Bow",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1410": {
+    "id": 1410,
+    "name": "Adamatine Bow",
+    "categoryId": 6,
+    "category": "Bow",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1411": {
+    "id": 1411,
+    "name": "Augmented Bow of the Falcon",
+    "categoryId": 6,
+    "category": "Bow",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1412": {
+    "id": 1412,
+    "name": "Masters Longbow",
+    "categoryId": 6,
+    "category": "Bow",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1413": {
+    "id": 1413,
+    "name": "Brilliant Bow",
+    "categoryId": 6,
+    "category": "Bow",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1414": {
+    "id": 1414,
+    "name": "Pirates Longbow",
+    "categoryId": 6,
+    "category": "Bow",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1415": {
+    "id": 1415,
+    "name": "Spirit Bow",
+    "categoryId": 6,
+    "category": "Bow",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1416": {
+    "id": 1416,
+    "name": "Huntresss Longbow",
+    "categoryId": 6,
+    "category": "Bow",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1417": {
+    "id": 1417,
+    "name": "Elemental Bow",
+    "categoryId": 6,
+    "category": "Bow",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1418": {
+    "id": 1418,
+    "name": "Shadow Bow",
+    "categoryId": 6,
+    "category": "Bow",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1419": {
+    "id": 1419,
+    "name": "Tomahawk Bow",
+    "categoryId": 6,
+    "category": "Bow",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1420": {
+    "id": 1420,
+    "name": "Marksmans Longbow",
+    "categoryId": 6,
+    "category": "Bow",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1421": {
+    "id": 1421,
+    "name": "Soul Bow",
+    "categoryId": 6,
+    "category": "Bow",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1422": {
+    "id": 1422,
+    "name": "Soldiers Longbow",
+    "categoryId": 6,
+    "category": "Bow",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1423": {
+    "id": 1423,
+    "name": "Heavy Bow",
+    "categoryId": 6,
+    "category": "Bow",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1424": {
+    "id": 1424,
+    "name": "Maguss Bow",
+    "categoryId": 6,
+    "category": "Bow",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1425": {
+    "id": 1425,
+    "name": "Killer Bow",
+    "categoryId": 6,
+    "category": "Bow",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1426": {
+    "id": 1426,
+    "name": "Arcane Bow",
+    "categoryId": 6,
+    "category": "Bow",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1427": {
+    "id": 1427,
+    "name": "Wolfs Bow",
+    "categoryId": 6,
+    "category": "Bow",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1428": {
+    "id": 1428,
+    "name": "Stone Bow",
+    "categoryId": 6,
+    "category": "Bow",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1429": {
+    "id": 1429,
+    "name": "Composite Bow",
+    "categoryId": 6,
+    "category": "Bow",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1430": {
+    "id": 1430,
+    "name": "Longbow",
+    "categoryId": 6,
+    "category": "Bow",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1501": {
+    "id": 1501,
+    "name": "Battle tested Staff",
+    "categoryId": 7,
+    "category": "Rod",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1502": {
+    "id": 1502,
+    "name": "Bishops Staff",
+    "categoryId": 7,
+    "category": "Rod",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1503": {
+    "id": 1503,
+    "name": "Knowledge Staff",
+    "categoryId": 7,
+    "category": "Rod",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1504": {
+    "id": 1504,
+    "name": "Wizards Rod",
+    "categoryId": 7,
+    "category": "Rod",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1505": {
+    "id": 1505,
+    "name": "Absolute Zero Staff",
+    "categoryId": 7,
+    "category": "Rod",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1506": {
+    "id": 1506,
+    "name": "Yggdrasil Staff",
+    "categoryId": 7,
+    "category": "Rod",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1507": {
+    "id": 1507,
+    "name": "Mattiass Scepter",
+    "categoryId": 7,
+    "category": "Rod",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1508": {
+    "id": 1508,
+    "name": "Forbidden Staff",
+    "categoryId": 7,
+    "category": "Rod",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1509": {
+    "id": 1509,
+    "name": "Enchanted Rod",
+    "categoryId": 7,
+    "category": "Rod",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1510": {
+    "id": 1510,
+    "name": "Giants Club",
+    "categoryId": 7,
+    "category": "Rod",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1511": {
+    "id": 1511,
+    "name": "Meteorite Rod",
+    "categoryId": 7,
+    "category": "Rod",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1512": {
+    "id": 1512,
+    "name": "Morning Star",
+    "categoryId": 7,
+    "category": "Rod",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1513": {
+    "id": 1513,
+    "name": "Wisdom Staff",
+    "categoryId": 7,
+    "category": "Rod",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1514": {
+    "id": 1514,
+    "name": "Sturdy Sapphire Rod",
+    "categoryId": 7,
+    "category": "Rod",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1515": {
+    "id": 1515,
+    "name": "Sledgehammer",
+    "categoryId": 7,
+    "category": "Rod",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1516": {
+    "id": 1516,
+    "name": "Sapphire Rod",
+    "categoryId": 7,
+    "category": "Rod",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1517": {
+    "id": 1517,
+    "name": "War Hammer",
+    "categoryId": 7,
+    "category": "Rod",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1518": {
+    "id": 1518,
+    "name": "Black Staff",
+    "categoryId": 7,
+    "category": "Rod",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1519": {
+    "id": 1519,
+    "name": "Mages Staff",
+    "categoryId": 7,
+    "category": "Rod",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1520": {
+    "id": 1520,
+    "name": "Sturdy Quartz Rod",
+    "categoryId": 7,
+    "category": "Rod",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1521": {
+    "id": 1521,
+    "name": "Staff of Wonders",
+    "categoryId": 7,
+    "category": "Rod",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1522": {
+    "id": 1522,
+    "name": "Pole Mace",
+    "categoryId": 7,
+    "category": "Rod",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1523": {
+    "id": 1523,
+    "name": "Oak Staff",
+    "categoryId": 7,
+    "category": "Rod",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1524": {
+    "id": 1524,
+    "name": "Flail",
+    "categoryId": 7,
+    "category": "Rod",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1525": {
+    "id": 1525,
+    "name": "Psychic Staff",
+    "categoryId": 7,
+    "category": "Rod",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1526": {
+    "id": 1526,
+    "name": "Mace",
+    "categoryId": 7,
+    "category": "Rod",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1527": {
+    "id": 1527,
+    "name": "Laurel Staff",
+    "categoryId": 7,
+    "category": "Rod",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1528": {
+    "id": 1528,
+    "name": "Composite Staff",
+    "categoryId": 7,
+    "category": "Rod",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1529": {
+    "id": 1529,
+    "name": "Quartz Rod",
+    "categoryId": 7,
+    "category": "Rod",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1530": {
+    "id": 1530,
+    "name": "Light Staff",
+    "categoryId": 7,
+    "category": "Rod",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1531": {
+    "id": 1531,
+    "name": "Stone Rod",
+    "categoryId": 7,
+    "category": "Rod",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1532": {
+    "id": 1532,
+    "name": "Staff",
+    "categoryId": 7,
+    "category": "Rod",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1601": {
+    "id": 1601,
+    "name": "Battle tested Shield",
+    "categoryId": 8,
+    "category": "Shield",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1602": {
+    "id": 1602,
+    "name": "Mikk and Makks Shield",
+    "categoryId": 8,
+    "category": "Shield",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1603": {
+    "id": 1603,
+    "name": "Forbidden Shield",
+    "categoryId": 8,
+    "category": "Shield",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1604": {
+    "id": 1604,
+    "name": "Force Shield",
+    "categoryId": 8,
+    "category": "Shield",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1605": {
+    "id": 1605,
+    "name": "Gargantuan Shield",
+    "categoryId": 8,
+    "category": "Shield",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1606": {
+    "id": 1606,
+    "name": "Leviathan Shield",
+    "categoryId": 8,
+    "category": "Shield",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1607": {
+    "id": 1607,
+    "name": "Knights Shield",
+    "categoryId": 8,
+    "category": "Shield",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1608": {
+    "id": 1608,
+    "name": "Gustavs Shield",
+    "categoryId": 8,
+    "category": "Shield",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1609": {
+    "id": 1609,
+    "name": "Adamantine Shield",
+    "categoryId": 8,
+    "category": "Shield",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1610": {
+    "id": 1610,
+    "name": "Tower Shield",
+    "categoryId": 8,
+    "category": "Shield",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1611": {
+    "id": 1611,
+    "name": "Spiked Shield",
+    "categoryId": 8,
+    "category": "Shield",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1612": {
+    "id": 1612,
+    "name": "Elemental Shield",
+    "categoryId": 8,
+    "category": "Shield",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1613": {
+    "id": 1613,
+    "name": "Elusive Shield",
+    "categoryId": 8,
+    "category": "Shield",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1614": {
+    "id": 1614,
+    "name": "Plate Shield",
+    "categoryId": 8,
+    "category": "Shield",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1615": {
+    "id": 1615,
+    "name": "Kite Shield",
+    "categoryId": 8,
+    "category": "Shield",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1616": {
+    "id": 1616,
+    "name": "Sturdy Shield",
+    "categoryId": 8,
+    "category": "Shield",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1617": {
+    "id": 1617,
+    "name": "Round Shield",
+    "categoryId": 8,
+    "category": "Shield",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1618": {
+    "id": 1618,
+    "name": "Buckler",
+    "categoryId": 8,
+    "category": "Shield",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1701": {
+    "id": 1701,
+    "name": "Crystal Helm",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1702": {
+    "id": 1702,
+    "name": "Hypnos Crown",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1703": {
+    "id": 1703,
+    "name": "Adamantine Hat",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1704": {
+    "id": 1704,
+    "name": "Dragons Helm",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1705": {
+    "id": 1705,
+    "name": "Monster Trainers Hat",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1706": {
+    "id": 1706,
+    "name": "Teachers Hat",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1707": {
+    "id": 1707,
+    "name": "Adventurers Hat",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1708": {
+    "id": 1708,
+    "name": "Platinum Helm",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1709": {
+    "id": 1709,
+    "name": "Historian's Hat",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1710": {
+    "id": 1710,
+    "name": "Oasis Hat",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1711": {
+    "id": 1711,
+    "name": "Revellos Helm",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1712": {
+    "id": 1712,
+    "name": "Imperial Helm",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1713": {
+    "id": 1713,
+    "name": "Silent Bandana",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1714": {
+    "id": 1714,
+    "name": "Fur Cap",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1715": {
+    "id": 1715,
+    "name": "Enchanted Circlet",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1716": {
+    "id": 1716,
+    "name": "Elemental Hat",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1717": {
+    "id": 1717,
+    "name": "Veterans Helm",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1718": {
+    "id": 1718,
+    "name": "Gareths Helm",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1719": {
+    "id": 1719,
+    "name": "Grand Helm",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1720": {
+    "id": 1720,
+    "name": "Horned Helm",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1721": {
+    "id": 1721,
+    "name": "Starlight Hat",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1722": {
+    "id": 1722,
+    "name": "Hasty Helm",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1723": {
+    "id": 1723,
+    "name": "Falcon Hat",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1724": {
+    "id": 1724,
+    "name": "Bishops Hat",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1725": {
+    "id": 1725,
+    "name": "Golden Hairpiece",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1726": {
+    "id": 1726,
+    "name": "Silver Helm",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1727": {
+    "id": 1727,
+    "name": "Snowy Hood",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1728": {
+    "id": 1728,
+    "name": "Saintly Tiara",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1729": {
+    "id": 1729,
+    "name": "Chakra Band",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1730": {
+    "id": 1730,
+    "name": "Sturdy Helm",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1731": {
+    "id": 1731,
+    "name": "Flying Helm",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1732": {
+    "id": 1732,
+    "name": "Black Cap",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1733": {
+    "id": 1733,
+    "name": "Headgear",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1734": {
+    "id": 1734,
+    "name": "Circlet",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1735": {
+    "id": 1735,
+    "name": "Iron Helm",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1736": {
+    "id": 1736,
+    "name": "Silver Hairpiece",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1737": {
+    "id": 1737,
+    "name": "Bronze Helm",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1738": {
+    "id": 1738,
+    "name": "Feathered Hat",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1739": {
+    "id": 1739,
+    "name": "Pointed Hat",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1740": {
+    "id": 1740,
+    "name": "Leather Helm",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1741": {
+    "id": 1741,
+    "name": "Leather Hat",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1742": {
+    "id": 1742,
+    "name": "Ordinary Hat",
+    "categoryId": 9,
+    "category": "Head",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1801": {
+    "id": 1801,
+    "name": "Crystal Armor",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1802": {
+    "id": 1802,
+    "name": "Crystal Vest",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1803": {
+    "id": 1803,
+    "name": "Robe of the Flame",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1804": {
+    "id": 1804,
+    "name": "Dragonscale Armor",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1805": {
+    "id": 1805,
+    "name": "Dragons Vest",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1806": {
+    "id": 1806,
+    "name": "Ethereal Dancer Garb",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1807": {
+    "id": 1807,
+    "name": "Sorcerers Robe",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1808": {
+    "id": 1808,
+    "name": "Confessional Armor",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1809": {
+    "id": 1809,
+    "name": "High Houses Armor",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1810": {
+    "id": 1810,
+    "name": "Princesss Coat",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1811": {
+    "id": 1811,
+    "name": "Ardante Attire",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1812": {
+    "id": 1812,
+    "name": "Robe of the Dragon Princess",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1813": {
+    "id": 1813,
+    "name": "Platinum Armor",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1814": {
+    "id": 1814,
+    "name": "Vendetta Coat",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1815": {
+    "id": 1815,
+    "name": "Imperial Armor",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1816": {
+    "id": 1816,
+    "name": "Platinum Vest",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1817": {
+    "id": 1817,
+    "name": "Imperial Vest",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1818": {
+    "id": 1818,
+    "name": "Elemental Heavy Armor",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1819": {
+    "id": 1819,
+    "name": "Silent Cape",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1820": {
+    "id": 1820,
+    "name": "Primeval Robe",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1821": {
+    "id": 1821,
+    "name": "Rainbow Robe",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1822": {
+    "id": 1822,
+    "name": "Elemental Light Armor",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1823": {
+    "id": 1823,
+    "name": "Fur Coat",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1824": {
+    "id": 1824,
+    "name": "Exotic Garb",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1825": {
+    "id": 1825,
+    "name": "Grand Armor",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1826": {
+    "id": 1826,
+    "name": "Obsidian Garb",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1827": {
+    "id": 1827,
+    "name": "Grand Vest",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1828": {
+    "id": 1828,
+    "name": "Falcon Garb",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1829": {
+    "id": 1829,
+    "name": "Elemental Robe",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1830": {
+    "id": 1830,
+    "name": "Spiked Armor",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1831": {
+    "id": 1831,
+    "name": "Silver Armor",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1832": {
+    "id": 1832,
+    "name": "Spiked Vest",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1833": {
+    "id": 1833,
+    "name": "Silver Vest",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1834": {
+    "id": 1834,
+    "name": "Charm Robe",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1835": {
+    "id": 1835,
+    "name": "Snowy Cape",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1836": {
+    "id": 1836,
+    "name": "Iron Armor",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1837": {
+    "id": 1837,
+    "name": "Sturdy Armor",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1838": {
+    "id": 1838,
+    "name": "Iron Vest",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1839": {
+    "id": 1839,
+    "name": "Peacebringers Garb",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1840": {
+    "id": 1840,
+    "name": "Sturdy Vest",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1841": {
+    "id": 1841,
+    "name": "Fur Robe",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1842": {
+    "id": 1842,
+    "name": "Black Attire",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1843": {
+    "id": 1843,
+    "name": "Wind Attire",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1844": {
+    "id": 1844,
+    "name": "Traditional Dancer Garb",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1845": {
+    "id": 1845,
+    "name": "Bronze Armor",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1846": {
+    "id": 1846,
+    "name": "Bronze Vest",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1847": {
+    "id": 1847,
+    "name": "Linen Robe",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1848": {
+    "id": 1848,
+    "name": "Leather Armor",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1849": {
+    "id": 1849,
+    "name": "Leather Vest",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1850": {
+    "id": 1850,
+    "name": "Robe",
+    "categoryId": 10,
+    "category": "Body",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1901": {
+    "id": 1901,
+    "name": "Spurning Ribbon",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1903": {
+    "id": 1903,
+    "name": "Alluring Ribbon",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1904": {
+    "id": 1904,
+    "name": "Captains Badge",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1905": {
+    "id": 1905,
+    "name": "Badge of Friendship",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1906": {
+    "id": 1906,
+    "name": "Dragons Scarf",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1907": {
+    "id": 1907,
+    "name": "Beastly Scarf",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1908": {
+    "id": 1908,
+    "name": "Royal Crest",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1909": {
+    "id": 1909,
+    "name": "Gravekeepers Mark",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1910": {
+    "id": 1910,
+    "name": "Physical Belt",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1911": {
+    "id": 1911,
+    "name": "Mental Belt",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1912": {
+    "id": 1912,
+    "name": "Blessed Blazon",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1913": {
+    "id": 1913,
+    "name": "Blazon of Protection",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1914": {
+    "id": 1914,
+    "name": "Mighty Belt",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1915": {
+    "id": 1915,
+    "name": "Elemental Augmentor",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1916": {
+    "id": 1916,
+    "name": "Guardian Amulet",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1917": {
+    "id": 1917,
+    "name": "Elemental Ward",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1918": {
+    "id": 1918,
+    "name": "Empowering Necklace",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1919": {
+    "id": 1919,
+    "name": "Stimulating Necklace",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1920": {
+    "id": 1920,
+    "name": "Protective Necklace",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1921": {
+    "id": 1921,
+    "name": "Unerring Necklace",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1922": {
+    "id": 1922,
+    "name": "Enlightening Necklace",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1923": {
+    "id": 1923,
+    "name": "Sprightly Necklace",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1924": {
+    "id": 1924,
+    "name": "Critical Necklace",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1925": {
+    "id": 1925,
+    "name": "Empowering Bracelet",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1926": {
+    "id": 1926,
+    "name": "Stimulating Bracelet",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1927": {
+    "id": 1927,
+    "name": "Protective Bracelet",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1928": {
+    "id": 1928,
+    "name": "Unerring Bracelet",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1929": {
+    "id": 1929,
+    "name": "Enlightening Bracelet",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1930": {
+    "id": 1930,
+    "name": "Sprightly Bracelet",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1931": {
+    "id": 1931,
+    "name": "Critical Bracelet",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1932": {
+    "id": 1932,
+    "name": "Empowering Ring",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1933": {
+    "id": 1933,
+    "name": "Stimulating Ring",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1934": {
+    "id": 1934,
+    "name": "Protective Ring",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1935": {
+    "id": 1935,
+    "name": "Unerring Ring",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1936": {
+    "id": 1936,
+    "name": "Enlightening Ring",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1937": {
+    "id": 1937,
+    "name": "Sprightly Ring",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1938": {
+    "id": 1938,
+    "name": "Critical Ring",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1939": {
+    "id": 1939,
+    "name": "Empowering Earring",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1940": {
+    "id": 1940,
+    "name": "Stimulating Earring",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1941": {
+    "id": 1941,
+    "name": "Protective Earring",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1942": {
+    "id": 1942,
+    "name": "Unerring Earring",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1943": {
+    "id": 1943,
+    "name": "Enlightening Earring",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1944": {
+    "id": 1944,
+    "name": "Sprightly Earring",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1945": {
+    "id": 1945,
+    "name": "Critical Earring",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1946": {
+    "id": 1946,
+    "name": "Weavers Charm",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1947": {
+    "id": 1947,
+    "name": "Gentlemans Charm",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1948": {
+    "id": 1948,
+    "name": "Gourmets Charm",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1949": {
+    "id": 1949,
+    "name": "Inferno Amulet",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1950": {
+    "id": 1950,
+    "name": "Blizzard Amulet",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1951": {
+    "id": 1951,
+    "name": "Tempest Amulet",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1952": {
+    "id": 1952,
+    "name": "Thunderstorm Amulet",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1953": {
+    "id": 1953,
+    "name": "Void Amulet",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1954": {
+    "id": 1954,
+    "name": "Gleaming Amulet",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1955": {
+    "id": 1955,
+    "name": "Fire Amulet",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1956": {
+    "id": 1956,
+    "name": "Ice Amulet",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1957": {
+    "id": 1957,
+    "name": "Wind Amulet",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1958": {
+    "id": 1958,
+    "name": "Lightning Amulet",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1959": {
+    "id": 1959,
+    "name": "Dark Amulet",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1960": {
+    "id": 1960,
+    "name": "Light Amulet",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1961": {
+    "id": 1961,
+    "name": "Antidote Stone",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1962": {
+    "id": 1962,
+    "name": "Wakeful Stone",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1963": {
+    "id": 1963,
+    "name": "Articulate Stone",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1964": {
+    "id": 1964,
+    "name": "Bright Stone",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1965": {
+    "id": 1965,
+    "name": "Calming Stone",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1966": {
+    "id": 1966,
+    "name": "Clarity Stone",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1967": {
+    "id": 1967,
+    "name": "Conscious Stone",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "1968": {
+    "id": 1968,
+    "name": "Vivifying Stone",
+    "categoryId": 11,
+    "category": "Accessory",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "2500": {
+    "id": 2500,
+    "name": "Soothing Seed",
+    "categoryId": 12,
+    "category": "Material",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "2501": {
+    "id": 2501,
+    "name": "Soothing Dust",
+    "categoryId": 12,
+    "category": "Material",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "2502": {
+    "id": 2502,
+    "name": "Purifying Seed",
+    "categoryId": 12,
+    "category": "Material",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "2503": {
+    "id": 2503,
+    "name": "Purifying Dust",
+    "categoryId": 12,
+    "category": "Material",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "2504": {
+    "id": 2504,
+    "name": "Injurious Seed",
+    "categoryId": 12,
+    "category": "Material",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "2505": {
+    "id": 2505,
+    "name": "Injurious Dust",
+    "categoryId": 12,
+    "category": "Material",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "2506": {
+    "id": 2506,
+    "name": "Ruinous Seed",
+    "categoryId": 12,
+    "category": "Material",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "2507": {
+    "id": 2507,
+    "name": "Ruinous Dust",
+    "categoryId": 12,
+    "category": "Material",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "2516": {
+    "id": 2516,
+    "name": "Noxroot",
+    "categoryId": 12,
+    "category": "Material",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "2517": {
+    "id": 2517,
+    "name": "Sleepweed",
+    "categoryId": 12,
+    "category": "Material",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "2518": {
+    "id": 2518,
+    "name": "Addlewort",
+    "categoryId": 12,
+    "category": "Material",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "2519": {
+    "id": 2519,
+    "name": "Essence of Grape",
+    "categoryId": 12,
+    "category": "Material",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "2520": {
+    "id": 2520,
+    "name": "Essence of Plum",
+    "categoryId": 12,
+    "category": "Material",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "2521": {
+    "id": 2521,
+    "name": "Essence of Pomegranate",
+    "categoryId": 12,
+    "category": "Material",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "2522": {
+    "id": 2522,
+    "name": "Olive Bloom",
+    "categoryId": 12,
+    "category": "Material",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  },
+  "2523": {
+    "id": 2523,
+    "name": "Curious Bloom",
+    "categoryId": 12,
+    "category": "Material",
+    "isCollectorRequired": true,
+    "isMutuallyExclusiveChoice": false
+  }
+}

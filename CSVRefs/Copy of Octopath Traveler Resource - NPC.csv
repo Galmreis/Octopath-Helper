@@ -1,0 +1,2535 @@
+,NPC,,Purchase / Steal,,Scrutinize / Inquire,,Challenge / Provoke,,,,,,,,,Guide / Allure,,,,,Note
+,,,,,,,Str,Shield,Weakness,,,,,Drop,,Str,,Ability,#,,
+Frostlands,,,,,,,,,,,,,,,,,,,,,
+,Tier 1,,,,,,,,,,,,,,,,,,,,
+,Flamesgrace,,,,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Inspiriting Plum,FALSE,"A Hidden Item
+Inspiriting Plum (M)",FALSE,1*,2,,,,,,Inspiriting Plum,,1*,,Flurry,9,,
+,,FALSE,Healing Grape,,,,,,,,,,,,,,,Attack,,,
+,Accused Man (2),FALSE,Healing Grape (M),FALSE,None,FALSE,3*,3,,,,,,Befuddling Dagger,,X,X,X,X,,"NPC at this location after quest: The Innocent Inmate
+(Scrutinize / Inquire solution only)"
+,,,,,,,,,,,,,,,,,,,,,
+,Miles (1),FALSE,Healing Grape (M),FALSE,None,FALSE,4*,3,,,,,,Healing Grape (M),,4*,,Improved Offense,8,,"NPC available after Ophilia chapter 1
+Move to Stillsnow after quest: Sir Miles, Servant of the Flame (I)"
+,,,,,,,,,,,,,,,,,,Slice,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Miles (4),FALSE,Healing Grape (M),FALSE,None,FALSE,4*,3,,,,,,Healing Grape (M),,4*,,Improved Offense,8,,"NPC at this location after quest: Sir Miles, Servant of the Flame (III)"
+,,FALSE,Angel Saber,,,,,,,,,,,,,,,Slice,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Merchant,FALSE,Old Coin,FALSE,None,FALSE,1*,2,,,,,,Bottle of Sleeping Dust,,1*,,Sleepweed,9,,
+,,FALSE,Peacebringer's Garb,,,,,,,,,,,,,,,Pointed Shot,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Witness,FALSE,Herb of Clamor,FALSE,An Eyewitness Account,FALSE,1*,2,,,,,,Herb of Clamor,,1*,,Healing Grape,9,,"NPC available after Ophilia chapter 1
+Guide / Allure available after quest: The Innocent Inmate"
+,,FALSE,Composite Staff,,,,,,,,,,,,,,,Pointed Shot,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Muttering Codger,FALSE,Inspiriting Plum Basket,FALSE,Where the Ice Giant Sleeps,FALSE,10*,6,,,,,,Battle-tested Shield,,10*,,Crush and Grind,4,,"NPC available after Ophilia chapter 1
+Guide / Allure available after quest: The Slumbering Giant"
+,,FALSE,Refreshing Jam,,,,,,,,,,,,,,,Full Swing,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Anxious Townswoman,FALSE,Healing Grape,FALSE,None,FALSE,1*,2,,,,,,Healing Grape,,1*,,Slumber Slash,9,,NPC available after Ophilia chapter 1
+,,FALSE,Inspiriting Plum,,,,,,,,,,,,,,,Slash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Diligent Student,FALSE,Fire Soulstone,FALSE,None,FALSE,1*,2,,,,,,Inspiriting Plum,,1*,,Ice Storm,9,,"NPC available after Ophilia chapter 1
+Guide / Allure available after quest: The Slumbering Giant"
+,,FALSE,Fire Soulstone (M),,,,,,,,,,,,,,,Icewind,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Drunken Soldier,FALSE,* Dungeon Key,FALSE,None,FALSE,5*,4,,,,,,Wind Soulstone (L),,5*,,Noisome Breath,7,,NPC available after Ophilia chapter 1
+,,FALSE,Scrap of Rope,,,,,,,,,,,,,,,Bottle Toss,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Tavern Patron,FALSE,Healing Grape,FALSE,None,FALSE,1*,2,,,,,,Healing Grape,,1*,,Summon Winds,9,,
+,,FALSE,Sprightly Earring,,,,,,,,,,,,,,,Attack,,,
+,Knight Ardante,FALSE,Ice Soulstone,FALSE,"A Hidden Item
+Addlewort",FALSE,3*,3,,,,,,Healing Grape,,3*,,Sweep,8,,
+,,FALSE,Ice Soulstone (M),,,,,,,,,,,,,,,Slice,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Shivering Townsperson,FALSE,Olive of Life,FALSE,None,FALSE,1*,2,,,,,,Peacebringer's Garb,,1*,,Panic Arrow,9,,NPC available after Ophilia chapter 1
+,,FALSE,Herb of Clamor,,,,,,,,,,,,,,,Attack,,,
+,Townsperson,FALSE,Bottle of Blinding Dust,FALSE,"A Hidden Item
+Shadow Soulstone",FALSE,1*,2,,,,,,Olive of Life,,1*,,Wisdom of the Church,9,,
+,,FALSE,Bottle of Befuddling Dust,,,,,,,,,,,,,,,Fire Storm,,,
+,,,,,,,,,,,,,,,,,,Wind Blast,,,
+,Townsperson,FALSE,Sleepweed,FALSE,"A Hidden Item
+Injurious Seed",FALSE,1*,2,,,,,,Herb of Clarity,,X,X,X,X,,
+,,FALSE,Herb of Awakening,,,,,,,,,,,,,,,,,,
+,,FALSE,Bottle of Sleeping Dust,,,,,,,,,,,,,,,,,,
+,Sellsword,FALSE,Silver Sword,FALSE,None,FALSE,4*,3,,,,,,Inspiriting Plum (M),,X,X,X,X,,Behind other NPC (Challenge / Provoke)
+,,FALSE,Headgear,,,,,,,,,,,,,,,,,,
+,,FALSE,Iron Vest,,,,,,,,,,,,,,,,,,
+,Cleric,FALSE,Inspiriting Plum,FALSE,Guide with Ease,FALSE,1*,2,,,,,,Inspiriting Plum,,1*,,Steel Defenses,9,,
+,,,,,,,,,,,,,,,,,,Ice Storm,,,
+,Flamesgrace Cathedral Entrance,,,,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Traditional Dancer Garb,FALSE,Discount at the Inn,FALSE,1*,2,,,,,,Herb of Clarity,,1*,,Restore Health,9,,
+,,FALSE,Circlet,,,,,,,,,,,,,,,Inspiriting Plum,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Accused Man (1),FALSE,Healing Grape (M),FALSE,None,FALSE,3*,3,,,,,,Befuddling Dagger,,X,X,X,X,,"NPC available after Ophilia chapter 1
+Moves to Flamesgrace or Rippletide after quest: The Innocent Inmate"
+,,,,,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Energizing Pomegranate,FALSE,"A Hidden Item
+Ice Soulstone",FALSE,1*,2,,,,,,Energizing Pomegranate,,1*,,Sweeping Slash,9,,
+,,FALSE,Herb of Light,,,,,,,,,,,,,,,Inhibit Offense,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Knight Ardante,FALSE,Light Soulstone,FALSE,"A Hidden Item
+Empowering Earring",FALSE,5*,4,,,,,,Snowy Cape,,5*,,Blinding Arrow,7,,
+,,FALSE,Light Soulstone (M),,,,,,,,,,,,,,,Pointed Shot,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Flamesgrace Cathedral,,,,,,,,,,,,,,,,,,,,
+,Cleric,FALSE,Critical Nut,FALSE,"A Hidden Item
+Heavy Blade",FALSE,1*,2,,,,,,Inspiriting Plum,,1*,,Prayer,9,,
+,,FALSE,Critical Earring,,,,,,,,,,,,,,,Inspiriting Plum,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Mother,FALSE,Energizing Pomegranate,FALSE,"A Hidden Item
+Copper-filled Pouch",FALSE,1*,2,,,,,,Energizing Pomegranate,,1*,,Inhibit Defense,9,,NPC available after Ophilia chapter 1
+,,FALSE,Olive of Life,,,,,,,,,,,,,,,Slash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Boy,FALSE,Candy,FALSE,"A Hidden Item
+Fortifying Nut",,X,X,X,X,X,X,X,X,,X,X,X,X,,NPC available after Ophilia chapter 1
+,,,,,,,,,,,,,,,,,,,,,
+,Lianna (1),FALSE,Bishop's Staff,FALSE,None,FALSE,3*,3,,,,,,Energizing Pomegranate (M),,3*,,Restore Health,8,,"NPC available after both Ophilia & H'aanit chapter 4
+See her in Wispermill upon starting quest: Lianna and Eliza"
+,,,,,,,,,,,,,,,,,,Pummel,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Cleric,FALSE,Fire Soulstone,FALSE,New Weapons for Sale,FALSE,4*,3,,,,,,Energizing Pomegranate (M),,4*,,Mental Augmentation,8,,
+,,FALSE,Fire Soulstone (M),,,,,,,,,,,,,,,Ice Storm,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Former Knight Ardante,FALSE,Herb of Clamor,FALSE,Rumors of a Knight Ardante,FALSE,6*,4,,,,,,Hedgehog Spear,,X,X,X,X,,NPC available after Ophilia chapter 1
+,,FALSE,Herb of Clarity,,,,,,,,,,,,,,,,,,
+,,FALSE,Herb of Valor,,,,,,,,,,,,,,,,,,
+,Cleric,FALSE,Inspiriting Plum,FALSE,"A Hidden Item
+Olive of Life",FALSE,1*,2,,,,,,Herb of Light,,1*,,Ice Storm,9,,
+,,FALSE,Inspiriting Plum (M),,,,,,,,,,,,,,,Attack,,,
+,Path to Cave of Origin,,,,,,,,,,,,,,,,,,,,
+,Knight Ardante,,X,,X,,X,X,X,X,X,X,X,X,,1*,,Prayer,9,,"NPC available upon starting Ophilia chapter 1
+Can't Allure, only Guide"
+,,,,,,,,,,,,,,,,,,Sweep,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Knight Ardante,,X,,X,,X,X,X,X,X,X,X,X,,1*,,Repeated Strike,9,,"NPC available upon starting Ophilia chapter 1
+Can't Allure, only Guide"
+,,,,,,,,,,,,,,,,,,Stunning Strike,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Tier 2,,,,,,,,,,,,,,,,,,,,
+,Stillsnow,,,,,,,,,,,,,,,,,,,,
+,Villager,FALSE,* Adequate Flax,FALSE,More Plentiful Provisions,FALSE,2*,2,,,,,,Addlewort,,2*,,Flurry,9,,
+,,,,,,,,,,,,,,,,,,Pointed Shot,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Boy,FALSE,Healing Grape,FALSE,"A Hidden Item
+Refreshing Jam",,X,X,X,X,X,X,X,X,,X,X,X,X,,
+,,FALSE,Inspiriting Plum,,,,,,,,,,,,,,,,,,
+,Girl,FALSE,Ice Soulstone,FALSE,"A Hidden Item
+Ice Soulstone (M)",,X,X,X,X,X,X,X,X,,X,X,X,X,,
+,,FALSE,Ice Soulstone (M),,,,,,,,,,,,,,,,,,
+,Arianna (1),FALSE,Addlewort,FALSE,None,FALSE,1*,2,,,,,,Ice Soulstone (M),,1*,,Slash,9,,"NPC available after both Primrose & H'aanit chapter 4
+Moves to Stonegard Valleys after quest: Arianna Again (I)"
+,,FALSE,Sleepweed,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Empowering Bracelet,,,,,,,,,,,,,,,,,,
+,Moneylender,FALSE,Shadow Soulstone (M),FALSE,"A Hidden Item
+Silver-filled Pouch",FALSE,4*,3,,,,,,Protective Bracelet,,4*,,Speed Enhancement,8,,"Guide / Allure available after quest:
+Setting Out (Challenge / Provoke solution only)"
+,,FALSE,Injurious Dust,,,,,,,,,,,,,,,Full Swing,,,
+,,FALSE,Bottle of Poison Dust,,,,,,,,,,,,,,,Attack,,,
+,"Pathetic Father /
+Reformed Father",FALSE,Wind Soulstone (M),FALSE,None,FALSE,2*,2,,,,,,Wind Soulstone (M),,2*,,Dagger Storm,9,,"Name changes after quest: Setting Out (Challenge / Provoke solution only)
+Guide / Allure available after quest: Setting Out
+(Challenge / Provoke solution only)"
+,,FALSE,Critical Bracelet,,,,,,,,,,,,,,,Attack,,,
+,Ingenious Inventor,FALSE,Empowering Ring,FALSE,None,FALSE,1*,2,,,,,,Ruinous Seed,,1*,,Fireball,9,,
+,,FALSE,Injurious Dust,,,,,,,,,,,,,,,Attack,,,
+,"Pensive Girl /
+Budding Songstress /
+Wide-Eyed Girl (1)",FALSE,Soothing Seed,FALSE,None,FALSE,1*,2,,,,,,Healing Grape (M),,1*,,Slash,9,,"Guide / Allure available after quest: Setting Out
+Moves to Quarrycrest after quest: Setting Out (Guide / Allure solution only)
+Name changes after quest: Setting Out (2 differents names for 2 solutions)"
+,,FALSE,Crescent Dagger,,,,,,,,,,,,,,,Attack,,,
+,Miles (2),FALSE,Healing Grape (M),FALSE,None,FALSE,4*,3,,,,,,Healing Grape (M),,4*,,Improved Offense,8,,"NPC at this location after quest: Sir Miles, Servant of the Flame (I)
+Move to Northreach after quest: Sir Miles, Servant of the Flame (II)"
+,,,,,,,,,,,,,,,,,,Slice,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Veteran Mercenary,FALSE,Silver Dagger,FALSE,Dragon of the Frostlands,FALSE,5*,4,,,,,,Addlewort,,5*,,Peerless Strike,7,,
+,,,,,,,,,,,,,,,,,,Stab,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Carefree Man,FALSE,Light Soulstone (M),FALSE,None,FALSE,3*,3,,,,,,Light Soulstone (M),,3*,,Mental Augmentation,8,,"NPC available after quest: Sir Miles, Servant of the Flame (II)"
+,,FALSE,Healing Grape (M),,,,,,,,,,,,,,,Fireball,,,
+,,FALSE,Elemental Shield,,,,,,,,,,,,,,,Attack,,,
+,Townsperson,FALSE,* Portable Pot,FALSE,"A Hidden Item
+Soul Bow",FALSE,3*,3,,,,,,Olive Bloom,,3*,,Slow Motion,8,,
+,,FALSE,Fire Soulstone,,,,,,,,,,,,,,,Repeated Strike,,,
+,,FALSE,Fire Soulstone (M),,,,,,,,,,,,,,,Attack,,,
+,Oren (1),FALSE,Heavy Blade,FALSE,None,FALSE,3*,3,,,,,,Fire Soulstone (M),,3*,,Speed Enhancement,8,,"NPC available after quest: Arianna Again (I)
+Moves to Stonegard Valleys after quest: Arianna Again (II)"
+,,FALSE,Plate Shield,,,,,,,,,,,,,,,Slice,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Dancer,FALSE,Forbidden Dagger,FALSE,Discount at the Inn,FALSE,2*,2,,,,,,Fire Soulstone (M),,2*,,Poison Slash,9,,"Can't Steal Forbidden Dagger, only Purchase"
+,,,,,,,,,,,,,,,,,,Dagger Storm,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Old Man,FALSE,Bishop's Hat,FALSE,Undeniable Allure,FALSE,6*,4,,,,,,Sturdy Quartz Rod,,6*,,Fire Storm,7,,
+,,FALSE,Unerring Earring,,,,,,,,,,,,,,,Fireball,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Susanna,FALSE,Injurious Seed,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,NPC available after quest: Again with Alaic
+,,FALSE,Noxroot,,,,,,,,,,,,,,,,,,
+,,FALSE,Olive Bloom,,,,,,,,,,,,,,,,,,
+,Alaic (1),,X,,X,FALSE,6*,3,,,,,,Refreshing Jam,,X,X,X,X,,"NPC available during H'aanit chapter 3 (Provoke only, 1 time encounter)"
+,Alaic (3),FALSE,Legion Dagger,FALSE,None,FALSE,6*,3,,,,,,Healing Grape (M),,6*,,Panic Slash,7,,NPC at this location after quest: Again with Alaic
+,,,,,,,,,,,,,,,,,,Dagger Storm,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Frostlands Know-it-all,FALSE,Swordbreaker,FALSE,History of the Froslands,FALSE,4*,3,,,,,,Fire Soulstone (M),,X,X,X,X,,NPC available upon starting quest: Russell's Repentance
+,,FALSE,Fire Soulstone (M),,,,,,,,,,,,,,,,,,
+,Cleric,FALSE,Sprightly Ring,FALSE,None,FALSE,2*,2,,,,,,Healing Grape (M),,2*,,Prayer,9,,
+,,FALSE,Jaguar Lance,,,,,,,,,,,,,,,Luminescence,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Frostlands Farmer,FALSE,Sprightly Bracelet,FALSE,"A Hidden Item
+Olive Bloom",FALSE,2*,2,,,,,,Purifying Dust,,2*,,Exploit Weakness,9,,
+,,FALSE,* Beetroot,,,,,,,,,,,,,,,Attack,,,
+,Townsperson,FALSE,Horned Helm,FALSE,None,FALSE,4*,3,,,,,,Spirit Sword,,X,X,X,X,,
+,,FALSE,Spiked Armor,,,,,,,,,,,,,,,,,,
+,,FALSE,Spiked Shield,,,,,,,,,,,,,,,,,,
+,Villager,FALSE,* Satisfactory Coal,FALSE,Provoke Like a Pro,FALSE,1*,2,,,,,,Purifying Seed,,1*,,Stab,9,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Trail to the Whitewood,,,,,,,,,,,,,,,,,,,,
+,Traveler,FALSE,Ice Soulstone (L),FALSE,"A Hidden Item / None
+Inspiriting Plum (M)",FALSE,2*,2,,,,,,Ice Soulstone (L),,2*,,Blinding Dust,9,,"NPC available upon starting quest: Arianna Again (I)
+Hidden Item no longer available after quest: Arianna Again (II)"
+,,FALSE,Horned Helm,,,,,,,,,,,,,,,Stab,,,
+,,FALSE,Resistant Nut (M),,,,,,,,,,,,,,,Attack,,,
+,Tier 3,,,,,,,,,,,,,,,,,,,,
+,Northreach,,,,,,,,,,,,,,,,,,,,
+,Guard,FALSE,Empowering Necklace,FALSE,New Weapons for Sale,FALSE,7*,4,,,,,,Imperial Helm,,7*,,Improved Offense,6,,
+,,FALSE,Refreshing Jam,,,,,,,,,,,,,,,Brain Bash,,,
+,,FALSE,Olive of Life (M),,,,,,,,,,,,,,,Head Bash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Townsperson,FALSE,Energizing Pomegranate (M),FALSE,"A Hidden Item
+Copper-filled Pouch",FALSE,6*,4,,,,,,Energizing Pomegranate (M),,X,X,X,X,,
+,,FALSE,Energizing Pomegranate (M),,,,,,,,,,,,,,,,,,
+,,FALSE,Empty Coin Pouch,,,,,,,,,,,,,,,,,,
+,Impoverished Man,FALSE,Resistant Nut (L),FALSE,"A Hidden Item
+Silver-filled Pouch",FALSE,2*,2,,,,,,Herb of Clamor,,2*,,Head Bash,9,,
+,,FALSE,Fool's Gold Ore,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Curious Antique,,,,,,,,,,,,,,,,,,
+,Traveler,,X,FALSE,"A Hidden Item
+Olive of Life (M)",FALSE,4*,3,,,,,,Silver Vest,,4*,,Steel Defenses,8,,NPC available upon starting Therion chapter 4
+,,,,,,,,,,,,,,,,,,Dagger Storm,,,
+,,,,,,,,,,,,,,,,,,Slumber Slash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Miles (3),FALSE,Healing Grape (M),FALSE,None,FALSE,4*,3,,,,,,Healing Grape (M),,4*,,Improved Offense,8,,"NPC at this location after quest: Sir Miles, Servant of the Flame (II)
+New Purchase / Steal: Angel Saber
+Moves to Flamesgrace after quest: Sir Miles, Servant of the Flame (III)"
+,,FALSE,Angel Saber,,,,,,,,,,,,,,,Slice,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Loyal Mercenary,FALSE,Healing Grape (M),FALSE,None,FALSE,6*,4,,,,,,Healing Grape (M),,6*,,Defensive Posture,7,,"NPC available after quest: Sir Miles, Servant of the Flame (III)"
+,,,,,,,,,,,,,,,,,,Repeated Strike,,,
+,,,,,,,,,,,,,,,,,,Slice,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Joshua Frostblade (2),FALSE,Enlightening Bracelet,FALSE,None,FALSE,5*,4,,,,,,Inspiriting Plum (M),,5*,,Rhapsody of Love,7,,NPC at this location after Olberic chapter 4
+,,FALSE,Force Shield,,,,,,,,,,,,,,,Unrequited Etude,,,
+,,FALSE,Dragon Saber,,,,,,,,,,,,,,,Prelude to Romance,,,
+,Angela,FALSE,Joshua's Poem,FALSE,Discount at the Inn,FALSE,2*,2,,,,,,Energizing Pomegranate (M),,2*,,Slice,9,,"Joshua's Poem Not for Sale
+Adamantine Hat available after Olberic chapter 4"
+,,FALSE,Ice Amulet,,,,,,,,,,,,,,,,,,
+,,FALSE,Magic Nut (L),,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Snowy Cape,,,,,,,,,,,,,,,,,,
+,,FALSE,Adamantine Hat,,,,,,,,,,,,,,,,,,
+,Seasoned Thief,FALSE,* Brigand Leader's Garb,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,NPC available during Therion chapter 4
+,,FALSE,Energizing Pomegranate (L),,,,,,,,,,,,,,,,,,
+,"Byron the Noble /
+Byron the Commoner",FALSE,Inspiriting Plum (M),FALSE,None,FALSE,4*,3,,,,,,Inspiriting Plum (M),,4*,,Mental Augmentation,8,,"Name changes after quest: Heirloom of a High House
+(Scrutinize / Inquire solution only)"
+,,,,,,,,,,,,,,,,,,Fire Storm,,,
+,,FALSE,Healing Grape (M),,,,,,,,,,,,,,,Wind Blast,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Tavern Patron,FALSE,Fortifying Nut (L),FALSE,"A Hidden Item
+Refreshing Jam",FALSE,6*,4,,,,,,Inspiriting Plum (M),,6*,,Poison Slash,7,,Hidden Item requires Challenge / Provoke
+,,FALSE,Energizing Pomegranate (L),,,,,,,,,,,,,,,Dagger Storm,,,
+,,FALSE,Olive of Life (L),,,,,,,,,,,,,,,Attack,,,
+,Tavern Patron,FALSE,Stimulating Necklace,FALSE,None,FALSE,7*,4,,,,,,Gargantuan Axe,,7*,,Inhibit Offense,6,,
+,,FALSE,Platinum Sword,,,,,,,,,,,,,,,Full Swing,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Ogen,FALSE,Injurious Seed,FALSE,None,FALSE,6*,4,,,,,,Herb of Healing,,6*,,Concoct Panacea,7,,"NPC available after Alfyn chapter 4
+Moves to Northreach: Lorn Cathedral temporarily during quest:
+Ogen's Epilogue"
+,,FALSE,Injurious Dust,,,,,,,,,,,,,,,Ice Storm,,,
+,,FALSE,Ruinous Seed,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Ruinous Dust,,,,,,,,,,,,,,,,,,
+,Traveling Author,FALSE,Sprightly Necklace,FALSE,None,FALSE,2*,2,,,,,,Inspiriting Plum Basket,,2*,,Brush Toss,9,,Guide / Allure available after quest: Here Be Dragons
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Townsperson,FALSE,Purifying Seed,FALSE,"A Hidden Item
+Knight's Shield",FALSE,8*,5,,,,,,Wizard's Rod,,X,X,X,X,,
+,,FALSE,Olive Bloom,,,,,,,,,,,,,,,,,,
+,,FALSE,Refreshing Jam,,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Refreshing Jam,FALSE,Thieving Tips & Tricks,FALSE,4*,3,,,,,,Olive of Life (L),,4*,,Fire Storm,8,,Behind other NPC (Challenge / Provoke)
+,,FALSE,Essence of Grape,,,,,,,,,,,,,,,Fireball,,,
+,,FALSE,Essence of Plum,,,,,,,,,,,,,,,Attack,,,
+,Thief,FALSE,* Brigand's Garb,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,NPC available during Therion chapter 4
+,,FALSE,Olive of Life (M),,,,,,,,,,,,,,,,,,
+,Refined Merchant,FALSE,* Memorial Sword,FALSE,None,FALSE,3*,3,,,,,,Inspiriting Plum (M),,3*,,Thrash,8,,"NPC available after quest: Sir Miles, Servant of the Flame (II)"
+,,FALSE,Inspiriting Plum (M),,,,,,,,,,,,,,,Stab,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Northreach: Lorn Cathedral,,,,,,,,,,,,,,,,,,,,
+,Erudite Graybeard,FALSE,Healing Grape (M),FALSE,None,FALSE,5*,4,,,,,,Energizing Pomegranate (M),,5*,,Mental Degradation,7,,
+,,,,,,,,,,,,,,,,,,Lightning Storm,,,
+,,FALSE,Energizing Pomegranate (M),,,,,,,,,,,,,,,Lightning Bolt,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,,,,,,,,,,,,,,,,,,,,,
+Flatlands,,,,,,,,,,,,,,,,,,,,,
+,Tier 1,,,,,,,,,,,,,,,,,,,,
+,Atlasdam,,,,,,,,,,,,,,,,,,,,
+,Guard,FALSE,Sprightly Earring,FALSE,New Weapons for Sale,FALSE,4*,3,,,,,,Inspiriting Plum (M),,4*,,Defensive Posture,9,,
+,,,,,,,,,,,,,,,,,,Peerless Strike,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Townsperson,FALSE,* Ambrosial Milk,FALSE,Discount at the Inn,FALSE,2*,2,,,,,,Empty Coin Pouch,,2*,,Healing Grape (M),9,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Theracio (1),FALSE,Inspiriting Plum,FALSE,None,FALSE,3*,3,,,,,,Inspiriting Plum (M),,3*,,Wisdom of the Church,8,,"NPC available after Cyrus chapter 1
+Moves to Noblecourt after quest: Theracio's Tutelage (I)"
+,,,,,,,,,,,,,,,,,,Textbook Toss,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Shifty Moneylender (1),FALSE,Essence of Grape,FALSE,None,FALSE,4*,3,,,,,,Enchanted Axe,,4*,,Extort,8,,"NPC available after Cyrus chapter 1
+NPC moves to Atlasdam Palace Gate after quest: Theracio's Tutelage (I)"
+,,,,,,,,,,,,,,,,,,Head Bash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Calm Woman,FALSE,Ice Soulstone,FALSE,None,FALSE,2*,2,,,,,,Ice Soulstone,,2*,,Flurry,9,,NPC available after Cyrus chapter 1
+,,,,,,,,,,,,,,,,,,Pointed Shot,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Erstwhile Retainer,FALSE,* House Landar Records,FALSE,None,FALSE,2*,2,,,,,,Feather Duster,,2*,,Inspiriting Plum,9,,NPC available after Cyrus chapter 1
+,,,,,,,,,,,,,,,,,,Slash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Spirited Girl,FALSE,Olive Bloom,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,NPC available after Cyrus chapter 1
+,Capable Culinarian,FALSE,Flying Helm,FALSE,None,FALSE,4*,3,,,,,,Fire Soulstone (M),,4*,,Flambé,8,,NPC available after Cyrus chapter 1
+,,FALSE,Fire Soulstone,,,,,,,,,,,,,,,Slash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Youth's Mother,FALSE,Shadow Soulstone,FALSE,None,FALSE,2*,2,,,,,,Thunder Soulstone,,2*,,Full Swing,9,,NPC available after Cyrus chapter 1
+,,FALSE,Shadow Soulstone (M),,,,,,,,,,,,,,,Attack,,,
+,Girl,FALSE,Healing Grape,FALSE,"A Hidden Item
+Light Soulstone (M)",,X,X,X,X,X,X,X,X,,X,X,X,X,,
+,,FALSE,Inspiriting Plum,,,,,,,,,,,,,,,,,,
+,,FALSE,Odds and Ends,,,,,,,,,,,,,,,,,,
+,,FALSE,Large Feather,,,,,,,,,,,,,,,,,,
+,Boy,FALSE,* Roc Egg,FALSE,Smarter Bartering,,X,X,X,X,X,X,X,X,,X,X,X,X,,
+,Slender Farmer (2),FALSE,Refreshing Jam,FALSE,None,FALSE,2*,2,,,,,,Thunder Soulstone,,2*,,Exploit Weakness,9,,"NPC at this location after quest: Tilting at Windmills
+(Guide / Allure solution only)"
+,,FALSE,Light Nut (L),,,,,,,,,,,,,,,Stab,,,
+,,FALSE,Fire Soulstone (L),,,,,,,,,,,,,,,Attack,,,
+,Dan,FALSE,Wind Soulstone,FALSE,None,FALSE,3*,3,,,,,,Essence of Grape,,3*,,Dagger Storm,8,,NPC available after Cyrus chapter 1
+,,FALSE,Wind Soulstone (M),,,,,,,,,,,,,,,Attack,,,
+,Tavern Patron,FALSE,* Emperor Crab,FALSE,"A Hidden Item
+Nourishing Nut",FALSE,4*,3,,,,,,Chakra Band,,4*,,Befuddling Dust,8,,
+,,,,,,,,,,,,,,,,,,Slice,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Tavern Patron,FALSE,Iron Armor,FALSE,"A Hidden Item
+Empty Coin Pouch",FALSE,10*,6,,,,,,Battle-tested Axe,,10*,,Peerless Strike,4,,
+,,FALSE,Olive of Life,,,,,,,,,,,,,,,Exploit Weakness,,,
+,,FALSE,Iron Axe,,,,,,,,,,,,,,,Attack,,,
+,Crest-bearing Drunk,FALSE,Thunder Soulstone,FALSE,None,FALSE,6*,4,,,,,,* Mercenary Crest,,6*,,Poison,7,,"NPC available after Cyrus chapter 1
+Disapear after Challenge / Provoke"
+,,FALSE,Critical Earring,,,,,,,,,,,,,,,Exploit Weakness,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Obstinate Merchant,FALSE,Buckler,FALSE,None,FALSE,4*,3,,,,,,Noxroot,,4*,,Physical Boost,8,,NPC available after Cyrus chapter 1
+,,FALSE,Pointed Hat,,,,,,,,,,,,,,,Stab,,,
+,,FALSE,Bronze Vest,,,,,,,,,,,,,,,Attack,,,
+,Apothecary,FALSE,Soothing Seed,FALSE,Guide with Ease,FALSE,2*,2,,,,,,Healing Grape,,2*,,Mental Augmentation,9,,
+,,FALSE,Soothing Dust,,,,,,,,,,,,,,,,,,
+,,FALSE,Essence of Grape,,,,,,,,,,,,,,,Fireball,,,
+,,FALSE,Essence of Plum,,,,,,,,,,,,,,,,,,
+,Atlasdam Palace Gate,,,,,,,,,,,,,,,,,,,,
+,Guard,FALSE,Empowering Earring,FALSE,"A Hidden Item
+Light Soulstone",FALSE,6*,4,,,,,,Spirit Bow,,6*,,Pointed Shot,7,,
+,,,,,,,,,,,,,,,,,,Flurry,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,"Enthusiastic Youth /
+Proud Squire (1)",FALSE,Curious Bloom,FALSE,None,FALSE,3*,3,,,,,,Handkerchief,,3*,,High Thrust,8,,"NPC available after Cyrus chapter 1
+Moves to South Orewell Pass after quest: The Adventuring Life
+(Guide / Allure solution only)"
+,,,,,,,,,,,,,,,,,,Slice,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Guardsman,FALSE,Thunder Soulstone,FALSE,"None /
+The Guard's Situation",FALSE,5*,4,,,,,,Wind Soulstone (M),,5*,,Blinding Arrow,7,,"Can't Inquire or Guide, only Scrutinize and Allure
+The Guard's Situation available only during Cyrus Chapter 1 tale"
+,,FALSE,Light Soulstone,,,,,,,,,,,,,,,Pointed Shot,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Merchant,FALSE,Silver Hairpiece,FALSE,"A Hidden Item
+Large Feather",FALSE,2*,2,,,,,,Inspiriting Plum,,2*,,Slash,9,,NPC available during & after Cyrus chapter 1
+,,FALSE,Feathered Hat,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Linen Robe,,,,,,,,,,,,,,,,,,
+,Passionate Reader,FALSE,Wind Soulstone,FALSE,None,FALSE,2*,2,,,,,,Healing Grape Bunch,,2*,,Tome Tempest,9,,NPC available after Cyrus chapter 1
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Astute Official,FALSE,Ice Soulstone,FALSE,None,FALSE,2*,2,,,,,,Noxroot,,2*,,Dagger Storm,9,,NPC available upon starting quest: Zeph and Mercedes (I)
+,,FALSE,Essence of Plum,,,,,,,,,,,,,,,Slash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Mercedes (1),FALSE,Sleepweed,FALSE,"None /
+Librarian's Testimony",FALSE,3*,3,,,,,,Essence of Grape,,3*,,Mental Augmentation,8,,"Librarian's Testimony available only during Cyrus Chapter 1 tale
+Inquire & Guide / Allure available upon starting quest: Zeph and Mercedes (I)
+Letter from Mercedes available upon starting quest: Zeph and Mercedes (II)
+Moves to Clearbrook after quest: Zeph and Mercedes (II)"
+,,FALSE,Addlewort,,,,,,,,,,,,,,,Luminescence,,,
+,,FALSE,* Letter from Mercedes,,,,,,,,,,,,,,,Attack,,,
+,,,,,,,,,,,,,,,,,,,,,
+,Russell (1),,X,FALSE,Russell's Situation,,X,X,X,X,X,X,X,X,,X,X,X,X,,"NPC available only during Cyrus' chapter 1 tale
+See him in Stonegard after Cyrus chapter 4"
+,Shifty Moneylender (2),FALSE,Essence of Grape,FALSE,None,FALSE,4*,3,,,,,,Enchanted Axe,,4*,,Extort,8,,"NPC at this location after quest: Theracio's Tutelage (I)
+Disapear after Quest: Theracio's Tutelage (III)"
+,,,,,,,,,,,,,,,,,,Head Bash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Elderly Woman,FALSE,Shadow Soulstone,FALSE,"A Hidden Item
+Inspiriting Plum (M)",FALSE,3*,3,,,,,,Shadow Soulstone (M),,3*,,Fire Storm,8,,
+,,FALSE,Olive of Life,,,,,,,,,,,,,,,Wind Blast,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Know-it-all Milo,FALSE,Soothing Seed,FALSE,The Jellypeno,FALSE,5*,4,,,,,,Essence of Grape,,5*,,Sleepweed,7,,"NPC available after Cyrus chapter 1
+Guide / Allure available only after quest: On the Precipice
+(Scrutinize / Inquire solution only)"
+,,FALSE,Soothing Dust,,,,,,,,,,,,,,,Thrash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Handsome Minstrel,FALSE,Light Soulstone,FALSE,The Song of Sokrath,FALSE,3*,3,,,,,,Coin Pouch,,3*,,Slash,8,,"NPC available after Cyrus chapter 1
+Guide / Allure available only after quest: Performance Art
+(Scrutinize / Inquire solution only)"
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Guard,FALSE,Large Feather,FALSE,"A Hidden Item
+Odds and Ends",FALSE,5*,4,,,,,,Fire Soulstone (M),,5*,,Sweeping Slash,7,,
+,,FALSE,Small Cup,,,,,,,,,,,,,,,Slice,,,
+,,FALSE,Coin Pouch,,,,,,,,,,,,,,,Attack,,,
+,Royal Academy of Atlasdam,,,,,,,,,,,,,,,,,,,,
+,Headmaster Yvon,FALSE,Inspiriting Plum (M),FALSE,"None /
+The Headmaster's Situation",,X,X,X,X,X,X,X,X,,X,X,X,X,,"NPC available only during Cyrus' chapter 1
+The Headmaster's Situation available only during Cyrus chapter 1 tale"
+,,,,,,,,,,,,,,,,,,,,,
+,Therese,FALSE,Slippery Nut (M),FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,NPC available after Cyrus chapter 4
+,,FALSE,Elemental Augmentor,,,,,,,,,,,,,,,,,,
+,Princess Mary (2),FALSE,Empowering Earring,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,"NPC at this location after quest: Princess Mary, Redux"
+,Paul (2),FALSE,Sleepweed,FALSE,None,FALSE,5*,4,,,,,,Noxroot,,5*,,Lightning Storm,7,,"NPC at this location after quest: Princess Mary, Redux"
+,,FALSE,Stimulating Earring,,,,,,,,,,,,,,,Lightning Bolt,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Atlasdam Palace,,,,,,,,,,,,,,,,,,,,
+,Guard,FALSE,Stimulating Earring,FALSE,"A Hidden Item
+Healing Grape",FALSE,7*,4,,,,,,Fire Soulstone (L),,7*,,Defensive Posture,6,,
+,,,,,,,,,,,,,,,,,,Thrash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Boy,FALSE,Elusive Shield,FALSE,"A Hidden Item
+Buckler",,X,X,X,X,X,X,X,X,,X,X,X,X,,
+,,FALSE,Silver Spear,,,,,,,,,,,,,,,,,,
+,,FALSE,Stone Bow,,,,,,,,,,,,,,,,,,
+,,FALSE,Composite Staff,,,,,,,,,,,,,,,,,,
+,Art Lover,FALSE,Inspiriting Plum (M),FALSE,None,FALSE,4*,3,,,,,,Inspiriting Plum (M),,4*,,Fire Storm,8,,"NPC available after Cyrus chapter 1
+Guide / Allure available only after quest: The Prodigious Painting"
+,,,,,,,,,,,,,,,,,,Fireball,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,"Landscape Artist /
+Baker (2)",FALSE,Olive of Life (M),FALSE,None,FALSE,2*,2,,,,,,Healing Grape Bunch,,2*,,Brush Toss,9,,"NPC at this location after quest: The Prodigious Painting
+(Guide / Allure solution only)"
+,,FALSE,Essence of Plum,,,,,,,,,,,,,,,Palette Toss,,,
+,,FALSE,* Final Masterpiece,,,,,,,,,,,,,,,Attack,,,
+,"Artist's Brother /
+Baker's Brother (2)",FALSE,Candy,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,"NPC at this location after quest: The Prodigious Painting
+(Guide / Allure solution only)"
+,,FALSE,Tree Nut,,,,,,,,,,,,,,,,,,
+,Guard,FALSE,Thunder Soulstone,FALSE,"A Hidden Item
+Small Cup",FALSE,8*,5,,,,,,Shadow Soulstone (L),,8*,,Peerless Strike,6,,
+,,FALSE,Shadow Soulstone,,,,,,,,,,,,,,,Steel Defenses,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Guard,FALSE,Inspiriting Plum,FALSE,"A Hidden Item
+Olive of Life",FALSE,7*,4,,,,,,Trinity Sword,,7*,,Physical Boost,6,,
+,,FALSE,Healing Grape,,,,,,,,,,,,,,,Slice,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,The Whistlewood,,,,,,,,,,,,,,,,,,,,
+,"Gustav, the Black Knight (2)",FALSE,Gustav's Shield,FALSE,None,FALSE,7*,4,,,,,,Physical Belt,,7*,,Cross Strike,6,,NPC at this location after Olberic chapter 4
+,,FALSE,Silver-filled Pouch,,,,,,,,,,,,,,,Triple Strike,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Tier 2,,,,,,,,,,,,,,,,,,,,
+,Noblecourt,,,,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Healing Grape (M),FALSE,"A Hidden Item
+Thunder Soulstone (L)",FALSE,3*,3,,,,,,Healing Grape (M),,3*,,Pointed Shot,8,,
+,,FALSE,Inspiriting Plum (M),,,,,,,,,,,,,,,Healing Grape (M),,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Townsperson,FALSE,Heavy Coin Pouch,FALSE,None,FALSE,3*,3,,,,,,Energizing Pomegranate,,3*,,Dagger Storm,8,,NPC available upon starting Therion chapter 2
+,,FALSE,Olive Bloom,,,,,,,,,,,,,,,Slash,,,
+,,FALSE,Curious Bloom,,,,,,,,,,,,,,,Attack,,,
+,Sunlands Merchant,FALSE,* Oasis Water,,X,,X,X,X,X,X,X,X,X,,X,X,X,X,,"NPC available only during Therion chapter 2
+Can't Purchase, only Steal"
+,"Leon Bastralle? /
+Definitely Not Leon",FALSE,Spear,FALSE,None,FALSE,5*,4,,,,,,Herb of Clamor,,5*,,Speed Enhancement,7,,"NPC available upon starting quest: Mikk and Makk Make Good
+Guide / Allure available after quest: Mikk and Makk Make Good"
+,,FALSE,Kite Shield,,,,,,,,,,,,,,,Peerless Strike,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Townsperson,FALSE,Soul Knife,FALSE,None,FALSE,4*,3,,,,,,Herb of Awakening,,4*,,Cure Blindness,8,,
+,,FALSE,Herb of Awakening,,,,,,,,,,,,,,,Blinding Slash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Boy,FALSE,Energizing Pomegranate,FALSE,None,FALSE,X,X,X,X,X,X,X,X,,X,X,X,X,,
+,,FALSE,Empowering Bracelet,,,,,,,,,,,,,,,,,,
+,Affable Antiquarian,FALSE,* Lorie's Diary,FALSE,"A Hidden Item
+Curious Antique",FALSE,2*,2,,,,,,Herb of Clamor,,2*,,Cure Silence,9,,
+,,,,,,,,,,,,,,,,,,Pummel,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Elderly Woman,FALSE,Soul Knife,FALSE,"A Hidden Item
+Heavy Coin Pouch",FALSE,6*,4,,,,,,War Hammer,,X,X,X,X,,
+,,FALSE,Sorcerer's Robe,,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Critical Bracelet,FALSE,None,FALSE,4*,3,,,,,,Herb of Awakening,,X,X,X,X,,
+,,FALSE,Empowering Ring,,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Olive Bloom,FALSE,None,FALSE,7*,4,,,,,,Scourge Lance,,7*,,Peerless Strike,6,,Behind other NPC (Challenge / Provoke)
+,,FALSE,Curious Bloom,,,,,,,,,,,,,,,Exploit Weakness,,,
+,,FALSE,Mysterious Seed,,,,,,,,,,,,,,,Attack,,,
+,Accomplished Graybeard,FALSE,* Codger-friendly Bow,FALSE,None,FALSE,5*,4,,,,,,Herb of Clamor,,5*,,Poison,7,,
+,,,,,,,,,,,,,,,,,,Crush and Grind,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Mikk (2),FALSE,Inspiriting Plum (M),FALSE,None,FALSE,5*,4,,,,,,Ruinous Dust,,5*,,Physical Boost,7,,"NPC at this location upon starting quest: Mikk and Makk Make Good
+Guide / Allure available after quest: Mikk and Makk Make Good"
+,,FALSE,Soothing Dust,,,,,,,,,,,,,,,Slice,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Makk (2),FALSE,Energizing Pomegranate,FALSE,None,FALSE,5*,4,,,,,,Curious Bloom,,5*,,Physical Degradation,7,,"NPC at this location upon starting quest: Mikk and Makk Make Good
+Guide / Allure available after quest: Mikk and Makk Make Good"
+,,FALSE,Injurious Seed,,,,,,,,,,,,,,,Slice,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Orlick,FALSE,Sorcerer's Robe,FALSE,None,FALSE,6*,4,,,,,,Refreshing Jam,,6*,,Ignis Ardere,7,,"NPC available after both Tressa & Therion chapter 4
+Guide / Allure available after quest: Mikk and Makk Make Good"
+,,FALSE,Fire Soulstone (L),,,,,,,,,,,,,,,Fire Storm,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Barham,FALSE,Bishop's Hat,FALSE,None,FALSE,6*,4,,,,,,Refreshing Jam,,6*,,Tonitrus Canere,7,,"NPC available after both Tressa & Therion chapter 4
+Guide / Allure available after quest: Mikk and Makk Make Good"
+,,FALSE,Tower Shield,,,,,,,,,,,,,,,Lightning Storm,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Old Man,FALSE,Healing Grape,FALSE,None,FALSE,1*,2,,,,,,Healing Grape (M),,1*,,Mighty Blow,9,,NPC available upon starting Therion chapter 2
+,,FALSE,Healing Grape (M),,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Healing Grape Bunch,,,,,,,,,,,,,,,,,,
+,Merchant,FALSE,* Crystal Ore,,X,,X,X,X,X,X,X,X,X,,X,X,X,X,,"NPC available only during Therion chapter 2
+Can't Purchase, only Steal"
+,,,,,,,,,,,,,,,,,,,,,
+,Fashionable Traveler,FALSE,Enlightening Ring,FALSE,A Use for Textiles,FALSE,3*,3,,,,,,Refreshing Jam,,X,X,X,X,,
+,,FALSE,Critical Ring,,,,,,,,,,,,,,,,,,
+,Gatekeeper,FALSE,Moonblade,FALSE,None,FALSE,6*,4,,,,,,Elemental Light Armor,,6*,,Steel Defenses,7,,NPC available upon stating Therion chapter 2
+,,,,,,,,,,,,,,,,,,Thrash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Gatekeeper,FALSE,Heavy Blade,FALSE,"A Hidden Item
+Energizing Pomegranate (M)",FALSE,6*,4,,,,,,Healing Grape (M),,6*,,Improved Offense,7,,NPC available upon stating Therion chapter 2
+,,,,,,,,,,,,,,,,,,Repeated Strike,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Kit (1),,X,,X,,X,X,X,X,X,X,X,X,,X,X,X,X,,"NPC available after quest: Kit, the Traveler
+Moves to Moonstruck Coast after quest: In Search of Father (I)"
+,,,,,,,,,,,,,,,,,,,,,
+,East Noblecourt,,,,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Crescent Dagger,FALSE,Undeniable Allure,FALSE,2*,2,,,,,,Olive of Life,,2*,,Healing Grape (M),9,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Tavern Patron,FALSE,Grand Helm,FALSE,"A Hidden Item
+Steel Axe",FALSE,4*,3,,,,,,Inspiriting Plum,,4*,,Lightning Storm,8,,
+,,,,,,,,,,,,,,,,,,Lightning Bolt,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Tavern Patron,FALSE,Light Soulstone (M),FALSE,Discount at the Inn,FALSE,3*,3,,,,,,Herb of Clarity,,3*,,Flurry,8,,
+,,FALSE,Shadow Soulstone (M),,,,,,,,,,,,,,,Inhibit Defense,,,
+,,FALSE,Thunder Soulstone (M),,,,,,,,,,,,,,,Attack,,,
+,Tavern Patron,FALSE,Bandit's Spear,FALSE,New Weapons for Sale,FALSE,1*,2,,,,,,Herb of Light,,1*,,Stab,9,,
+,,FALSE,Sturdy Helm,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Stimulating Ring,,,,,,,,,,,,,,,,,,
+,Tavern Patron,FALSE,Imperial Vest,FALSE,"A Hidden Item
+Inspiriting Plum (M)",FALSE,5*,4,,,,,,Snowy Hood,,5*,,More Health for All,7,,
+,,,,,,,,,,,,,,,,,,Head Bash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,"Luckless Sellsword /
+Satisfied Man",FALSE,Empty Coin Pouch,FALSE,None,FALSE,7*,4,,,,,,Inspiriting Plum,,7*,,Full Enfeeblement,6,,Name changes after quest: The Price of Vengeance
+,,FALSE,Weathered Boots,,,,,,,,,,,,,,,Lightning Strike,,,
+,,FALSE,Scrap of Rope,,,,,,,,,,,,,,,Peerless Strike,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Conrad the Impaler,FALSE,Master's Spear,FALSE,None,FALSE,5*,4,,,,,,Wind Soulstone (M),,5*,,Whirlwind Strike,7,,NPC available after Olberic chapter 4
+,,,,,,,,,,,,,,,,,,Peerless Strike,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Townsperson,FALSE,Energizing Pomegranate,FALSE,"A Hidden Item
+Copper-filled Pouch",FALSE,3*,3,,,,,,Energizing Pomegranate,,3*,,Exploit Weakness,8,,
+,,FALSE,Invigorating Nut (M),,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Elemental Heavy Armor,,,,,,,,,,,,,,,,,,
+,Merchant,FALSE,* Wyvern Scale,,X,,X,X,X,X,X,X,X,X,,X,X,X,X,,NPC available only during Therion chapter 2
+,,,,,,,,,,,,,,,,,,,,,
+,Junk Collector,FALSE,Glass Marble,FALSE,None,FALSE,2*,2,,,,,,Olive of Life (M),,2*,,Poison Slash,9,,NPC available after quest: Theracio's Tutelage (I)
+,,FALSE,Mysterious Ore,,,,,,,,,,,,,,,,,,
+,,FALSE,Large Feather,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,* Tools of Learning,,,,,,,,,,,,,,,,,,
+,,FALSE,Weathered Boots,,,,,,,,,,,,,,,,,,
+,Boy's Mother,FALSE,Inspiriting Plum,FALSE,"A Hidden Item
+Introduction to Adventuring",FALSE,1*,2,,,,,,Inspiriting Plum,,1*,,Slash,9,,NPC available after quest: Theracio's Tutelage (I)
+,,FALSE,Herb of Clamor,,,,,,,,,,,,,,,Attack,,,
+,Townsperson,FALSE,Healing Grape (M),FALSE,Thieving Tips & Tricks,FALSE,2*,2,,,,,,Healing Grape (M),,2*,,Blinding Dust,9,,
+,,FALSE,Healing Grape (M),,,,,,,,,,,,,,,Attack,,,
+,Theracio (2),FALSE,Inspiriting Plum,FALSE,None,FALSE,3*,3,,,,,,Inspiriting Plum (M),,3*,,Wisdom of the Church,8,,"NPC at this location after quest: Theracio's Tutelage (I)
+Moves to Wispermill after quest: Theracio's Tutelage (II)"
+,,,,,,,,,,,,,,,,,,Textbook Toss,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Book-loving Girl,FALSE,Olive of Life,FALSE,"A Hidden Item
+Rare Stone",,X,X,X,X,X,X,X,X,,X,X,X,X,,"NPC available after quest: Theracio's Tutelage (I)
+Hidden Item available once you start Primrose chapter 3"
+,,FALSE,Noxroot,,,,,,,,,,,,,,,,,,
+,Artistic Boy,FALSE,Energizing Pomegranate,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,NPC available after quest: Theracio's Tutelage (I)
+,,FALSE,Injurious Seed,,,,,,,,,,,,,,,,,,
+,Jan,FALSE,Hypnos Crown,FALSE,None,FALSE,8*,5,,,,,,Physical Belt,,8*,,Guillotine,6,,NPC available after Primrose chapter 4
+,,FALSE,Crystal Vest,,,,,,,,,,,,,,,Improved Offense,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Revello,FALSE,Mage's Staff,FALSE,None,FALSE,3*,3,,,,,,Light Soulstone (M),,3*,,Fire Storm,8,,"NPC available upon starting quest: Revello and Odette
+Guide / Allure available after quest: Revello and Odette"
+,,FALSE,Elusive Shield,,,,,,,,,,,,,,,Wind Blast,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Anna,FALSE,Silver Dagger,FALSE,None,FALSE,2*,2,,,,,,Inspiriting Plum (M),,2*,,Critical Eye,9,,NPC available after both Cyrus & Primrose chapter 4
+,,,,,,,,,,,,,,,,,,Dagger Storm,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+Don't forget to add him in Duskbarrow,Aspiring Actor (1),FALSE,Chakra Band,FALSE,None,,X,X,X,X,X,X,X,X,,4*,,Exploit Weakness,8,,"NPC available after quest: Kit, the Traveler"
+,,,,,,,,,,,,,,,,,,Stab,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Old Gravekeeper,FALSE,Stimulating Bracelet,FALSE,None,FALSE,5*,4,,,,,,Magus Hatchet,,5*,,Poison,7,,Guide / Allure available after quest: The Gravekeeper's Grief
+,,FALSE,Energizing Pomegranate (M),,,,,,,,,,,,,,,Crush and Grind,,,
+,,FALSE,Energizing Pomegranate (M),,,,,,,,,,,,,,,Attack,,,
+,Awkward Boy (2),FALSE,Inspiriting Plum,FALSE,None,FALSE,3*,3,,,,,,Inspiriting Plum,,3*,,Dagger Storm,8,,"NPC at this location only after quest: The Gravekeeper's Grief
+(Challenge / Provoke solution only)"
+,,FALSE,Herb of Clamor,,,,,,,,,,,,,,,Slash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Melancholy Youth (2),FALSE,Bottle of Poison Dust,FALSE,None,FALSE,2*,2,,,,,,Healing Grape,,2*,,Exploit Weakness,9,,NPC at this location after quest: Never Forget
+,,FALSE,Bottle of Blinding Dust,,,,,,,,,,,,,,,,,,
+,,FALSE,Bottle of Befuddling Dust,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Bottle of Sleeping Dust,,,,,,,,,,,,,,,,,,
+,Western Noblecourt Flats,,,,,,,,,,,,,,,,,,,,
+,Awkward Boy (1),FALSE,Inspiriting Plum,FALSE,None,FALSE,3*,3,,,,,,Inspiriting Plum,,X,X,X,X,,"Moves to East Noblecourt after quest: The Gravekeeper's Grief
+(Challenge / Provoke solution only)
+Disapear after quest: The Gravekeeper's Grief (Purchase / Steal solution only)"
+,,FALSE,Herb of Clamor,,,,,,,,,,,,,,,,,,
+,Impresario (1),FALSE,Olive of Life,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,"NPC available after quest: Kit, the Traveler
+Disapear temporarily after quest: In Search of Father (I)
+Next seen in Moonstruck Coast after quest: In Search of Father (II)"
+,,FALSE,Glass Marble,,,,,,,,,,,,,,,,,,
+,,FALSE,Oasis Hat,,,,,,,,,,,,,,,,,,
+,Tier 3,,,,,,,,,,,,,,,,,,,,
+,Wispermill (All interraction with NPC is unavailable until you complete Ophilia chapter 4 except some NPC related to sidequest like Theracio,,,,,,,,,,,,,,,,,,,,
+,Villager,FALSE,Healing Grape (M),FALSE,More Plentiful Provisions,FALSE,4*,3,,,,,,Inspiriting Plum (M),,X,X,X,X,,Nothing until Ophilia chapter 4 completed
+,,FALSE,Healing Grape (M),,,,,,,,,,,,,,,,,,
+,,FALSE,Healing Grape Bunch,,,,,,,,,,,,,,,,,,
+,Rumormonger,FALSE,Enlightening Bracelet,FALSE,None,FALSE,4*,3,,,,,,Ruinous Seed,,4*,,Panic Slash,8,,NPC available after Ophilia chapter 4
+,,FALSE,Enlightening Ring,,,,,,,,,,,,,,,Slash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Troubled Villager,FALSE,Death Cleaver,FALSE,"A Hidden Item
+Inspiriting Plum Basket",FALSE,6*,4,,,,,,Elemental Hat,,6*,,Improved Offense,7,,NPC available after Ophilia chapter 4
+,,,,,,,,,,,,,,,,,,Full Swing,,,
+,,,,,,,,,,,,,,,,,,Head Bash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Villager,FALSE,Slippery Nut (L),FALSE,"A Hidden Item
+Old Coin",FALSE,7*,4,,,,,,Imperial Helm,,7*,,Sweeping Slash,6,,Nothing until Ophilia chapter 4 completed
+,,FALSE,Nourishing Nut (L),,,,,,,,,,,,,,,Slice,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Theracio (3),FALSE,Inspiriting Plum,FALSE,None,FALSE,3*,3,,,,,,Inspiriting Plum (M),,3*,,Wisdom of the Church,8,,"NPC available after Quest: Theracio's Tutelage (II)
+Guide / Allure available after quest: Theracio's Tutelage (III)"
+,,,,,,,,,,,,,,,,,,Textbook Toss,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,"Passionate Youth /
+Passionate Explorer /
+Passionate Farmer (2)",FALSE,Bottle of Poison Dust,FALSE,None,FALSE,7*,4,,,,,,Herb of Valor,,7*,,Full Recover,6,,"NPC at this location after quest: The Hidden Hoard
+(Scrutinize / Inquire solution only)"
+,,FALSE,Mysterious Seed,,,,,,,,,,,,,,,Manure Toss,,,
+,,FALSE,Injurious Dust,,,,,,,,,,,,,,,Attack,,,
+,Villager,FALSE,Thunder Soulstone (L),FALSE,"A Hidden Item
+Commemorative Coin",FALSE,8*,5,,,,,,Shadow Soulstone (L),,8*,,Peerless Strike,6,,Nothing until Ophilia chapter 4 completed
+,,FALSE,Wind Soulstone (L),,,,,,,,,,,,,,,Exploit Weakness,,,
+,,FALSE,Light Soulstone (L),,,,,,,,,,,,,,,Attack,,,
+,Lianna (2),FALSE,Bishop's Staff,FALSE,None,FALSE,3*,3,,,,,,Energizing Pomegranate (M),,3*,,Restore Health,8,,NPC at this location upon starting quest: Lianna and Eliza
+,,,,,,,,,,,,,,,,,,Pummel,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Eliza (2),FALSE,Inspiriting Plum (M),FALSE,None,FALSE,8*,5,,,,,,Olive of Life (M),,8*,,Hearty Encouragement,6,,NPC at this location upon starting quest: Lianna and Eliza
+,,FALSE,Fire Soulstone (L),,,,,,,,,,,,,,,Guillotine,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,"Old Man /
+Nighteye",FALSE,Inspiriting Plum (M),FALSE,None,FALSE,8*,5,,,,,,Ruinous Dust,,8*,,Speed Enhancement,6,,NPC available upon starting quest: Heathcote's High Jinks
+,,,,,,,,,,,,,,,,,,Slumber Slash,,,
+,,FALSE,Noxroot,,,,,,,,,,,,,,,Dagger Storm,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Slender Farmer (1),FALSE,Refreshing Jam,FALSE,None,FALSE,2*,2,,,,,,Thunder Soulstone,,2*,,Exploit Weakness,9,,"NPC available after Ophilia chapter 4 or after quest: Tilting at Windmills
+Moves to Atlasdam after quest: Tilting at Windmills
+(Guide / Allure solution only)"
+,,FALSE,Light Nut (L),,,,,,,,,,,,,,,Stab,,,
+,,FALSE,Fire Soulstone (L),,,,,,,,,,,,,,,Attack,,,
+,Villager,FALSE,Healing Grape Bunch,FALSE,Discount at the Inn,FALSE,5*,4,,,,,,Inspiriting Plum (M),,5*,,Gentle Cradle,7,,Nothing until Ophilia chapter 4 completed
+,,FALSE,Inspiriting Plum (M),,,,,,,,,,,,,,,Deep Breath,,,
+,,FALSE,Inspiriting Plum (M),,,,,,,,,,,,,,,Attack,,,
+,Elderly Woman,FALSE,Sledgehammer,FALSE,Guide with Ease,FALSE,9*,6,,,,,,Robe of the Flame,,9*,,Mental Augmentation,5,,Nothing until Ophilia chapter 4 completed
+,,FALSE,Stimulating Necklace,,,,,,,,,,,,,,,Lux Congerere,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Western Wispermill Flats,,,,,,,,,,,,,,,,,,,,
+,Carefree Shepherd,FALSE,Inspiriting Plum (M),FALSE,"A Hidden Item
+Refreshing Jam (Wispermill)",FALSE,2*,2,,,,,,Wind Soulstone (L),,2*,,Stab,9,,NPC available after Ophilia chapter 4
+,,FALSE,Wind Soulstone (L),,,,,,,,,,,,,,,Attack,,,
+,Trembling Merchant,FALSE,Inspiriting Plum (M),FALSE,Where the Direwolf Prowls,FALSE,7*,4,,,,,,Thunder Soulstone (L),,X,X,X,X,,NPC available after Ophilia chapter 4
+,,FALSE,Sleepweed,,,,,,,,,,,,,,,,,,
+,,FALSE,Addlewort,,,,,,,,,,,,,,,,,,
+,,FALSE,Empowering Necklace,,,,,,,,,,,,,,,,,,
+,Forest of Purgation,,,,,,,,,,,,,,,,,,,,
+,Remnant Leader,,X,FALSE,None,FALSE,8*,5,,,,,,Thunder Soulstone (M),,X,X,X,X,,NPC available during quest: Lianna and Eliza
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+Coastlands,,,,,,,,,,,,,,,,,,,,,
+,Tier 1,,,,,,,,,,,,,,,,,,,,
+,Rippletide,,,,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Stinging Dagger,FALSE,"A Hidden Item
+Healing Grape (M)",FALSE,3*,3,,,,,,Healing Grape (M),,3*,,Poison Arrow,8,,
+,,FALSE,Black Attire,,,,,,,,,,,,,,,Attack,,,
+,Olneo,FALSE,Revitalizing Jam,FALSE,None,FALSE,4*,3,,,,,,Sturdy Helm,,4*,,Exploit Weakness,8,,"Can't Steal Beastly Scarf, only Purchase"
+,,FALSE,Slippery Nut (M),,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Beastly Scarf,,,,,,,,,,,,,,,,,,
+,Marina,FALSE,Dragon's Scarf,FALSE,None,FALSE,3*,3,,,,,,Inspiriting Plum,,3*,,Arrowstorm,8,,"Can't Steal Dragon's Scarf, only Purchase"
+,,FALSE,Rare Stone,,,,,,,,,,,,,,,Wind Blast,,,
+,,FALSE,Resistant Nut (M),,,,,,,,,,,,,,,Attack,,,
+,Merchant,FALSE,Herb of Light,FALSE,"A Hidden Item
+Articulate Stone",FALSE,3*,3,,,,,,Herb of Awakening,,3*,,Befuddling Balm,8,,
+,,FALSE,Herb of Awakening,,,,,,,,,,,,,,,Stab,,,
+,,FALSE,Herb of Revival,,,,,,,,,,,,,,,Attack,,,
+,Mathilda,FALSE,Plate Shield,FALSE,None,FALSE,3*,3,,,,,,Inspiriting Plum,,3*,,Slumber Arrow,8,,"NPC available after Tressa chapter 1
+Guide / Allure available after quest: Love Unrequited"
+,,,,,,,,,,,,,,,,,,Pointed Shot,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Tony,FALSE,Heavy Bow,FALSE,None,FALSE,5*,4,,,,,,Healing Grape (M),,5*,,Peerless Strike,7,,"NPC available after Tressa chapter 1
+Guide / Allure available after quest: Love Unrequited"
+,,,,,,,,,,,,,,,,,,Exploit Weakness,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Beverage Vendor,,X,FALSE,"A Hidden Item
+Essence of Grape",FALSE,2*,2,,,,,,Energizing Pomegranate,,2*,,Exploit Weakness,9,,
+,,,,,,,,,,,,,,,,,,Stab,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,"Victorino,
+the Buccaneer's Bane (2)",FALSE,Mighty Belt,FALSE,None,FALSE,5*,4,,,,,,Healing Grape (M),,5*,,Pirates' Bane,7,,NPC at this location after Olberic chapter 4
+,,FALSE,Trinity Sword,,,,,,,,,,,,,,,Poison Slash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Tony's Mother,FALSE,Thunder Soulstone,FALSE,"A Hidden Item
+Thunder Soulstone (L)",FALSE,4*,3,,,,,,Healing Grape (M),,4*,,Ice Storm,8,,NPC available after Tressa chapter 1
+,,FALSE,Thunder Soulstone (M),,,,,,,,,,,,,,,Icewind,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Harris,FALSE,Energizing Pomegranate,FALSE,None,FALSE,3*,3,,,,,,Inspiriting Plum (M),,3*,,Slash,8,,NPC available after Tressa chapter 1
+,,FALSE,Olive of Life (M),,,,,,,,,,,,,,,Hearty Encouragement,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Exotic Grandma (1),FALSE,Fire Soulstone,FALSE,None,FALSE,2*,2,,,,,,Herb of Light,,2*,,Healing Grape,9,,"NPC available after Tressa chapter 1
+Moves to Stonegard after quest: Lost in Translation"
+,,FALSE,Ice Soulstone,,,,,,,,,,,,,,,Dagger Storm,,,
+,,FALSE,Thunder Soulstone,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Wind Soulstone,,,,,,,,,,,,,,,,,,
+,Astute Child,FALSE,Inspiriting Plum,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,NPC available after Tressa chapter 1
+,,FALSE,Inspiriting Plum (M),,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Healing Grape,FALSE,Smarter Bartering,FALSE,6*,4,,,,,,Healing Grape Bunch,,X,X,X,X,,
+,,FALSE,Healing Grape,,,,,,,,,,,,,,,,,,
+,,FALSE,Inspiriting Plum,,,,,,,,,,,,,,,,,,
+,,FALSE,Inspiriting Plum,,,,,,,,,,,,,,,,,,
+,Elderly Woman,FALSE,Energizing Pomegranate,FALSE,New Weapons for Sale,FALSE,10,6,,,,,,Battle-tested Spear,,10*,,Mighty Blow,4,,Behind other NPC (Challenge / Provoke)
+,,FALSE,Energizing Pomegranate (M),,,,,,,,,,,,,,,Peerless Strike,,,
+,,FALSE,Energizing Pomegranate (L),,,,,,,,,,,,,,,Attack,,,
+,Accused Man (2),FALSE,Healing Grape (M),FALSE,None,FALSE,3*,3,,,,,,Befuddling Dagger,,X,X,X,X,,NPC at this location after quest: The Innocent Inmate (Purchase / Steal solution only)
+,Princess Mary (1),FALSE,Empowering Earring,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,"NPC available after Cyrus chapter 4
+Moves to Royal Academy of Atlasdam after quest: Princess Mary, Redux"
+,Antique Dealer,FALSE,* Adventurer's Attire,FALSE,"A Hidden Item
+Sleepweed",FALSE,3*,3,,,,,,Silver Axe,,3*,,Head Bash,8,,NPC available after Tressa chapter 1
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Captain Leon (2),FALSE,Battle-tested Spear,FALSE,None,FALSE,9*,6,,,,,,Rune Glaive,,9*,,Whirlwind Strike,5,,NPC available after quest: Mikk and Makk Make Good
+,,,,,,,,,,,,,,,,,,Repeated Strike,,,
+,,,,,,,,,,,,,,,,,,Peerless Strike,,,
+,Merchant,FALSE,Herb of Light,,X,,X,X,X,X,X,X,X,X,,X,X,X,X,,"NPC available only during Tressa Chapter 1 tale
+Disapear as soon as you Purchase: *Sleepweed"
+,,FALSE,Herb of Clarity,,,,,,,,,,,,,,,,,,
+,,FALSE,Tree Nut,,,,,,,,,,,,,,,,,,
+,,FALSE,Candy,,,,,,,,,,,,,,,,,,
+,Merchant,FALSE,Herb of Valor,,X,,X,X,X,X,X,X,X,X,,X,X,X,X,,"NPC available only during Tressa Chapter 1 tale
+Disapear as soon as you Purchase: *Sleepweed"
+,,FALSE,Handkerchief,,,,,,,,,,,,,,,,,,
+,,FALSE,Hip Flask,,,,,,,,,,,,,,,,,,
+,Merchant,FALSE,* Sleepweed,,X,,X,X,X,X,X,X,X,X,,X,X,X,X,,"NPC available only during Tressa Chapter 1 tale
+Disapear as soon as you Purchase: *Sleepweed"
+,,FALSE,Healing Grape,,,,,,,,,,,,,,,,,,
+,Inquisitive Merchant,FALSE,Noxroot,FALSE,None,FALSE,3*,3,,,,,,Herb of Clamor,,3*,,Befuddling Balm,8,,NPC available after Tressa chapter 1
+,,FALSE,Sleepweed,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Addlewort,,,,,,,,,,,,,,,,,,
+,Le Mann (1),FALSE,Introduction to Adventuring,FALSE,None,FALSE,1*,2,,,,,,Energizing Pomegranate,,1*,,Clenched Fist,9,,"NPC available after Tressa chapter 1
+Moves to Goldshore after quest: Le Mann, Explorer Extraordinaire (I)"
+,,FALSE,Old Coin,,,,,,,,,,,,,,,Punch,,,
+,,FALSE,Copper Lantern,,,,,,,,,,,,,,,Kick,,,
+,Woman from Quaragosa (2),FALSE,Purifying Seed,FALSE,None,FALSE,2*,2,,,,,,Herb of Healing,,2*,,Dagger Storm,9,,NPC at this location after quest: An Exotic Aroma (Guide / Allure solution only)
+,,FALSE,Inspiriting Plum (M),,,,,,,,,,,,,,,Attack,,,
+,Caravan Member,FALSE,Healing Grape (M),FALSE,None,FALSE,3*,3,,,,,,Energizing Pomegranate,,3*,,Sweeping Slash,8,,"NPC available after Tressa chapter 1
+Guide / Allure available after quest: An Exotic Aroma (Guide / Allure solution only)"
+,,FALSE,Inspiriting Plum (M),,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Olive of Life (M),,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Memorial Harpoon,FALSE,Discount at the Inn,FALSE,4*,3,,,,,,Herb of Clarity,,4*,,Fire Storm,8,,Memorial Harpoon Not for Sale
+,,FALSE,Slippery Nut,,,,,,,,,,,,,,,Fireball,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Undertow Cove,,,,,,,,,,,,,,,,,,,,
+,Paul (1),FALSE,Sleepweed,FALSE,None,FALSE,5*,4,,,,,,Noxroot,,5*,,Lightning Storm,7,,"NPC available after Cyrus chapter 4
+Moves to Royal Academy of Atlasdam after quest: Princess Mary, Redux"
+,,FALSE,Stimulating Earring,,,,,,,,,,,,,,,Lightning Bolt,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Vanessa Hysel,FALSE,Olive of Life (L),FALSE,None,FALSE,5*,4,,,,,,Olive of Life (M),,5*,,Concoct Explosive,7,,NPC available after Alfyn chapter 4
+,,FALSE,Noxroot,,,,,,,,,,,,,,,Concoct Sedative,,,
+,,FALSE,Battle-tested Dagger,,,,,,,,,,,,,,,Concoct Poison (Vanessa Hysel),,,
+,,,,,,,,,,,,,,,,,,Concoct Stimulant,,,
+,Tier 2,,,,,,,,,,,,,,,,,,,,
+,Goldshore,,,,,,,,,,,,,,,,,,,,
+,Old Man,FALSE,Dragon's Vest,FALSE,"A Hidden Item
+Thunder Soulstone (L)",FALSE,3*,3,,,,,,Healing Grape (M),,3*,,Inhibit Offense,8,,
+,,,,,,,,,,,,,,,,,,Slice,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Troubled Merchant,FALSE,Healing Grape (M),FALSE,None,FALSE,3*,3,,,,,,Energizing Pomegranate (M),,3*,,Panacea,8,,
+,,FALSE,Inspiriting Plum (M),,,,,,,,,,,,,,,Thrash,,,
+,,FALSE,Energizing Pomegranate (M),,,,,,,,,,,,,,,Attack,,,
+,Fisherman's Sweetheart,FALSE,Fish Tooth,FALSE,None,FALSE,1*,2,,,,,,Inspiriting Plum (M),,1*,,Dagger Storm,9,,
+,,FALSE,Odds and Ends,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Starlight Hat,,,,,,,,,,,,,,,,,,
+,Marlene,FALSE,Empowering Necklace,FALSE,None,FALSE,3*,3,,,,,,Inspiriting Plum (M),,3*,,Dump Flour,8,,NPC available after Alfyn chapter 4
+,,FALSE,Refreshing Jam,,,,,,,,,,,,,,,Rag Toss,,,
+,"Amnesiac /
+Ship Captain (2)",FALSE,Herb of Light,FALSE,None,FALSE,7*,4,,,,,,Olive of Life (M),,7*,,Improved Offense,6,,NPC at this location after quest: Left Behind
+,,FALSE,Herb of Clarity,,,,,,,,,,,,,,,Peerless Strike,,,
+,,FALSE,Herb of Valor,,,,,,,,,,,,,,,Attack,,,
+,"Former Sailor /
+Sailor",FALSE,Sleepweed,FALSE,None,FALSE,4*,3,,,,,,Addlewort,,4*,,Exploit Weakness,8,,Guide / Allure available after quest: Left Behind
+,,FALSE,Addlewort,,,,,,,,,,,,,,,Stab,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Flynn,FALSE,Resistant Nut (L),FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,NPC available after Alfyn chapter 4
+,,FALSE,Inspiriting Plum (M),,,,,,,,,,,,,,,,,,
+,,FALSE,Inspiriting Plum Basket,,,,,,,,,,,,,,,,,,
+,Ellen (1),FALSE,Sleepweed,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,"NPC available during Alfyn chapter 2, can Purchase / Steal before she gets sick"
+,,FALSE,Addlewort,,,,,,,,,,,,,,,,,,
+,,FALSE,Tough Nut (L),,,,,,,,,,,,,,,,,,
+,Ellen (2),FALSE,Sleepweed,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,NPC available after Alfyn chapter 4
+,,FALSE,Addlewort,,,,,,,,,,,,,,,,,,
+,,FALSE,Tough Nut (L),,,,,,,,,,,,,,,,,,
+,,FALSE,Invigorating Nut (L),,,,,,,,,,,,,,,,,,
+,,FALSE,Healing Grape Bunch,,,,,,,,,,,,,,,,,,
+,Crest-bearing Ruffian,FALSE,Cleaver,FALSE,None,FALSE,6*,4,,,,,,* Mercenary Crest,,6*,,Crush and Grind,7,,Disapear after Challenge / Provoke
+,,FALSE,Iron Armor,,,,,,,,,,,,,,,Head Bash,,,
+,,FALSE,Essence of Plum,,,,,,,,,,,,,,,Attack,,,
+,Elderly Woman,FALSE,Forbidden Bow,FALSE,"A Hidden Item
+Copper-filled Pouch",FALSE,5*,4,,,,,,Heavy Bow,,5*,,Blinding Arrow,7,,"Can't Steal, only Purchase"
+,,,,,,,,,,,,,,,,,,Flurry,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Townsperson,FALSE,Wind Soulstone (M),FALSE,Discount at the Inn,FALSE,4*,3,,,,,,Essence of Plum,,X,X,X,X,,
+,,FALSE,Light Soulstone,,,,,,,,,,,,,,,,,,
+,Coachman,,X,FALSE,Vanessa's Destination,,X,X,X,X,X,X,X,X,,X,X,X,X,,NPC available only during Alfyn chapter 2
+,Townsperson,FALSE,Injurious Seed,FALSE,"A Hidden Item
+Healing Grape Bunch",FALSE,2*,2,,,,,,Purifying Seed,,2*,,Pointed Shot,9,,
+,,FALSE,Injurious Dust,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Ruinous Seed,,,,,,,,,,,,,,,,,,
+,Le Mann (2),FALSE,Introduction to Adventuring,FALSE,None,FALSE,2*,2,,,,,,Energizing Pomegranate,,X,X,X,X,,"NPC available after quest: Le Mann, Explorer Extraordinaire (I)
+Moves to Grandport after quest: Le Mann, Explorer Extraordinaire (II)"
+,,FALSE,Old Coin,,,,,,,,,,,,,,,,,,
+,,FALSE,Copper Lantern,,,,,,,,,,,,,,,,,,
+,Goldshore Manor District,,,,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Healing Grape (M),FALSE,Guide with Ease,FALSE,5*,4,,,,,,Spirit Sword,,5*,,Attacking Posture,7,,
+,,FALSE,Inspiriting Plum (M),,,,,,,,,,,,,,,Sweeping Slash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Stonemonger,FALSE,* Orewell Whetstone,FALSE,None,FALSE,2*,2,,,,,,Inspiriting Plum (M),,2*,,Slice,9,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Aristocrat,FALSE,Empowering Bracelet,FALSE,None,FALSE,4*,3,,,,,,Healing Grape (M),,4*,,Lightning Storm,8,,
+,,FALSE,Energizing Pomegranate (M),,,,,,,,,,,,,,,Mental Degradation,,,
+,,FALSE,Energizing Pomegranate (M),,,,,,,,,,,,,,,Attack,,,
+,Fledgling Fisherman,FALSE,* Leviathan Egg,FALSE,"A Hidden Item
+Odds and Ends",FALSE,4*,3,,,,,,Energizing Pomegranate (M),,4*,,Befuddling Dust,8,,"Hidden Item in other part of town
+Guide / Allure available after quest: Scourge of the Seas"
+,,FALSE,Glass Marble,,,,,,,,,,,,,,,Exploit Weakness,,,
+,,FALSE,Rusty Cup,,,,,,,,,,,,,,,Attack,,,
+,Lysa,FALSE,Sharp Nut (M),FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,NPC available after Ophilia chapter 4
+,,FALSE,Inspiriting Plum (M),,,,,,,,,,,,,,,,,,
+,,FALSE,Magic Nut (L),,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Copper-filled Pouch,FALSE,None,FALSE,2*,2,,,,,,Healing Grape (M),,X,X,X,X,,
+,,FALSE,Inspiriting Plum,,,,,,,,,,,,,,,,,,
+,Old Man,FALSE,Cat's Eye,FALSE,"A Hidden Item
+Healing Grape (M)",FALSE,9*,6,,,,,,Inspiriting Plum Basket,,9*,,Peerless Strike,5,,Behind other NPC (Challenge / Provoke)
+,,FALSE,Cat's Eye,,,,,,,,,,,,,,,Thrash,,,
+,,FALSE,Cat's Eye,,,,,,,,,,,,,,,Exploit Weakness,,,
+,Merchantry Master,FALSE,Olive of Life (M),FALSE,None,FALSE,4*,3,,,,,,Olive of Life (M),,4*,,Slumber Slash,8,,
+,,FALSE,Protective Ring,,,,,,,,,,,,,,,Slash,,,
+,,FALSE,Purifying Seed,,,,,,,,,,,,,,,Attack,,,
+,Erudite Graybeard,FALSE,Curious Bloom,FALSE,None,FALSE,1*,2,,,,,,Refreshing Jam,,1*,,Pummel,9,,"NPC available after quest: Le Mann, Explorer Extraordinaire (III)"
+,,FALSE,Refreshing Jam,,,,,,,,,,,,,,,Attack,,,
+,Aristocrat,,X,FALSE,"None /
+Gossip of Glowworm Moss",FALSE,2*,2,,,,,,Inspiriting Plum (M),,2*,,Awaken,9,,"Guide / Allure available upon starting Alfyn chapter 2
+Gossip of Glowworm Moss available during Alfyn chapter 2 only"
+,,,,,,,,,,,,,,,,,,Slash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Drevon,FALSE,Healing Grape Bunch,FALSE,None,FALSE,2*,2*,,,,,,Energizing Pomegranate (M),,2*,,Slash,9,,
+,,FALSE,Energizing Pomegranate (M),,,,,,,,,,,,,,,Attack,,,
+,Unsavory Man (2),FALSE,Inspiriting Plum (M),FALSE,None,FALSE,5*,4,,,,,,Healing Grape Bunch,,5*,,Shady Substance,7,,"NPC at this location after quest: The Merchant's Path
+(Challenge / Provoke solution only)"
+,,FALSE,Refreshing Jam,,,,,,,,,,,,,,,Sweep,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Knight Ardante,FALSE,Soul Hatchet,FALSE,"A Hidden Item
+Silver Axe",FALSE,6*,4,,,,,,Grand Helm,,6*,,Brain Bash,7,,
+,,FALSE,Protective Bracelet,,,,,,,,,,,,,,,Cleave in Two,,,
+,,FALSE,Imperial Armor,,,,,,,,,,,,,,,Attack,,,
+,Townsperson,FALSE,Wizard's Rod,FALSE,"A Hidden Item
+Wind Soulstone (L)",FALSE,1*,2,,,,,,Inspiriting Plum (M),,1*,,Cure Poison,9,,
+,,FALSE,Elusive Shield,,,,,,,,,,,,,,,Attack,,,
+,Goldshore Cathedral,,,,,,,,,,,,,,,,,,,,
+,Cleric,FALSE,Energizing Pomegranate (M),FALSE,New Weapons for Sale,FALSE,1*,2,,,,,,Energizing Pomegranate (M),,1*,,Prayer,9,,
+,,FALSE,Empowering Ring,,,,,,,,,,,,,,,Luminescence,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Bishop Donovan,FALSE,Stimulating Bracelet,FALSE,Donovan's Condition,FALSE,8*,5,,,,,,Healing Grape Bunch,,X,X,X,X,,NPC available after both Ophilia & Olberic chapter 4
+,Cleric,FALSE,Inspiriting Plum,FALSE,"A Hidden Item
+Energizing Pomegranate (M)",FALSE,5*,4,,,,,,Charm Robe,,5*,,Deep Breath,7,,
+,,FALSE,Inspiriting Plum (M),,,,,,,,,,,,,,,Gentle Cradle,,,
+,,FALSE,Inspiriting Plum Basket,,,,,,,,,,,,,,,Attack,,,
+,Daniel,FALSE,Candy,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,NPC available upon starting Ophilia chapter 3
+,,FALSE,Glass Marble,,,,,,,,,,,,,,,,,,
+,West Goldshore Coast,,,,,,,,,,,,,,,,,,,,
+,Unsavory Man (1),FALSE,Inspiriting Plum (M),FALSE,None,FALSE,5*,4,,,,,,Healing Grape Bunch,,5*,,Shady Substance,7,,"Guide / Allure available after quest: The Merchant's Path
+Moves to Goldshore Manor District after quest: The Merchant's Path
+(Challenge / Provoke solution only)"
+,,FALSE,Refreshing Jam,,,,,,,,,,,,,,,Sweep,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Knowledgeable Traveler,FALSE,Healing Grape (M),FALSE,A Safe Route,FALSE,4*,3,,,,,,Injurious Dust,,X,X,X,X,,
+,,FALSE,Purifying Dust,,,,,,,,,,,,,,,,,,
+,,FALSE,Critical Nut (M),,,,,,,,,,,,,,,,,,
+,Leviathan Hunter (1),FALSE,Olive Bloom,FALSE,None,FALSE,9*,6,,,,,,Essence of Plum,,X,X,X,X,,Moves to Captains' Bane after quest: Scourge of the Seas
+,Captains' Bane,,,,,,,,,,,,,,,,,,,,
+,Leviathan Hunter (2),FALSE,Olive Bloom,FALSE,None,FALSE,9*,6,,,,,,Essence of Plum,,9*,,Inhibit Defense,5,,NPC at this location after Quest: Scourge of the Seas
+,,,,,,,,,,,,,,,,,,Peerless Strike,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Moonstruck Coast,,,,,,,,,,,,,,,,,,,,
+,Actress,FALSE,Primeval Robe,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,NPC available after quest: In Search of Father (I)
+,,FALSE,Bottle of Poison Dust,,,,,,,,,,,,,,,,,,
+,,FALSE,Thunder Soulstone (M),,,,,,,,,,,,,,,,,,
+,Kit (2),,X,,X,,X,X,X,X,X,X,X,X,,X,X,X,X,,"NPC at this location after quest: In Search of Father (I)
+Disapear after quest: In Search of Father (II)"
+,,,,,,,,,,,,,,,,,,,,,
+,Impresario (2),FALSE,Olive of Life,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,NPC at this location after quest: In Search of Father (II)
+,,FALSE,Glass Marble,,,,,,,,,,,,,,,,,,
+,,FALSE,Oasis Hat,,,,,,,,,,,,,,,,,,
+,Tier 3,,,,,,,,,,,,,,,,,,,,
+,Grandport,,,,,,,,,,,,,,,,,,,,
+,Merchant,FALSE,Adamantine Shield,FALSE,None,FALSE,5*,4,,,,,,Enchanted Axe,,5*,,Brain Bash,7,,
+,,FALSE,Hill Cleaver,,,,,,,,,,,,,,,Head Bash,,,
+,,FALSE,Justice Breaker,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Victor's Spear,,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Inspiriting Plum (M),FALSE,None,FALSE,5*,4,,,,,,Inspiriting Plum (M),,5*,,Steel Defenses,7,,
+,,,,,,,,,,,,,,,,,,Sweeping Slash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Traveling Merchant,FALSE,* Lapis Lazuli,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,NPC available after quest: In Search of Father (I)
+,Passionate Peddler,FALSE,* Tales from a Faraway Land,FALSE,None,FALSE,3*,3,,,,,,Inspiriting Plum (M),,3*,,Poison,8,,
+,,,,,,,,,,,,,,,,,,Exploit Weakness,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Merchant,FALSE,Knight's Sword,FALSE,"A Hidden Item
+Revitalizing Jam",FALSE,4*,3,,,,,,Energizing Pomegranate (M),,4*,,Sleepweed,8,,Hidden item requires Challenge / Provoke
+,,FALSE,Heavy Blade,,,,,,,,,,,,,,,Exploit Weakness,,,
+,,FALSE,Blade of Bravery,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Heavy Lance,,,,,,,,,,,,,,,,,,
+,,FALSE,Gargantuan Shield,,,,,,,,,,,,,,,,,,
+,Bookworm Girl,FALSE,Introduction to Adventuring,FALSE,None,FALSE,2*,2,,,,,,Healing Grape (M),,2*,,Tome Tempest,9,,
+,,,,,,,,,,,,,,,,,,Tome Toss,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Cordelia (1),FALSE,Healing Grape Bunch,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,"NPC available after both Tressa & Therion chapter 4
+Moves to Ravus Manor Gate (Bolderfall) after quest:
+Keeping Up with the Wyndhams"
+,,FALSE,Shadow Soulstone (L),,,,,,,,,,,,,,,,,,
+,,FALSE,Silver-filled Pouch,,,,,,,,,,,,,,,,,,
+,Noa,FALSE,Ruinous Seed,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,NPC available after quest: Keeping Up with the Wyndhams
+,Merchant,FALSE,Angel Saber,FALSE,None,FALSE,3*,3,,,,,,Olive of Life (M),,3*,,Befuddling Balm,8,,
+,,FALSE,Imperial Helm,,,,,,,,,,,,,,,Slash,,,
+,,FALSE,Unerring Earring,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Sprightly Ring,,,,,,,,,,,,,,,,,,
+,,FALSE,Critical Bracelet,,,,,,,,,,,,,,,,,,
+,Bombastic Boy,FALSE,Soothing Dust,FALSE,None,FALSE,3*,3,,,,,,Ruinous Seed,,3*,,Flurry,8,,
+,,,,,,,,,,,,,,,,,,Pointed Shot,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Townsperson,FALSE,Injurious Seed,FALSE,"A Hidden Item
+Injurious Dust",FALSE,7*,4,,,,,,Platinum Helm,,X,X,X,X,,
+,,FALSE,Injurious Dust,,,,,,,,,,,,,,,,,,
+,,FALSE,Noxroot,,,,,,,,,,,,,,,,,,
+,Elderly Woman,FALSE,Blizzard Amulet,FALSE,Thieving Tips & Tricks,FALSE,3*,3,,,,,,Healing Grape (M),,3*,,Lightning Storm,8,,Behind other NPC (Challenge / Provoke)
+,,FALSE,Empowering Bracelet,,,,,,,,,,,,,,,Lightning Bolt,,,
+,,FALSE,Unerring Bracelet,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Stimulating Ring,,,,,,,,,,,,,,,,,,
+,,FALSE,Critical Earring,,,,,,,,,,,,,,,,,,
+,Tavern Wench,FALSE,Healing Grape Bunch,FALSE,None,FALSE,2*,2,,,,,,Olive of Life (M),,2*,,Pointed Shot,9,,
+,,FALSE,Olive of Life (M),,,,,,,,,,,,,,,Attack,,,
+,Merry Drunkard,FALSE,Ruinous Dust,FALSE,None,FALSE,3*,3,,,,,,Purifying Seed,,3*,,Full Swing,8,,
+,,,,,,,,,,,,,,,,,,Head Bash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Merchant,FALSE,Nourishing Nut (M),FALSE,None,FALSE,2*,2,,,,,,Healing Grape (M),,2*,,Slash,9,,
+,,FALSE,Fortifying Nut (M),,,,,,,,,,,,,,,,,,
+,,FALSE,Magic Nut (M),,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Slippery Nut (M),,,,,,,,,,,,,,,,,,
+,,FALSE,Light Nut (M),,,,,,,,,,,,,,,,,,
+,Cleric,FALSE,Olive of Life (M),FALSE,"A Hidden Item
+Coin Pouch",FALSE,6*,4,,,,,,Elemental Robe,,6*,,Exploit Weakness,7,,
+,,,,,,,,,,,,,,,,,,Thrash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Townsperson,FALSE,Silver-filled Pouch,FALSE,None,FALSE,2*,2,,,,,,Healing Grape (M),,2*,,Slice,9,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Grandport Markets,,,,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Marksman's Longbow,FALSE,New Weapons for Sale,FALSE,5*,4,,,,,,Inspiriting Plum (M),,5*,,Inhibit Defense,7,,
+,,FALSE,Light Nut (L),,,,,,,,,,,,,,,Flurry,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Bazaar Shopper,FALSE,Mysterious Seed,FALSE,None,FALSE,2*,2,,,,,,Healing Grape (M),,2*,,Exploit Weakness,9,,
+,,FALSE,Mysterious Ore,,,,,,,,,,,,,,,,,,
+,,FALSE,Large Feather,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Fool's Gold Ore,,,,,,,,,,,,,,,,,,
+,,FALSE,Dazzling Artwork,,,,,,,,,,,,,,,,,,
+,Merchant,FALSE,Fire Soulstone (M),FALSE,None,FALSE,4*,3,,,,,,Healing Grape (M),,4*,,Cure Silence,8,,
+,,FALSE,Ice Soulstone (M),,,,,,,,,,,,,,,Slash,,,
+,,FALSE,Thunder Soulstone (M),,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Wind Soulstone (L),,,,,,,,,,,,,,,,,,
+,,FALSE,Shadow Soulstone (L),,,,,,,,,,,,,,,,,,
+,Merchant,FALSE,Purifying Seed,FALSE,None,FALSE,4*,3,,,,,,Healing Grape (M),,4*,,Physical Boost,8,,
+,,FALSE,Purifying Dust,,,,,,,,,,,,,,,Pointed Shot,,,
+,,FALSE,Ruinous Seed,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Ruinous Dust,,,,,,,,,,,,,,,,,,
+,Le Mann (3),FALSE,Introduction to Adventuring,FALSE,None,FALSE,2*,2,,,,,,Energizing Pomegranate,,2*,,Slash,9,,"NPC at this location after quest: Le Mann, Explorer Extraordinaire (II)
+Disapear after quest: Le Mann, Explorer Extraordinaire (III)"
+,,FALSE,Old Coin,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Copper Lantern,,,,,,,,,,,,,,,,,,
+,Wharf Thug,FALSE,Soothing Seed,FALSE,None,FALSE,7*,4,,,,,,Purifying Seed,,7*,,Brain Bash,6,,"NPC available after quest: Le Mann, Explorer Extraordinaire (II)"
+,,FALSE,Inspiriting Plum (M),,,,,,,,,,,,,,,Head Bash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Merchant,FALSE,Oasis Hat,FALSE,"A Hidden Item
+Silver Hairpiece",FALSE,4*,3,,,,,,Healing Grape (M),,4*,,Full Recover,8,,
+,,FALSE,Golden Hairpiece,,,,,,,,,,,,,,,Slice,,,
+,,FALSE,Fur Cap,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Traditional Dancer Garb,,,,,,,,,,,,,,,,,,
+,,FALSE,Ethereal Dancer Garb,,,,,,,,,,,,,,,,,,
+,Merchant,FALSE,Brilliant Bow,FALSE,None,FALSE,2*,2,,,,,,Ruinous Seed,,2*,,Stab,9,,
+,,FALSE,Master's Longbow,,,,,,,,,,,,,,,,,,
+,,FALSE,Ultimate Breaker,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Falcon Hat,,,,,,,,,,,,,,,,,,
+,,FALSE,Falcon Garb,,,,,,,,,,,,,,,,,,
+,Merchant,FALSE,Graviton Axe,FALSE,None,FALSE,6*,4,,,,,,Rainbow Robe,,6*,,Full Swing,7,,
+,,FALSE,Bear Cleaver,,,,,,,,,,,,,,,Head Bash,,,
+,,FALSE,Spirit Hatchet,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Adamantine Hatchet,,,,,,,,,,,,,,,,,,
+,Bazaar Shopper,FALSE,Commemorative Coin,FALSE,Discount at the Inn,FALSE,6*,4,,,,,,Commemorative Coin,,6*,,Tonitrus Canere,7,,
+,,,,,,,,,,,,,,,,,,Lightning Storm,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Bazaar Shopper,FALSE,Dazzling Artwork,FALSE,None,FALSE,5*,4,,,,,,Refreshing Jam,,5*,,Physical Degradation,7,,
+,,,,,,,,,,,,,,,,,,Blinding Slash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Bazaar Shopper,FALSE,Iron Sword,FALSE,"A Hidden Item
+Heavy Coin Pouch",FALSE,3*,3,,,,,,Energizing Pomegranate (M),,3*,,Sweeping Slash,8,,
+,,FALSE,Greatsword,,,,,,,,,,,,,,,,,,
+,,FALSE,Bastard Sword,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Refined Sword,,,,,,,,,,,,,,,,,,
+,,FALSE,Platinum Sword,,,,,,,,,,,,,,,,,,
+,Merchant,FALSE,Assassin's Dagger,FALSE,None,FALSE,5*,4,,,,,,Healing Grape Bunch,,5*,,Poison,7,,
+,,FALSE,Crimson Dagger,,,,,,,,,,,,,,,Full Swing,,,
+,,FALSE,Doombreaker,,,,,,,,,,,,,,,Head Bash,,,
+,,FALSE,Soul Knife,,,,,,,,,,,,,,,Attack,,,
+,Ship Captain,FALSE,Purifying Dust,FALSE,"A Hidden Item
+Refreshing Jam",FALSE,7*,4,,,,,,Energizing Pomegranate (M),,7*,,Brain Bash,6,,
+,,,,,,,,,,,,,,,,,,Head Bash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Merchant,,X,FALSE,None,FALSE,2*,2,,,,,,Inspiriting Plum (M),,2*,,Head Bash,9,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Bazaar Shopper,FALSE,Energizing Pomegranate (L),FALSE,"A Hidden Item
+Inspiriting Plum (M)",FALSE,4*,3,,,,,,Energizing Pomegranate (L),,4*,,Fire Storm,8,,
+,,FALSE,Silver Clock,,,,,,,,,,,,,,,Fireball,,,
+,,FALSE,Heavy Coin Pouch,,,,,,,,,,,,,,,Attack,,,
+,Merchant,FALSE,Healing Grape Bunch,FALSE,None,FALSE,8*,5,,,,,,Ogre Cleaver,,8*,,Steel Defenses,6,,
+,,FALSE,Inspiriting Plum Basket,,,,,,,,,,,,,,,Brain Bash,,,
+,,FALSE,Energizing Pomegranate (L),,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Refreshing Jam,,,,,,,,,,,,,,,,,,
+,,FALSE,Revitalizing Jam,,,,,,,,,,,,,,,,,,
+,Good Dog,FALSE,Necklace,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,"Can't Purchase, only Steal"
+,,FALSE,Dirty Ball of Cloth,,,,,,,,,,,,,,,,,,
+,Girl,FALSE,Injurious Seed,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,
+,Lara,FALSE,Healing Grape (M),FALSE,Lara's New Life,FALSE,1*,2,,,,,,Healing Grape (M),,1*,,Slash,9,,Guide / Allure available after quest: The Prisoner's Plea
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Woman from Quaragosa (1),FALSE,Purifying Seed,FALSE,None,FALSE,2*,2,,,,,,Herb of Healing,,2*,,Dagger Storm,9,,Moves to Rippletide after quest: An Exotic Aroma (Guide / Allure solution only)
+,,FALSE,Inspiriting Plum (M),,,,,,,,,,,,,,,Attack,,,
+,Bazaar Shopper,FALSE,Energizing Pomegranate,FALSE,None,FALSE,8*,5,,,,,,Wizard's Rod,,8*,,Glacies Claudere,6,,
+,,FALSE,Energizing Pomegranate (M),,,,,,,,,,,,,,,Ice Storm,,,
+,,FALSE,Energizing Pomegranate (L),,,,,,,,,,,,,,,Attack,,,
+,Merchant,FALSE,Elemental Glaive,FALSE,None,FALSE,5*,4,,,,,,Healing Grape (M),,5*,,Panic Arrow,,,
+,,FALSE,Rune Glaive,,,,,,,,,,,,,,,Pointed Shot,,,
+,,FALSE,Victor's Spear,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Bridge Lance,,,,,,,,,,,,,,,,,,
+,,FALSE,Scourge Lance,,,,,,,,,,,,,,,,,,
+,Master Jeweler,FALSE,* Byron's Ring,FALSE,None,FALSE,4*,3,,,,,,Refreshing Jam,,4*,,Defense Down,8,,
+,,,,,,,,,,,,,,,,,,Lightning Strike,,,
+,,,,,,,,,,,,,,,,,,Stab,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Creepy Antiquarian,FALSE,* Sword of Sokrath,FALSE,None,FALSE,6*,4,,,,,,Healing Grape Bunch,,6*,,Inhibit Offense,7,,
+,,,,,,,,,,,,,,,,,,Blinding Dust (AOE),,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,"Diarist /
+Ing the Diarist (1)",FALSE,Inspiriting Plum (M),FALSE,None,FALSE,3*,3,,,,,,Inspiriting Plum (M),,X,X,X,X,,"NPC available during Tressa chapter 4 (before getting our diary stolen)
+Change name after: Tressa chapter 4"
+,"Diarist /
+Ing the Diarist (2)",FALSE,Injurious Dust,FALSE,None,FALSE,3*,3,,,,,,Inspiriting Plum (M),,3*,,Hurl Diary,8,,NPC available after Tressa chapter 4
+,,FALSE,Stimulating Necklace,,,,,,,,,,,,,,,Toss Diary,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Guard,FALSE,Protective Necklace,FALSE,None,FALSE,9*,6,,,,,,Emperor's Blade,,9*,,Attacking Posture,5,,
+,,,,,,,,,,,,,,,,,,High Thrust,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Gill the Butler,FALSE,Spiked Vest,FALSE,None,FALSE,9*,6,,,,,,Unseen Saber,,9*,,Double Spear,5,,NPC available after Tressa chapter 4
+,,,,,,,,,,,,,,,,,,Inhibit Offense,,,
+,,FALSE,Veteran's Helm,,,,,,,,,,,,,,,Stunning Strike,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Aston Wyndham,FALSE,High House's Armor,FALSE,None,FALSE,6*,4,,,,,,Energizing Pomegranate (M),,6*,,Fire Storm,7,,NPC available after Tressa chapter 4
+,,,,,,,,,,,,,,,,,,Lightning Strike,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Merchant,FALSE,Forbidden Shield,FALSE,"A Hidden Item
+Rusty Cup",FALSE,7*,4,,,,,,Inspiriting Plum (M),,7*,,Peerless Strike,6,,"Can't Steal Forbidden Shield, only Purchase"
+,,FALSE,Stuffed Toy,,,,,,,,,,,,,,,Exploit Weakness,,,
+,,FALSE,Bone,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Tagged Collar,,,,,,,,,,,,,,,,,,
+,Grandport Bazaar,,,,,,,,,,,,,,,,,,,,
+,Merchant,FALSE,Sledgehammer,FALSE,"A Hidden Item
+Articulate Stone",FALSE,3*,3,,,,,,Refreshing Jam,,3*,,Exploit Weakness,8,,
+,,FALSE,Morning Star,,,,,,,,,,,,,,,Stab,,,
+,,FALSE,Fur Cap,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Fur Coat,,,,,,,,,,,,,,,,,,
+,Aristocrat,FALSE,Heavy Coin Pouch,FALSE,Smarter Bartering,FALSE,2*,2,,,,,,Inspiriting Plum (M),,2*,,Inhibit Offense,9,,
+,,FALSE,Curious Antique,,,,,,,,,,,,,,,Slash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Barker,FALSE,Healing Grape Bunch,FALSE,None,FALSE,3*,3,,,,,,Healing Grape Bunch,,3*,,Critical Eye,8,,Guide / Allure available after Tressa chapter 4
+,,,,,,,,,,,,,,,,,,Slash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,West Grandport Coast,,,,,,,,,,,,,,,,,,,,
+,Best-selling Author,FALSE,Rare Stone,FALSE,None,FALSE,4*,3,,,,,,Inspiriting Plum (M),,4*,,Exploit Weakness,8,,
+,,,,,,,,,,,,,,,,,,Panic Slash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Brigand,FALSE,Healing Grape (M),FALSE,None,FALSE,7*,4,,,,,,* Letter from Noa,,X,X,X,X,,"NPC available upon starting quest: Keeping Up with the Wyndhams
+Disapear after you beat him in a Challenge / Provoke"
+,,FALSE,Healing Grape (M),,,,,,,,,,,,,,,,,,
+,,FALSE,Healing Grape (M),,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+Highlands,,,,,,,,,,,,,,,,,,,,,
+,Tier 1,,,,,,,,,,,,,,,,,,,,
+,Cobbleston,,,,,,,,,,,,,,,,,,,,
+,Villager,FALSE,Curious Bloom,FALSE,"A Hidden Item
+Olive of Life",FALSE,2*,2,,,,,,Noxroot,,2*,,Steel Defenses,9,,
+,,FALSE,Iron Vest,,,,,,,,,,,,,,,Stab,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Philip,FALSE,Glass Marble,FALSE,"A Hidden Item
+Candy",,X,X,X,X,X,X,X,X,,X,X,X,X,,NPC available after Olberic chapter 1
+,,,,,,,,,,,,,,,,,,,,,
+,Philip's Mother,FALSE,Silver Clock,FALSE,None,FALSE,2*,2,,,,,,Noxroot,,2*,,Slash,9,,Silver Clock Not for Sale
+,,FALSE,Essence of Grape,,,,,,,,,,,,,,,Attack,,,
+,Watchman,FALSE,Iron Helm,FALSE,Discount at the Inn,FALSE,1*,1,,,,,,Soothing Seed,,1*,,Slice,9,,NPC available upon starting Olberic chapter 1
+,,FALSE,Sturdy Shield,,,,,,,,,,,,,,,Attack,,,
+,Village Headman,FALSE,Healing Grape (M),FALSE,"A Hidden Item
+War Lance",FALSE,1*,1,,,,,,Soothing Seed,,X,X,X,X,,
+,Gaston,FALSE,Unseen Saber,FALSE,None,FALSE,5*,5,,,,,,Healing Grape (M),,5*,,Mighty Blow,7,,NPC available after Olberic chapter 4
+,,FALSE,Crystal Armor,,,,,,,,,,,,,,,Pummel,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Cheerful Storyteller,FALSE,Inspiriting Plum,FALSE,Dragon of the Highlands,FALSE,3*,3,,,,,,Healing Grape,,3*,,Pummel,8,,NPC available after Olberic chapter 1
+,,FALSE,Inspiriting Plum (M),,,,,,,,,,,,,,,Cheer On,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Kindly Farmer,FALSE,Silver Spear,FALSE,None,FALSE,3*,3,,,,,,Bronze Helm,,3*,,Healing Grape,8,,NPC available after Olberic chapter 1
+,,,,,,,,,,,,,,,,,,Thrash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Villager,FALSE,Unerring Earring,FALSE,"A Hidden Item
+Arcane Bow",FALSE,6*,4,,,,,,Shadow Bow,,6*,,Slumber Arrow,7,,
+,,,,,,,,,,,,,,,,,,Flurry,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Captain of the Watch,FALSE,Healing Grape,FALSE,Challenge with Ease,FALSE,4*,3,,,,,,Healing Grape (M),,X,X,X,X,,
+,,FALSE,Olive Bloom,,,,,,,,,,,,,,,,,,
+,Courageous Cowherd,FALSE,* Cow Droppings,FALSE,None,FALSE,3*,3,,,,,,Injurious Seed,,3*,,Manure Toss,8,,NPC available after Olberic chapter 1
+,,FALSE,Soothing Dust,,,,,,,,,,,,,,,Attack,,,
+,Noelle (1),FALSE,Sprightly Necklace,FALSE,None,FALSE,1*,1,,,,,,Soothing Dust,,1*,,Improved Offense,9,,"NPC available after Olberic chapter 1
+Moves to Stonegard after quest: Noelle, Seeker of Knowledge (I)"
+,,FALSE,Stimulating Ring,,,,,,,,,,,,,,,Slash,,,
+,,FALSE,Empowering Earring,,,,,,,,,,,,,,,Attack,,,
+,Watchman,FALSE,Broadsword,FALSE,More Plentiful Provisions,FALSE,1*,1,,,,,,Wind Soulstone,,1*,,Sweeping Slash,9,,NPC available upon starting Olberic chapter 1
+,,,,,,,,,,,,,,,,,,Slice,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Melancholy Youth (1),FALSE,Bottle of Poison Dust,FALSE,None,FALSE,2*,2,,,,,,Healing Grape,,2*,,Exploit Weakness,9,,"NPC available after Olberic chapter 1
+Moves to East Noblecourt after quest: Never Forget"
+,,FALSE,Bottle of Blinding Dust,,,,,,,,,,,,,,,,,,
+,,FALSE,Bottle of Befuddling Dust,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Bottle of Sleeping Dust,,,,,,,,,,,,,,,,,,
+,Villager,FALSE,Purifying Dust,FALSE,"A Hidden Item
+Purifying Seed",FALSE,4*,3,,,,,,Noxroot,,4*,,Exploit Weakness,8,,
+,,FALSE,Olive Bloom,,,,,,,,,,,,,,,Stab,,,
+,,FALSE,Curious Bloom,,,,,,,,,,,,,,,Attack,,,
+,Tier 2,,,,,,,,,,,,,,,,,,,,
+,Stonegard,,,,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Wind Soulstone (M),FALSE,Discount at the Inn,FALSE,3*,3,,,,,,Wind Soulstone (M),,3*,,Deep Breath,8,,
+,,FALSE,Tough Nut (M),,,,,,,,,,,,,,,Restore Health,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,True Believer,FALSE,Stimulating Bracelet,FALSE,None,FALSE,1*,1,,,,,,Inspiriting Plum,,1*,,Stab,9,,
+,,FALSE,Protective Ring,,,,,,,,,,,,,,,Attack,,,
+,Ruffian Lackey (2),FALSE,Rock Cleaver,FALSE,None,FALSE,3*,3,,,,,,Ice Soulstone (M),,3*,,Blinding Slash,8,,"NPC at this location after quest: Up to No Good
+(Challenge / Provoke solution only)"
+,,,,,,,,,,,,,,,,,,Slash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Ruffian (2),FALSE,Protective Earring,FALSE,None,FALSE,4*,3,,,,,,Fire Soulstone (M),,4*,,Brain Bash,8,,"NPC at this location after quest: Up to No Good
+(Challenge / Provoke solution only)"
+,,FALSE,Wind Amulet,,,,,,,,,,,,,,,Head Bash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Bindery Employee,FALSE,Healing Grape,FALSE,"None /
+The Book's Whereabouts",FALSE,3*,3,,,,,,Fire Soulstone (M),,3*,,Slice,8,,"Guide / Allure available after Cyrus chapter 3
+The Book's Whereabouts available during Cyrus chapter 3"
+,,FALSE,Healing Grape (M),,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Healing Grape Bunch,,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Healing Grape,FALSE,"A Hidden Item
+Silver-filled Pouch",FALSE,2*,2,,,,,,Inspiriting Plum,,2*,,Improved Offense,9,,
+,,,,,,,,,,,,,,,,,,Slice,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Neighborly Grandpa,FALSE,Tower Shield,FALSE,"None /
+Dominic's Remorse",FALSE,2*,2,,,,,,Inspiriting Plum,,2*,,Inspiriting Plum,9,,"Guide / Allure available after Cyrus chapter 3
+Dominic's Remorse available during Cyrus chapter 3"
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Neighborly Grandma,FALSE,Olive of Life (M),FALSE,"None /
+Dominic's Seclusion",FALSE,1*,1,,,,,,Ice Soulstone (M),,1*,,Repeated Strike,9,,"Guide / Allure available after Cyrus chapter 3
+Dominic's Seclusion available during Cyrus chapter 3"
+,,FALSE,Olive of Life (M),,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Olive Bloom,,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Light Soulstone (M),FALSE,Smarter Bartering,FALSE,4*,3,,,,,,Light Soulstone (M),,4*,,Awaken,8,,
+,,FALSE,Shadow Soulstone (M),,,,,,,,,,,,,,,Slash,,,
+,,FALSE,Fire Soulstone (M),,,,,,,,,,,,,,,Attack,,,
+,Veteran Brigand (2),FALSE,Iron Dagger,FALSE,None,FALSE,3*,3,,,,,,Healing Grape,,3*,,Poison Slash,8,,NPC at this location after quest: The Bandits' Code (Guide / Allure solution only)
+,,FALSE,Sprightly Earring,,,,,,,,,,,,,,,Attack,,,
+,Dominic,FALSE,Ice Soulstone (L),FALSE,None,FALSE,7*,4,,,,,,Fire Soulstone (L),,7*,,Ignis Ardere,6,,NPC available after quest: Russell's Repentance
+,,FALSE,Stimulating Ring,,,,,,,,,,,,,,,Fire Storm,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Russell (2),FALSE,Laurel Staff,FALSE,None,FALSE,6*,4,,,,,,Ice Soulstone (L),,6*,,Ignis Ardere,7,,"NPC available after Cyrus chapter 4
+Guide / Allure available after quest: Russell's Repentance"
+,,FALSE,Fire Soulstone,,,,,,,,,,,,,,,Fire Storm,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Stonegard Valleys,,,,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Shadow Bow,FALSE,"A Hidden Item
+Graviton Axe",FALSE,2*,2,,,,,,Inspiriting Plum,,2*,,Pointed Shot,9,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Tobias,FALSE,Injurious Dust,FALSE,None,FALSE,2*,2,,,,,,Fire Soulstone (L),,X,X,X,X,,
+,,FALSE,Fire Soulstone (L),,,,,,,,,,,,,,,,,,
+,Apothecary,FALSE,Soothing Dust,FALSE,"None /
+Dominic's Troubles",FALSE,4*,3,,,,,,Shadow Soulstone (M),,4*,,Panacea,8,,"Guide / Allure available after Cyrus chapter 3
+Dominic's Troubles available during Cyrus chapter 3"
+,,FALSE,Soothing Dust,,,,,,,,,,,,,,,Cleave in Two,,,
+,,FALSE,Purifying Seed,,,,,,,,,,,,,,,Attack,,,
+,Papermaker,FALSE,Falcon Garb,FALSE,None,FALSE,3*,3,,,,,,Inspiriting Plum,,3*,,Dagger Storm,8,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Townsperson,FALSE,Forbidden Blade,FALSE,"A Hidden Item
+Bastard Sword",FALSE,5*,4,,,,,,Shadow Soulstone (M),,5*,,Critical Eye,7,,"Can't Steal Forbidden Blade, only Purchase"
+,,,,,,,,,,,,,,,,,,Sweep,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Arianna (2),FALSE,Addlewort,FALSE,None,FALSE,1*,2,,,,,,Ice Soulstone (M),,1*,,Slash,9,,NPC at this location after quest: Arianna Again (I)
+,,FALSE,Sleepweed,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Empowering Bracelet,,,,,,,,,,,,,,,,,,
+,Oren (2),FALSE,Heavy Blade,FALSE,None,FALSE,3*,3,,,,,,Fire Soulstone (M),,3*,,Speed Enhancement,8,,NPC at this location after quest: Arianna Again (II)
+,,FALSE,Plate Shield,,,,,,,,,,,,,,,Slice,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Natalia,FALSE,Crystal Helm,FALSE,None,FALSE,3*,3,,,,,,Fire Soulstone (M),,2*,,Slice,9,,NPC available upon starting quest: Arianna Again (I)
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Rumormonger,FALSE,Healing Grape (M),FALSE,None,FALSE,2*,2,,,,,,Healing Grape (M),,2*,,Slice,9,,
+,,FALSE,Inspiriting Plum,,,,,,,,,,,,,,,Attack,,,
+,Patrician Youth (1),FALSE,Dazzling Artwork,FALSE,None,FALSE,4*,3,,,,,,Charm Robe,,4*,,Sculpture Toss,8,,"Moves to Stonegard Heights after quest: A Royal Secret
+(Guide / Allure solution only)"
+,,,,,,,,,,,,,,,,,,Slash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Archibold the Crusher (2),FALSE,Argent Axe,FALSE,None,FALSE,6*,4,,,,,,Olive of Life (M),,6*,,Champion's Cleave,7,,NPC at this location after Olberic chapter 4
+,,FALSE,Double Tomahawk,,,,,,,,,,,,,,,Thrash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Cleric,FALSE,Stimulating Ring,FALSE,"A Hidden Item
+Inspiriting Plum (M)",FALSE,8*,5,,,,,,Golden Hairpiece,,8*,,Focus Spirit,6,,
+,,FALSE,Protective Ring,,,,,,,,,,,,,,,Gentle Cradle,,,
+,,FALSE,Enlightening Ring,,,,,,,,,,,,,,,Attack,,,
+,Wandering Minstrel,FALSE,Soothing Seed,FALSE,The Fortress of Everhold,FALSE,7*,4,,,,,,Noxroot,,X,X,X,X,,"NPC available after quest: Noelle, Seeker of Knowledge (I)"
+,,FALSE,Elusive Shield,,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Fire Soulstone (M),FALSE,None,FALSE,8*,5,,,,,,Seraphim Spear,,X,X,X,X,,
+,,FALSE,Ice Soulstone (M),,,,,,,,,,,,,,,,,,
+,,FALSE,Thunder Soulstone (M),,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Light Soulstone (M),FALSE,New Weapons for Sale,FALSE,3*,3,,,,,,Inspiriting Plum,,3*,,Befuddling Balm,8,,Behind other NPC (Challenge / Provoke)
+,,FALSE,Thunder Soulstone (M),,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Wind Soulstone (M),,,,,,,,,,,,,,,,,,
+,"Amnesiac Girl /
+Layla (2)",FALSE,Protective Earring,FALSE,None,FALSE,1*,1,,,,,,Wind Soulstone,,1*,,Slash,9,,NPC at this location after quest: Up to No Good (Guide / Allure solution only)
+,,FALSE,Wind Amulet,,,,,,,,,,,,,,,Attack,,,
+,Ruffian Lackey (1),FALSE,Rock Cleaver,FALSE,None,FALSE,3*,3,,,,,,Ice Soulstone (M),,3*,,Blinding Slash,8,,"Moves to Stonegard after quest: Up to No Good
+(Challenge / Provoke solution only)"
+,,,,,,,,,,,,,,,,,,Slash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Ruffian (1),FALSE,Protective Earring,FALSE,None,FALSE,4*,3,,,,,,Fire Soulstone (M),,X,X,X,X,,"Moves to Stonegard after quest: Up to No Good
+(Challenge / Provoke solution only)"
+,,FALSE,Wind Amulet,,,,,,,,,,,,,,,,,,
+,Elderly Shopowner,FALSE,Mighty Belt,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,
+,,FALSE,Elemental Augmentor,,,,,,,,,,,,,,,,,,
+,,FALSE,Curious Antique,,,,,,,,,,,,,,,,,,
+,Stonegard Heights,,,,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Marksman's Longbow,FALSE,"A Hidden Item
+Soldier's Longbow",FALSE,3*,3,,,,,,Shadow Soulstone (L),,3*,,Inhibit Offense,8,,
+,,,,,,,,,,,,,,,,,,Pointed Shot,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Noelle (2),FALSE,Sprightly Necklace,FALSE,None,FALSE,1*,1,,,,,,Soothing Dust,,1*,,Improved Offense,9,,"NPC at this location after quest: Noelle, Seeker of Knowledge (I)
+Moves to Everhold after quest: Noelle, Seeker of Knowledge (II)"
+,,FALSE,Stimulating Ring,,,,,,,,,,,,,,,Slash,,,
+,,FALSE,Empowering Earring,,,,,,,,,,,,,,,Attack,,,
+,Townsperson,FALSE,Heavy Coin Pouch,FALSE,"A Hidden Item
+Empty Coin Pouch",FALSE,6*,4,,,,,,Primeval Robe,,X,X,X,X,,
+,,,,,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Knight's Sword,FALSE,"A Hidden Item
+Fire Soulstone (L)",FALSE,5*,4,,,,,,Wind Soulstone (M),,5*,,Sleepweed,7,,Behind other NPC (Challenge / Provoke)
+,,FALSE,Moonblade,,,,,,,,,,,,,,,,,,
+,,FALSE,Inferno Axe,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Imperial Armor,,,,,,,,,,,,,,,,,,
+,Exotic Grandma (2),FALSE,Fire Soulstone,FALSE,None,FALSE,2*,2,,,,,,Herb of Light,,2*,,Healing Grape,9,,NPC at this location after quest: Lost in Translation
+,,FALSE,Ice Soulstone,,,,,,,,,,,,,,,Dagger Storm,,,
+,,FALSE,Thunder Soulstone,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Wind Soulstone,,,,,,,,,,,,,,,,,,
+,Bookbinder,FALSE,Elemental Shield,FALSE,"A Hidden Item
+Large Feather",FALSE,3*,3,,,,,,Healing Grape (M),,3*,,Slash,8,,"Hidden Item is in other part of the town
+Guide / Allure available after quest: Lost in Translation"
+,,FALSE,Elemental Robe,,,,,,,,,,,,,,,Attack,,,
+,Eren,FALSE,Unerring Bracelet,FALSE,None,FALSE,3*,3,,,,,,Light Soulstone (L),,3*,,Cure Silence,8,,
+,,FALSE,Shadow Soulstone (L),,,,,,,,,,,,,,,Thrash,,,
+,,FALSE,Light Soulstone (L),,,,,,,,,,,,,,,Attack,,,
+,Inquiring Youth,FALSE,Inspiriting Plum Basket,FALSE,None,FALSE,3*,3,,,,,,Inspiriting Plum Basket,,3*,,Ice Storm,8,,Guide / Allure available after quest: A Royal Secret
+,,,,,,,,,,,,,,,,,,Luminescence,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Patrician Youth (2),FALSE,Dazzling Artwork,FALSE,None,FALSE,4*,3,,,,,,Charm Robe,,4*,,Sculpture Toss,8,,NPC at this location after quest: A Royal Secret (Guide / Allure solution only)
+,,,,,,,,,,,,,,,,,,Slash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Erstwhile Bodyguard,FALSE,Battle Axe,FALSE,The Fall of House Landar,FALSE,4*,3,,,,,,Inspiriting Plum,,X,X,X,X,,
+,,FALSE,Bronze Armor,,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Thunder Soulstone (M),FALSE,Guide with Ease,FALSE,4*,3,,,,,,Healing Grape (M),,4,,Fire Storm,8,,
+,,FALSE,Fortifying Nut (M),,,,,,,,,,,,,,,Fireball,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Honest Youth,FALSE,Candy,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,
+,,FALSE,Glass Marble,,,,,,,,,,,,,,,,,,
+,Nathan's Bodyguard,FALSE,Healing Grape (M),FALSE,None,FALSE,5*,4,,,,,,Bastard Sword,,5*,,Sweeping Slash,7,,NPC available upon starting H'aanit chapter 2
+,,FALSE,Inspiriting Plum (M),,,,,,,,,,,,,,,Slice,,,
+,,FALSE,Energizing Pomegranate (M),,,,,,,,,,,,,,,Attack,,,
+,Nathan,FALSE,Guardian Amulet,FALSE,None,FALSE,3*,3,,,,,,Thunder Soulstone (M),,3*,,Sweep,8,,"NPC available upon starting H'aanit chapter 2
+Mighty Belt available after H'aanit chapter 2"
+,,FALSE,Mighty Belt,,,,,,,,,,,,,,,Attack,,,
+,Hunter,FALSE,Unerring Bracelet,FALSE,None,FALSE,6*,4,,,,,,Inspiriting Plum (M),,6*,,Flurry,7,,
+,,FALSE,Arcane Bow,,,,,,,,,,,,,,,Pointed Shot,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Townsperson,FALSE,Healing Grape Bunch,FALSE,Provoke Like a Pro,FALSE,2*,2,,,,,,Healing Grape Bunch,,2*,,Head Bash,9,,
+,,FALSE,Sharp Nut (M),,,,,,,,,,,,,,,Attack,,,
+,Tomb of Kings,,,,,,,,,,,,,,,,,,,,
+,Nameless Gravekeeper,FALSE,Inspiriting Plum (M),FALSE,Gravekeeper's Information,FALSE,2*,2,,,,,,Inspiriting Plum,,X,X,X,X,,
+,,FALSE,Light Soulstone (L),,,,,,,,,,,,,,,,,,
+,Tier 3,,,,,,,,,,,,,,,,,,,,
+,Everhold,,,,,,,,,,,,,,,,,,,,
+,Stage Carpenter,FALSE,* Timeworn Tapestry,FALSE,None,FALSE,2*,2,,,,,,Inspiriting Plum Basket,,2*,,Dagger Storm,9,,"NPC available after quest: Noelle, Seeker of Knowledge (II)"
+,,,,,,,,,,,,,,,,,,Slash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Townsperson,FALSE,Shadow Soulstone (L),FALSE,New Weapons for Sale,FALSE,2*,2,,,,,,Inspiriting Plum (M),,2*,,Fireball,9,,
+,,FALSE,Wisdom Staff,,,,,,,,,,,,,,,Icewind,,,
+,,FALSE,Sorcerer's Robe,,,,,,,,,,,,,,,Lightning Bolt,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Ardent Actor,FALSE,Angel Saber,FALSE,None,FALSE,5*,4,,,,,,Thunder Soulstone (L),,5*,,Offense Down,7,,
+,,FALSE,Silent Cape,,,,,,,,,,,,,,,Dagger Storm,,,
+,,FALSE,Grand Helm,,,,,,,,,,,,,,,Attack,,,
+,Girl,FALSE,Stuffed Toy,FALSE,"A Hidden Item
+Curious Antique",,X,X,X,X,X,X,X,X,,X,X,X,X,,Hidden Item requires Challenge / Provoke
+,,FALSE,Candy,,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Purifying Seed,FALSE,Discount at the Inn,FALSE,7*,4,,,,,,Master's Longbow,,7*,,Poison Arrow,6,,
+,,FALSE,Purifying Seed,,,,,,,,,,,,,,,Pointed Shot,,,
+,,FALSE,Rune Bow,,,,,,,,,,,,,,,Attack,,,
+,Old Man,FALSE,Primeval Robe,FALSE,"A Hidden Item
+Rare Stone",FALSE,8*,5,,,,,,Shadow Soulstone (L),,X,X,X,X,,
+,,FALSE,Trinity Sword,,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Deathly Blade,FALSE,None,FALSE,8*,5,,,,,,Light Soulstone (L),,8*,,Improved Offense,6,,Behind other NPC (Challenge / Provoke)
+,,,,,,,,,,,,,,,,,,Full Swing,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Noelle (3),FALSE,Sprightly Necklace,FALSE,None,FALSE,1*,2,,,,,,Soothing Dust,,1*,,Improved Offense,9,,"NPC available after quest: Noelle, Seeker of Knowledge (II)"
+,,FALSE,Stimulating Ring,,,,,,,,,,,,,,,Slash,,,
+,,FALSE,Empowering Earring,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Herb of Clarity,,,,,,,,,,,,,,,,,,
+,,FALSE,Inspiriting Plum (M),,,,,,,,,,,,,,,,,,
+,Impresario,FALSE,Sharp Nut (L),FALSE,None,FALSE,7*,4,,,,,,Inspiriting Plum (M),,7*,,Peerless Strike,6,,
+,,FALSE,Slippery Nut (L),,,,,,,,,,,,,,,Thrash,,,
+,,FALSE,Critical Nut (L),,,,,,,,,,,,,,,Attack,,,
+,Usher,FALSE,Fire Soulstone (M),FALSE,"A Hidden Item
+Olive of Life (M)",FALSE,6*,4,,,,,,Fire Soulstone (L),,6*,,Thrash,7,,
+,,FALSE,Fire Soulstone (M),,,,,,,,,,,,,,,Peerless Strike,,,
+,,FALSE,Fire Soulstone (L),,,,,,,,,,,,,,,Attack,,,
+,Everhold Amphitheatre,,,,,,,,,,,,,,,,,,,,
+,Usher,FALSE,Wind Soulstone (M),FALSE,"A Hidden Item
+Bottle of Blinding Dust",FALSE,6*,4,,,,,,Wind Soulstone (L),,6*,,Slow Motion,7,,NPC available upon starting Primrose chapter 4
+,,FALSE,Wind Soulstone (M),,,,,,,,,,,,,,,Exploit Weakness,,,
+,,FALSE,Wind Soulstone (L),,,,,,,,,,,,,,,Attack,,,
+,Usher,FALSE,Thunder Soulstone (M),FALSE,"A Hidden Item
+Healing Grape Bunch",FALSE,6*,4,,,,,,Herb of Light,,6*,,Blinding Slash,7,,NPC available upon starting Primrose chapter 4
+,,FALSE,Thunder Soulstone (M),,,,,,,,,,,,,,,Slash,,,
+,,FALSE,Thunder Soulstone (L),,,,,,,,,,,,,,,Attack,,,
+,Theater Manager (1),FALSE,Inspiriting Plum Basket,FALSE,None,FALSE,2*,2,,,,,,Herb of Healing,,2*,,Pummel,9,,"NPC available upon starting quest: King Khalim's Conundrum
+Moves to Marsalim Palace after quest: King Khalim's Conundrum"
+,,FALSE,Herb of Healing,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Empowering Necklace,,,,,,,,,,,,,,,,,,
+,Everhold Amphitheatre,,,,,,,,,,,,,,,,,,,,
+,Usher,FALSE,Ice Soulstone (M),FALSE,Undeniable Allure,FALSE,7*,4,,,,,,Ice Soulstone (L),,7*,,Steel Defenses,6,,NPC available upon starting Primrose chapter 4
+,,FALSE,Ice Soulstone (M),,,,,,,,,,,,,,,Brain Bash,,,
+,,FALSE,Ice Soulstone (L),,,,,,,,,,,,,,,Attack,,,
+,Usher,FALSE,Light Soulstone (M),FALSE,Thieving Tips & Tricks,FALSE,7*,5,,,,,,Meteorite Rod,,7*,,Mental Degradation,6,,NPC available upon starting Primrose chapter 4
+,,FALSE,Light Soulstone (M),,,,,,,,,,,,,,,Ice Storm,,,
+,,FALSE,Light Soulstone (L),,,,,,,,,,,,,,,Attack,,,
+,,,,,,,,,,,,,,,,,,,,,
+Sunlands,,,,,,,,,,,,,,,,,,,,,
+,Tier 1,,,,,,,,,,,,,,,,,,,,
+,Sunshade,,,,,,,,,,,,,,,,,,,,
+,Old Man,FALSE,Enlightening Earring,FALSE,None,FALSE,2*,2,,,,,,Bottle of Blinding Dust,,2*,,Thrash,9,,
+,,,,,,,,,,,,,,,,,,Peerless Strike,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Industrious Housewife,FALSE,Herb of Clarity,FALSE,None,FALSE,1*,2,,,,,,Wind Soulstone,,1*,,Panic Slash,9,,NPC available after Primrose chapter 1
+,,FALSE,Herb of Awakening,,,,,,,,,,,,,,,,,,
+,,FALSE,Herb of Valor,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Herb of Revival,,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Inspiriting Plum,FALSE,New Weapons for Sale,FALSE,1*,2,,,,,,Inspiriting Plum,,X,X,X,X,,
+,,FALSE,Iron Helm,,,,,,,,,,,,,,,,,,
+,Sickly Girl,FALSE,Handkerchief,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,NPC available after Primrose chapter 1
+,,FALSE,Candy,,,,,,,,,,,,,,,,,,
+,Pensive Mother,FALSE,Soothing Seed,FALSE,None,FALSE,1*,2,,,,,,Inspiriting Plum,,1*,,Thrash,9,,NPC available after Primrose chapter 1
+,,FALSE,Soothing Dust,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Sleepweed,,,,,,,,,,,,,,,,,,
+,Helena,FALSE,Invigorating Nut (L),FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,NPC available after Primrose chapter 4
+,Master's Lackey,FALSE,Fire Soulstone,FALSE,"A Hidden Item
+Silver-filled Pouch",FALSE,1*,2,,,,,,Bottle of Sleeping Dust,,1*,,Blinding Dust,9,,
+,,FALSE,Stimulating Earring,,,,,,,,,,,,,,,High Thrust,,,
+,,FALSE,Falcon Dagger,,,,,,,,,,,,,,,Attack,,,
+,Sand Man,FALSE,Thunder Soulstone,FALSE,None,FALSE,1*,2,,,,,,Ali's Bread,,1*,,Ali's Baked Goods,9,,NPC available upon starting quest: The Adventures of Ali
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Blue Dancer,FALSE,Inspiriting Plum (M),FALSE,None,FALSE,3*,3,,,,,,Ice Soulstone,,3*,,Panic Slash,8,,NPC available after Primrose chapter 1
+,,FALSE,Ice Soulstone,,,,,,,,,,,,,,,Attack,,,
+,Bryan (2),FALSE,Wind Soulstone (M),FALSE,None,FALSE,4*,3,,,,,,Inspiriting Plum (M),,4*,,Fire Storm,8,,"NPC at this location after quest: Tilting at Windmills
+(Challenge / Provoke solution only)"
+,,FALSE,Shadow Soulstone (M),,,,,,,,,,,,,,,Crush and Grind,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,"Amnesiac Girl /
+Layla (1)",FALSE,Protective Earring,FALSE,None,FALSE,1*,2,,,,,,Wind Soulstone,,2*,,Slash,9,,"NPC available after Primrose chapter 1
+Moves to Stonegard Valleys after quest: Up to No Good
+(Guide / Allure solution only) "
+,,FALSE,Wind Amulet,,,,,,,,,,,,,,,Attack,,,
+,Elderly Woman,FALSE,Bright Stone,FALSE,None,FALSE,1*,2,,,,,,Ice Soulstone,,1*,,Pointed Shot,9,,
+,,,,,,,,,,,,,,,,,,Flurry,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Portly Merchant,FALSE,* Quatrait Bloom,FALSE,None,FALSE,1*,2,,,,,,Purifying Seed,,1*,,Exotic Spices,9,,NPC available after Primrose chapter 1
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Star Dancer,FALSE,* Diva's Dress,FALSE,"A Hidden Item
+Olive of Life (M)",FALSE,5*,4,,,,,,Stuffed Toy,,5*,,Spirited Dance,7,,"NPC available after Primrose chapter 1
+Hidden item in other part of town"
+,,,,,,,,,,,,,,,,,,Dagger Storm,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,"Wayfaring Girl /
+Ria /
+Gloria (1)",FALSE,Empowering Ring,FALSE,None,FALSE,2*,2,,,,,,Inspiriting Plum (M),,X,X,X,X,,"NPC available after Primrose chapter 1
+Moves to Wellspring after quest: Ria, Born to Roam (I)
+Purchase / Steal inventory gets reset in Wellspring"
+,,FALSE,Inferno Amulet,,,,,,,,,,,,,,,,,,
+,Ne'er-do-well,FALSE,Empty Coin Pouch,FALSE,None,FALSE,4*,3,,,,,,Light Soulstone (M),,4*,,Sleepweed,8,,"NPC available after Primrose chapter 1
+Guide / Allure available after quest: Ria, Born to Roam (I)"
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Ali (1),FALSE,Mysterious Seed,FALSE,None,FALSE,5*,4,,,,,,Fool's Gold Ore,,X,X,X,X,,"NPC available after Tressa chapter 4
+Moves to Marsalim after quest: The Adventures of Ali"
+,,FALSE,Mysterious Ore,,,,,,,,,,,,,,,,,,
+,"Drunken Bouncer /
+Imposing Bouncer",FALSE,Olive of Life,FALSE,None,FALSE,5*,4,,,,,,Plate Shield,,5*,,Head Bash,7,,NPC available after Primrose chapter 1
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Master's Lackey,FALSE,Portrait with a Kiss,FALSE,"A Hidden Item
+Healing Grape (M)",FALSE,1*,2,,,,,,Healing Grape (M),,1*,,Poison,9,,
+,,,,,,,,,,,,,,,,,,Sweep,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Sunshade Tavern,,,,,,,,,,,,,,,,,,,,
+,Hired Barkeep,FALSE,Healing Grape,FALSE,None,FALSE,1*,2,,,,,,Inspiriting Plum,,1*,,Slash,9,,NPC available after Primrose chapter 1
+,,FALSE,Healing Grape (M),,,,,,,,,,,,,,,,,,
+,,FALSE,Healing Grape Bunch,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Essence of Grape,,,,,,,,,,,,,,,,,,
+,"Tavern Patron /
+Tavern Proprietor",FALSE,Refreshing Jam,FALSE,"A Hidden Item
+Nourishing Nut",FALSE,1*,2,,,,,,Healing Grape,,1*,,Mental Augmentation,9,,Change name after Primrose chapter 1
+,,FALSE,Revitalizing Jam,,,,,,,,,,,,,,,Black Magic,,,
+,,FALSE,Olive of Life (M),,,,,,,,,,,,,,,Attack,,,
+,Tavern Patron,FALSE,Sharp Nut,FALSE,None,FALSE,1*,2,,,,,,Thunder Soulstone,,1*,,Thrash,9,,
+,,FALSE,Slippery Nut,,,,,,,,,,,,,,,Attack,,,
+,Tavern Wench,FALSE,Critical Earring,FALSE,"A Hidden Item
+Arcane Glaive",FALSE,2*,2,,,,,,Stone Bow,,2*,,Blinding Arrow,9,,
+,,,,,,,,,,,,,,,,,,More Health for All,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Tavern Patron,FALSE,Commemorative Coin,FALSE,None,FALSE,1*,2,,,,,,Inspiriting Plum,,1*,,Sweep,9,,Commemorative Coin Not for Sale
+,,,,,,,,,,,,,,,,,,Slice,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Bryan (1),FALSE,Wind Soulstone (M),FALSE,None,FALSE,4*,3,,,,,,Inspiriting Plum (M),,4*,,Fire Storm,8,,"NPC available after Primrose chapter 1
+Moves to Sunshade after quest: Tilting at Windmills
+(Challenge / Provoke solution only)"
+,,FALSE,Shadow Soulstone (M),,,,,,,,,,,,,,,Crush and Grind,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Tavern Patron,FALSE,Protective Earring,FALSE,Discount at the Inn,FALSE,1*,2,,,,,,Healing Grape (M),,1*,,Healing Grape (M),9,,
+,,FALSE,Empty Coin Pouch,,,,,,,,,,,,,,,Head Bash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Tavern Patron,FALSE,Heavy Coin Pouch,FALSE,Undeniable Allure,FALSE,1*,2,,,,,,Shadow Soulstone,,1*,,Black Magic,9,,
+,,,,,,,,,,,,,,,,,,Healing Grape,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,"Faltering Youth /
+Fledgling Bandit (1)",FALSE,Stinging Dagger,FALSE,None,FALSE,2*,2,,,,,,Sturdy Shield,,2*,,Head Bash,9,,"NPC available after Primrose chapter 1
+Moves to Lower Bolderfall after quest: The Bandits' Code
+(Guide / Allure solution only)"
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Tier 2,,,,,,,,,,,,,,,,,,,,
+,Wellspring,,,,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Healing Grape (M),FALSE,"A Hidden Item
+Thunder Soulstone (M)",FALSE,4*,3,,,,,,Healing Grape (M),,4*,,Ice Storm,8,,
+,,FALSE,Fur Cap,,,,,,,,,,,,,,,Icewind,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Tavern Patron,FALSE,* Bottle of Wine,FALSE,"A Hidden Item
+Healing Grape Bunch",FALSE,4*,3,,,,,,Olive of Life,,4*,,Critical Eye,8,,NPC available upon starting Therion chapter 3
+,,FALSE,Empty Coin Pouch,,,,,,,,,,,,,,,Head Bash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Tavern Keeper,FALSE,* Black Market Inventory,,X,,X,X,X,X,X,X,X,X,,X,X,X,X,,Black Market Inventory available during Therion chapter 3 only
+,Townsperson,FALSE,Healing Grape Bunch,FALSE,Discount at the Inn,FALSE,2*,2,,,,,,Inspiriting Plum (M),,2*,,Steel Defenses,9,,Guide / Allure available upon starting Olberic chapter 3
+,,FALSE,Healing Grape Bunch,,,,,,,,,,,,,,,Thrash,,,
+,,FALSE,Inspiriting Plum Basket,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Inspiriting Plum Basket,,,,,,,,,,,,,,,,,,
+,Guard,FALSE,Healing Grape (M),FALSE,None,FALSE,9*,6,,,,,,Healing Grape Bunch,,X,X,X,X,,
+,,FALSE,Bottle of Blinding Dust,,,,,,,,,,,,,,,,,,
+,,FALSE,Old Coin,,,,,,,,,,,,,,,,,,
+,Merchant,FALSE,Augmented Bow of the Falcon,FALSE,None,FALSE,5*,4,,,,,,Elemental Bow,,5*,,Slumber Arrow,7,,Behind other NPC (Challenge / Provoke)
+,,,,,,,,,,,,,,,,,,Pointed Shot,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Merchant,FALSE,* Memorial Necklace,FALSE,"A Hidden Item
+Copper-filled Pouch",FALSE,4*,3,,,,,,Inspiriting Plum (M),,4*,,Slow Motion,8,,Behind other NPC (Challenge / Provoke)
+,,,,,,,,,,,,,,,,,,Sweep,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Merchant,FALSE,Forbidden Axe,FALSE,Thieving Tips & Tricks,FALSE,2*,2,,,,,,Olive of Life,,2*,,Restore Health,9,,"Behind other NPC (Challenge / Provoke)
+Can't Steal Forbidden Axe, only Purchase"
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Townsperson,FALSE,Heavy Coin Pouch,FALSE,None,FALSE,4*,3,,,,,,Healing Grape (M),,X,X,X,X,,
+,,FALSE,Copper-filled Pouch,,,,,,,,,,,,,,,,,,
+,Traveling Merchant,FALSE,* Tightly Sealed Envelope,FALSE,None,FALSE,3*,3,,,,,,Inspiriting Plum (M),,3*,,Shady Substance,8,,"NPC available after quest: Ria, Born to Roam (I)"
+,,,,,,,,,,,,,,,,,,Slash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Old Man,FALSE,Primeval Robe,FALSE,More Plentiful Provisions,FALSE,3*,3,,,,,,Healing Grape (M),,3*,,Ice Storm,8,,Guide / Allure available upon starting Olberic chapter 3
+,,,,,,,,,,,,,,,,,,Icewind,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Guard,FALSE,Heavy Blade,FALSE,Challenge with Ease,FALSE,4*,3,,,,,,Inspiriting Plum (M),,4*,,Head Bash,8,,
+,,,,,,,,,,,,,,,,,,Full Swing,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Guard,FALSE,Jaguar Lance,FALSE,None,FALSE,5*,4,,,,,,Jaguar Lance,,5*,,Inhibit Defense,7,,
+,,,,,,,,,,,,,,,,,,Thrash,,,
+,,,,,,,,,,,,,,,,,,Peerless Strike,,,
+,Guard,FALSE,Enlightening Ring,FALSE,"A Hidden Item
+Inspiriting Plum (M)",FALSE,4*,3,,,,,,Healing Grape (M),,4*,,High Thrust,8,,NPC available after both Ophilia & Olberic chapter 4
+,,,,,,,,,,,,,,,,,,Slice,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Erhardt,FALSE,Battle-tested Blade,FALSE,None,FALSE,8*,6,,,,,,Revitalizing Jam,,8*,,Cross Strike,6,,"NPC available after Olberic chapter 4
+Can't Steal Battle-tested Blade, only Purchase"
+,,FALSE,Silver-filled Pouch,,,,,,,,,,,,,,,Triple Strike,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Bale (1),FALSE,Light Nut (M),FALSE,"A Hidden Item
+Heavy Coin Pouch",FALSE,9*,6,,,,,,Inspiriting Plum Basket,,9*,,Full Swing,5,,"NPC available after Olberic chapter 3
+Disapear after Olberic chapter 4
+Hidden Item no longer available after Olberic chapter 4"
+,,FALSE,Sharp Nut (M),,,,,,,,,,,,,,,Crush and Grind,,,
+,,FALSE,Tough Nut (M),,,,,,,,,,,,,,,Attack,,,
+,Bale (2),FALSE,Light Nut (M),FALSE,None,FALSE,9*,6,,,,,,Inspiriting Plum Basket,,8*,,Full Swing,6,,NPC available after both Olberic & Ophilia chapter 4
+,,FALSE,Sharp Nut (M),,,,,,,,,,,,,,,Crush and Grind,,,
+,,FALSE,Tough Nut (M),,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Dragonscale Armor,,,,,,,,,,,,,,,,,,
+,Guard,FALSE,Unerring Bracelet,FALSE,"A Hidden Item
+Heavy Coin Pouch",FALSE,6*,4,,,,,,Healing Grape (M),,6*,,Improved Offense,7,,NPC available upon starting Olberic chapter 3
+,,FALSE,Sharp Nut,,,,,,,,,,,,,,,Slice,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Satisfied Merchant,FALSE,* Incredible Item,FALSE,None,FALSE,4*,3,,,,,,Healing Grape (M),,4*,,Questionable Substance,8,,NPC available after Tressa chapter 4
+,,,,,,,,,,,,,,,,,,Exploit Weakness,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,"Wayfaring Girl /
+Ria /
+Gloria (2)",FALSE,Empowering Ring,FALSE,None,FALSE,2*,2,,,,,,Inspiriting Plum (M),,X,X,X,X,,"NPC at this location after quest: Ria, Born to Roam (I)
+Moves to Marsalim after quest: Ria, Born to Roam (II)"
+,,FALSE,Inferno Amulet,,,,,,,,,,,,,,,,,,
+,,FALSE,Healing Grape (M),,,,,,,,,,,,,,,,,,
+,Sweet Tooth,FALSE,Healing Grape (M),FALSE,None,FALSE,7*,4,,,,,,Elemental Hat,,7*,,Panic Slash,6,,
+,,FALSE,Inspiriting Plum (M),,,,,,,,,,,,,,,Dagger Storm,,,
+,,FALSE,Energizing Pomegranate (L),,,,,,,,,,,,,,,Attack,,,
+,Staid Soldier,FALSE,Sleepweed,FALSE,None,FALSE,4*,3,,,,,,Healing Grape (M),,4*,,Repeated Strike,8,,Guide / Allure available after quest: Shadow over the Sands
+,,FALSE,Addlewort,,,,,,,,,,,,,,,Stab,,,
+,,FALSE,Curious Bloom,,,,,,,,,,,,,,,Attack,,,
+,Injured Scout (2),FALSE,Inspiriting Plum,FALSE,The Giant Serpent's Master,FALSE,1*,2,,,,,,Inspiriting Plum,,1*,,Too wounded to move...,9,,NPC at this location after quest: Shadow over the Sands
+,,FALSE,Protective Ring,,,,,,,,,,,,,,,,,,
+,Pauper,,X,,X,,X,X,X,X,X,X,X,X,,X,X,X,X,,NPC available only during Therion chapter 3
+,Northern Wellspring Sands,,,,,,,,,,,,,,,,,,,,
+,Injured Scout (1),FALSE,Inspiriting Plum,FALSE,The Giant Serpent's Master,FALSE,1*,2,,,,,,Inspiriting Plum,,X,X,X,X,,Moves to Wellspring after quest: Shadow over the Sands
+,,FALSE,Protective Ring,,,,,,,,,,,,,,,,,,
+,Southern Wellspring Sands,,,,,,,,,,,,,,,,,,,,
+,Employee,FALSE,* Attendant's Mask,,X,,X,X,X,X,X,X,X,X,,X,X,X,X,,NPC available during Therion chapter 3 only
+,,FALSE,Olive of Life,,,,,,,,,,,,,,,,,,
+,,FALSE,Silver-filled Pouch,,,,,,,,,,,,,,,,,,
+,Aristocrat,FALSE,* Aristocrat's Mask,,X,,X,X,X,X,X,X,X,X,,X,X,X,X,,NPC available during Therion chapter 3 only
+,,FALSE,Healing Grape (M),,,,,,,,,,,,,,,,,,
+,Aristocrat,FALSE,* Aristocrat's Mask,,X,,X,X,X,X,X,X,X,X,,X,X,X,X,,NPC available during Therion chapter 3 only
+,,FALSE,Inspiriting Plum (M),,,,,,,,,,,,,,,,,,
+,,FALSE,Stimulating Bracelet,,,,,,,,,,,,,,,,,,
+,Tier 3,,,,,,,,,,,,,,,,,,,,
+,Marsalim,,,,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Healing Grape (M),FALSE,Thieving Tips & Tricks,FALSE,1*,2,,,,,,Refreshing Jam,,1*,,Slice,9,,
+,,FALSE,Healing Grape (M),,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Refreshing Jam,,,,,,,,,,,,,,,,,,
+,Know-it-all's Father,FALSE,Invigorating Nut (M),FALSE,None,FALSE,2*,2,,,,,,Olive of Life (M),,2*,,Dagger Storm,9,,
+,,FALSE,Magic Nut (M),,,,,,,,,,,,,,,Slumber Slash,,,
+,,FALSE,Resistant Nut (M),,,,,,,,,,,,,,,Attack,,,
+,Townsperson,FALSE,Energizing Pomegranate (L),FALSE,"A Hidden Item
+Inspiriting Plum Basket",FALSE,2*,2,,,,,,Ruinous Dust,,2*,,Slash,9,,
+,,FALSE,Energizing Pomegranate (L),,,,,,,,,,,,,,,Attack,,,
+,Eliza (1),FALSE,Dragon Saber,FALSE,None,FALSE,8*,5,,,,,,Olive of Life (M),,X,X,X,X,,"NPC available during H'aanit chapter 4
+Dragon Saber available only for a short while, before the scene in the middle of town, it is available when she stand in the Knight Ardante house
+Moves to Wispermill upon starting quest: Lianna and Eliza"
+,Knight Ardante,FALSE,Stimulating Necklace,FALSE,Provoke Like a Pro,FALSE,7*,4,,,,,,Herb of Valor,,7*,,Attacking Posture,6,,
+,,FALSE,Knight's Shield,,,,,,,,,,,,,,,Cleave in Two,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Scholarly Youth,FALSE,Inspiriting Plum (M),FALSE,City of Gold,FALSE,2*,2,,,,,,Olive of Life (M),,2*,,Icewind,9,,Guide / Allure available after Quest: City of Gold
+,,FALSE,Inspiriting Plum (M),,,,,,,,,,,,,,,Attack,,,
+,Ali (2),FALSE,Mysterious Seed,FALSE,None,FALSE,5*,4,,,,,,Fool's Gold Ore,,X,X,X,X,,NPC at this location after quest: The Adventures of Ali
+,,FALSE,Mysterious Ore,,,,,,,,,,,,,,,,,,
+,Maruf,FALSE,Herb of Clarity,FALSE,None,FALSE,7*,4,,,,,,Herb of Clarity,,7*,,Full Enfeeblement,6,,NPC available upon starting quest: The Adventures of Ali
+,,,,,,,,,,,,,,,,,,Thrash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Grieg the Unbreakable,FALSE,Battle-tested Shield,FALSE,None,FALSE,5*,9,,,,,,Inspiriting Plum (M),,5*,,Steel Defenses,7,,NPC available after Olberic chapter 4
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Old Aristocrat,FALSE,Heavy Coin Pouch,FALSE,None,FALSE,1*,2,,,,,,Olive Bloom,,1*,,Pummel,9,,Challenge / Provoke available after quest: In Search of the Unknown
+,,FALSE,Cat's Eye,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Critical Necklace,,,,,,,,,,,,,,,,,,
+,Swordsman Yuri,FALSE,Dragon Saber,FALSE,None,FALSE,10*,6,,,,,,Healing Grape Bunch,,10*,,Stunning Strike,4,,
+,,FALSE,Dragonscale Armor,,,,,,,,,,,,,,,Focus,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Young Soldier,FALSE,Greatsword,FALSE,None,FALSE,6*,4,,,,,,Olive of Life (M),,6*,,Thrash,7,,"Disapear after quest: In Search of the Unknown
+(Challenge / Provoke solution only)"
+,,FALSE,Plate Shield,,,,,,,,,,,,,,,Repeated Strike,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Knight's Wife,FALSE,Healing Grape Bunch,FALSE,None,FALSE,2*,2,,,,,,Healing Grape Bunch,,2*,,Slash,9,,
+,,FALSE,Inspiriting Plum Basket,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Olive of Life (L),,,,,,,,,,,,,,,,,,
+,"Wayfaring Girl /
+Ria /
+Gloria (3)",FALSE,Empowering Ring,FALSE,None,FALSE,2*,2,,,,,,Inspiriting Plum (M),,2*,,Steel Defenses,9,,"NPC at this location after quest: Ria, Born to Roam (II)
+Moves to Marsalim Palace as Gloria after quest: Ria, Born to Roam (III)"
+,,FALSE,Inferno Amulet,,,,,,,,,,,,,,,,,,
+,,FALSE,Healing Grape (M),,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Herb of Light,,,,,,,,,,,,,,,,,,
+,,FALSE,Olive of Life (M),,,,,,,,,,,,,,,,,,
+,Elderly Woman,FALSE,Purifying Seed,FALSE,"A Hidden Item
+Copper-filled Pouch",FALSE,6*,4,,,,,,Sledgehammer,,6*,,Glacies Claudere,7,,
+,,FALSE,Purifying Dust,,,,,,,,,,,,,,,Ice Storm,,,
+,,FALSE,Olive Bloom,,,,,,,,,,,,,,,Attack,,,
+,Townsperson,FALSE,Inferno Axe,FALSE,None,FALSE,8*,5,,,,,,Spirit Hatchet,,X,X,X,X,,
+,Old Man,FALSE,Energizing Pomegranate (L),FALSE,New Weapons for Sale,FALSE,6*,4,,,,,,Curious Bloom,,6*,,Ventus Saltare,7,,Behind other NPC (Challenge / Provoke)
+,,FALSE,Energizing Pomegranate (L),,,,,,,,,,,,,,,Fire Storm,,,
+,,FALSE,Energizing Pomegranate (L),,,,,,,,,,,,,,,Attack,,,
+,Boy,FALSE,Inferno Amulet,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,Behind other NPC (Challenge / Provoke)
+,,,,,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Spirit Bow,FALSE,Discount at the Inn,FALSE,9*,6,,,,,,Ruinous Dust,,9*,,Physical Boost,5,,Behind other NPC (Challenge / Provoke)
+,,,,,,,,,,,,,,,,,,Flurry,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Knight Ardante,FALSE,Protective Necklace,FALSE,"A Hidden Item
+Fire Soulstone (L)",FALSE,6*,4,,,,,,Olive of Life (L),,6*,,Inhibit Defense,7,,NPC available after H'aanit chapter 4
+,,FALSE,Blade of Bravery,,,,,,,,,,,,,,,Lightning Strike,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Marsalim Palace,,,,,,,,,,,,,,,,,,,,
+,Guard,FALSE,Enlightening Necklace,FALSE,"A Hidden Item
+Inspiriting Plum (M)",FALSE,5*,4,,,,,,Healing Grape (M),,5*,,Defensive Posture,7,,
+,,,,,,,,,,,,,,,,,,Exploit Weakness,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Guard,FALSE,Gargantuan Axe,FALSE,None,FALSE,7*,4,,,,,,Soul Glaive,,7*,,Thrash,6,,
+,,,,,,,,,,,,,,,,,,Exploit Weakness,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,"Stern Knight /
+Kindly Knight",FALSE,Healing Grape (M),FALSE,None,FALSE,8*,5,,,,,,Herb of Healing,,8*,,Attacking Posture,6,,Changes name after quest: The Wayward Son
+,,FALSE,Inspiriting Plum (M),,,,,,,,,,,,,,,Head Bash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Kevin,,X,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,Disapear after quest: The Prisoner's Plea
+,Captain Raaf,FALSE,Refreshing Jam,FALSE,None,FALSE,5*,4,,,,,,Fire Soulstone (M),,5*,,Whirlwind Strike,7,,NPC available after H'aanit chapter 4
+,,FALSE,Imperial Helm,,,,,,,,,,,,,,,Inhibit Defense,,,
+,,FALSE,Exotic Garb,,,,,,,,,,,,,,,Attack,,,
+,General Lenaar,FALSE,Robe of the Flame,FALSE,None,FALSE,8*,5,,,,,,Fire Soulstone (L),,8*,,Baleful Blade,6,,NPC available after H'aanit chapter 4
+,,,,,,,,,,,,,,,,,,Critical Eye,,,
+,,FALSE,Emperor's Blade,,,,,,,,,,,,,,,Cross Strike,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,"Wayfaring Girl /
+Ria /
+Gloria (4)",FALSE,Empowering Ring,FALSE,None,FALSE,2*,2,,,,,,Inspiriting Plum (M),,2*,,Steel Defenses,9,,"NPC at this location after quest: Ria, Born to Roam (III)"
+,,FALSE,Inferno Amulet,,,,,,,,,,,,,,,,,,
+,,FALSE,Healing Grape (M),,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Herb of Light,,,,,,,,,,,,,,,,,,
+,,FALSE,Olive of Life (M),,,,,,,,,,,,,,,,,,
+,Chieftain,FALSE,Herb of Clamor,FALSE,Chieftain's Schedule,FALSE,4*,3,,,,,,Herb of Clamor,,X,X,X,X,,"NPC available only during Quest: Ria, Born to Roam (III)"
+,Guard,FALSE,Critical Bracelet,FALSE,"A Hidden Item
+Odds and Ends",FALSE,6*,4,,,,,,Ruinous Seed,,6*,,Inhibit Offense,7,,
+,,FALSE,Energizing Pomegranate (M),,,,,,,,,,,,,,,Slice,,,
+,,FALSE,Energizing Pomegranate (M),,,,,,,,,,,,,,,Attack,,,
+,Guard,FALSE,Fire Soulstone (L),FALSE,"A Hidden Item
+Fire Soulstone (L)",FALSE,7*,4,,,,,,Healing Grape (M),,7*,,Brain Bash,6,,
+,,FALSE,Wind Soulstone (L),,,,,,,,,,,,,,,Head Bash,,,
+,,FALSE,Shadow Soulstone (L),,,,,,,,,,,,,,,Attack,,,
+,Theater Manager (2),FALSE,Inspiriting Plum Basket,FALSE,None,FALSE,2*,2,,,,,,Herb of Healing,,2*,,Pummel,9,,NPC at this location after quest: King Khalim's Conundrum
+,,FALSE,Herb of Healing,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Empowering Necklace,,,,,,,,,,,,,,,,,,
+,Minister,FALSE,Refreshing Jam,FALSE,None,FALSE,3*,3,,,,,,Befuddling Dagger,,3*,,Mental Degradation,8,,NPC available after all chapter 4
+,,,,,,,,,,,,,,,,,,Dagger Storm,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,King Khalim,FALSE,Healing Grape Bunch,FALSE,None,FALSE,5*,4,,,,,,Healing Grape Bunch,,5*,,Mental Augmentation,7,,"NPC available after all chapter 4
+Can't Allure, only Guide"
+,,,,,,,,,,,,,,,,,,Ice Storm,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,,,,,,,,,,,,,,,,,,,,,
+Riverlands,,,,,,,,,,,,,,,,,,,,,
+,Tier 1,,,,,,,,,,,,,,,,,,,,
+,Clearbrook,,,,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Steel Axe,FALSE,Discount at the Inn,FALSE,2*,2,,,,,,Injurious Seed,,2*,,Head Bash,9,,Steel Axe Not for Sale
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Mercedes (2),FALSE,Sleepweed,FALSE,None,FALSE,3*,3,,,,,,Essence of Grape,,3*,,Mental Augmentation,8,,NPC at this location after quest: Zeph and Mercedes (II)
+,,FALSE,Addlewort,,,,,,,,,,,,,,,Luminescence,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Angler,FALSE,Sleepweed,FALSE,"A Hidden Item
+Essence of Pomegranate",FALSE,5*,4,,,,,,Heavy Lance,,5*,,Peerless Strike,7,,NPC available after Alfyn chapter 1
+,,FALSE,Addlewort,,,,,,,,,,,,,,,Stab,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Granddaughter,FALSE,Silver Hairpiece,FALSE,"A Hidden Item
+Silver Axe",FALSE,3*,3,,,,,,Healing Grape,,X,X,X,X,,
+,,FALSE,Protective Earring,,,,,,,,,,,,,,,,,,
+,Old Man,FALSE,Argent Axe,FALSE,None,FALSE,1*,2,,,,,,Injurious Seed,,X,X,X,X,,"Behind other NPC (Challenge / Provoke)
+Cannot Purchase, only Steal"
+,,FALSE,Golden Axe,,,,,,,,,,,,,,,,,,
+,Meryl's Father,FALSE,Olive Bloom,FALSE,Meryl's Past,FALSE,3*,3,,,,,,Sleepweed,,1*,,Sweep,9,,NPC available after Alfyn chapter 1
+,,FALSE,Curious Bloom,,,,,,,,,,,,,,,Slice,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Fishmonger (2),FALSE,Addlewort,FALSE,None,FALSE,3*,3,,,,,,Hip Flask,,3*,,Slice,8,,"NPC at this location after quest: For Want of Fish
+(Challenge / Provoke solution only)"
+,,FALSE,Healing Grape,,,,,,,,,,,,,,,Steel Defenses,,,
+,,FALSE,Sturdy Shield,,,,,,,,,,,,,,,Attack,,,
+,Regular Patron,FALSE,Essence of Grape,FALSE,More Plentiful Provisions,FALSE,2*,2,,,,,,Soothing Seed,,2*,,Stab,9,,NPC available after Alfyn chapter 1
+,,FALSE,Essence of Plum,,,,,,,,,,,,,,,Attack,,,
+,Magg the Cook,FALSE,* Saucy Prawns,FALSE,None,FALSE,6*,4,,,,,,Fire Soulstone,,6*,,Well Done,7,,NPC available after Alfyn chapter 1
+,,,,,,,,,,,,,,,,,,Rare,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,"Lost Grandfather /
+Garrulous Grandfather (2)",FALSE,Sleepweed,FALSE,None,FALSE,4*,3,,,,,,Flying Helm,,4*,,Steel Defenses,8,,NPC at this location after quest: A Sweet Reunion
+,,FALSE,Healing Grape,,,,,,,,,,,,,,,Attack,,,
+,"Lonely Grandchild /
+Happy Grandchild",FALSE,Noxroot,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,NPC available after Alfyn chapter 1
+,,FALSE,Sleepweed,,,,,,,,,,,,,,,,,,
+,,FALSE,Addlewort,,,,,,,,,,,,,,,,,,
+,Gertas,FALSE,Battle Axe,FALSE,"A Hidden Item
+Resistant Nut",FALSE,3*,3,,,,,,Herb of Healing,,2*,,Poison,9,,NPC available after Alfyn chapter 1
+,,,,,,,,,,,,,,,,,,Blinding Dust,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Zeph,FALSE,Soothing Dust,FALSE,"A Hidden Item
+Sleepweed",FALSE,4*,3,,,,,,Sleepweed,,4*,,Concoct Poison (Zeph),8,,"Challenge / Provoke & Guide / Allure available after Alfyn chapter 1
+Letter from Zeph available after both Alfyn & Cyrus chapter 4
+Hidden Item no longer available after both Alfyn & Cyrus chapter 4"
+,,FALSE,Soothing Dust,,,,,,,,,,,,,,,Concoct: Freezing Agent,,,
+,,FALSE,Purifying Seed,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Injurious Dust,,,,,,,,,,,,,,,,,,
+,,FALSE,* Letter from Zeph,,,,,,,,,,,,,,,,,,
+,Nina,FALSE,Essence of Grape,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,"NPC available after Alfyn chapter 1
+May need to remove Zeph out of the way with 
+Challenge / Provoke or Guide / Allure"
+,,FALSE,Essence of Plum,,,,,,,,,,,,,,,,,,
+,,FALSE,Essence of Pomegranate,,,,,,,,,,,,,,,,,,
+,,FALSE,Olive Bloom,,,,,,,,,,,,,,,,,,
+,Meryl's Mother,FALSE,Protective Earring,FALSE,"A Hidden Item
+Addlewort",FALSE,2*,2,,,,,,Sleepweed,,3*,,Physical Boost,8,,NPC available after Alfyn chapter 1
+,,FALSE,Olive Bloom,,,,,,,,,,,,,,,Dagger Storm,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Lily,FALSE,Healing Grape,FALSE,"None /
+Nina's Secret",,X,X,X,X,X,X,X,X,,X,X,X,X,,Nina's Secret appears only during Alfyn Tale
+,,FALSE,Healing Grape (M),,,,,,,,,,,,,,,,,,
+,,FALSE,Healing Grape Bunch,,,,,,,,,,,,,,,,,,
+,Meryl (4),FALSE,Essence of Plum,FALSE,None,FALSE,1*,2,,,,,,Noxroot,,3*,,Flurry,8,,"NPC at this location after quest: Meryl, Lost then Found (III)"
+,,FALSE,Essence of Pomegranate,,,,,,,,,,,,,,,Attack,,,
+,Elderly Woman,FALSE,Injurious Seed,FALSE,"A Hidden Item
+Essence of Plum",FALSE,10*,6,,,,,,Battle-tested Staff,,10*,,Mighty Blow,4,,
+,,,,,,,,,,,,,,,,,,Pummel,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Meryl (1),FALSE,Essence of Plum,FALSE,"A Hidden Item
+Olive Bloom",FALSE,1*,2,,,,,,Noxroot,,X,X,X,X,,"NPC available after Alfyn chapter 1
+Moves to Saintsbridge after quest: Meryl, Lost then Found (I)
+Hidden item no longer available after quest: Meryl, Lost then Found (I)"
+,,FALSE,Essence of Pomegranate,,,,,,,,,,,,,,,,,,
+,Professor Bastete,FALSE,Noxroot,FALSE,None,FALSE,5*,4,,,,,,Ruinous Seed,,5*,,Wisdom of the Church,7,,NPC available after quest: Theracio's Tutelage (II)
+,,FALSE,Sprightly Earring,,,,,,,,,,,,,,,Tome Tempest,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Scholar,FALSE,Soothing Dust,FALSE,None,FALSE,2*,2,,,,,,Herb of Healing,,2*,,Sweep,9,,
+,,FALSE,Iron Vest,,,,,,,,,,,,,,,Attack,,,
+,West Clearbrook Traverse,,,,,,,,,,,,,,,,,,,,
+,Fishmonger (1),FALSE,Addlewort,FALSE,None,FALSE,3*,3,,,,,,Hip Flask,,3*,,Slice,8,,"NPC available after Alfyn chapter 1
+Moves to Clearbrook after quest: For Want of Fish
+(Challenge / Provoke solution only)"
+,,FALSE,Healing Grape,,,,,,,,,,,,,,,Steel Defenses,,,
+,,FALSE,Sturdy Shield,,,,,,,,,,,,,,,Attack,,,
+,Friendly Farmer,FALSE,Injurious Seed,FALSE,"A Hidden Item
+* Giant Egg",FALSE,1*,2,,,,,,Soothing Seed,,1*,,Shatter and Smash,9,,NPC available after Therion chapter 1
+,,FALSE,Enlightening Earring,,,,,,,,,,,,,,,Attack,,,
+,South Clearbrook Traverse,,,,,,,,,,,,,,,,,,,,
+,"Lost Grandfather /
+Garrulous Grandfather (1)",FALSE,Sleepweed,FALSE,None,FALSE,4*,3,,,,,,Flying Helm,,4*,,Steel Defenses,8,,"NPC available after Alfyn chapter 1
+Moves to Clearbrook after quest: A Sweet Reunion"
+,,FALSE,Healing Grape,,,,,,,,,,,,,,,Attack,,,
+,Tier 2,,,,,,,,,,,,,,,,,,,,
+,Saintsbridge,,,,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Healing Grape Bunch,FALSE,"A Hidden Item
+Inspiriting Plum",FALSE,3*,3,,,,,,Healing Grape (M),,3*,,Head Bash,8,,
+,,FALSE,Healing Grape Bunch,,,,,,,,,,,,,,,Attack,,,
+,"Landscape Artist /
+Baker (2)",FALSE,Olive of Life (M),FALSE,None,FALSE,2*,2,,,,,,Healing Grape (M),,2*,,Fresh from the Oven,9,,"NPC at this location after quest: The Prodigious Painting
+(Purchase / Steal solution only)"
+,,FALSE,Essence of Plum,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,* Final Masterpiece,,,,,,,,,,,,,,,,,,
+,Meryl (2),FALSE,Essence of Plum,FALSE,None,FALSE,1*,2,,,,,,Addlewort,,X,X,X,X,,"NPC at this location after quest: Meryl, Lost then Found (I)
+Moves to Riverford after quest: Meryl, Lost then Found (II)"
+,,FALSE,Essence of Pomegranate,,,,,,,,,,,,,,,,,,
+,Erstwhile Sellsword,FALSE,Inspiriting Plum,FALSE,"A Hidden Item
+Refreshing Jam",FALSE,5*,4,,,,,,Eagle Saber,,5*,,Sweeping Slash,7,,"NPC available after quest: Meryl, Lost then Found (I)
+Hidden Item in other part of town
+Guide / Allure available after quest: Meryl, Lost then Found (II)"
+,,FALSE,Spiked Shield,,,,,,,,,,,,,,,Slice,,,
+,,FALSE,Snipe Saber,,,,,,,,,,,,,,,Attack,,,
+,"Artist's Brother /
+Baker's Brother (1)",FALSE,Candy,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,"Moves to Atlasdam or stay in Saintsbridge after quest:
+The Prodigious Painting"
+,,FALSE,Tree Nut,,,,,,,,,,,,,,,,,,
+,Tim,FALSE,Light Nut (M),FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,NPC available after Alfyn chapter 4
+,,FALSE,Refreshing Jam,,,,,,,,,,,,,,,,,,
+,,FALSE,Fortifying Nut (L),,,,,,,,,,,,,,,,,,
+,River Dweller (2),FALSE,Sprightly Bracelet,FALSE,"A Hidden Item
+Ice Soulstone (M)",FALSE,2*,2,,,,,,Inspiriting Plum (M),,2*,,Sleepweed,9,,NPC available after quest: A Corpse with No Name
+,,,,,,,,,,,,,,,,,,Head Bash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Alphas (2),FALSE,Herb of Valor,FALSE,Alphas's Poem,FALSE,8*,5,,,,,,Enchanted Sword,,X,X,X,X,,"NPC at this location after starting quest: Daughter of the Dark God (II)
+Moves to Saintsbridge: Upstream after quest:
+Daughter of the Dark God (II) completed"
+,,FALSE,Healing Grape (M),,,,,,,,,,,,,,,,,,
+,,FALSE,Energizing Pomegranate (L),,,,,,,,,,,,,,,,,,
+,Worrywart,FALSE,Olive of Life,FALSE,"A Hidden Item
+Odds and Ends",FALSE,4*,3,,,,,,Healing Grape (M),,4*,,Inhibit Defense,8,,Hidden Item in other part of town
+,,FALSE,Olive of Life (M),,,,,,,,,,,,,,,Head Bash,,,
+,,FALSE,Olive of Life (L),,,,,,,,,,,,,,,Attack,,,
+,Lyblac (2),,X,,X,,X,X,X,X,X,X,X,X,,X,X,X,X,,"NPC available after quest: Daughter of the Dark God (I)
+Disapear after starting quest: Daughter of the Dark God (II)"
+,,,,,,,,,,,,,,,,,,,,,
+,Old Man,FALSE,Bridge Lance,FALSE,Challenge with Ease,FALSE,7*,4,,,,,,Energizing Pomegranate,,7*,,Tenebrae Operire,6,,
+,,FALSE,Tower Shield,,,,,,,,,,,,,,,Lightning Storm,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Miguel,,X,,X,,X,X,X,X,X,X,X,X,,X,X,X,X,,NPC available during Alfyn chapter 3
+,Bully,FALSE,* River Blossom,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,NPC available upon starting quest: Friends Again
+,Townsperson,FALSE,Energizing Pomegranate,FALSE,Discount at the Inn,FALSE,2*,2,,,,,,Healing Grape (M),,2*,,Panic Arrow,9,,
+,,FALSE,Energizing Pomegranate (M),,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Energizing Pomegranate (L),,,,,,,,,,,,,,,,,,
+,Saintsbridge: Upstream,,,,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Wind Soulstone,FALSE,New Weapons for Sale,FALSE,6*,4,,,,,,Elemental Bow,,6*,,Blinding Arrow,7,,
+,,FALSE,Wind Soulstone (M),,,,,,,,,,,,,,,Poison Arrow,,,
+,,FALSE,Wind Soulstone (L),,,,,,,,,,,,,,,Attack,,,
+,Townsperson,FALSE,Purifying Seed,FALSE,"None /
+Tidings of Elderly Friends",FALSE,2*,2,,,,,,Refreshing Jam,,2*,,Improved Offense,9,,"Guide / Allure available after Alfyn chapter 3
+Tidings of Elderly Friends available during Alfyn chapter 3"
+,,FALSE,Purifying Seed,,,,,,,,,,,,,,,Full Swing,,,
+,,FALSE,Olive Bloom,,,,,,,,,,,,,,,Attack,,,
+,Emil (1),FALSE,Enlightening Bracelet,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,Enlightening Bracelet available before you complete Ophilia chapter 4
+,Emil (2),FALSE,Energizing Pomegranate (M),FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,New Purchase / Steal inventory after completing Ophilia chapter 4
+,,FALSE,Tree Nut,,,,,,,,,,,,,,,,,,
+,Nate (1),FALSE,Stimulating Bracelet,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,Stimulating Bracelet available before you complete Ophilia chapter 4
+,Nate (2),FALSE,Inspiriting Plum,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,New Purchase / Steal available upon starting quest: Friends Again
+,,FALSE,Handkerchief,,,,,,,,,,,,,,,,,,
+,Derryl (1),FALSE,Ice Amulet,FALSE,None / X,,X,X,X,X,X,X,X,X,,X,X,X,X,,Ice Amulet available until you complete Ophilia chapter 4
+,Derryl (2),FALSE,Addlewort,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,New Purchase / Steal inventory after completing Ophilia chapter 4
+,,FALSE,Mysterious Ore,,,,,,,,,,,,,,,,,,
+,Demure Grandma,FALSE,Rainbow Robe,FALSE,"None /
+Old Woman to the Southeast",FALSE,2*,2,,,,,,Olive of Life,,2*,,Dagger Storm,9,,"Challenge / Provoke and Guide / Allure available after Alfyn chapter 3
+Old Woman to the Southeast available during Alfyn chapter 3"
+,,FALSE,Elemental Hat,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Enchanted Axe,,,,,,,,,,,,,,,,,,
+,Stubborn Grandma,FALSE,Silver Armor,FALSE,"None /
+Old Woman to the Northwest",FALSE,3*,3,,,,,,Olive of Life (M),,3*,,Mental Augmentation,8,,"Challenge / Provoke and Guide / Allure available after Alfyn chapter 3
+Old Woman to the Northwest available during Alfyn chapter 3"
+,,FALSE,Silver Helm,,,,,,,,,,,,,,,Lightning Storm,,,
+,,FALSE,Silver Axe,,,,,,,,,,,,,,,Attack,,,
+,Townsperson,FALSE,Elusive Shield,FALSE,"A Hidden Item
+Healing Grape (M)",FALSE,4*,3,,,,,,Olive of Life (M),,4*,,Flurry,8,,
+,,FALSE,Heavy Lance,,,,,,,,,,,,,,,Pointed Shot,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Knight Ardante,FALSE,Shadow Soulstone,FALSE,"A Hidden Item
+3 000$",FALSE,8*,5,,,,,,Inspiriting Plum,,8*,,Glacies Claudere,6,,
+,,FALSE,Shadow Soulstone (M),,,,,,,,,,,,,,,Full Swing,,,
+,,FALSE,Shadow Soulstone (L),,,,,,,,,,,,,,,Attack,,,
+,Flora,FALSE,Handkerchief,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,"NPC available after starting quest: Daughter of the Dark God (II)
+Can't Purchase, only Steal"
+,,FALSE,Hairbrush,,,,,,,,,,,,,,,,,,
+,,FALSE,Stuffed Toy,,,,,,,,,,,,,,,,,,
+,,FALSE,Large Feather,,,,,,,,,,,,,,,,,,
+,Alphas (3),FALSE,Herb of Valor,FALSE,Alphas's Poem,FALSE,8*,5,,,,,,Enchanted Sword,,X,X,X,X,,NPC at this location after quest: Daughter of the Dark God (II)
+,,FALSE,Healing Grape (M),,,,,,,,,,,,,,,,,,
+,,FALSE,Energizing Pomegranate (L),,,,,,,,,,,,,,,,,,
+,Alphas (5),,X,,X,,X,X,X,X,X,X,X,X,,X,X,X,X,,NPC at this location after quest: Alphas and the Impresario
+,Saintsbridge Cathedral,,,,,,,,,,,,,,,,,,,,
+,Cleric,FALSE,Inspiriting Plum Basket,FALSE,Guide with Ease,FALSE,5*,4,,,,,,Spiked Vest,,5*,,Gentle Cradle,7,,"Can't Steal, only Purchase"
+,,FALSE,Inspiriting Plum Basket,,,,,,,,,,,,,,,Luminescence,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Kindly Cleric,FALSE,Forbidden Staff,FALSE,"A Hidden Item
+Inspiriting Plum (M)",FALSE,8*,5,,,,,,Refreshing Jam,,8*,,Lux Congerere,6,,"Can't Steal Forbidden Staff, only Purchase"
+,,FALSE,Injurious Dust,,,,,,,,,,,,,,,Gentle Cradle,,,
+,,FALSE,Ruinous Seed,,,,,,,,,,,,,,,Attack,,,
+,"Ruffian /
+Reformed Man (2)",FALSE,Old Coin,FALSE,None,FALSE,4*,3,,,,,,Inspiriting Plum,,4*,,Rag Toss,8,,NPC at this location after quest: The Pilgrim's Plight
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Bishop Bartolo (1),FALSE,Staff of Wonders,FALSE,None,FALSE,6*,4,,,,,,Healing Grape (M),,6*,,Wisdom of the Church,7,,NPC available only during Ophilia chapter 2
+,,,,,,,,,,,,,,,,,,Ice Storm,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Bishop Bartolo (2),FALSE,Staff of Wonders,FALSE,None,FALSE,6*,4,,,,,,Mental Belt,,6*,,Wisdom of the Church,7,,"NPC available again after Ophilia chapter 4
+Can't Steal Battle-tested Staff, only Purchase"
+,,FALSE,Battle-tested Staff,,,,,,,,,,,,,,,Ice Storm,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Townsperson,FALSE,Holy Longbow,FALSE,"A Hidden Item
+Copper-filled Pouch",FALSE,2*,2,,,,,,Energizing Pomegranate,,2*,,Health for All,9,,Holy Longbow Not for Sale
+,,FALSE,Unerring Necklace,,,,,,,,,,,,,,,Pointed Shot,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,East Saintsbridge Traverse,,,,,,,,,,,,,,,,,,,,
+,"Ruffian /
+Reformed Man (1)",FALSE,Old Coin,FALSE,None,FALSE,4*,3,,,,,,Inspiriting Plum,,4*,,Sand Toss,8,,Moves to Saintsbridge Cathedral after quest: The Pilgrim's Plight completed
+,,,,,,,,,,,,,,,,,,Dagger Storm,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,"Landscape Artist /
+Baker (1)",FALSE,Olive of Life (M),FALSE,None,FALSE,2*,2,,,,,,Healing Grape Bunch,,2*,,Brush Toss,9,,"Moves to Saintsbridge as Baker or Atlasdam as Landscape Artist after quest:
+The Prodigious Painting"
+,,FALSE,Essence of Plum,,,,,,,,,,,,,,,Palette Toss,,,
+,,FALSE,* Final Masterpiece,,,,,,,,,,,,,,,Attack,,,
+,River Dweller (1),FALSE,Sprightly Bracelet,FALSE,"A Hidden Item
+Ice Soulstone (M)",FALSE,2*,2,,,,,,Inspiriting Plum (M),,2*,,Sleepweed,9,,"Hidden Item in Saintsbridge
+Moves to Saintsbridge after quest: A Corpse with No Name"
+,,,,,,,,,,,,,,,,,,Head Bash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Assiduous Scholar,FALSE,Essence of Pomegranate,FALSE,Early Ice Thawing,FALSE,3*,3,,,,,,Addlewort,,3*,,Lightning Bolt,8,,Guide / Allure available after quest: The Worrywart
+,,FALSE,Olive Bloom,,,,,,,,,,,,,,,Wind Blast,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Farshore,,,,,,,,,,,,,,,,,,,,
+,Unsavory Man,FALSE,Bottle of Poison Dust,FALSE,None,FALSE,2*,2,,,,,,Bottle of Poison Dust,,2*,,Poison Slash,9,,
+,,FALSE,Bottle of Blinding Dust,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,* Hugo's Journal,,,,,,,,,,,,,,,,,,
+,Tier 3,,,,,,,,,,,,,,,,,,,,
+,Riverford,,,,,,,,,,,,,,,,,,,,
+,Guard,FALSE,Healing Grape (M),FALSE,"A Hidden Item
+Fire Soulstone (L)",FALSE,6*,4,,,,,,Healing Grape (M),,6*,,Sweeping Slash,7,,
+,,FALSE,Wind Soulstone (M),,,,,,,,,,,,,,,Slice,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Guard,FALSE,Energizing Pomegranate (M),FALSE,None,FALSE,7*,4,,,,,,Rune Bow,,7*,,Mental Degradation,6,,
+,,FALSE,Fire Soulstone (M),,,,,,,,,,,,,,,Flurry,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,"Passionate Youth /
+Passionate Explorer /
+Passionate Farmer (1)",FALSE,Bottle of Poison Dust,FALSE,None,FALSE,4*,3,,,,,,Herb of Valor,,4*,,Dagger Storm,8,,"NPC available after Ophilia chapter 4
+Moves to:
+Refuge Ruins after quest: The Hidden Hoard (Purchase / Steal solution only)
+or Wispermill after quest: The Hidden Hoard (Scrutinize / Inquire solution only)"
+,,FALSE,Mysterious Seed,,,,,,,,,,,,,,,Slash,,,
+,,FALSE,Injurious Dust,,,,,,,,,,,,,,,Attack,,,
+,Traveler,FALSE,Bottle of Poison Dust,,X,FALSE,3*,3,,,,,,Inspiriting Plum (M),,3*,,Head Bash,8,,NPC available upon starting Olberic chapter 4
+,,FALSE,Bottle of Blinding Dust,,,,,,,,,,,,,,,,,,
+,,FALSE,Bottle of Befuddling Dust,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Bottle of Sleeping Dust,,,,,,,,,,,,,,,,,,
+,The Man with the Red Hat (1),,X,,X,FALSE,7*,4,,,,,,Thunder Soulstone (M),,X,X,X,X,,"NPC available during Olberic chapter 4
+Moves to Lower Riverford after Olberic chapter 4"
+,,,,,,,,,,,,,,,,,,,,,
+,Reggie,FALSE,Healing Grape (M),FALSE,None,FALSE,6*,4,,,,,,Herb of Valor,,6*,,Defensive Posture,7,,NPC available after Olberic chapter 4
+,,FALSE,Healing Grape (M),,,,,,,,,,,,,,,Slice,,,
+,,FALSE,Protective Necklace,,,,,,,,,,,,,,,Attack,,,
+,Guard,FALSE,Gargantuan Shield,FALSE,"A Hidden Item
+Silver-filled Pouch",FALSE,3*,3,,,,,,Healing Grape (M),,3*,,Flurry,8,,Hidden Item in Lower Riverford area behind NPC (Challenge / Provoke)
+,,,,,,,,,,,,,,,,,,Panacea,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Guard,FALSE,Unseen Saber,FALSE,Thieving Tips & Tricks,FALSE,10*,6,,,,,,Revitalizing Jam,,10*,,Drunken Blade,4,,
+,,,,,,,,,,,,,,,,,,Grog Spit,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,"Mysterious Knight /
+Cervantes (2)",FALSE,Rune Hatchet,FALSE,None,FALSE,3*,3,,,,,,Revitalizing Jam,,3*,,Stab,8,,"NPC at this location after quest: The Adventuring Life
+(Challenge / Provoke solution only)"
+,,,,,,,,,,,,,,,,,,Repeated Strike,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Servant,FALSE,Refreshing Jam,FALSE,None,FALSE,5*,4,,,,,,Herb of Awakening,,5*,,Lux Congerere,7,,
+,,,,,,,,,,,,,,,,,,Ice Storm,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Merchant,FALSE,Energizing Pomegranate (L),FALSE,Discount at the Inn,FALSE,6*,4,,,,,,Ice Soulstone (M),,6*,,Poison Slash,7,,
+,,FALSE,Purifying Dust,,,,,,,,,,,,,,,Steel Defenses,,,
+,,FALSE,Olive Bloom,,,,,,,,,,,,,,,Attack,,,
+,Old Man,FALSE,Inspiriting Plum (M),FALSE,"A Hidden Item
+Healing Grape (M)",FALSE,3*,3,,,,,,Inspiriting Plum (M),,3*,,Panacea,8,,
+,,FALSE,Tough Nut (L),,,,,,,,,,,,,,,Flurry,,,
+,,FALSE,Mysterious Seed,,,,,,,,,,,,,,,Attack,,,
+,Townsperson,FALSE,Nourishing Nut (L),FALSE,None,FALSE,8*,5,,,,,,Yggdrasil Staff,,X,X,X,X,,
+,,FALSE,Tough Nut (L),,,,,,,,,,,,,,,,,,
+,,FALSE,Critical Nut (L),,,,,,,,,,,,,,,,,,
+,Lower Riverford,,,,,,,,,,,,,,,,,,,,
+,Elderly Woman,FALSE,Giant's Club,FALSE,Challenge with Ease,FALSE,7*,4,,,,,,Shadow Soulstone (M),,7*,,Tenebrae Operire,6,,
+,,FALSE,Thunder Soulstone (M),,,,,,,,,,,,,,,Lightning Storm,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,The Man with the Red Hat (2),FALSE,X,FALSE,None,FALSE,7*,4,,,,,,Thunder Soulstone (M),,X,X,X,X,,NPC available after Olberic chapter 4
+,Soldier,FALSE,Ruinous Seed,FALSE,None,FALSE,4*,3,,,,,,Olive of Life (M),,X,X,X,X,,
+,,FALSE,Ruinous Seed,,,,,,,,,,,,,,,,,,
+,,FALSE,Fire Amulet,,,,,,,,,,,,,,,,,,
+,Meryl (3),FALSE,Essence of Plum,FALSE,None,FALSE,1*,2,,,,,,Noxroot,,3*,,Flurry,8,,"NPC at this location after quest: Meryl, Lost then Found (II)
+Moves to Clearbrook after quest: Meryl, Lost then Found (III)"
+,,FALSE,Essence of Pomegranate,,,,,,,,,,,,,,,Attack,,,
+,Sickly Woman,FALSE,X,FALSE,X,FALSE,X,X,X,X,X,X,X,X,,X,X,X,X,,"NPC available only during quest: Meryl, Lost then Found (III)"
+,Kindly Neighbor,FALSE,Herb of Healing,FALSE,None,FALSE,1*,2,,,,,,Wind Soulstone (M),,1*,,Pummel,9,,"NPC available after quest: Meryl, Lost then Found (II)"
+,,FALSE,Wind Soulstone (M),,,,,,,,,,,,,,,Attack,,,
+,Merchant,FALSE,Carnage Blade,FALSE,"A Hidden Item
+Silver Clock",FALSE,8*,5,,,,,,Light Soulstone (M),,8*,,Full Enfeeblement,6,,Hidden item in other part of town
+,,FALSE,Calamity Spear,,,,,,,,,,,,,,,Pointed Shot,,,
+,,FALSE,Befuddling Dagger,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,War Hammer,,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Ice Soulstone (M),FALSE,"A Hidden Item
+Energizing Pomegranate (M)",FALSE,8*,5,,,,,,Dragon's Helm,,X,X,X,X,,
+,,FALSE,Ice Soulstone (M),,,,,,,,,,,,,,,,,,
+,,FALSE,Ice Soulstone (L),,,,,,,,,,,,,,,,,,
+,Girl,FALSE,Candy,FALSE,More Plentiful Provisions,FALSE,X,X,X,X,X,X,X,X,,X,X,X,X,,Behind other NPC (Challenge / Provoke)
+,,,,,,,,,,,,,,,,,,,,,
+,Townsperson,,X,,X,,X,X,X,X,X,X,X,X,,X,X,X,X,,Disapear after Olberic chapter 4
+,Harald,FALSE,Imperial Lance,FALSE,None,FALSE,7*,4,,,,,,Olive of Life (M),,7*,,Peerless Strike,6,,"NPC available after quest: Hello Again, Harald"
+,,,,,,,,,,,,,,,,,,Exploit Weakness,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Refuge Ruins,,,,,,,,,,,,,,,,,,,,
+,"Passionate Youth /
+Passionate Explorer /
+Passionate Farmer (2)",FALSE,Bottle of Poison Dust,FALSE,None,FALSE,4*,3,,,,,,Herb of Valor,,4*,,Dagger Storm,8,,NPC at this location after quest: The Hidden Hoard (Purchase / Steal solution only)
+,,FALSE,Mysterious Seed,,,,,,,,,,,,,,,Slash,,,
+,,FALSE,Injurious Dust,,,,,,,,,,,,,,,Attack,,,
+,,,,,,,,,,,,,,,,,,,,,
+Cliftlands,,,,,,,,,,,,,,,,,,,,,
+,Tier 1,,,,,,,,,,,,,,,,,,,,
+,Bolderfall,,,,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Energizing Pomegranate,FALSE,Thieving Tips & Tricks,FALSE,2*,2,,,,,,Herb of Clarity,,2*,,Fireball,9,,
+,,FALSE,Olive of Life,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Nourishing Nut,,,,,,,,,,,,,,,,,,
+,"Egg-seeking Girl's /
+Kaia (1)",FALSE,Olive of Life,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,"NPC available after Therion chapter 1
+Moves to Quarrycrest after quest: Kaia, Mother of Dragon (I)"
+,,FALSE,Tree Nut,,,,,,,,,,,,,,,,,,
+,Elderly Woman,FALSE,Healing Grape (M),FALSE,"A Hidden Item
+Falcon Dagger",FALSE,1*,2,,,,,,Healing Grape (M),,1*,,Inspiriting Plum,9,,Hidden Item behind NPC (Challenge / Provoke)
+,,FALSE,Healing Grape (M),,,,,,,,,,,,,,,Poison Slash,,,
+,,FALSE,Inspiriting Plum (M),,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Inspiriting Plum (M),,,,,,,,,,,,,,,,,,
+,Old Man,FALSE,Energizing Pomegranate,FALSE,Discount at the Inn,FALSE,1*,2,,,,,,Herb of Clarity,,X,X,X,X,,
+,Proud Collector,FALSE,Befuddling Dagger,FALSE,None,FALSE,3*,3,,,,,,Herb of Valor,,3*,,Slumber Slash,8,,NPC available after Tressa chapter 4
+,,FALSE,Herb of Valor,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,* Astonishing Object,,,,,,,,,,,,,,,,,,
+,Cliftlands Know-it-all,FALSE,Inspiriting Plum,FALSE,History of the Cliftlands,FALSE,4*,3,,,,,,Psychic Staff,,X,X,X,X,,NPC available upon starting quest: Russell's Repentance
+,,FALSE,Herb of Awakening,,,,,,,,,,,,,,,,,,
+,Genteel Madam (2),FALSE,Healing Grape,FALSE,None,FALSE,1*,2,,,,,,Healing Grape,,1*,,Slash,9,,NPC at this location after quest: Way Through the Woods
+,,FALSE,Energizing Pomegranate,,,,,,,,,,,,,,,Attack,,,
+,Industrious Husband,FALSE,Arcane Bow,FALSE,None,FALSE,3*,3,,,,,,Energizing Pomegranate,,3*,,Thrash,8,,"NPC available after Therion chapter 1
+Guide / Allure available after quest: Way Through the Woods"
+,,FALSE,Energizing Pomegranate,,,,,,,,,,,,,,,Attack,,,
+,Merchant,FALSE,Enlightening Earring,FALSE,None,FALSE,3*,3,,,,,,Olive of Life,,3*,,Steel Defenses,8,,"NPC available upon starting Therion Chapter 1 in between scene
+(moves to Lower Bolderfall a shortwhile, fully accessible after ch.1)"
+,,,,,,,,,,,,,,,,,,Stab,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Stern Guardsman (1),FALSE,Stimulating Necklace,FALSE,None,FALSE,5*,4,,,,,,Inspiriting Plum,,5*,,Sweep,7,,"NPC available after Therion chapter 1
+Moves to Lower Bolderfall after quest: Sparks of Revolution
+(Scrutinize / Inquire solution only)"
+,,FALSE,Stimulating Earring,,,,,,,,,,,,,,,Slice and Dice,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Enlightened Aristocrat (1),FALSE,Enlightening Earring,FALSE,Project Plans,FALSE,3*,3,,,,,,Herb of Valor,,3*,,Mental Augmentation,8,,NPC available after Therion chapter 1
+,,,,,,,,,,,,,,,,,,Lightning Bolt,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Gentle Graybeard,FALSE,Inspiriting Plum,FALSE,None,FALSE,3*,3,,,,,,Inspiriting Plum,,X,X,X,X,,NPC available after Therion chapter 1
+,,FALSE,Critical Nut,,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Iron Axe,FALSE,New Weapons for Sale,FALSE,3*,3,,,,,,Bronze Armor,,3*,,Slow Motion,8,,
+,,FALSE,Iron Spear,,,,,,,,,,,,,,,Slumber Slash,,,
+,,FALSE,Composite Bow,,,,,,,,,,,,,,,Attack,,,
+,Beastmaster,FALSE,Inspiriting Plum,FALSE,None,FALSE,3*,3,,,,,,Inspiriting Plum,,3*,,Thrash,8,,NPC available after Therion chapter 1
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Tiger Cub (2),,X,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,"NPC at this location after quest: A Cub with No Name
+(Guide / Allure solution only)"
+,Merchant,FALSE,Fire Soulstone,FALSE,None,FALSE,2*,2,,,,,,Energizing Pomegranate,,2*,,Improved Offense,9,,"NPC available upon starting Therion Chapter 1 (in between scene)
+will be fully accessible after ch.1"
+,,FALSE,Ice Soulstone,,,,,,,,,,,,,,,Slash,,,
+,,FALSE,Wind Soulstone,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Shadow Soulstone,,,,,,,,,,,,,,,,,,
+,Lower Bolderfall,,,,,,,,,,,,,,,,,,,,
+,Pauper,FALSE,* Rebel's Axe,FALSE,None,FALSE,1*,2,,,,,,Inspiriting Plum (M),,4*,,Healing Grape,8,,
+,,,,,,,,,,,,,,,,,,Poison Slash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Veteran Brigand (1),FALSE,Iron Dagger,FALSE,None,FALSE,3*,3,,,,,,Healing Grape,,3*,,Poison Slash,8,,"NPC available after Therion chapter 1
+Guide / Allure available after quest: The Bandits' Code
+Moves to Stonegard after quest: The Bandits' Code (Guide / Allure solution only)"
+,,FALSE,Sprightly Earring,,,,,,,,,,,,,,,Attack,,,
+,"Faltering Youth /
+Fledgling Bandit (2)",FALSE,Stinging Dagger,FALSE,None,FALSE,2*,2,,,,,,Sturdy Shield,,2*,,Head Bash,9,,NPC at this location after quest: The Bandits' Code (Guide / Allure solution only)
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Pauper,FALSE,* Spear of Justice,FALSE,None,FALSE,2*,2,,,,,,Healing Grape,,X,X,X,X,,
+,Townsperson,FALSE,Healing Grape (M),FALSE,None,FALSE,10*,6,,,,,,Battle-tested Blade,,10*,,Guillotine,4,,Behind other NPC (Challenge / Provoke)
+,,FALSE,Energizing Pomegranate,,,,,,,,,,,,,,,Stunning Strike,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Omar,FALSE,Magic Nut (M),FALSE,None,FALSE,7*,5,,,,,,Thunder Soulstone (L),,7*,,Overhead Swing,6,,NPC available after Tressa chapter 4
+,,FALSE,Death Cleaver,,,,,,,,,,,,,,,Improved Offense,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Morlock,FALSE,Fool's Gold Ore,FALSE,None,FALSE,4*,3,,,,,,Shadow Soulstone (M),,4*,,Lightning Storm,8,,NPC available after Tressa chapter 4
+,,FALSE,Rare Stone,,,,,,,,,,,,,,,Poison Dust,,,
+,,FALSE,Knowledge Staff,,,,,,,,,,,,,,,Attack,,,
+,Pauper Revolutionary,FALSE,* Revolutionary Sword,FALSE,None,FALSE,4*,3,,,,,,Healing Grape,,4*,,Inhibit Offense,8,,NPC available after Therion chapter 1
+,,,,,,,,,,,,,,,,,,Exploit Weakness,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Stern Guardsman (2),FALSE,Stimulating Necklace,FALSE,None,FALSE,5*,4,,,,,,Inspiriting Plum,,5*,,Sweep,7,,"NPC at this location after quest: Sparks of Revolution
+(Scrutinize / Inquire solution only)"
+,,FALSE,Stimulating Earring,,,,,,,,,,,,,,,Slice and Dice,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Enlightened Aristocrat (2),FALSE,Enlightening Earring,FALSE,Project Plans,FALSE,3*,3,,,,,,Herb of Valor,,3*,,Mental Augmentation,8,,"NPC at this location after quest: Sparks of Revolution
+(Scrutinize / Inquire solution only)"
+,,,,,,,,,,,,,,,,,,Lightning Bolt,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Wallace Wildsword,FALSE,Critical Nut (M),FALSE,None,FALSE,4*,3,,,,,,Healing Grape Bunch,,4*,,Sweeping Slash,8,,NPC available after Olberic chapter 4
+,,FALSE,Hasty Helm,,,,,,,,,,,,,,,Boorish Behavior,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Wealthy Merchant,FALSE,* Letter of Introduction,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,NPC available only during Therion Chapter 1
+,Ravus Manor Gate,,,,,,,,,,,,,,,,,,,,
+,Lyblac (1),,X,,X,,X,X,X,X,X,X,X,X,,X,X,X,X,,"NPC available after Therion chapter 1
+Moves to Saintsbridge after quest: Daughter of the Dark God (I)"
+,,,,,,,,,,,,,,,,,,,,,
+,Alphas (1),FALSE,Herb of Valor,,X,FALSE,5*,4,,,,,,Enchanted Sword,,X,X,X,X,,"NPC available after Therion chapter 1
+Can't Purchase, only Steal
+Moves to Saintsbridge upon starting quest: Daughter of the Dark God (II)"
+,,FALSE,Healing Grape (M),,,,,,,,,,,,,,,,,,
+,,FALSE,Energizing Pomegranate (L),,,,,,,,,,,,,,,,,,
+,Guard,FALSE,Herb of Awakening,FALSE,None,FALSE,5*,4,,,,,,Healing Grape,,5*,,Blinding Slash,7,,
+,,FALSE,Herb of Awakening,,,,,,,,,,,,,,,Slash,,,
+,,FALSE,Herb of Awakening,,,,,,,,,,,,,,,Attack,,,
+,Guard,FALSE,Inspiriting Plum,FALSE,None,FALSE,7*,4,,,,,,Olive of Life,,7*,,High Thrust,6,,
+,,FALSE,Inspiriting Plum (M),,,,,,,,,,,,,,,Slice,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Guard Captain,FALSE,Wakeful Stone,FALSE,None,FALSE,9*,6,,,,,,Battle-tested Dagger,,9*,,Guillotine,5,,
+,,,,,,,,,,,,,,,,,,High Thrust,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Guard,FALSE,Healing Grape,FALSE,"A Hidden Item
+War Spear",FALSE,7*,4,,,,,,Healing Grape,,7*,,Stunning Strike,6,,
+,,FALSE,Healing Grape (M),,,,,,,,,,,,,,,Slice,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Guard,FALSE,Bone,FALSE,Challenge with Ease,FALSE,6*,4,,,,,,Herb of Healing,,6*,,Sweeping Slash,7,,
+,,FALSE,Energizing Pomegranate,,,,,,,,,,,,,,,Slice,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Guard Dog,,X,FALSE,"A Hidden Item
+Dirty Ball of Cloth",,X,X,X,X,X,X,X,X,,X,X,X,X,,
+,,,,,,,,,,,,,,,,,,,,,
+,Guard Dog,,X,FALSE,"A Hidden Item
+Weathered Boots",,X,X,X,X,X,X,X,X,,X,X,X,X,,
+,,,,,,,,,,,,,,,,,,,,,
+,Guard Dog,,X,FALSE,"A Hidden Item
+Elusive Shield",,X,X,X,X,X,X,X,X,,X,X,X,X,,
+,,,,,,,,,,,,,,,,,,,,,
+,Cordelia (2),FALSE,Healing Grape Bunch,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,NPC at this location after quest: Keeping Up with the Wyndhams
+,,FALSE,Shadow Soulstone (L),,,,,,,,,,,,,,,,,,
+,,FALSE,Silver-filled Pouch,,,,,,,,,,,,,,,,,,
+,Heathcote,FALSE,Falcon Saber,FALSE,None,FALSE,6*,4,,,,,,Energizing Pomegranate,,6*,,Double Spear,7,,"NPC available after Therion chapter 4
+Guide / Allure available after quest: Heathcote's High Jinks"
+,,,,,,,,,,,,,,,,,,Repeated Strike,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Guard,FALSE,Candy,FALSE,None,FALSE,6*,4,,,,,,Herb of Clamor,,6*,,Panic Arrow,7,,NPC available upon starting Therion Chapter 1
+,,FALSE,Tree Nut,,,,,,,,,,,,,,,Pointed Shot,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Tier 2,,,,,,,,,,,,,,,,,,,,
+,Quarrycrest,,,,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Heavy Axe,FALSE,Smarter Bartering,FALSE,4*,3,,,,,,Purifying Dust,,4*,,Thrash,8,,
+,,FALSE,Iron Helm,,,,,,,,,,,,,,,Stab,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Gendy,FALSE,Gendy's Footcloth,FALSE,None,FALSE,2*,2,,,,,,Olive of Life,,2*,,Fireball,9,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Townsperson,FALSE,Pseudo Gold Ore,FALSE,"Witness Testimony /
+None",FALSE,2*,2,,,,,,Ice Soulstone (M),,2*,,Slash,9,,NPC available upon starting Cyrus chapter 2
+,,FALSE,Pseudo Gold Ore,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Pseudo Gold Ore,,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Viking Axe,FALSE,"The Sewers /
+None",FALSE,3*,3,,,,,,Energizing Pomegranate,,3*,,Slash,8,,NPC available upon starting Cyrus chapter 2
+,,FALSE,Sturdy Helm,,,,,,,,,,,,,,,Attack,,,
+,"Egg-seeking Girl's /
+Kaia (2)",FALSE,Olive of Life,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,"NPC at this location after quest: Kaia, Mother of Dragon (I)
+Moves to Orewell after quest: Kaia, Mother of Dragon (II)"
+,,FALSE,Tree Nut,,,,,,,,,,,,,,,,,,
+,,FALSE,Dubious Gold Ore,,,,,,,,,,,,,,,,,,
+,,FALSE,Olive of Life (M),,,,,,,,,,,,,,,,,,
+,Laborer,FALSE,Fool's Gold Ore,FALSE,None,FALSE,8*,5,,,,,,Legion Dagger,,X,X,X,X,,Fool's Gold Ore Not for Sale
+,,FALSE,Fool's Gold Ore,,,,,,,,,,,,,,,,,,
+,Elderly Woman,FALSE,Forbidden Spear,FALSE,"A Hidden Item
+Fire Soulstone (L)",FALSE,2*,2,,,,,,Inspiriting Plum (M),,2*,,Health for All,9,,"Behind other NPC (Challenge / Provoke)
+Can't Steal Forbidden Spear, only Purchase"
+,,,,,,,,,,,,,,,,,,Pointed Shot,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Townsperson,FALSE,Refreshing Jam,FALSE,Undeniable Allure,FALSE,2*,2,,,,,,Herb of Clamor,,2*,,Cure Poison,9,,
+,,FALSE,Fortifying Nut (M),,,,,,,,,,,,,,,Blinding Slash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Odette (1),,X,FALSE,Where the Incident's Happened,,X,X,X,X,X,X,X,X,,X,X,X,X,,NPC available only during Cyrus chapter 2
+,Odette (2),FALSE,Fire Soulstone (M),FALSE,Why She Doesn't Visit Geoffrey,FALSE,5*,4,,,,,,Fire Soulstone (M),,5*,,Fire Storm,7,,"NPC available upon starting quest: Revello and Odette
+Guide / Allure available after quest: Revello and Odette"
+,,FALSE,Sprightly Ring,,,,,,,,,,,,,,,Fireball,,,
+,,FALSE,Pole Mace,,,,,,,,,,,,,,,Attack,,,
+,Townsperson,FALSE,Silver-filled Pouch,FALSE,New Weapons for Sale,FALSE,3*,3,,,,,,Ice Soulstone (L),,3*,,Improved Offense,8,,
+,,FALSE,Protective Ring,,,,,,,,,,,,,,,Exploit Weakness,,,
+,,FALSE,Critical Bracelet,,,,,,,,,,,,,,,Attack,,,
+,Laborer,FALSE,Dubious Gold Ore,FALSE,"A Hidden Item
+Pseudo Gold Ore",FALSE,5*,4,,,,,,Thunder Soulstone (M),,5*,,Cure Poison,7,,
+,,FALSE,Thunder Soulstone (M),,,,,,,,,,,,,,,Poison Slash,,,
+,,FALSE,Thunder Soulstone (L),,,,,,,,,,,,,,,Attack,,,
+,Quarrycrest Mines,,,,,,,,,,,,,,,,,,,,
+,Laborer,FALSE,Injurious Dust,FALSE,"A Hidden Item
+Refreshing Jam",FALSE,2*,2,,,,,,Healing Grape (M),,2*,,Befuddling Balm,9,,
+,,FALSE,Ruinous Seed,,,,,,,,,,,,,,,Repeated Strike,,,
+,,FALSE,Curious Bloom,,,,,,,,,,,,,,,Attack,,,
+,Laborer,FALSE,Empty Coin Pouch,FALSE,Discount at the Inn,FALSE,3*,3,,,,,,Inspiriting Plum (M),,3*,,Steel Defenses,8,,
+,,,,,,,,,,,,,,,,,,Thrash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,"Pensive Girl /
+Budding Songstress /
+Wide-Eyed Girl (2)",FALSE,Soothing Seed,FALSE,None,FALSE,1*,2,,,,,,Healing Grape (M),,1*,,Slice,9,,NPC at this location after quest: Setting Out (Guide / Allure solution only)
+,,FALSE,Crescent Dagger,,,,,,,,,,,,,,,Attack,,,
+,Tavern Proprietor,FALSE,Mysterious Ore,FALSE,None,FALSE,2*,2,,,,,,Shadow Soulstone (M),,2*,,Full Swing,9,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Inquisitive Lady,FALSE,Crescent Dagger,FALSE,None,FALSE,1*,2,,,,,,Purifying Seed,,1*,,Sharpen,9,,
+,,,,,,,,,,,,,,,,,,Slash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Laborer,FALSE,Fish Tooth,FALSE,"A Hidden Item
+Olive of Life (M)",FALSE,2*,2,,,,,,Inspiriting Plum (M),,2*,,Critical Eye,9,,Temporarily unavailable during Tressa chapter 2
+,,FALSE,Fire Soulstone (L),,,,,,,,,,,,,,,Exploit Weakness,,,
+,,FALSE,Ice Soulstone (L),,,,,,,,,,,,,,,Attack,,,
+,Laborer,FALSE,* Nondescript Stone / Skystone,FALSE,None,FALSE,5*,4,,,,,,Herb of Light,,5*,,Mighty Blow,7,,"NPC available upon starting Tressa chapter 2
+Fully unlocked after Tressa chapter 2"
+,,FALSE,Shadow Soulstone (M),,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Mysterious Ore,,,,,,,,,,,,,,,,,,
+,Laborer,FALSE,Dubious Gold Ore,FALSE,None,FALSE,2*,2,,,,,,Arcane Hatchet,,2*,,Healing Grape,9,,Temporarily unavailable during Tressa chapter 2
+,,FALSE,Light Soulstone (M),,,,,,,,,,,,,,,Full Swing,,,
+,,FALSE,Light Soulstone (L),,,,,,,,,,,,,,,Attack,,,
+,Laborer,FALSE,Mysterious Ore,FALSE,"A Hidden Item
+Fool's Gold Ore",FALSE,6*,4,,,,,,Wind Soulstone (M),,6*,,Peerless Strike,7,,Temporarily unavailable during Tressa chapter 2
+,,FALSE,Wind Soulstone (M),,,,,,,,,,,,,,,Exploit Weakness,,,
+,,FALSE,Wind Soulstone (L),,,,,,,,,,,,,,,Attack,,,
+,The Egg Man,FALSE,Shadow Soulstone (L),FALSE,None,FALSE,1*,2,,,,,,Shadow Soulstone (L),,1*,,Pummel,9,,"NPC available after quest: Kaia, Mother of Dragon (I)"
+,,FALSE,Pole Mace,,,,,,,,,,,,,,,Attack,,,
+,Laborer,FALSE,* Nondescript Stone / Skystone,FALSE,None,FALSE,4*,3,,,,,,Thunder Soulstone (L),,4*,,Healing Grape,8,,"NPC available upon starting Tressa chapter 2
+Fully unlocked after Tressa chapter 2"
+,,FALSE,Fire Soulstone (M),,,,,,,,,,,,,,,Slice,,,
+,,FALSE,Light Soulstone (M),,,,,,,,,,,,,,,Attack,,,
+,Miner,FALSE,Handaxe,FALSE,None,FALSE,4*,3,,,,,,Light Soulstone (M),,4*,,Thrash,8,,
+,,FALSE,Iron Helm,,,,,,,,,,,,,,,Stab,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Laborer,FALSE,Fool's Gold Ore,FALSE,None,FALSE,4*,3,,,,,,Iron Armor,,4*,,Dagger Storm,8,,Temporarily unavailable during Tressa chapter 2
+,,FALSE,Wind Soulstone (L),,,,,,,,,,,,,,,Slash,,,
+,,FALSE,Silent Bandana,,,,,,,,,,,,,,,Attack,,,
+,Laborer,FALSE,* Nondescript Stone / Skystone,FALSE,None,FALSE,7*,4,,,,,,Wind Soulstone (L),,7*,,Inhibit Defense,6,,"NPC available upon starting Tressa chapter 2
+Fully unlocked after Tressa chapter 2"
+,,FALSE,Fool's Gold Ore,,,,,,,,,,,,,,,High Thrust,,,
+,,FALSE,Rare Stone,,,,,,,,,,,,,,,Attack,,,
+,Tier 3,,,,,,,,,,,,,,,,,,,,
+,Orewell,,,,,,,,,,,,,,,,,,,,
+,Villager,FALSE,Healing Grape Bunch,FALSE,More Plentiful Provisions,FALSE,7*,4,,,,,,Injurious Seed,,7*,,Blinding Dust,6,,
+,,FALSE,Inspiriting Plum Basket,,,,,,,,,,,,,,,Sweep,,,
+,,FALSE,Refreshing Jam,,,,,,,,,,,,,,,Attack,,,
+,Oblivious Townsperson,FALSE,Enlightening Necklace,FALSE,"A Hidden Item
+Inspiriting Plum (M)",FALSE,3*,3,,,,,,Injurious Seed,,3*,,Poison Slash,8,,
+,,,,,,,,,,,,,,,,,,Slash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,"Egg-seeking Girl's /
+Kaia (3)",FALSE,Olive of Life,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,"NPC at this location after quest: Kaia, Mother of Dragon (II)
+Disapear after quest: Kaia, Mother of Dragon (III)"
+,,FALSE,Tree Nut,,,,,,,,,,,,,,,,,,
+,,FALSE,Dubious Gold Ore,,,,,,,,,,,,,,,,,,
+,,FALSE,Olive of Life (M),,,,,,,,,,,,,,,,,,
+,,FALSE,Ruinous Dust,,,,,,,,,,,,,,,,,,
+,Elderly Woman,FALSE,Olive of Life (L),FALSE,None,FALSE,6*,4,,,,,,Inspiriting Plum (M),,X,X,X,X,,
+,,FALSE,Thunder Soulstone (M),,,,,,,,,,,,,,,,,,
+,,FALSE,Thunder Soulstone (M),,,,,,,,,,,,,,,,,,
+,,FALSE,Thunder Soulstone (L),,,,,,,,,,,,,,,,,,
+,Old Man,FALSE,Invigorating Nut (M),FALSE,"A Hidden Item
+Hill Cleaver",FALSE,6*,4,,,,,,Healing Grape (M),,6*,,Fire Storm,7,,Behind other NPC (Challenge / Provoke)
+,,FALSE,Fortifying Nut (M),,,,,,,,,,,,,,,Fireball,,,
+,,FALSE,Magic Nut (M),,,,,,,,,,,,,,,Attack,,,
+,Patient,,X,FALSE,Ogen's Mutterings,,X,X,X,X,X,X,X,X,,X,X,X,X,,NPC available during Alfyn chapter 4
+,Villager,FALSE,Olive Bloom,FALSE,None,FALSE,6*,4,,,,,,Healing Grape (M),,6*,,Shatter and Smash,7,,
+,,FALSE,Olive Bloom,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Olive Bloom,,,,,,,,,,,,,,,,,,
+,"Miserable Mother /
+Proud Mother",FALSE,Essence of Grape,FALSE,"A Hidden Item
+Inspiriting Plum Basket",FALSE,1*,2,,,,,,"Feathered Hat /
+Soothing Seed",,1*,,Slash,9,,"Guide / Allure available after quest: The Wayward Son
+Drop Feathered Hat as Miserable Mother
+Drop Soothing Seed as Proud Mother"
+,,FALSE,Essence of Plum,,,,,,,,,,,,,,,Attack,,,
+,Affable Merchant,FALSE,Glass Marble,FALSE,Dragon of the Cliflands,FALSE,2*,2,,,,,,Injurious Dust,,2*,,Slow Motion,9,,
+,,FALSE,Large Feather,,,,,,,,,,,,,,,Exploit Weakness,,,
+,,FALSE,Rare Stone,,,,,,,,,,,,,,,Attack,,,
+,Villager,FALSE,Fire Soulstone (L),FALSE,"A Hidden Item
+Revitalizing Jam",FALSE,7*,4,,,,,,Inspiriting Plum (M),,X,X,X,X,,
+,,FALSE,Fire Amulet,,,,,,,,,,,,,,,,,,
+,Villager,FALSE,Healing Grape (M),FALSE,Discount at the Inn,FALSE,8*,5,,,,,,Purifying Dust,,8*,,Critical Eye,6,,
+,,FALSE,Inspiriting Plum (M),,,,,,,,,,,,,,,Befuddling Balm,,,
+,,FALSE,Energizing Pomegranate (M),,,,,,,,,,,,,,,Attack,,,
+,Lazy Loafer,FALSE,Noxroot,FALSE,"A Hidden Item
+Empty Coin Pouch",FALSE,5*,4,,,,,,Purifying Dust,,5*,,Improved Offense,7,,
+,,FALSE,Sleepweed,,,,,,,,,,,,,,,Full Swing,,,
+,,FALSE,Addlewort,,,,,,,,,,,,,,,Attack,,,
+,"Struggling Merchant /
+Optimistic Merchant",FALSE,Olive of Life (L),FALSE,None,FALSE,3*,3,,,,,,Bronze Vest,,3*,,Blinding Dust,8,,Name changes after quest: On the Precipice
+,,FALSE,Empty Coin Pouch,,,,,,,,,,,,,,,Thrash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,South Orewell Pass,,,,,,,,,,,,,,,,,,,,
+,"Mysterious Knight /
+Cervantes (1)",FALSE,Rune Hatchet,FALSE,None,FALSE,3*,3,,,,,,Revitalizing Jam,,3*,,Stab,8,,"Guide / Allure available after quest: The Adventuring Life
+Moves to Riverford after quest: The Adventuring Life
+(Challenge / Provoke solution only)"
+,,,,,,,,,,,,,,,,,,Repeated Strike,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,"Enthusiastic Youth /
+Proud Squire (2)",FALSE,Curious Bloom,FALSE,None,FALSE,3*,3,,,,,,Handkerchief,,3*,,High Thrust,8,,NPC at this location after quest: The Adventuring Life (Guide / Allure solution only)
+,,,,,,,,,,,,,,,,,,Slice,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Dragonsong Fane,,,,,,,,,,,,,,,,,,,,
+,Curious Cleric,FALSE,Soothing Dust,FALSE,None,FALSE,8*,5,,,,,,* Dragon Egg,,X,X,X,X,,"NPC available after starting quest: Kaia, Mother of Dragon (III)
+Disapear after Challenge / Provoke"
+,,FALSE,Injurious Seed,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+Woodlands,,,,,,,,,,,,,,,,,,,,,
+,Tier 1,,,,,,,,,,,,,,,,,,,,
+,S'warkii,,,,,,,,,,,,,,,,,,,,
+,Villager,FALSE,Headgear,FALSE,Provoke Like a Pro,FALSE,1*,1,,,,,,Healing Grape,,1*,,Luminescence,9,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Fledgling Hunter,FALSE,Inspiriting Plum,FALSE,None,FALSE,1*,1,,,,,,Herb of Light,,1*,,Head Bash,9,,"Can't Challenge, only Provoke
+Guide / Allure available after H'aanit chapter 1"
+,,FALSE,Inspiriting Plum (M),,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Sprightly Earring,,,,,,,,,,,,,,,,,,
+,Ashlan (1),FALSE,Stimulating Earring,FALSE,None,FALSE,3*,3,,,,,,Black Cap,,3*,,Blinding Arrow,8,,"NPC available after H'aanit chapter 1
+Moves to Victors Hollow after quest: Ashlan the Beastmaster (I)"
+,,,,,,,,,,,,,,,,,,Pointed Shot,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Scholar of Beasts,FALSE,Inspiriting Plum,FALSE,How to Train a Tiger,FALSE,2*,2,,,,,,Healing Grape,,X,X,X,X,,NPC available after H'aanit chapter 1
+,,FALSE,Energizing Pomegranate,,,,,,,,,,,,,,,,,,
+,Fledgling Hunter,FALSE,Healing Grape,FALSE,None,FALSE,1*,1,,,,,,Healing Grape,,1*,,Head Bash,9,,"Can't Challenge, only Provoke
+Guide / Allure available after H'aanit chapter 1"
+,,FALSE,Olive of Life,,,,,,,,,,,,,,,Full Swing,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Hunter,FALSE,Healing Grape,FALSE,"A Hidden Item
+1 000$",FALSE,1*,1,,,,,,Healing Grape,,1*,,Pointed Shot,9,,"Can't Challenge, only Provoke"
+,,FALSE,Essence of Grape,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Battle Axe,,,,,,,,,,,,,,,,,,
+,Old Storyteller,FALSE,Healing Grape (M),FALSE,Tale of the Beast Tamers,FALSE,10*,6,,,,,,Battle-tested Bow,,X,X,X,X,,NPC available after H'aanit chapter 1
+,,FALSE,Critical Earring,,,,,,,,,,,,,,,,,,
+,Highbrow Historian,FALSE,Olive of Life (L),FALSE,Byron Family Lineage,FALSE,2*,2,,,,,,Olive of Life (L),,X,X,X,X,,NPC available after H'aanit chapter 1
+,"Aspiring Hunter /
+Fledgling Hunter /
+Aspiring Merchant",FALSE,Olive of Life,FALSE,"A Hidden Item
+Ice Soulstone",FALSE,1*,2,,,,,,Olive of Life,,1*,,Pointed Shot,9,,"NPC available after H'aanit chapter 1
+3 Different Challenge / Provoke & Guide / Allure as a result of how you
+complete quest: Rite of Passage"
+,,,,,,,,,,,,,,,,,,Attack,,,
+,,,,,,FALSE,2*,2,,,,,,Olive of Life,,2*,,Flurry,9,,
+,,FALSE,Olive Bloom,,,,,,,,,,,,,,,Pointed Shot,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,,,,,,FALSE,1*,2,,,,,,Olive of Life,,1*,,Befuddling Balm,9,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Bernhard the Beasthunter,FALSE,Confessional Armor,FALSE,None,FALSE,4*,3,,,,,,Wind Soulstone (M),,4*,,Flurry,8,,NPC available after Olberic chapter 4
+,,,,,,,,,,,,,,,,,,Pointed Shot,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Villager,FALSE,Empty Coin Pouch,FALSE,Discount at the Inn,FALSE,1*,1,,,,,,Noxroot,,X,X,X,X,,
+,Boy,FALSE,Enlightening Earring,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,Behind other NPC (Challenge / Provoke)
+,,,,,,,,,,,,,,,,,,,,,
+,Genteel Madam (1),FALSE,Healing Grape,FALSE,None,FALSE,1*,2,,,,,,Healing Grape,,1*,,Slash,9,,"NPC available after H'aanit chapter 1
+Moves to Bolderfall after quest: Way Through the Woods"
+,,FALSE,Energizing Pomegranate,,,,,,,,,,,,,,,Attack,,,
+,Village Headman,FALSE,Healing Grape (M),FALSE,"A Hidden Item
+Olive of Life",FALSE,1*,1,,,,,,Healing Grape (M),,1*,,Poison Slash,9,,
+,,FALSE,Arcane Bow,,,,,,,,,,,,,,,Slash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Lord Ciaran's Herald,FALSE,Healing Grape,FALSE,"A Hidden Item
+Inspiriting Plum (M)",FALSE,1*,1,,,,,,Healing Grape,,X,X,X,X,,NPC available only during H'aanit Chapter 1
+,,,,,,,,,,,,,,,,,,,,,
+,Z'aanta,FALSE,Battle-tested Bow,FALSE,None,FALSE,9*,6,,,,,,Revitalizing Jam,,9*,,Flurry,5,,"NPC available after H'aanit chapter 4
+Can't Steal Battle-tested Bow, only Purchase"
+,,FALSE,Rare Stone,,,,,,,,,,,,,,,Pointed Shot,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Hunter,FALSE,Arcane Hatchet,FALSE,More Plentiful Provisions,FALSE,1*,1,,,,,,Inspiriting Plum (M),,1*,,Panic Arrow,9,,
+,,FALSE,Injurious Seed,,,,,,,,,,,,,,,Flurry,,,
+,,FALSE,Injurious Seed,,,,,,,,,,,,,,,Attack,,,
+,North S'warkii Trail,,,,,,,,,,,,,,,,,,,,
+,Nomadic Hunter,FALSE,* Giant Tusk,FALSE,None,FALSE,1*,2,,,,,,Healing Grape,,1*,,Poison,9,,NPC available after H'aanit chapter 1
+,,FALSE,Wind Attire,,,,,,,,,,,,,,,Stab,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Roving Naturalist,FALSE,Soothing Seed,FALSE,Where the Giant Boar Roams,FALSE,2*,2,,,,,,Mace,,2*,,Lightning Bolt,9,,NPC available after H'aanit chapter 1
+,,FALSE,Soothing Dust,,,,,,,,,,,,,,,Attack,,,
+,West S'warkii Trail,,,,,,,,,,,,,,,,,,,,
+Add his last movement,Impresario (3),FALSE,Olive of Life,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,"Appear after quest: In Search of Father (II) &
+Daughter of the Dark God (II) & all 8 main story completed
+Can't Purchase, only Steal"
+,,FALSE,Glass Marble,,,,,,,,,,,,,,,,,,
+,,FALSE,Oasis Hat,,,,,,,,,,,,,,,,,,
+,Alphas (4),FALSE,Herb of Valor,FALSE,Alphas's Poem,FALSE,8*,5,,,,,,Enchanted Sword,,X,X,X,X,,"NPC at this location during quest: Alphas and the Impresario
+Last chance to get Enchanted Sword
+Moves to Saintsbridge after quest: Alphas and the Impresario"
+,,FALSE,Healing Grape (M),,,,,,,,,,,,,,,,,,
+,,FALSE,Energizing Pomegranate (L),,,,,,,,,,,,,,,,,,
+,Tier 2,,,,,,,,,,,,,,,,,,,,
+,Victors Hollow,,,,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Nourishing Nut (M),FALSE,New Weapons for Sale,FALSE,3*,3,,,,,,Healing Grape (M),,3*,,Inhibit Defense,8,,
+,,FALSE,Invigorating Nut (M),,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Magic Nut (M),,,,,,,,,,,,,,,,,,
+,Prideful Warrior,,X,FALSE,None,FALSE,6*,4,,,,,,Exotic Garb,,X,X,X,X,,NPC available only for 1 Challenge during Olberic chapter 2
+,"Haggard Merchant /
+Hearty Merchant",FALSE,Inspiriting Plum (M),FALSE,None,FALSE,3*,3,,,,,,Inspiriting Plum (M),,3*,,Peerless Strike,8,,NPC available after H'aanit chapter 4
+,,FALSE,Thunder Soulstone (L),,,,,,,,,,,,,,,Stab,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Alaic (2),FALSE,Legion Dagger,FALSE,None,FALSE,6*,3,,,,,,Healing Grape (M),,6*,,Panic Slash,7,,NPC at this location after H'aanit chapter 4
+,,,,,,,,,,,,,,,,,,Dagger Storm,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Antique Dealer,,X,FALSE,Smarter Bartering,FALSE,3*,3,,,,,,Healing Grape (M),,3*,,Steel Defenses,8,,NPC available upon starting Tressa chapter 3
+,,,,,,,,,,,,,,,,,,Attack,,,
+,"Restless Woman /
+Flower-loving Widow",FALSE,Curious Bloom,FALSE,None,FALSE,2*,2,,,,,,Essence of Pomegranate,,2*,,Healing Grape,9,,Change name after quest: A Corpse with No Name
+,,FALSE,Soothing Dust,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Soothing Dust,,,,,,,,,,,,,,,,,,
+,Flower Girl,FALSE,* Mind-me-always,FALSE,None,FALSE,2*,2,,,,,,Inspiriting Plum (M),,2*,,Bouquet Toss,9,,NPC available upon starting quest: Ogen's Epilogue
+,,,,,,,,,,,,,,,,,,Attack,,,
+,"Listless Gladiator /
+Resilient Gladiator",FALSE,Knight's Sword,FALSE,None,FALSE,9*,6,,,,,,Olive of Life,,9*,,Shatter and Smash,5,,"Guide / Allure available after quest: Arena Aspirations
+Change name after quest: Arena Aspirations"
+,,FALSE,Silver Helm,,,,,,,,,,,,,,,Head Bash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,"Amnesiac /
+Ship Captain (1)",FALSE,Herb of Light,FALSE,None,FALSE,7*,4,,,,,,Olive of Life (M),,7*,,Improved Offense,6,,Move to Goldshore after quest: Left Behind
+,,FALSE,Herb of Clarity,,,,,,,,,,,,,,,Peerless Strike,,,
+,,FALSE,Herb of Valor,,,,,,,,,,,,,,,Attack,,,
+,Captain Leon (1),FALSE,Imperial Lance,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,"NPC available only during Tressa chapter 3
+Moves to Rippletide after quest: Mikk and Makk Make Good"
+,,FALSE,Elemental Glaive,,,,,,,,,,,,,,,,,,
+,Mikk (1),FALSE,Inspiriting Plum (M),FALSE,None,FALSE,5*,4,,,,,,Ruinous Dust,,X,X,X,X,,"NPC available at this location only during Tressa chapter 3
+Moves on to Noblecourt upon starting quest: Mikk and Makk Make Good"
+,,FALSE,Soothing Dust,,,,,,,,,,,,,,,,,,
+,Makk (1),FALSE,Energizing Pomegranate,FALSE,None,FALSE,5*,4,,,,,,Curious Bloom,,X,X,X,X,,"NPC available at this location only during Tressa chapter 3
+Moves on to Noblecourt upon starting quest: Mikk and Makk Make Good"
+,,FALSE,Injurious Seed,,,,,,,,,,,,,,,,,,
+,Doting Aunt,FALSE,Healing Grape Bunch,FALSE,Father and Fighter,FALSE,2*,2,,,,,,Healing Grape (M),,2*,,Flurry,9,,
+,,FALSE,Healing Grape Bunch,,,,,,,,,,,,,,,Attack,,,
+,Starry-eyed Boy,FALSE,Energizing Pomegranate,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,
+,,FALSE,Candy,,,,,,,,,,,,,,,,,,
+,Orphanage Matron,FALSE,Energizing Pomegranate (M),FALSE,Marta's Gang,FALSE,6*,4,,,,,,Healing Grape,,X,X,X,X,,
+,,FALSE,Hairbrush,,,,,,,,,,,,,,,,,,
+,Wide-eyed Girl,FALSE,Stuffed Toy,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,"Behind other NPC (Challenge / Provoke)
+Stuffed Toy Not for Sale"
+,,FALSE,Ruinous Dust,,,,,,,,,,,,,,,,,,
+,Energetic Boy,FALSE,Glass Marble,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,"Behind other NPC (Challenge / Provoke)
+Glass Marble Not for Sale"
+,,FALSE,Purifying Dust,,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Olive Bloom,FALSE,"A Hidden Item
+Refreshing Jam",FALSE,3*,3,,,,,,Inspiriting Plum (M),,3*,,Head Bash,8,,
+,,FALSE,Olive Bloom,,,,,,,,,,,,,,,Healing Grape,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Ellie (2),FALSE,Candy,FALSE,None,,X,X,X,X,X,X,X,X,,2*,,Encourage,9,,NPC at this location after quest: Into Thin Air
+,,FALSE,Handkerchief,,,,,,,,,,,,,,,Attack,,,
+,Laconic Father,FALSE,Herb of Valor,FALSE,None,FALSE,5*,4,,,,,,Healing Grape (M),,5*,,Head Bash,7,,Guide / Allure available after quest: Into Thin Air
+,,FALSE,Stimulating Ring,,,,,,,,,,,,,,,Attack,,,
+,Contemptuous Warrior,,X,FALSE,None,FALSE,6*,4,,,,,,Grand Armor,,X,X,X,X,,NPC available only for 1 Challenge during Olberic chapter 2
+,Merchant,FALSE,Robe of the Flame,FALSE,"A Hidden Item
+Inspiriting Plum (M)",FALSE,6*,4,,,,,,Starlight Hat,,6*,,High Thrust,7,,
+,,FALSE,Inferno Amulet,,,,,,,,,,,,,,,Attack,,,
+,Victors Hollow: Arena Gate,,,,,,,,,,,,,,,,,,,,
+,Mont d'Or (1),FALSE,Imperial Lance,FALSE,Mont d'Or's Condition,FALSE,8*,5,,,,,,Energizing Pomegranate (L),,8*,,Hya! Hya! Hya!,6,,Moves to Victors Hollow: The Arena after quest: A Promising Venture
+,,,,,,,,,,,,,,,,,,Hya! Hya!,,,
+,,,,,,,,,,,,,,,,,,Hya!,,,
+,Barker,FALSE,Tomahawk Bow,FALSE,None,FALSE,6*,4,,,,,,Energizing Pomegranate,,X,X,X,X,,
+,,FALSE,Charm Robe,,,,,,,,,,,,,,,,,,
+,Townsperson,FALSE,Soothing Seed,FALSE,None,FALSE,2*,2,,,,,,Candy,,2*,,Pummel,9,,Behind other NPC (Challenge / Provoke)
+,,FALSE,Soothing Dust,,,,,,,,,,,,,,,Healing Grape,,,
+,,FALSE,Purifying Seed,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Purifying Dust,,,,,,,,,,,,,,,,,,
+,,FALSE,Ruinous Dust,,,,,,,,,,,,,,,,,,
+,Gossipy Townsperson,FALSE,Bottle of Blinding Dust,FALSE,None,FALSE,3*,3,,,,,,Inspiriting Plum (M),,3*,,Critical Eye,8,,
+,,FALSE,Shadow Soulstone (M),,,,,,,,,,,,,,,Exploit Weakness,,,
+,,FALSE,Shadow Soulstone (M),,,,,,,,,,,,,,,Attack,,,
+,Spectator,FALSE,Stinging Dagger,FALSE,"A Hidden Item
+Energizing Pomegranate (M)",FALSE,4*,3,,,,,,Piercing Dagger,,4*,,Dagger Storm,8,,
+,,FALSE,Falcon Dagger,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Silver Dagger,,,,,,,,,,,,,,,,,,
+,Spectator,FALSE,Addlewort,FALSE,Discount at the Inn,FALSE,7*,4,,,,,,Adamantine Hatchet,,7*,,Befuddling Balm,6,,
+,,FALSE,Injurious Dust,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Injurious Dust,,,,,,,,,,,,,,,,,,
+,Ashlan (2),FALSE,Stimulating Earring,FALSE,None,FALSE,3*,3,,,,,,Ice Soulstone (L),,3*,,Blinding Arrow,8,,"NPC at this location after quest: Ashlan the Beastmaster (I)
+Moves to Duskbarrow after quest: Ashlan the Beastmaster (II)"
+,,FALSE,Bottle of Poison Dust,,,,,,,,,,,,,,,Pointed Shot,,,
+,,FALSE,Ice Soulstone (L),,,,,,,,,,,,,,,Attack,,,
+,Cecily,FALSE,Blazon of Protection,FALSE,None,FALSE,3*,3,,,,,,Energizing Pomegranate,,3*,,Steel Defenses,8,,NPC available after Olberic chapter 4
+,,,,,,,,,,,,,,,,,,Healing Grape,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Ned,FALSE,Tough Nut (M),FALSE,None,FALSE,6*,4,,,,,,Healing Grape Bunch,,6*,,Cleave in Two,7,,NPC available after Olberic chapter 4
+,,FALSE,Crystal Vest,,,,,,,,,,,,,,,Full Swing,,,
+,,FALSE,Battle-tested Axe,,,,,,,,,,,,,,,Attack,,,
+,Estadas (1),FALSE,Divine Blade,FALSE,Estadas's Condition,FALSE,3*,3,,,,,,Refreshing Jam,,3*,,Slice,8,,Moves to Victors Hollow: The Arena after quest: A Promising Venture
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Merchant,FALSE,* Edbart's Shield,,X,,X,X,X,X,X,X,X,X,,X,X,X,X,,NPC available during Tressa chapter 3 only
+,,FALSE,Spiked Shield,,,,,,,,,,,,,,,,,,
+,,FALSE,Plate Shield,,,,,,,,,,,,,,,,,,
+,,FALSE,Elemental Shield,,,,,,,,,,,,,,,,,,
+,Spectator,FALSE,Bear Cleaver,FALSE,Challenge with Ease,FALSE,5*,4,,,,,,Healing Grape (M),,5*,,Head Bash,7,,Temporarily in other part of town during Olberic chapter 2
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Spectator,FALSE,Fur Cap,FALSE,None,FALSE,4*,3,,,,,,Inspiriting Plum (M),,4*,,Exploit Weakness,8,,Temporarily in other part of town during Olberic chapter 2
+,,FALSE,Victor's Spear,,,,,,,,,,,,,,,Attack,,,
+,Spectator,FALSE,Shadow Bow,FALSE,None,FALSE,4*,3,,,,,,Olive of Life,,4*,,Healing Grape,8,,Temporarily in other part of town during Olberic chapter 2
+,,,,,,,,,,,,,,,,,,Pointed Shot,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Spectator,FALSE,Golden Hairpiece,FALSE,"A Hidden Item
+Olive of Life (M)",FALSE,3*,3,,,,,,Energizing Pomegranate,,3*,,Blinding Slash,8,,Temporarily in other part of town during Olberic chapter 2
+,,FALSE,Magus Knife,,,,,,,,,,,,,,,Attack,,,
+,"Victorino,
+the Buccaneer's Bane (1)",,X,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,"NPC available only during Olberic chapter 2
+Moves to Rippletide after Olberic chapter 4"
+,,,,,,,,,,,,,,,,,,,,,
+,"Gambler /
+Successful Gambler",FALSE,Olive of Life,FALSE,None,FALSE,4*,3,,,,,,Inspiriting Plum (M),,4*,,Healing Grape (M),8,,
+,,FALSE,Olive of Life (M),,,,,,,,,,,,,,,Flurry,,,
+,,FALSE,Olive of Life (L),,,,,,,,,,,,,,,Attack,,,
+,Monster Hunter,FALSE,* Snakesbane,FALSE,None,FALSE,6*,4,,,,,,Inspiriting Plum (M),,6*,,Demon Blade,7,,NPC available after quest: Ashlan the Beastmaster (I)
+,,,,,,,,,,,,,,,,,,Slice,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Old Man,FALSE,Candy,FALSE,"A Hidden Item
+Lightning Amulet",FALSE,5*,4,,,,,,Healing Grape (M),,4*,,Blinding Dust (AOE),8,,
+,,FALSE,Candy,,,,,,,,,,,,,,,Full Swing,,,
+,,FALSE,Candy,,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Candy,,,,,,,,,,,,,,,,,,
+,,FALSE,Candy,,,,,,,,,,,,,,,,,,
+,Victors Hollow: The Arena,,,,,,,,,,,,,,,,,,,,
+,Arena Attendant,FALSE,Sprightly Ring,FALSE,"A Hidden Item
+Ice Soulstone (L)",FALSE,7*,4,,,,,,Elemental Hat,,7*,,Slice,6,,
+,,FALSE,Light Nut (M),,,,,,,,,,,,,,,Inhibit Defense,,,
+,,FALSE,Slippery Nut (M),,,,,,,,,,,,,,,Attack,,,
+,Mont d'Or (2),FALSE,Imperial Lance,FALSE,Mont d'Or's Condition,FALSE,8*,5,,,,,,Energizing Pomegranate (L),,8*,,Hya! Hya! Hya!,6,,NPC at this location after quest: A Promising Venture
+,,,,,,,,,,,,,,,,,,Hya! Hya!,,,
+,,,,,,,,,,,,,,,,,,Hya!,,,
+,Estadas (2),FALSE,Divine Blade,FALSE,Estadas's Condition,FALSE,3*,3,,,,,,Refreshing Jam,,3*,,Slice,8,,NPC at this location after quest: A Promising Venture
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Joshua Frostblade (1),FALSE,Enlightening Bracelet,FALSE,Joshua's Weak Points,,X,X,X,X,X,X,X,X,,X,X,X,X,,"NPC available only during Olberic chapter 2
+Moves to Northreach after Olberic chapter 4"
+,,,,,,,,,,,,,,,,,,,,,
+,Archibold the Crusher (1),FALSE,Argent Axe,FALSE,Archibold's Weak Points,,X,X,X,X,X,X,X,X,,X,X,X,X,,"NPC available only during Olberic chapter 2
+Moves to Stonegard Valleys after Olberic chapter 4"
+,,,,,,,,,,,,,,,,,,,,,
+,"Gustav, the Black Knight (1)",FALSE,Gustav's Shield,FALSE,Gustav's Weak Points,,X,X,X,X,X,X,X,X,,X,X,X,X,,"NPC available only during Olberic chapter 2
+Sprightly Bracelet not available on him later on
+Moves to The Whistlewood after Olberic chapter 4"
+,,FALSE,Silver-filled Pouch,,,,,,,,,,,,,,,,,,
+,,FALSE,Sprightly Bracelet,,,,,,,,,,,,,,,,,,
+,Forest of No Return,,,,,,,,,,,,,,,,,,,,
+,Bandit Leader,FALSE,Viper Dagger,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,"NPC available during quest: Again with Alaic
+Disapear after you beat him"
+,,FALSE,Critical Bracelet,,,,,,,,,,,,,,,,,,
+,Ellie (1),FALSE,Candy,FALSE,None,,X,X,X,X,X,X,X,X,,2*,,Encourage,9,,Moves to Victors Hollow after quest: Into Thin Air
+,,FALSE,Handkerchief,,,,,,,,,,,,,,,Attack,,,
+,Tier 3,,,,,,,,,,,,,,,,,,,,
+,Duskbarrow,,,,,,,,,,,,,,,,,,,,
+,Elderly Woman,FALSE,Sturdy Sapphire Rod,FALSE,More Plentiful Provisions,FALSE,6*,4,,,,,,Healing Grape (M),,6*,,Ignis Ardere,7,,
+,,FALSE,Refreshing Jam,,,,,,,,,,,,,,,Fire Storm,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Crest-bearing Swindler,FALSE,Critical Earring,FALSE,"A Hidden Item
+Old Coin",FALSE,6*,4,,,,,,* Mercenary Crest,,6*,,Crush and Grind,7,,"Disapear after Challenge / Provoke
+Hidden Item no longer available after Challenge / Provoke"
+,,FALSE,Glass Marble,,,,,,,,,,,,,,,Head Bash,,,
+,,FALSE,Iron Sword,,,,,,,,,,,,,,,Attack,,,
+,Obliging Merchant,FALSE,Old Coin,FALSE,"A Hidden Item
+Odds and Ends",FALSE,2*,2,,,,,,Healing Grape (M),,2*,,Slice,9,,
+,,FALSE,Curious Antique,,,,,,,,,,,,,,,Attack,,,
+,Smirking Townsperson,FALSE,* Marvelous Memento,FALSE,"A Hidden Item
+Ice Soulstone (M)",FALSE,3*,3,,,,,,Inspiriting Plum (M),,3*,,Improved Offense,8,,NPC available after Tressa chapter 4
+,,,,,,,,,,,,,,,,,,Thrash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Woodlands Know-it-all,FALSE,Sleepweed,FALSE,History of the Woodlands,FALSE,6*,4,,,,,,Curious Bloom,,X,X,X,X,,NPC available upon starting quest: Russell's Repentance
+,,FALSE,Light Nut (L),,,,,,,,,,,,,,,,,,
+,Village Headman,FALSE,Energizing Pomegranate (M),FALSE,Discount at the Inn,FALSE,7*,4,,,,,,Inspiriting Plum (M),,7*,,Inhibit Defense,6,,
+,,FALSE,Olive of Life (L),,,,,,,,,,,,,,,Peerless Strike,,,
+,,FALSE,Tough Nut (M),,,,,,,,,,,,,,,Attack,,,
+,Fearful Mother,FALSE,Essence of Grape,FALSE,None,FALSE,3*,3,,,,,,Ruinous Dust,,3*,,Sweeping Slash,8,,
+,,FALSE,Essence of Plum,,,,,,,,,,,,,,,Slice,,,
+,,FALSE,Curious Bloom,,,,,,,,,,,,,,,Attack,,,
+,Animal-loving Child,FALSE,Fish Tooth,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,
+,,FALSE,Tree Nut,,,,,,,,,,,,,,,,,,
+,,FALSE,Bone,,,,,,,,,,,,,,,,,,
+,Tiger Cub (1),,X,FALSE,None,,X,X,X,X,X,X,X,X,,X,X,X,X,,"Moves to Bolderfall after quest: A Cub with No Name
+(Guide / Allure solution only)"
+,Villager,FALSE,Healing Grape Bunch,FALSE,"A Hidden Item
+Improved Bow of the Eagle",FALSE,9*,6,,,,,,Viper Dagger,,X,X,X,X,,
+,,FALSE,Inspiriting Plum Basket,,,,,,,,,,,,,,,,,,
+,,FALSE,Viper Dagger,,,,,,,,,,,,,,,,,,
+,Ashlan (3),FALSE,Stimulating Earring,FALSE,None,FALSE,3*,3,,,,,,Healing Grape,,3*,,Blinding Arrow,8,,NPC at this location after quest: Ashlan the Beastmaster (II)
+,,FALSE,Bottle of Poison Dust,,,,,,,,,,,,,,,Pointed Shot,,,
+,,FALSE,Ice Soulstone (L),,,,,,,,,,,,,,,Attack,,,
+,,FALSE,Healing Grape Bunch,,,,,,,,,,,,,,,,,,
+,,FALSE,Inspiriting Plum (M),,,,,,,,,,,,,,,,,,
+,Ashlan's Father,FALSE,Inspiriting Plum Basket,FALSE,None,FALSE,4*,3,,,,,,Healing Grape Bunch,,4*,,Full Swing,8,,NPC available after quest: Ashlan the Beastmaster (III)
+,,FALSE,Inspiriting Plum Basket,,,,,,,,,,,,,,,Head Bash,,,
+,,,,,,,,,,,,,,,,,,Attack,,,
+,Moldering Ruins,,,,,,,,,,,,,,,,,,,,
+,Grave Robber,FALSE,Sharp Nut (L),FALSE,None,FALSE,7*,4,,,,,,Inspiriting Plum Basket,,X,X,X,X,,Disapear after Challenge / Provoke
+,,FALSE,Sprightly Necklace,,,,,,,,,,,,,,,,,,
