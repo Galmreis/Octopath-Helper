@@ -82,17 +82,24 @@ function parseCSV(filePath) {
 }
 
 function normalizeName(str) {
-  return (str || '')
+  let s = (str || '')
     .toLowerCase()
     .replace(/&apos;/g, "'")
     .replace(/['’]/g, '')
     .replace(/mk\.2/g, 'mk.ii')
     .replace(/\bseabird/g, 'sea bird')
     .replace(/\bmaster thief\b/g, 'thief')
-    .replace(/\bwerner'?s man 1\b/g, 'werners man i')
-    .replace(/\bwerner'?s man 2\b/g, 'werners man ii')
-    .replace(/\bwerner'?s man 3\b/g, 'werners man iii')
-    .replace(/\s*\(2\)\s*$/g, '')
+    .replace(/\s*\(2\)\s*$/g, '');
+
+  // Normalize Roman numerals at end of name or word boundary (e.g. "birdian vi" -> "birdian 6")
+  s = s.replace(/\bvi\b/g, '6')
+       .replace(/\bv\b/g, '5')
+       .replace(/\biv\b/g, '4')
+       .replace(/\biii\b/g, '3')
+       .replace(/\bii\b/g, '2')
+       .replace(/\bi\b/g, '1');
+
+  return s
     .replace(/[^a-z0-9]+/g, ' ')
     .trim();
 }
@@ -104,14 +111,26 @@ for (const r of enemiesCsv) {
   if (r[1] === 'FALSE' || r[1] === 'TRUE') {
     const rawName = r[2].split('\n')[0].trim();
     const norm = normalizeName(rawName);
-    csvEnemiesByNorm.set(norm, {
-      csvName: rawName,
-      shields: r[3] || null,
-      stealDrop: r[9] || null,
-      summonStrength: r[11] || null,
-      summonSkill: r[13] || null,
-      locations: r[15] ? r[15].split(',').map(s => s.trim()).filter(Boolean) : []
-    });
+    const newLocs = r[15] ? r[15].split(',').map(s => s.trim()).filter(Boolean) : [];
+    const existing = csvEnemiesByNorm.get(norm);
+    if (existing) {
+      if (newLocs.length > 0) {
+        existing.locations = Array.from(new Set([...existing.locations, ...newLocs]));
+      }
+      if (!existing.shields && r[3]) existing.shields = r[3];
+      if (!existing.stealDrop && r[9]) existing.stealDrop = r[9];
+      if (!existing.summonStrength && r[11]) existing.summonStrength = r[11];
+      if (!existing.summonSkill && r[13]) existing.summonSkill = r[13];
+    } else {
+      csvEnemiesByNorm.set(norm, {
+        csvName: rawName,
+        shields: r[3] || null,
+        stealDrop: r[9] || null,
+        summonStrength: r[11] || null,
+        summonSkill: r[13] || null,
+        locations: newLocs
+      });
+    }
   }
 }
 

@@ -4,6 +4,8 @@
   "private": true,
   "description": "Real-time gameplay companion and 100% achievement tracker for Octopath Traveler",
   "scripts": {
+    "dev": "node -e \"const {spawn}=require('child_process'); spawn('node',['server/index.js'],{stdio:'inherit'}); spawn('npm',['--prefix','client','run','dev'],{stdio:'inherit',shell:true});\"",
+    "start": "npm run dev",
     "build-data": "node server/scripts/buildStaticData.js",
     "start:server": "node server/index.js",
     "start:client": "npm --prefix client run dev"

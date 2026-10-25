@@ -743,7 +743,9 @@
     "shields": "1",
     "stealDrop": "Empty Coin Pouch",
     "locations": [
-      "Brigands' Den (1-4-7-11)"
+      "Brigands' Den (1-4-7-11)",
+      "Cobbleston",
+      "Mountain Pass (1-4-7-11)"
     ],
     "isAchievementRequired": true,
     "isMissable": false
@@ -770,7 +772,9 @@
     "shields": "2",
     "stealDrop": "Empty Coin Pouch",
     "locations": [
-      "Brigands' Den (1-4-7-11)"
+      "Brigands' Den (1-4-7-11)",
+      "Cobbleston",
+      "Mountain Pass (1-4-7-11)"
     ],
     "isAchievementRequired": true,
     "isMissable": false
@@ -1653,8 +1657,11 @@
       "dark"
     ],
     "shields": "1",
-    "stealDrop": "Inspiriting Plum (M)",
+    "stealDrop": "Inspiriting Plum",
     "locations": [
+      "Southern Sunshade Sands (1-4-7-11)",
+      "Eastern Sunshade Sands (1-4-7-11)",
+      "Sunshade Catacombs (1-4-7-11)",
       "Western Wellspring Sands (31)",
       "Lizardmen's Den (32)"
     ],
@@ -1681,8 +1688,11 @@
       "dark"
     ],
     "shields": "2",
-    "stealDrop": "Inspiriting Plum (M)",
+    "stealDrop": "Essence of Plum",
     "locations": [
+      "Southern Sunshade Sands (1-4-7-11)",
+      "Eastern Sunshade Sands (1-4-7-11)",
+      "Sunshade Catacombs (1-4-7-11)",
       "Western Wellspring Sands (31)",
       "Lizardmen's Den (32)"
     ],
@@ -1709,8 +1719,11 @@
       "dark"
     ],
     "shields": "3",
-    "stealDrop": "Inspiriting Plum (M)",
+    "stealDrop": "Healing Grape",
     "locations": [
+      "Southern Sunshade Sands (7-11)",
+      "Eastern Sunshade Sands (7-11)",
+      "Sunshade Catacombs (7-11)",
       "Western Wellspring Sands (31)",
       "Lizardmen's Den (32)"
     ],
@@ -1819,8 +1832,14 @@
       "dark"
     ],
     "shields": "4",
-    "stealDrop": "Inspiriting Plum (M)",
-    "locations": [],
+    "stealDrop": "Healing Grape (M)",
+    "locations": [
+      "Northern Wellspring Sands (33-35)",
+      "Eastern Wellspring Sands (33-35)",
+      "Eastern Marsalim Sand (45)",
+      "Western Wellspring Sands (31)",
+      "Lizardmen's Den (32)"
+    ],
     "isAchievementRequired": true,
     "isMissable": false
   },
@@ -1843,9 +1862,14 @@
       "ice",
       "dark"
     ],
-    "shields": "5",
-    "stealDrop": "Inspiriting Plum",
-    "locations": [],
+    "shields": "3",
+    "stealDrop": "Essence of Plum",
+    "locations": [
+      "Eastern Marsalim Sand (45)",
+      "Marsalim Catacombs (50)",
+      "Western Wellspring Sands (31)",
+      "Lizardmen's Den (32)"
+    ],
     "isAchievementRequired": true,
     "isMissable": false
   },
@@ -2263,8 +2287,11 @@
       "wind"
     ],
     "shields": "1",
-    "stealDrop": "Inspiriting Plum (M)",
+    "stealDrop": "Inspiriting Plum",
     "locations": [
+      "Southern Sunshade Sands (1-4-7-11)",
+      "Eastern Sunshade Sands (1-4-7-11)",
+      "Sunshade Catacombs (1-4-7-11)",
       "Western Wellspring Sands (31)",
       "Lizardmen's Den (32)"
     ],
@@ -2289,8 +2316,11 @@
       "wind"
     ],
     "shields": "2",
-    "stealDrop": "Inspiriting Plum (M)",
+    "stealDrop": "Essence of Plum",
     "locations": [
+      "Southern Sunshade Sands (1-4-7-11)",
+      "Eastern Sunshade Sands (1-4-7-11)",
+      "Sunshade Catacombs (1-4-7-11)",
       "Western Wellspring Sands (31)",
       "Lizardmen's Den (32)"
     ],
@@ -2315,8 +2345,11 @@
       "wind"
     ],
     "shields": "3",
-    "stealDrop": "Inspiriting Plum (M)",
+    "stealDrop": "Healing Grape",
     "locations": [
+      "Southern Sunshade Sands (7-11)",
+      "Eastern Sunshade Sands (7-11)",
+      "Sunshade Catacombs (7-11)",
       "Western Wellspring Sands (31)",
       "Lizardmen's Den (32)"
     ],
@@ -2341,8 +2374,14 @@
       "ice"
     ],
     "shields": "4",
-    "stealDrop": "Inspiriting Plum (M)",
-    "locations": [],
+    "stealDrop": "Healing Grape (M)",
+    "locations": [
+      "Northern Wellspring Sands (33-35)",
+      "Eastern Wellspring Sands (33-35)",
+      "Eastern Marsalim Sand (45)",
+      "Western Wellspring Sands (31)",
+      "Lizardmen's Den (32)"
+    ],
     "isAchievementRequired": true,
     "isMissable": false
   },
@@ -2363,9 +2402,14 @@
     "magicWeaknesses": [
       "ice"
     ],
-    "shields": "5",
-    "stealDrop": "Inspiriting Plum",
-    "locations": [],
+    "shields": "3",
+    "stealDrop": "Essence of Plum",
+    "locations": [
+      "Eastern Marsalim Sand (45)",
+      "Marsalim Catacombs (50)",
+      "Western Wellspring Sands (31)",
+      "Lizardmen's Den (32)"
+    ],
     "isAchievementRequired": true,
     "isMissable": false
   },
@@ -5226,9 +5270,13 @@
       "fire",
       "lightning"
     ],
-    "shields": null,
-    "stealDrop": null,
-    "locations": [],
+    "shields": "1",
+    "stealDrop": "Healing Grape",
+    "locations": [
+      "East Rippletide Coast (1-4-7-11)",
+      "North Rippletide Coast (1-4-7-11)",
+      "Path to the Caves of Maiya (1-4-7-11)"
+    ],
     "isAchievementRequired": true,
     "isMissable": false
   },
@@ -5251,9 +5299,13 @@
       "fire",
       "lightning"
     ],
-    "shields": null,
-    "stealDrop": null,
-    "locations": [],
+    "shields": "2",
+    "stealDrop": "Sleepweed",
+    "locations": [
+      "East Rippletide Coast (1-4-7-11)",
+      "North Rippletide Coast (1-4-7-11)",
+      "Path to the Caves of Maiya (1-4-7-11)"
+    ],
     "isAchievementRequired": true,
     "isMissable": false
   },
@@ -5274,9 +5326,13 @@
       "fire",
       "wind"
     ],
-    "shields": null,
-    "stealDrop": null,
-    "locations": [],
+    "shields": "3",
+    "stealDrop": "Inspiriting Plum",
+    "locations": [
+      "East Rippletide Coast (7-11)",
+      "North Rippletide Coast (7-11)",
+      "Path to the Caves of Maiya (7-11)"
+    ],
     "isAchievementRequired": true,
     "isMissable": false
   },
@@ -5299,9 +5355,12 @@
       "fire",
       "lightning"
     ],
-    "shields": null,
-    "stealDrop": null,
-    "locations": [],
+    "shields": "2",
+    "stealDrop": "Healing Grape (M)",
+    "locations": [
+      "Moonstruck Coast (23-26-31)",
+      "West Goldshore Coast (23-26-31)"
+    ],
     "isAchievementRequired": true,
     "isMissable": false
   },
@@ -5324,9 +5383,12 @@
       "fire",
       "lightning"
     ],
-    "shields": null,
-    "stealDrop": null,
-    "locations": [],
+    "shields": "3",
+    "stealDrop": "Sleepweed",
+    "locations": [
+      "Moonstruck Coast (23-26-31-34)",
+      "West Goldshore Coast (23-26-31-34)"
+    ],
     "isAchievementRequired": true,
     "isMissable": false
   },
@@ -5347,9 +5409,13 @@
       "fire",
       "wind"
     ],
-    "shields": null,
-    "stealDrop": null,
-    "locations": [],
+    "shields": "1",
+    "stealDrop": "Inspiriting Plum",
+    "locations": [
+      "Moonstruck Coast (23-26-31-34)",
+      "West Goldshore Coast (23-26-31-34)",
+      "Road to the Caves of Azure (23)"
+    ],
     "isAchievementRequired": true,
     "isMissable": false
   },
@@ -5372,9 +5438,14 @@
     "magicWeaknesses": [
       "lightning"
     ],
-    "shields": null,
-    "stealDrop": null,
-    "locations": [],
+    "shields": "3",
+    "stealDrop": "Inspiriting Plum",
+    "locations": [
+      "Moonstruck Coast (31-34)",
+      "West Goldshore Coast (31-34)",
+      "Road to the Caves of Azure (23)",
+      "West Grandport Coast (45)"
+    ],
     "isAchievementRequired": true,
     "isMissable": false
   },
@@ -5397,9 +5468,12 @@
     "magicWeaknesses": [
       "lightning"
     ],
-    "shields": null,
-    "stealDrop": null,
-    "locations": [],
+    "shields": "2",
+    "stealDrop": "Sleepweed",
+    "locations": [
+      "West Grandport Coast (45)",
+      "Loch of the Lost King (50)"
+    ],
     "isAchievementRequired": true,
     "isMissable": false
   },
@@ -5420,9 +5494,12 @@
       "fire",
       "lightning"
     ],
-    "shields": null,
-    "stealDrop": null,
-    "locations": [],
+    "shields": "5",
+    "stealDrop": "Healing Grape Bunch",
+    "locations": [
+      "West Grandport Coast (45)",
+      "Loch of the Lost King (50)"
+    ],
     "isAchievementRequired": true,
     "isMissable": false
   },
@@ -9923,7 +10000,8 @@
     "stealDrop": "Coin Pouch",
     "locations": [
       "Dragonsong Fane (50)",
-      "Moldering Ruins (45)"
+      "Moldering Ruins (45)",
+      "Tomb of Kings (25)"
     ],
     "isAchievementRequired": true,
     "isMissable": false
@@ -9951,7 +10029,8 @@
     "stealDrop": "Coin Pouch",
     "locations": [
       "Dragonsong Fane (50)",
-      "Moldering Ruins (45)"
+      "Moldering Ruins (45)",
+      "Tomb of Kings (25)"
     ],
     "isAchievementRequired": true,
     "isMissable": false
@@ -9979,7 +10058,8 @@
     "stealDrop": "Coin Pouch",
     "locations": [
       "Dragonsong Fane (50)",
-      "Moldering Ruins (45)"
+      "Moldering Ruins (45)",
+      "Tomb of Kings (25)"
     ],
     "isAchievementRequired": true,
     "isMissable": false
@@ -10007,7 +10087,8 @@
     "stealDrop": "Coin Pouch",
     "locations": [
       "Dragonsong Fane (50)",
-      "Moldering Ruins (45)"
+      "Moldering Ruins (45)",
+      "Tomb of Kings (25)"
     ],
     "isAchievementRequired": true,
     "isMissable": false
