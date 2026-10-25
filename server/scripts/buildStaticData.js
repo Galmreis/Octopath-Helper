@@ -104,6 +104,14 @@ function normalizeName(str) {
     .trim();
 }
 
+function normalizeLocationString(locStr) {
+  if (!locStr) return [];
+  const cleaned = locStr
+    .replace(/Untouched Sanctum \(15\) Farshore \(30\)/g, 'Untouched Sanctum (15), Farshore (30)')
+    .replace(/Northen Flamegrace Wilds/g, 'Northern Flamesgrace Wilds');
+  return cleaned.split(',').map(s => s.trim()).filter(Boolean);
+}
+
 // --- 3. Parse Enemies.csv & Checklist.csv for Monster Metadata ---
 const enemiesCsv = parseCSV(path.join(CSV_DIR, 'Copy of Octopath Traveler Resource - Enemies.csv'));
 const csvEnemiesByNorm = new Map();
@@ -111,7 +119,7 @@ for (const r of enemiesCsv) {
   if (r[1] === 'FALSE' || r[1] === 'TRUE') {
     const rawName = r[2].split('\n')[0].trim();
     const norm = normalizeName(rawName);
-    const newLocs = r[15] ? r[15].split(',').map(s => s.trim()).filter(Boolean) : [];
+    const newLocs = normalizeLocationString(r[15]);
     const existing = csvEnemiesByNorm.get(norm);
     if (existing) {
       if (newLocs.length > 0) {

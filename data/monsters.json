@@ -2983,7 +2983,7 @@
     "shields": "1",
     "stealDrop": "Healing Grape",
     "locations": [
-      "Northen Flamegrace Wilds (7)",
+      "Northern Flamesgrace Wilds (7)",
       "Western Flamesgrace Wilds (7)",
       "Path to Cave of Origin (7)",
       "Cave of Origin (1-4-7-11)"
@@ -7391,7 +7391,8 @@
     "stealDrop": "Healing Grape",
     "locations": [
       "Subterranean Study (1-4-7-11)",
-      "Untouched Sanctum (15) Farshore (30)"
+      "Untouched Sanctum (15)",
+      "Farshore (30)"
     ],
     "isAchievementRequired": true,
     "isMissable": false
