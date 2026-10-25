@@ -27,7 +27,6 @@ export default function App() {
     useSaveData();
   const [activeTab, setActiveTab] = useState('radar');
   const [selectedZoneId, setSelectedZoneId] = useState(null);
-  const [followPlayerZone, setFollowPlayerZone] = useState(true);
 
   // Filters
   const [monsterSearch, setMonsterSearch] = useState('');
@@ -43,12 +42,6 @@ export default function App() {
   const [questSearch, setQuestSearch] = useState('');
   const [questRegionFilter, setQuestRegionFilter] = useState('ALL');
   const [hideCompletedQuests, setHideCompletedQuests] = useState(false);
-
-  useEffect(() => {
-    if (followPlayerZone && saveState?.currentZoneId) {
-      setSelectedZoneId(saveState.currentZoneId);
-    }
-  }, [followPlayerZone, saveState?.currentZoneId]);
 
   // Global hotkeys for seamless dual-screen control
   useEffect(() => {
@@ -68,7 +61,7 @@ export default function App() {
       else if (e.key === '3') setActiveTab('zones');
       else if (e.key === '4') setActiveTab('collector');
       else if (e.key === '5') setActiveTab('quests');
-      else if (e.key === 'f' || e.key === 'F') setFollowPlayerZone(prev => !prev);
+      else if (e.key === 'f' || e.key === 'F') setSelectedZoneId(null);
     }
     window.addEventListener('keydown', handleKeyDown);
     return () => window.removeEventListener('keydown', handleKeyDown);
@@ -83,7 +76,8 @@ export default function App() {
   }
 
   const { stats, party, recentEvents = [] } = saveState;
-  const activeZoneId = selectedZoneId ?? saveState.currentZoneId;
+  const isInspecting = selectedZoneId !== null && selectedZoneId !== saveState.currentZoneId;
+  const activeZoneId = isInspecting ? selectedZoneId : saveState.currentZoneId;
   const activeZoneMeta = staticDb.zones[activeZoneId];
   const activeZoneState = saveState.zones?.[activeZoneId];
   const obtainedSet = new Set(saveState.itemsObtained || []);
@@ -330,30 +324,38 @@ export default function App() {
           {activeTab === 'radar' && (
             <div>
               <div className="filter-row">
-                <label className="checkbox-label">
-                  <input
-                    type="checkbox"
-                    checked={followPlayerZone}
-                    onChange={e => setFollowPlayerZone(e.target.checked)}
-                  />
-                  Auto-follow player location (#{saveState.currentZoneId} {saveState.currentZoneName})
-                  <span className="kbd-hint">F</span>
-                </label>
+                <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+                  <span style={{ fontSize: '0.84rem', color: 'var(--text-muted)' }}>Zone Inspector:</span>
+                  <select
+                    className="select"
+                    value={activeZoneId || ''}
+                    onChange={e => {
+                      const val = Number(e.target.value);
+                      setSelectedZoneId(val === saveState.currentZoneId ? null : val);
+                    }}
+                  >
+                    {Object.values(staticDb.zones).map(z => (
+                      <option key={z.id} value={z.id}>
+                        {z.id === saveState.currentZoneId ? '📍 ' : ''}#{z.id} — {z.name} ({z.region})
+                      </option>
+                    ))}
+                  </select>
+                </div>
 
-                <select
-                  className="select"
-                  value={activeZoneId || ''}
-                  onChange={e => {
-                    setFollowPlayerZone(false);
-                    setSelectedZoneId(Number(e.target.value));
-                  }}
-                >
-                  {Object.values(staticDb.zones).map(z => (
-                    <option key={z.id} value={z.id}>
-                      #{z.id} — {z.name} ({z.region})
-                    </option>
-                  ))}
-                </select>
+                {isInspecting ? (
+                  <button
+                    className="action-btn"
+                    onClick={() => setSelectedZoneId(null)}
+                    title="Return to your live character location"
+                  >
+                    <span>📍 Return to Live Location (#{saveState.currentZoneId} {saveState.currentZoneName})</span>
+                    <span className="kbd-hint">F</span>
+                  </button>
+                ) : (
+                  <span className="badge done" style={{ padding: '6px 12px', fontSize: '0.78rem' }}>
+                    ● LIVE COMPANION RADAR (Auto-Tracking)
+                  </span>
+                )}
               </div>
 
               {!activeZoneMeta ? (

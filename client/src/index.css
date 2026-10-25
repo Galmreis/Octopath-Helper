@@ -205,6 +205,26 @@ body {
   user-select: none;
 }
 
+.action-btn {
+  background: rgba(226, 184, 87, 0.15);
+  color: var(--accent-gold);
+  border: 1px solid rgba(226, 184, 87, 0.4);
+  border-radius: 6px;
+  padding: 6px 12px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  transition: all 0.2s ease;
+}
+
+.action-btn:hover {
+  background: rgba(226, 184, 87, 0.25);
+  border-color: var(--accent-gold);
+}
+
 .card-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
