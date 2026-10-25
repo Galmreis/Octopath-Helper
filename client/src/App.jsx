@@ -426,160 +426,32 @@ export default function App() {
                     )}
                   </div>
 
-                  {/* Live Active Battle Encounter */}
-                  {saveState.battleEnemies && saveState.battleEnemies.length > 0 && (
-                    <div
-                      style={{
-                        marginBottom: 20,
-                        padding: '14px 16px',
-                        background: 'linear-gradient(135deg, rgba(231, 76, 60, 0.15), rgba(192, 57, 43, 0.05))',
-                        border: '1px solid #e74c3c',
-                        borderRadius: 8,
-                        boxShadow: '0 0 16px rgba(231, 76, 60, 0.2)'
-                      }}
-                    >
-                      <div
-                        style={{
-                          display: 'flex',
-                          alignItems: 'center',
-                          justifyContent: 'space-between',
-                          marginBottom: 12
-                        }}
-                      >
-                        <h3
-                          style={{
-                            margin: 0,
-                            color: '#ff6b6b',
-                            fontSize: '1rem',
-                            display: 'flex',
-                            alignItems: 'center',
-                            gap: 8
-                          }}
-                        >
-                          <span
-                            style={{
-                              width: 10,
-                              height: 10,
-                              borderRadius: '50%',
-                              background: '#e74c3c',
-                              display: 'inline-block',
-                              boxShadow: '0 0 8px #e74c3c'
-                            }}
-                          />
-                          ⚔️ Active Battle Encounter ({saveState.battleEnemies.length})
-                        </h3>
-                        <span style={{ fontSize: '0.78rem', color: '#ff8787', fontWeight: 600 }}>
-                          LIVE IN-COMBAT TELEMETRY
-                        </span>
-                      </div>
-                      <div className="card-grid">
-                        {saveState.battleEnemies.map(mId => {
-                          const m = staticDb.monsters[mId] || {
-                            id: mId,
-                            name: `Enemy #${mId}`,
-                            weaknesses: [],
-                            shields: '?'
-                          };
-                          const st = saveState.monsters?.[mId];
-                          const revCount = st?.revealedWeaknesses.filter(Boolean).length || 0;
-                          return (
-                            <div
-                              key={`active-${mId}`}
-                              className={`item-card ${st?.isCompleted ? 'complete' : ''} ${
-                                lastFlashIds[`monster-${mId}`] ? 'flash' : ''
-                              }`}
-                              style={{
-                                borderColor: '#e74c3c',
-                                background: 'rgba(20, 20, 24, 0.85)'
-                              }}
-                            >
-                              <div style={{ display: 'flex', justifyContent: 'space-between' }}>
-                                <strong style={{ color: '#fff' }}>{m.name}</strong>
-                                <span className="badge" style={{ background: '#e74c3c', color: '#fff' }}>
-                                  In Battle
-                                </span>
-                              </div>
-                              <div style={{ fontSize: '0.78rem', color: 'var(--text-muted)' }}>
-                                Shields: {m.shields || '?'} | Steal/Drop: {m.stealDrop || 'None'}
-                              </div>
-                              <div className="weakness-row">
-                                {m.weaknesses.map((wKey, idx) => {
-                                  const isRev = st?.revealedWeaknesses?.[idx];
-                                  return (
-                                    <span
-                                      key={wKey}
-                                      className={`weak-chip ${isRev ? 'revealed' : 'hidden'}`}
-                                    >
-                                      {isRev ? '✓ ' : '? '}
-                                      {wKey}
-                                    </span>
-                                  );
-                                })}
-                              </div>
-                              <div style={{ fontSize: '0.75rem', marginTop: 2 }}>
-                                <span className={`badge ${st?.isCompleted ? 'done' : 'pending'}`}>
-                                  {st?.isCompleted
-                                    ? '✓ ALL WEAKNESSES REVEALED'
-                                    : `${revCount}/${m.weaknesses.length} Revealed`}
-                                </span>
-                              </div>
-                            </div>
-                          );
-                        })}
-                      </div>
-                    </div>
-                  )}
-
                   {/* Monsters in Current Zone */}
                   <div>
                     <h3 style={{ fontSize: '0.95rem', marginBottom: 8 }}>
-                      Zone Monsters ({
-                        Array.from(
-                          new Set([
-                            ...(activeZoneMeta?.monsters || []),
-                            ...(saveState.battleEnemies || [])
-                          ])
-                        ).length
-                      })
+                      Zone Monsters ({activeZoneMeta?.monsters?.length || 0})
                     </h3>
-                    {(!activeZoneMeta?.monsters || activeZoneMeta.monsters.length === 0) &&
-                    (!saveState.battleEnemies || saveState.battleEnemies.length === 0) ? (
+                    {!activeZoneMeta?.monsters || activeZoneMeta.monsters.length === 0 ? (
                       <div style={{ color: 'var(--text-muted)', fontSize: '0.85rem' }}>
                         No Strategist monsters mapped to this zone (Town / Safe Area).
                       </div>
                     ) : (
                       <div className="card-grid">
-                        {Array.from(
-                          new Set([
-                            ...(activeZoneMeta?.monsters || []),
-                            ...(saveState.battleEnemies || [])
-                          ])
-                        ).map(mId => {
+                        {activeZoneMeta.monsters.map(mId => {
                           const m = staticDb.monsters[mId];
                           const st = saveState.monsters?.[mId];
                           if (!m) return null;
                           const revCount = st?.revealedWeaknesses.filter(Boolean).length || 0;
-                          const isInCombatNow = (saveState.battleEnemies || []).includes(mId);
                           return (
                             <div
                               key={mId}
                               className={`item-card ${st?.isCompleted ? 'complete' : ''} ${
-                                isInCombatNow ? 'in-combat' : ''
-                              } ${lastFlashIds[`monster-${mId}`] ? 'flash' : ''}`}
+                                lastFlashIds[`monster-${mId}`] ? 'flash' : ''
+                              }`}
                             >
                               <div style={{ display: 'flex', justifyContent: 'space-between' }}>
                                 <strong>{m.name}</strong>
-                                <div>
-                                  {isInCombatNow && (
-                                    <span
-                                      className="badge"
-                                      style={{ background: '#e74c3c', color: '#fff', marginRight: 4 }}
-                                    >
-                                      Active
-                                    </span>
-                                  )}
-                                  <span className="badge id">Enemy #{m.id}</span>
-                                </div>
+                                <span className="badge id">Enemy #{m.id}</span>
                               </div>
                               <div style={{ fontSize: '0.78rem', color: 'var(--text-muted)' }}>
                                 Shields: {m.shields || '?'} | Steal/Drop: {m.stealDrop || 'None'}

@@ -319,16 +319,3 @@ body {
   margin-bottom: 3px;
   font-family: monospace;
 }
-
-/* In-Battle Real-Time Styling */
-.item-card.in-combat {
-  border-color: #e74c3c !important;
-  box-shadow: 0 0 10px rgba(231, 76, 60, 0.35);
-  animation: pulse-combat 2s infinite ease-in-out;
-}
-
-@keyframes pulse-combat {
-  0% { box-shadow: 0 0 4px rgba(231, 76, 60, 0.3); }
-  50% { box-shadow: 0 0 14px rgba(231, 76, 60, 0.6); }
-  100% { box-shadow: 0 0 4px rgba(231, 76, 60, 0.3); }
-}

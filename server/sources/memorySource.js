@@ -216,8 +216,7 @@ class MemorySource {
       monsters,
       zones,
       itemsObtained: [...itemsObtainedSet].sort((a, b) => a - b),
-      sideStoriesByRegion,
-      battleEnemies: snap.battleEnemies || []
+      sideStoriesByRegion
     };
   }
 
