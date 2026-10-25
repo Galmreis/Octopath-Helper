@@ -47,6 +47,24 @@ class MemorySource {
 
     // Decode EnemyInfoData (stride 8: byte 0 = isAnalysed, byte 4 = wOpen, byte 5 = mOpen)
     const enemyBuf = Buffer.from(snap.enemyB64, 'base64');
+    const currentZoneId = snap.levelId || baseline?.currentZoneId;
+
+    // Merge verified live in-battle reveals (strictly filtered to current zone's valid monsters + Caits)
+    const validZoneMonsters = new Set(zonesDb[currentZoneId]?.monsters || []);
+    if (snap.liveReveals && Array.isArray(snap.liveReveals)) {
+      for (const rev of snap.liveReveals) {
+        const isCait = rev.id >= 416 && rev.id <= 418;
+        if (!validZoneMonsters.has(rev.id) && !isCait) {
+          continue; // Discard stale ghost actor from a past zone!
+        }
+        const offset = rev.id * 8;
+        if (offset + 6 <= enemyBuf.length) {
+          enemyBuf[offset + 4] |= rev.w;
+          enemyBuf[offset + 5] |= rev.m;
+        }
+      }
+    }
+
     const monsters = {};
     let strategistCompleted = 0;
     const strategistTotal = Object.keys(monstersDb).length;
@@ -191,8 +209,6 @@ class MemorySource {
         worthYourSalt = { completed, inProgress, total: 101 };
       }
     }
-
-    const currentZoneId = snap.levelId || baseline?.currentZoneId;
 
     return {
       lastUpdated: new Date().toISOString(),

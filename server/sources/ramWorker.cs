@@ -33,6 +33,119 @@ public class RamPoller {
 
     static byte[] sharedScanBuf = new byte[256 * 1024];
 
+    const int ACT_PRE = 12;
+    const int ACT_LEN = 1700;
+    static readonly object battleLock = new object();
+    static List<long> battleActors = new List<long>();
+    static HashSet<long> battleRegions = new HashSet<long>();
+    static byte[] battleScanBuf = new byte[256 * 1024];
+    static byte[] actorBuf = new byte[ACT_LEN + ACT_PRE];
+    static string liveRevealsJson = "[]";
+
+    static bool IsActorAt(byte[] b, int i) {
+        int bp = BitConverter.ToInt32(b, i + 8);
+        if (bp < 1 || bp > 5) return false;
+        int enemyId = BitConverter.ToInt32(b, i - 12);
+        if (enemyId < 1 || enemyId > 900 || BitConverter.ToInt32(b, i + 628) != enemyId) return false;
+        int maxHp = BitConverter.ToInt32(b, i);
+        int sp = BitConverter.ToInt32(b, i + 12);
+        if (maxHp < 5 || maxHp > 1000000 || sp < 1 || sp > 99) return false;
+        return BitConverter.ToInt64(b, i) == BitConverter.ToInt64(b, i + 744)
+            && BitConverter.ToInt64(b, i + 16) == BitConverter.ToInt64(b, i + 760)
+            && BitConverter.ToInt64(b, i + 32) == BitConverter.ToInt64(b, i + 776);
+    }
+
+    static bool ScanRegionForActors(IntPtr hProc, long rBase, long rSize, List<long> found) {
+        IntPtr read;
+        if (!ReadProcessMemory(hProc, new IntPtr(rBase), battleScanBuf, (int)rSize, out read)) return false;
+        int n = (int)read;
+        bool any = false;
+        for (int i = ACT_PRE; i <= n - ACT_LEN; i += 4) {
+            if (IsActorAt(battleScanBuf, i)) { found.Add(rBase + i); any = true; }
+        }
+        return any;
+    }
+
+    static void FullBattleScan(IntPtr hProc) {
+        List<long> found = new List<long>();
+        HashSet<long> regions = new HashSet<long>();
+        IntPtr addr = IntPtr.Zero;
+        MEMORY_BASIC_INFORMATION mbi;
+        int mbiSize = Marshal.SizeOf(typeof(MEMORY_BASIC_INFORMATION));
+        while ((long)addr < 0x7FF000000000L) {
+            if (VirtualQueryEx(hProc, addr, out mbi, (uint)mbiSize) == 0) break;
+            long rBase = (long)mbi.BaseAddress;
+            long rSize = (long)mbi.RegionSize;
+            if (mbi.State == MEM_COMMIT && mbi.Type == MEM_PRIVATE && mbi.Protect == 0x04 && rSize > 0 && rSize <= 256 * 1024) {
+                if (ScanRegionForActors(hProc, rBase, rSize, found)) regions.Add(rBase);
+            }
+            addr = new IntPtr(rBase + rSize);
+        }
+        lock (battleLock) {
+            battleActors = found;
+            foreach (long r in regions) battleRegions.Add(r);
+        }
+    }
+
+    static volatile bool scanInProgress = false;
+
+    static void TriggerBattleScan(IntPtr hProc) {
+        if (scanInProgress) return;
+        scanInProgress = true;
+        ThreadPool.QueueUserWorkItem(_ => {
+            try { FullBattleScan(hProc); } catch { }
+            finally { scanInProgress = false; }
+        });
+    }
+
+    static void QuickBattleScan(IntPtr hProc) {
+        long[] regions;
+        lock (battleLock) { regions = new long[battleRegions.Count]; battleRegions.CopyTo(regions); }
+        if (regions.Length == 0) return;
+        List<long> found = new List<long>();
+        MEMORY_BASIC_INFORMATION mbi;
+        int mbiSize = Marshal.SizeOf(typeof(MEMORY_BASIC_INFORMATION));
+        foreach (long r in regions) {
+            if (VirtualQueryEx(hProc, new IntPtr(r), out mbi, (uint)mbiSize) == 0) continue;
+            long rSize = (long)mbi.RegionSize;
+            if (mbi.State == MEM_COMMIT && mbi.Protect == 0x04 && rSize > 0 && rSize <= 256 * 1024) {
+                ScanRegionForActors(hProc, (long)mbi.BaseAddress, rSize, found);
+            }
+        }
+        lock (battleLock) { battleActors = found; }
+    }
+
+    static void CheckBattleActors(IntPtr hProc) {
+        List<long> actors;
+        lock (battleLock) { actors = battleActors; }
+        if (actors.Count == 0) {
+            liveRevealsJson = "[]";
+            return;
+        }
+        IntPtr read;
+        int aliveCount = 0;
+        StringBuilder sb = new StringBuilder("[");
+        int count = 0;
+        foreach (long a in actors) {
+            if (!ReadProcessMemory(hProc, new IntPtr(a - ACT_PRE), actorBuf, actorBuf.Length, out read) || (int)read < actorBuf.Length) continue;
+            if (!IsActorAt(actorBuf, ACT_PRE)) continue;
+            aliveCount++;
+            int enemyId = BitConverter.ToInt32(actorBuf, 0);
+            byte w = actorBuf[ACT_PRE + 1684];
+            byte m = actorBuf[ACT_PRE + 1685];
+            if (count > 0) sb.Append(",");
+            sb.Append(string.Format("{{\"id\":{0},\"w\":{1},\"m\":{2}}}", enemyId, (int)w, (int)m));
+            count++;
+        }
+        sb.Append("]");
+        if (aliveCount == 0) {
+            lock (battleLock) { battleActors.Clear(); }
+            liveRevealsJson = "[]";
+        } else {
+            liveRevealsJson = sb.ToString();
+        }
+    }
+
     // Ultra-fast (~320ms) 16-byte aligned scan across UE4 FMallocBinned2 UObject pools (<= 256 KB PAGE_READWRITE regions)
     public static void FindAddresses(IntPtr hProc, long ignoreAchAddr, out long achAddr, ref long liveZoneAddr) {
         achAddr = 0;
@@ -160,6 +273,9 @@ public class RamPoller {
         byte[] missionBuf = new byte[8 * 50];
         StringBuilder zonesB64 = new StringBuilder(4096);
         IntPtr read;
+        int lastBattle = -1;
+        long lastBattleScanMs = 0;
+        long lastQuickBattleMs = 0;
 
         while (true) {
             if (parentProc != null && parentProc.HasExited) break;
@@ -242,6 +358,21 @@ public class RamPoller {
             long enemyDataPtr = BitConverter.ToInt64(structBuf, 64 + 432);
 
             ReadProcessMemory(hProc, new IntPtr(enemyDataPtr), enemyBuf, enemyBuf.Length, out read);
+            if (curBattle != lastBattle) {
+                lastBattle = curBattle;
+                lock (battleLock) { battleActors.Clear(); }
+                liveRevealsJson = "[]";
+            }
+            if (sw.ElapsedMilliseconds - lastBattleScanMs > 2000) {
+                lastBattleScanMs = sw.ElapsedMilliseconds;
+                TriggerBattleScan(hProc);
+            }
+            if (battleActors.Count > 0 && sw.ElapsedMilliseconds - lastQuickBattleMs > 250) {
+                lastQuickBattleMs = sw.ElapsedMilliseconds;
+                QuickBattleScan(hProc);
+            }
+            CheckBattleActors(hProc);
+
             ReadProcessMemory(hProc, new IntPtr(visitedPtr), visitedBuf, visitedBuf.Length, out read);
             ReadProcessMemory(hProc, new IntPtr(itemFlagPtr), itemFlagBuf, itemFlagBuf.Length, out read);
             ReadProcessMemory(hProc, new IntPtr(partyPtr), partyBuf, partyBuf.Length, out read);
@@ -307,18 +438,22 @@ public class RamPoller {
             for (int k = 0; k < cachedZonesJson.Length; k += 8) {
                 hash = (hash ^ (ulong)cachedZonesJson[k]) * 1099511628211UL;
             }
+            for (int k = 0; k < liveRevealsJson.Length; k++) {
+                hash = (hash ^ (ulong)liveRevealsJson[k]) * 1099511628211UL;
+            }
 
             if (hash != lastChecksum) {
                 lastChecksum = hash;
                 string json = string.Format(
-                    "{{\"type\":\"RAM_SNAPSHOT\",\"levelId\":{0},\"battleCount\":{1},\"escapeCount\":{2},\"totalLeaf\":{3},\"treasureCount\":{4},\"hiddenPointCount\":{5},\"playTime\":{6},\"partyB64\":\"{7}\",\"enemyB64\":\"{8}\",\"visitedB64\":\"{9}\",\"itemFlagB64\":\"{10}\",\"missionB64\":\"{11}\",\"zones\":{{{12}}}}}",
+                    "{{\"type\":\"RAM_SNAPSHOT\",\"levelId\":{0},\"battleCount\":{1},\"escapeCount\":{2},\"totalLeaf\":{3},\"treasureCount\":{4},\"hiddenPointCount\":{5},\"playTime\":{6},\"partyB64\":\"{7}\",\"enemyB64\":\"{8}\",\"visitedB64\":\"{9}\",\"itemFlagB64\":\"{10}\",\"missionB64\":\"{11}\",\"zones\":{{{12}}},\"liveReveals\":{13}}}",
                     levelId, curBattle, curEscape, curLeaf, curTreasure, curHidden, curPlayTime,
                     Convert.ToBase64String(partyBuf),
                     Convert.ToBase64String(enemyBuf),
                     Convert.ToBase64String(visitedBuf),
                     Convert.ToBase64String(itemFlagBuf),
                     Convert.ToBase64String(missionBuf),
-                    cachedZonesJson
+                    cachedZonesJson,
+                    liveRevealsJson
                 );
                 Console.WriteLine(json);
                 Console.Out.Flush();
