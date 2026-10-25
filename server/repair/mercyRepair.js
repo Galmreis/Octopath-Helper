@@ -2,6 +2,15 @@ const fs = require('fs');
 const path = require('path');
 const { parseSaveBuffer } = require('../parser/parseSave');
 
+// Point of no return: 4+ travelers have completed Ch 4 or post-game quests active
+function isCoastlandsScaledPast31(saveState) {
+  const highlandsSideStories = saveState?.sideStoriesByRegion?.Highlands || [];
+  const atJourneysEnd = highlandsSideStories.find(e => e.slotIndex === 18 && e.state >= 1);
+  const globetrotterHigh = (saveState?.stats?.globetrotter?.current || 0) >= 90;
+  const questsHigh = (saveState?.stats?.worthYourSalt?.completed || 0) >= 30;
+  return Boolean(atJourneysEnd || (globetrotterHigh && questsHigh));
+}
+
 // Known permanently missable entities and their extinction conditions
 const MISSABLE_TARGETS = {
   monster: {
@@ -9,14 +18,13 @@ const MISSABLE_TARGETS = {
       id: 208,
       name: 'Sea Birdian IV',
       reason: 'Coastlands danger level permanently scales past 31 after advancing mid/late-game story chapters, making this enemy extinct in random encounters.',
-      isExtinctCondition: (saveState) => {
-        // Point of no return: 4+ travelers have completed Ch 4 or post-game quests active
-        const highlandsSideStories = saveState?.sideStoriesByRegion?.Highlands || [];
-        const atJourneysEnd = highlandsSideStories.find(e => e.slotIndex === 18 && e.state >= 1);
-        const globetrotterHigh = (saveState?.stats?.globetrotter?.current || 0) >= 90;
-        const questsHigh = (saveState?.stats?.worthYourSalt?.completed || 0) >= 30;
-        return Boolean(atJourneysEnd || (globetrotterHigh && questsHigh));
-      }
+      isExtinctCondition: isCoastlandsScaledPast31
+    },
+    228: {
+      id: 228,
+      name: 'Buccaneer I',
+      reason: 'Coastlands danger level permanently scales past 31 after advancing mid/late-game story chapters, making this enemy extinct in random encounters.',
+      isExtinctCondition: isCoastlandsScaledPast31
     }
   }
 };

@@ -75,19 +75,45 @@ assert.strictEqual(repairedState.stats.treasureHunter.current, initialState.stat
 assert.strictEqual(repairedState.monsters[228].isCompleted, initialState.monsters[228].isCompleted, 'Buccaneer I unchanged');
 console.log('   ✓ Global stats, party, chests, and adjacent monster records perfectly preserved');
 
-// 6. Test idempotency (re-applying repair shouldn't crash or corrupt)
-console.log('6. Testing Idempotency:');
-const reapply = applyMercyRepair(testSavePath, 'monster', 208, staticDb);
-assert.strictEqual(reapply.success, true);
-const reapplyState = parseSaveBuffer(fs.readFileSync(testSavePath));
-assert.strictEqual(reapplyState.monsters[208].isCompleted, true);
-console.log('   ✓ Idempotent execution verified');
+// 6. Test repair on Buccaneer I (#228) as well (simulating a player who missed it)
+console.log('6. Testing Mercy Repair on Buccaneer I (#228):');
+// Zero out 228 in the test buffer
+const buf228 = fs.readFileSync(testSavePath);
+function findAllTags(buffer, targetStr) {
+  const target = Buffer.from(targetStr, 'ascii');
+  const results = [];
+  let index = 0;
+  while ((index = buffer.indexOf(target, index)) !== -1) {
+    results.push(index);
+    index += target.length;
+  }
+  return results;
+}
+const addrs = findAllTags(buf228, 'IsAnalyse_');
+const a228 = addrs[228];
+const weakAddr228 = buf228.indexOf(Buffer.from('WeaknessOpen_', 'ascii'), a228);
+const wKeyLen228 = buf228.readUInt32LE(weakAddr228 - 4);
+const wTypeLen228 = buf228.readUInt32LE(weakAddr228 + wKeyLen228);
+const valAddr228 = weakAddr228 + wKeyLen228 + 4 + wTypeLen228 + 9;
+buf228.writeUInt8(0, valAddr228);
+buf228.writeUInt8(0, valAddr228 + 1);
+fs.writeFileSync(testSavePath, buf228);
+
+const preState228 = parseSaveBuffer(buf228);
+assert.strictEqual(preState228.monsters[228].isCompleted, false, 'Buccaneer I should now be incomplete');
+
+const repair228 = applyMercyRepair(testSavePath, 'monster', 228, staticDb);
+assert.strictEqual(repair228.success, true);
+const postState228 = parseSaveBuffer(fs.readFileSync(testSavePath));
+assert.strictEqual(postState228.monsters[228].isCompleted, true, 'Buccaneer I must now be completed');
+assert.deepStrictEqual(postState228.monsters[228].revealedWeaknesses, [true, true]);
+assert.deepStrictEqual(postState228.monsters[228].revealedByKey, { polearm: true, fire: true });
+console.log('   ✓ Buccaneer I (#228) weaknesses successfully repaired to 2/2 (polearm, fire)');
 
 // 7. Cleanup temp files
-fs.unlinkSync(testSavePath);
-if (fs.existsSync(result.backupPath)) fs.unlinkSync(result.backupPath);
-if (fs.existsSync(reapply.backupPath)) fs.unlinkSync(reapply.backupPath);
-fs.rmdirSync(tempDir);
+if (fs.existsSync(tempDir)) {
+  fs.rmSync(tempDir, { recursive: true, force: true });
+}
 console.log('7. Cleaned up temporary test files');
 
 console.log('\n=== ALL MERCY REPAIR AUTOMATED TESTS PASSED (100% OK) ===');

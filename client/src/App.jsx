@@ -117,7 +117,11 @@ export default function App() {
     (saveState?.stats?.globetrotter?.current || 0) >= 90 ||
     saveState?.sideStoriesByRegion?.Highlands?.some(e => e.slotIndex === 18 && e.state >= 1)
   );
-  const isSeaBirdianExtinct = isPostGame && !saveState?.monsters?.[208]?.isCompleted;
+  const EXTINCT_MISSABLE_MONSTER_IDS = [208, 228];
+  const extinctUncompletedMonsters = EXTINCT_MISSABLE_MONSTER_IDS
+    .filter(id => isPostGame && !saveState?.monsters?.[id]?.isCompleted)
+    .map(id => staticDb.monsters[id])
+    .filter(Boolean);
 
   // Filtered lists
   const allMonsters = Object.values(staticDb.monsters).filter(m => {
@@ -666,38 +670,42 @@ export default function App() {
                 </span>
               </div>
 
-              {isSeaBirdianExtinct && (
-                <div
-                  style={{
-                    marginBottom: 16,
-                    padding: '12px 16px',
-                    background: 'rgba(239, 68, 68, 0.12)',
-                    borderLeft: '4px solid var(--accent-red)',
-                    borderRadius: 6,
-                    display: 'flex',
-                    justifyContent: 'space-between',
-                    alignItems: 'center',
-                    gap: 14,
-                    flexWrap: 'wrap'
-                  }}
-                >
-                  <div>
-                    <strong style={{ color: '#fca5a5', fontSize: '0.92rem' }}>
-                      ⚠️ Point of No Return Alert: Sea Birdian IV (#208) is Permanently Extinct
-                    </strong>
-                    <div style={{ fontSize: '0.82rem', color: 'var(--text-muted)', marginTop: 3 }}>
-                      Coastlands danger levels have permanently scaled past 31, preventing Sea Birdian IV from spawning.
-                      You can apply a surgical save file mercy repair (with an automatic .bak backup) to restore 100% Strategist eligibility.
+              {extinctUncompletedMonsters.length > 0 && (
+                <div style={{ display: 'flex', flexDirection: 'column', gap: 10, marginBottom: 16 }}>
+                  {extinctUncompletedMonsters.map(m => (
+                    <div
+                      key={m.id}
+                      style={{
+                        padding: '12px 16px',
+                        background: 'rgba(239, 68, 68, 0.12)',
+                        borderLeft: '4px solid var(--accent-red)',
+                        borderRadius: 6,
+                        display: 'flex',
+                        justifyContent: 'space-between',
+                        alignItems: 'center',
+                        gap: 14,
+                        flexWrap: 'wrap'
+                      }}
+                    >
+                      <div>
+                        <strong style={{ color: '#fca5a5', fontSize: '0.92rem' }}>
+                          ⚠️ Point of No Return Alert: {m.name} (#{m.id}) is Permanently Extinct
+                        </strong>
+                        <div style={{ fontSize: '0.82rem', color: 'var(--text-muted)', marginTop: 3 }}>
+                          Coastlands danger levels have permanently scaled past 31, preventing {m.name} from spawning.
+                          You can apply a surgical save file mercy repair (with an automatic .bak backup) to restore 100% Strategist eligibility.
+                        </div>
+                      </div>
+                      <button
+                        className="action-btn"
+                        style={{ borderColor: 'var(--accent-red)', color: '#fca5a5' }}
+                        onClick={() => handleMercyRepair('monster', m.id, m.name)}
+                        disabled={repairingId === m.id}
+                      >
+                        {repairingId === m.id ? 'Repairing...' : '🛡️ Apply Save Mercy Repair'}
+                      </button>
                     </div>
-                  </div>
-                  <button
-                    className="action-btn"
-                    style={{ borderColor: 'var(--accent-red)', color: '#fca5a5' }}
-                    onClick={() => handleMercyRepair('monster', 208, 'Sea Birdian IV')}
-                    disabled={repairingId === 208}
-                  >
-                    {repairingId === 208 ? 'Repairing...' : '🛡️ Apply Save Mercy Repair'}
-                  </button>
+                  ))}
                 </div>
               )}
 
@@ -727,13 +735,13 @@ export default function App() {
                           );
                         })}
                       </div>
-                      {m.id === 208 && !st?.isCompleted && isPostGame && (
+                      {EXTINCT_MISSABLE_MONSTER_IDS.includes(m.id) && !st?.isCompleted && isPostGame && (
                         <div style={{ marginTop: 8 }}>
                           <button
                             className="action-btn"
                             style={{ fontSize: '0.74rem', width: '100%', justifyContent: 'center' }}
-                            onClick={() => handleMercyRepair('monster', 208, 'Sea Birdian IV')}
-                            disabled={repairingId === 208}
+                            onClick={() => handleMercyRepair('monster', m.id, m.name)}
+                            disabled={repairingId === m.id}
                           >
                             🛡️ Apply Save Mercy Repair
                           </button>
