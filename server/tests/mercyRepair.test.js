@@ -3,6 +3,7 @@ const path = require('path');
 const assert = require('assert');
 const { parseSaveBuffer } = require('../parser/parseSave');
 const { getMercyStatus, applyMercyRepair } = require('../repair/mercyRepair');
+const { SAVE_FILE_PATH } = require('../config');
 
 const DATA_DIR = path.join(__dirname, '..', '..', 'data');
 const staticDb = {
@@ -12,8 +13,8 @@ const staticDb = {
   quests: JSON.parse(fs.readFileSync(path.join(DATA_DIR, 'quests.json'), 'utf8'))
 };
 
-// Use an actual save file copy in a dedicated temporary scratch space
-const originalSavePath = 'C:\\Users\\Reis\\Documents\\My Games\\Octopath_Traveler\\76561198360788272\\SaveGames\\SaveData0.sav';
+// Dynamically resolved active save file path
+const originalSavePath = SAVE_FILE_PATH;
 const tempDir = path.join(__dirname, 'tmp');
 if (!fs.existsSync(tempDir)) fs.mkdirSync(tempDir, { recursive: true });
 

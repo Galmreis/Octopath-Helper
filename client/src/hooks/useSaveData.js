@@ -1,7 +1,13 @@
 import { useState, useEffect, useRef } from 'react';
 
-const API_BASE = 'http://localhost:3001';
-const WS_URL = 'ws://localhost:3001';
+// In dev mode (Vite on :5173), proxy to Node server on :3001.
+// In production (served from Node on :3001), connect dynamically to the host origin.
+const API_BASE = typeof window !== 'undefined' && window.location.port === '5173' ? 'http://localhost:3001' : '';
+const WS_URL = typeof window !== 'undefined' && window.location.port === '5173'
+  ? 'ws://localhost:3001'
+  : (typeof window !== 'undefined'
+      ? `${window.location.protocol === 'https:' ? 'wss:' : 'ws:'}//${window.location.host}`
+      : 'ws://localhost:3001');
 
 export function useSaveData() {
   const [staticDb, setStaticDb] = useState(null);

@@ -2,7 +2,7 @@ const http = require('http');
 const fs = require('fs');
 const path = require('path');
 const { WebSocketServer } = require('ws');
-const { PORT, DATA_DIR, SAVE_FILE_PATH, listAvailableSaveSlots } = require('./config');
+const { PORT, ROOT_DIR, DATA_DIR, SAVE_FILE_PATH, listAvailableSaveSlots } = require('./config');
 const { StateStore } = require('./stateStore');
 const { SaveFileSource } = require('./sources/saveFileSource');
 const { MemorySource } = require('./sources/memorySource');
@@ -117,6 +117,35 @@ const server = http.createServer((req, res) => {
       }
     });
     return;
+  }
+
+  // Static file serving from client/dist for standalone single-port production
+  const distDir = path.join(ROOT_DIR, 'client', 'dist');
+  if (fs.existsSync(distDir)) {
+    const rawUrl = (req.url || '/').split('?')[0];
+    let filePath = path.join(distDir, rawUrl === '/' ? 'index.html' : rawUrl);
+    if (!fs.existsSync(filePath) || fs.statSync(filePath).isDirectory()) {
+      filePath = path.join(distDir, 'index.html');
+    }
+
+    if (fs.existsSync(filePath)) {
+      const ext = path.extname(filePath).toLowerCase();
+      const mimeTypes = {
+        '.html': 'text/html; charset=utf-8',
+        '.css': 'text/css; charset=utf-8',
+        '.js': 'application/javascript; charset=utf-8',
+        '.json': 'application/json',
+        '.png': 'image/png',
+        '.jpg': 'image/jpeg',
+        '.svg': 'image/svg+xml',
+        '.ico': 'image/x-icon',
+        '.woff2': 'font/woff2'
+      };
+      const contentType = mimeTypes[ext] || 'application/octet-stream';
+      res.writeHead(200, { 'Content-Type': contentType });
+      fs.createReadStream(filePath).pipe(res);
+      return;
+    }
   }
 
   res.writeHead(404, { 'Content-Type': 'application/json' });
