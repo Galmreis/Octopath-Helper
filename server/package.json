@@ -1,0 +1,15 @@
+{
+  "name": "octopath-helper-server",
+  "version": "1.0.0",
+  "description": "Real-time read-only save watcher and WebSocket server for Octopath Helper",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build-data": "node scripts/buildStaticData.js",
+    "parse-once": "node parser/parseSave.js"
+  },
+  "dependencies": {
+    "chokidar": "^3.6.0",
+    "ws": "^8.18.0"
+  }
+}
