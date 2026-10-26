@@ -1,5 +1,6 @@
 node_modules/
 dist/
+dist-electron/
 dist-release/
 release/
 _references/
@@ -8,3 +9,6 @@ server/sources/bin/
 *.exe
 *.log
 .DS_Store
+octopath_helper_project_blueprint.md
+# Commercial font (Fontworks) - not redistributable; place locally in client/public/fonts/
+client/public/fonts/FOT-*.otf

@@ -47,6 +47,8 @@ function copyDir(relSrc, relDest = relSrc) {
     filter: (srcPath) => {
       const name = path.basename(srcPath);
       if (name === '.git' || name === 'tmp' || name.endsWith('.log')) return false;
+      // Commercial font: never ship it in public releases
+      if (name.startsWith('FOT-')) return false;
       return true;
     }
   });

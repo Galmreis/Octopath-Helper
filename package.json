@@ -3,12 +3,45 @@
   "version": "1.0.0",
   "private": true,
   "description": "Real-time gameplay companion and 100% achievement tracker for Octopath Traveler",
+  "main": "electron/main.js",
   "scripts": {
     "dev": "node -e \"const {spawn}=require('child_process'); spawn('node',['server/index.js'],{stdio:'inherit'}); spawn('npm',['--prefix','client','run','dev'],{stdio:'inherit',shell:true});\"",
     "start": "npm run dev",
-    "build-data": "node server/scripts/buildStaticData.js",
+    "electron": "electron .",
+    "electron:dev": "node -e \"const {spawn}=require('child_process'); spawn('npm',['run','dev'],{stdio:'inherit',shell:true}); setTimeout(()=>spawn('npx',['electron','.'],{stdio:'inherit',shell:true,env:{...process.env,NODE_ENV:'development'}}),3000);\"",
+    "electron:build": "npm run build:client && electron-builder --win portable",
+    "build:client": "npm --prefix client run build",
+    "build:data": "node server/scripts/buildStaticData.js",
     "build:exe": "C:\\Windows\\Microsoft.NET\\Framework64\\v4.0.30319\\csc.exe /nologo /optimize+ /platform:x64 /out:OctopathHelper.exe launcher.cs",
     "start:server": "node server/index.js",
     "start:client": "npm --prefix client run dev"
+  },
+  "devDependencies": {
+    "electron": "^45.0.0",
+    "electron-builder": "^26.18.0"
+  },
+  "dependencies": {
+    "chokidar": "^3.6.0",
+    "ws": "^8.22.0"
+  },
+  "build": {
+    "appId": "com.galmreis.octopathhelper",
+    "productName": "Octopath Helper",
+    "directories": {
+      "output": "dist-electron"
+    },
+    "files": [
+      "electron/**/*",
+      "server/**/*",
+      "data/**/*",
+      "client/dist/**/*",
+      "!client/dist/fonts/FOT-*"
+    ],
+    "asarUnpack": [
+      "server/sources/bin/**/*"
+    ],
+    "win": {
+      "target": "portable"
+    }
   }
 }

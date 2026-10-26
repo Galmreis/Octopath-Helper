@@ -113,6 +113,12 @@ This project stands on the shoulders of years of collaborative data mining, docu
 * **Save Research Pioneers on GBAtemp:** [SleepyPrince](https://gbatemp.net/members/sleepyprince.94652/), [Takumah](https://gbatemp.net/members/takumah.456165/), [gen212](https://github.com/gen212/OctopathTraveler), and [SUDALV92](https://github.com/SUDALV92/OctopathTraveler-TreasureChests-).
 * **[GVAS Converter](https://github.com/januwA/gvas-converter)** by **januwA** — insights into Unreal Engine 4 serialized UObject properties.
 
+### Fonts
+
+* **[Delius](https://fonts.google.com/specimen/Delius)** by Natalia Raices — body text, SIL Open Font License 1.1 (see `client/public/fonts/OFL-Delius.txt`).
+* **[M PLUS Rounded 1c](https://fonts.google.com/specimen/M+PLUS+Rounded+1c)** by M+ FONTS Project — titles, SIL Open Font License 1.1.
+* The author's local build optionally uses a commercial title font that is **not** included in this repository or its releases.
+
 ---
 
 ## License
