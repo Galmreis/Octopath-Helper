@@ -103,7 +103,7 @@ Designed for zero-mouse operation while holding a controller:
 
 ---
 
-## Acknowledgments & Community Credits
+## Acknowledgements & Community Credits
 
 This project stands on the shoulders of years of collaborative data mining, documentation, and reverse engineering conducted by the *Octopath Traveler* community:
 
