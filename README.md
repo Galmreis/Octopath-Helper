@@ -46,10 +46,10 @@ If your save has already crossed the Coastlands scaling threshold and missed *Se
 ## Download & Running
 
 ### Windows Release (Quickest)
-1. Download the latest `OctopathHelper-v0.1-win64.zip` from the [Releases](https://github.com/Galmreis/Octopath-Helper/releases) page.
+1. Download the latest version from the [Releases](https://github.com/Galmreis/Octopath-Helper/releases) page.
 2. Extract the archive anywhere on your PC.
-3. Launch **`OctopathHelper.exe`**.
-4. The companion will boot and automatically open `http://localhost:3001` in your default browser.
+3. Launch the executable found on the releases page.
+4. The desktop app will boot and automatically open `http://localhost:3001`, which you can open on your browser as well.
 
 *(Optional: To view the tracker on a tablet or phone on the same Wi-Fi, simply open `http://<YOUR-PC-IP>:3001` in your mobile browser).*
 
