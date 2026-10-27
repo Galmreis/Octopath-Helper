@@ -4,6 +4,10 @@ A real-time telemetry companion and 100% completion tracker for *Octopath Travel
 
 Designed for dual-monitor setups or mobile/tablet browsers placed next to your screen while playing with a controller.
 
+
+<img width="1378" height="900" alt="image" src="https://github.com/user-attachments/assets/f0d5fa7b-3bcf-42dd-abab-4df81c15b235" />
+
+
 ---
 
 ## Why this exists
@@ -28,11 +32,20 @@ Automatically detects your current room (`LevelID`) as you travel across Orsterr
 * **Side Stories:** Highlights side stories whose quest-givers are present in that specific zone.
 * **Inspector Mode:** Browse any other zone's contents from a dropdown menu, then tap **F** to immediately snap back to your live character location.
 
+<img width="1378" height="900" alt="image" src="https://github.com/user-attachments/assets/48cbac78-5a2f-4f15-8a05-c27804a1030e" />
+
+
+
 ### Mid-Combat Weakness Sync
 A lightweight native background worker monitors battle actor pools in RAM. When you reveal a weakness in combat, the dashboard marks it immediately rather than waiting for the battle to end.
 
 ### Point-of-No-Return Protection (Mercy Repair)
 If your save has already crossed the Coastlands scaling threshold and missed *Sea Birdian IV* or *Buccaneer I*, the dashboard detects their extinct state. A guarded, optional **Save File Mercy Repair** button creates an automatic timestamped `.bak` backup and writes the missing weakness bitmasks to your save file so the legitimate Steam achievement can pop when you finish your run.
+
+
+<img width="951" height="845" alt="image" src="https://github.com/user-attachments/assets/167c9925-6afa-44c9-a0af-ccdfd4feb471" />
+
+
 
 ### 100% Completion Matrices
 * **Strategist:** 381 monsters with elemental and weapon vulnerability matrices.
@@ -40,6 +53,11 @@ If your save has already crossed the Coastlands scaling threshold and missed *Se
 * **Eagle-Eyed:** 152 hidden items.
 * **Collector:** 578 items, adjusted for Primrose Chapter 2's mutually exclusive theater masks (where only 1 of 3 can be obtained per save).
 * **Worth Your Salt:** 101 side stories mapped across all 8 regions.
+* **Globetrotter:** All 179 areas mapped and shown on the dashboard.
+
+<img width="1310" height="291" alt="image" src="https://github.com/user-attachments/assets/2c60dd31-80b7-4233-ac14-990a495fa46e" />
+
+
 
 ---
 
